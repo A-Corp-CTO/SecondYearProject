@@ -119,7 +119,7 @@ if len(sys.argv) < 2:
 
 if __name__ == '__main__':
     print('reading data...')
-    train_text, train_labels = myutils.read_data(sys.argv[1])
+    train_text, train_labels = myutils.read_data('Data/en_ewt_nn_train.conll.txt')
     train_text = train_text[:MAX_TRAIN_SENTS]
     train_labels = train_labels[:MAX_TRAIN_SENTS]
     
@@ -129,7 +129,7 @@ if __name__ == '__main__':
     print(label2id)
     train_labels = [label2id[label] for label in train_labels]
     
-    dev_text, dev_labels = myutils.read_data(sys.argv[2])
+    dev_text, dev_labels = myutils.read_data('Data/en_ewt_nn_answers_dev.conll.txt')      
     dev_labels = [label2id[label] for label in dev_labels]
     
     print('tokenizing...')
