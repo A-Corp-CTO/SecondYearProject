@@ -9,9 +9,9 @@ torch.manual_seed(0)
 PAD = "PAD"
 DIM_EMBEDDING = 100
 LSTM_HIDDEN = 50
-BATCH_SIZE = 32
+BATCH_SIZE = 10
 LEARNING_RATE = 0.01
-EPOCHS = 10
+EPOCHS = 1
 
 def read_data(file_name):
     """
@@ -46,8 +46,7 @@ def read_data(file_name):
         data.append((current_words, current_tags))
     return data
 
-
-train_data=read_data('Data/en_ewt_nn_train.conll.txt')
+train_data=read_data(sys.argv[1])
 
 # Create vocabularies for both the tokens
 # # and the tags
@@ -176,37 +175,30 @@ for epoch in range(EPOCHS):
 
 def run_eval(feats_batches, labels_batches):
     model.eval()
-    match = 0
-    total = 0
+    predictions = []
     for sents, labels in zip(feats_batches, labels_batches):
         output_scores = model.forward(sents)
         predicted_tags  = torch.argmax(output_scores, 2)
-        for goldSent, predSent in zip(labels, predicted_tags):
-            for goldLabel, predLabel in zip(goldSent, predSent):
-                if goldLabel.item() != 0:
-                    total += 1
-                    if goldLabel.item() == predLabel.item():
-                        match+= 1
-    return(match/total)
+        predictions.append(predicted_tags.tolist())
+    return predictions
 
+for devPath in sys.argv[2:]:
+    BATCH_SIZE=1
+    dev_data=read_data(devPath)
+    dev_feats, dev_labels = data2feats(dev_data, token_to_id, tag_to_id)
+    num_batches2 = int(len(dev_feats)/BATCH_SIZE)
 
-BATCH_SIZE=1
-# dev_data=read_data('Data/en_ewt_nn_answers_dev.conll.txt')
-# dev_feats, dev_labels = data2feats(dev_data, token_to_id, tag_to_id)
-# num_batches2 = int(len(dev_feats)/BATCH_SIZE)
+    dev_feats_batches = dev_feats[:BATCH_SIZE*num_batches2].view(num_batches2, BATCH_SIZE, max_len)
+    dev_labels_batches = dev_labels[:BATCH_SIZE*num_batches2].view(num_batches2, BATCH_SIZE, max_len)
+    pred_tags = run_eval(dev_feats_batches, dev_labels_batches)
 
-# dev_feats_batches = dev_feats[:BATCH_SIZE*num_batches2].view(num_batches2, BATCH_SIZE, max_len)
-# dev_labels_batches = dev_labels[:BATCH_SIZE*num_batches2].view(num_batches2, BATCH_SIZE, max_len)
-# score = run_eval(dev_feats_batches, dev_labels_batches)
-# print(score)
-
-test_data=read_data('Data/en_ewt_nn_answers_test.conll.txt')
-test_feats, test_labels = data2feats(test_data, token_to_id, tag_to_id)
-# print(test_feats, test_labels)
-num_batches2 = int(len(test_feats)/BATCH_SIZE)
-print(num_batches2)
-test_feats_batches = test_feats[:BATCH_SIZE*num_batches2].view(num_batches2, BATCH_SIZE, max_len)
-test_labels_batches = test_labels[:BATCH_SIZE*num_batches2].view(num_batches2, BATCH_SIZE, max_len)
-# print(test_feats_batches, test_labels_batches)
-score = run_eval(test_feats_batches, test_labels_batches)
-print(score)
+with open("predicted_tags",'w') as file:
+    for feats, labels in zip(dev_feats, pred_tags):
+        print(len(feats), len(labels))
+        for feat, label in zip(feats, labels):
+            print(len(feat), len(label))
+            feat_key, feat_val = list(token_to_id.keys()), list(token_to_id.values())
+            id = feat_val.index(feat)
+            if id != 0:
+                file.write(feat_key[id] + '\n')
+        file.write('\n')
