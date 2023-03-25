@@ -44,8 +44,7 @@ def getInstanceScores(predPath, goldPath):
     rec = 0.0 if tp+fn == 0 else tp/(tp+fn)
     f1 = 0.0 if prec+rec == 0.0 else 2 * (prec * rec) / (prec + rec)
     return f1
-    
-    
+
 
 if __name__ == '__main__':
     if len(sys.argv) < 3:
@@ -54,3 +53,4 @@ if __name__ == '__main__':
     else:
         score = getInstanceScores(sys.argv[1], sys.argv[2])
         print(score)
+        print('y')
