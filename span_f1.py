@@ -25,7 +25,7 @@ def toSpans(tags):
             spans.add(str(beg) + '-' + str(end) + ':' + tags[beg][2:])
     return spans
 
-def getInstanceScores(predPath, goldPath):
+def getInstanceScores(goldPath, predPath):
     goldEnts = readBIO(goldPath)
     predEnts = readBIO(predPath)
     entScores = []

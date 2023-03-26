@@ -11,7 +11,7 @@ DIM_EMBEDDING = 100
 LSTM_HIDDEN = 50
 BATCH_SIZE = 10
 LEARNING_RATE = 0.01
-EPOCHS = 1
+EPOCHS = 5
 
 def read_data(file_name):
     """
@@ -170,7 +170,7 @@ for epoch in range(EPOCHS):
                     total += 1
                     if goldLabel == predLabel:
                         match+= 1
-    print(epoch, loss, match / total)
+    #print(epoch, loss, match / total)
 
 
 def run_eval(feats_batches, labels_batches):
@@ -192,13 +192,18 @@ for devPath in sys.argv[2:]:
     dev_labels_batches = dev_labels[:BATCH_SIZE*num_batches2].view(num_batches2, BATCH_SIZE, max_len)
     pred_tags = run_eval(dev_feats_batches, dev_labels_batches)
 
+final_pred = pred_tags[0]
+for i in pred_tags[1:]:
+    final_pred.extend(i)
+
 with open("predicted_tags",'w') as file:
-    for feats, labels in zip(dev_feats, pred_tags):
-        print(len(feats), len(labels))
+    for feats, labels in zip(dev_feats, final_pred):
+        #print(len(feats), len(labels))
         for feat, label in zip(feats, labels):
-            print(len(feat), len(label))
+            #print(len(feat), len(label))
             feat_key, feat_val = list(token_to_id.keys()), list(token_to_id.values())
-            id = feat_val.index(feat)
-            if id != 0:
-                file.write(feat_key[id] + '\n')
+            label_key, label_val = list(tag_to_id.keys()), list(tag_to_id.values())
+            id_feat, id_label = feat_val.index(feat), label_val.index(label)
+            if id_feat != 0:
+                file.write(feat_key[id_feat] + '\t' + label_key[id_label] + '\n')
         file.write('\n')
