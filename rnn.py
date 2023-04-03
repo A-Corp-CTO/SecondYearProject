@@ -4,12 +4,17 @@ import codecs
 from torch import nn
 import torch
 import sys
+import collections
+from collections import Counter
+from imblearn.over_sampling import SMOTE
+import numpy as np
+
 
 torch.manual_seed(0)
 PAD = "PAD"
 DIM_EMBEDDING = 100
 LSTM_HIDDEN = 50
-BATCH_SIZE = 10
+BATCH_SIZE = 32
 LEARNING_RATE = 0.01
 EPOCHS = 5
 
@@ -48,6 +53,7 @@ def read_data(file_name):
 
 train_data=read_data(sys.argv[1])
 
+
 # Create vocabularies for both the tokens
 # # and the tags
 id_to_token = [PAD]
@@ -67,6 +73,7 @@ for tokens, tags in train_data:
 
 NWORDS = len(token_to_id)
 NTAGS = len(tag_to_id)
+print(NWORDS)
 
 max_len=max([len(x[0]) for x in train_data])
 
@@ -81,13 +88,14 @@ def data2feats(inputData, word2idx, label2idx):
             feats[sentPos][wordPos] = wordIdx
 
         for labelPos, label in enumerate(sent[1][:max_len]):
-            labelIdx = word2idx[PAD] if label[0] not in label2idx else label2idx[label[0]]
+            labelIdx = word2idx[PAD] if label not in label2idx else label2idx[label]
             labels[sentPos][labelPos] = labelIdx
 
     return feats, labels
 
 train_feats, train_labels = data2feats(train_data, token_to_id, tag_to_id)
-
+c = Counter(train_labels)
+print(train_labels[0])
 
 # convert to batches
 num_batches = int(len(train_feats)/BATCH_SIZE)
@@ -128,7 +136,7 @@ class TaggerModel(torch.nn.Module):
 
 model = TaggerModel(NWORDS, NTAGS)
 optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
-loss_function = torch.nn.CrossEntropyLoss(ignore_index=0, reduction='sum')
+loss_function = torch.nn.CrossEntropyLoss(ignore_index = 0, reduction = 'sum')
 
 for epoch in range(EPOCHS):
     model.train() 
@@ -170,7 +178,7 @@ for epoch in range(EPOCHS):
                     total += 1
                     if goldLabel == predLabel:
                         match+= 1
-    #print(epoch, loss, match / total)
+    print(epoch, loss, match / total)
 
 
 def run_eval(feats_batches, labels_batches):
@@ -196,14 +204,17 @@ final_pred = pred_tags[0]
 for i in pred_tags[1:]:
     final_pred.extend(i)
 
-with open("predicted_tags",'w') as file:
-    for feats, labels in zip(dev_feats, final_pred):
-        #print(len(feats), len(labels))
-        for feat, label in zip(feats, labels):
-            #print(len(feat), len(label))
-            feat_key, feat_val = list(token_to_id.keys()), list(token_to_id.values())
-            label_key, label_val = list(tag_to_id.keys()), list(tag_to_id.values())
-            id_feat, id_label = feat_val.index(feat), label_val.index(label)
-            if id_feat != 0:
-                file.write(feat_key[id_feat] + '\t' + label_key[id_label] + '\n')
-        file.write('\n')
+
+save = True
+if save == True:
+	with open("predicted_tags",'w') as file:
+	    for feats, labels in zip(dev_feats, final_pred):
+	        #print(len(feats), len(labels))
+	        for feat, label in zip(feats, labels):
+	            #print(len(feat), len(label))
+	            feat_key, feat_val = list(token_to_id.keys()), list(token_to_id.values())
+	            label_key, label_val = list(tag_to_id.keys()), list(tag_to_id.values())
+	            id_feat, id_label = feat_val.index(feat), label_val.index(label)
+	            if id_feat != 0:
+	            	file.write(feat_key[id_feat] + '\t' + label_key[id_label] + '\n')
+	        file.write('\n')

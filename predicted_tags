@@ -1,4 +1,4 @@
-Iguazu	O
+      Iguazu	B-LOC
 is	O
 a	O
 big	O
@@ -8,17 +8,17 @@ small	O
 country	O
 ?	O
 
-Iguazu	O
+Iguazu	B-LOC
 is	O
 NOT	O
 a	O
 country	O
 ....	O
 
-Iguazu	O
+Iguazu	B-LOC
 is	O
 in	O
-Argentina	O
+Argentina	B-LOC
 :)	O
 
 How	O
@@ -32,7 +32,7 @@ your	O
 country	O
 ?	O
 
-$	O
+$	B-MISC
 For	O
 the	O
 !!	O
@@ -99,8 +99,8 @@ recommend	O
 any	O
 restaurants	O
 in	O
-Buenos	O
-Aires	O
+Buenos	B-LOC
+Aires	I-LOC
 ?	O
 
 I	O
@@ -157,8 +157,8 @@ couch	O
 
 What	O
 influenced	O
-Picasso	O
-'s	O
+Picasso	B-ORG
+'s	I-ORG
 style	O
 of	O
 painting	O
@@ -198,7 +198,7 @@ stuff	O
 they	O
 eat	O
 in	O
-Spanish	O
+Spanish	B-LOCderiv
 countries	O
 like	O
 tacos	O
@@ -237,7 +237,7 @@ in	O
 the	O
 state	O
 of	O
-NY	O
+NY	B-LOC
 but	O
 I	O
 looking	O
@@ -338,9 +338,9 @@ take	O
 to	O
 reach	O
 from	O
-Delhi	O
+Delhi	B-LOC
 to	O
-Mumbai	O
+Mumbai	B-LOC
 ?	O
 
 Give	O
@@ -377,16 +377,16 @@ What	O
 is	O
 the	O
 nearest	O
-National	O
-Park	O
+National	B-ORG
+Park	I-LOC
 to	O
-Birmingham	O
+Birmingham	B-LOC
 ,	O
-UK	O
+UK	B-LOC
 ?	O
 
 The	O
-District	O
+District	I-ORG
 (	O
 )	O
 is	O
@@ -394,7 +394,7 @@ the	O
 .	O
 
 The	O
-South	O
+South	B-LOC
 are	O
 far	O
 closer	O
@@ -465,7 +465,7 @@ people	O
 -	O
 box	O
 in	O
-Ireland	O
+Ireland	B-LOC
 ?	O
 
 elements	O
@@ -529,13 +529,13 @@ Nov	O
 
 preferably	O
 in	O
-San	O
-Jose	O
+San	B-LOC
+Jose	I-LOC
 ,	O
-Alto	O
+Alto	I-ORG
 ,	O
-San	O
-Francisco	O
+San	B-LOC
+Francisco	I-LOC
 ..	O
 
 I	O
@@ -673,7 +673,7 @@ What	O
 to	O
 do	O
 in	O
-San	O
+San	B-LOC
 Ca	O
 ?	O
 
@@ -682,15 +682,15 @@ so	O
 i	O
 live	O
 in	O
-San	O
+San	B-LOC
 Ca	O
 like	O
 by	O
 the	O
 and	O
 the	O
-Home	O
-Depot	O
+Home	B-ORG
+Depot	I-ORG
 ..	O
 what	O
 are	O
@@ -731,19 +731,19 @@ do	O
 you	O
 like	O
 :	O
-McDonald	O
-s	O
+McDonald	B-ORG
+s	I-ORG
 ,	O
-Burger	O
+Burger	B-ORG
 King	O
 ,	O
-Taco	O
+Taco	B-ORG
 ,	O
-Wendy	O
-s	O
+Wendy	B-LOC
+s	I-ORG
 ?	O
 
-Burger	O
+Burger	B-ORG
 King	O
 
 it	O
@@ -844,10 +844,10 @@ code	O
 for	O
 males	O
 at	O
-Del	O
-Frisco	O
-'s	O
-Philadelphia	O
+Del	B-ORG
+Frisco	I-ORG
+'s	I-ORG
+Philadelphia	B-LOC
 ?	O
 
 My	O
@@ -862,9 +862,9 @@ we	O
 are	O
 going	O
 to	O
-Del	O
-Frisco	O
-'s	O
+Del	B-ORG
+Frisco	I-ORG
+'s	I-ORG
 for	O
 dinner	O
 .	O
@@ -902,7 +902,7 @@ NT	O
 information	O
 on	O
 the	O
-Eurostar	O
+Eurostar	B-ORG
 train	O
 ?	O
 
@@ -911,19 +911,19 @@ children	O
 go	O
 on	O
 the	O
-Eurostar	O
+Eurostar	B-ORG
 train	O
 on	O
 there	O
 own	O
 to	O
-France	O
+France	B-LOC
 and	O
 where	O
 about	O
 is	O
 the	O
-Eurostar	O
+Eurostar	B-ORG
 located	O
 
 No	O
@@ -942,8 +942,8 @@ to	O
 travel	O
 alone	O
 at	O
-Eurostar	O
-'s	O
+Eurostar	B-ORG
+'s	I-ORG
 discretion	O
 -	O
 you	O
@@ -955,11 +955,11 @@ a	O
 decision	O
 .	O
 
-Eurostar	O
+Eurostar	B-LOCderiv
 runs	O
 from	O
-London	O
-St	O
+London	B-LOC
+St	I-LOC
 station	O
 .	O
 
@@ -971,10 +971,10 @@ code	O
 for	O
 females	O
 at	O
-Del	O
-Frisco	O
-'s	O
-Philadelphia	O
+Del	B-ORG
+Frisco	I-ORG
+'s	I-ORG
+Philadelphia	B-LOC
 ?	O
 
 I	O
@@ -982,9 +982,9 @@ will	O
 be	O
 going	O
 to	O
-Del	O
-Frisco	O
-'s	O
+Del	B-ORG
+Frisco	I-ORG
+'s	I-ORG
 in	O
 late	O
 November	O
@@ -1180,7 +1180,7 @@ from	O
 that	O
 area	O
 of	O
-Argentina	O
+Argentina	B-LOC
 ?	O
 
 Yes	O
@@ -1213,7 +1213,7 @@ from	O
 that	O
 area	O
 of	O
-Argentina	O
+Argentina	B-LOC
 
 IT	O
 ALL	O
@@ -1245,7 +1245,7 @@ phone	O
 to	O
 Mobile	O
 Phone	O
-Exchange	O
+Exchange	B-LOCderiv
 and	O
 it	O
 failed	O
@@ -1325,9 +1325,9 @@ I	O
 watch	O
 Fair	O
 City	O
-Online	O
+Online	I-ORG
 in	O
-England	O
+England	B-LOC
 ?	O
 
 ca	O
@@ -1378,7 +1378,7 @@ still	O
 with	O
 .	O
 
-Suzanne	O
+Suzanne	B-PER
 is	O
 pregnant	O
 .	O
@@ -1547,9 +1547,9 @@ as	O
 a	O
 .	O
 
-Canon	O
+Canon	B-PER
 or	O
-canon	O
+canon	B-MISC
 ?	O
 
 Which	O
@@ -1578,7 +1578,7 @@ It	O
 more	O
 compact	O
 ,	O
-ISO	O
+ISO	B-ORG
 capability	O
 (	O
 has	O
@@ -1644,7 +1644,7 @@ with	O
 my	O
 friends	O
 from	O
-Florida	O
+Florida	B-LOC
 .	O
 
 Will	O
@@ -1706,11 +1706,11 @@ you	O
 r	O
 in	O
 the	O
-USA	O
+USA	B-LOC
 and	O
 venture	O
 into	O
-Cuba	O
+Cuba	B-LOC
 then	O
 u	O
 need	O
@@ -1722,7 +1722,7 @@ can	O
 i	O
 get	O
 in	O
-Auckland	O
+Auckland	B-LOC
 ?	O
 
 Can	O
@@ -1808,7 +1808,7 @@ cheap	O
 What	O
 is	O
 this	O
-irish	O
+irish	B-LOCderiv
 called	O
 !?	O
 
@@ -1875,7 +1875,7 @@ or	O
 type	O
 it	O
 into	O
-youtube	O
+youtube	B-ORG
 you	O
 might	O
 get	O
@@ -1899,7 +1899,7 @@ restaurant	O
 for	O
 anniversary	O
 in	O
-SF	O
+SF	B-LOC
 ?	O
 
 It	O
@@ -1931,8 +1931,8 @@ cities	O
 
 I	O
 like	O
-Street	O
-Grill	O
+Street	I-LOC
+Grill	I-ORG
 ....	O
 another	O
 plus	O
@@ -1941,7 +1941,7 @@ it	O
 's	O
 right	O
 by	O
-Center	O
+Center	I-ORG
 ,	O
 so	O
 you	O
@@ -1952,11 +1952,11 @@ romantic	O
 walk	O
 around	O
 the	O
-Opera	O
-House	O
+Opera	B-LOC
+House	I-ORG
 ,	O
-City	O
-Hall	O
+City	B-LOC
+Hall	I-LOC
 ,	O
 ...	O
 all	O
@@ -1965,8 +1965,8 @@ beautiful	O
 .	O
 
 Prime	O
-Rib	O
-s	O
+Rib	I-ORG
+s	I-ORG
 
 it	O
 s	O
@@ -1984,12 +1984,12 @@ flew	O
 the	O
 flag	O
 of	O
-South	O
-Vietnam	O
+South	B-LOC
+Vietnam	I-LOC
 in	O
-Modern	O
+Modern	B-LOC
 day	O
-Vietnam	O
+Vietnam	B-ORG
 ?	O
 
 It	O
@@ -2006,10 +2006,10 @@ Third	O
 in	O
 modern	O
 day	O
-Germany	O
+Germany	B-ORG
 or	O
 in	O
-Israel	O
+Israel	B-ORG
 .	O
 
 You	O
@@ -2069,7 +2069,7 @@ execution	O
 punishment	O
 .	O
 
-Wellington	O
+Wellington	B-LOC
 sign	O
 poll	O
 .	O
@@ -2126,7 +2126,7 @@ You	O
 voted	O
 on	O
 the	O
-Dominion	O
+Dominion	B-ORG
 website	O
 .	O
 
@@ -2249,7 +2249,7 @@ or	O
 call	O
 )	O
 an	O
-Asian	O
+Asian	B-LOCderiv
 airline	O
 directly	O
 and	O
@@ -2264,7 +2264,7 @@ kind	O
 of	O
 do	O
 in	O
-Argentina	O
+Argentina	B-LOC
 have	O
 ?	O
 
@@ -2280,7 +2280,7 @@ know	O
 what	O
 kind	O
 food	O
-Argentina	O
+Argentina	B-LOC
 people	O
 eat	O
 for	O
@@ -2307,7 +2307,7 @@ day	O
 
 Like	O
 in	O
-America	O
+America	B-LOC
 dinner	O
 is	O
 our	O
@@ -2466,9 +2466,9 @@ job	O
 Cheap	O
 close	O
 to	O
-Hall	O
+Hall	I-ORG
 in	O
-Chicago	O
+Chicago	B-LOC
 ?	O
 
 For	O
@@ -2484,7 +2484,7 @@ are	O
 going	O
 to	O
 the	O
-Chicago	O
+Chicago	B-LOC
 .	O
 
 Before	O
@@ -2520,9 +2520,9 @@ to	O
 orchestra	O
 hall	O
 (	O
-South	O
-Michigan	O
-Ave	O
+South	I-ORG
+Michigan	I-ORG
+Ave	I-LOC
 .	O
 )	O
 
@@ -2723,7 +2723,7 @@ The	O
 in	O
 @	O
 f	O
-Lake	O
+Lake	B-LOC
 in	O
 
 in	O
@@ -2959,12 +2959,12 @@ There	O
 's	O
 a	O
 in	O
-Florida	O
+Florida	B-LOC
 ,	O
 just	O
 north	O
 of	O
-Miami	O
+Miami	B-LOC
 .	O
 
 There	O
@@ -2972,7 +2972,7 @@ There	O
 also	O
 a	O
 in	O
-California	O
+California	B-LOC
 ,	O
 the	O
 site	O
@@ -2980,19 +2980,19 @@ of	O
 a	O
 rather	O
 large	O
-Air	O
-Force	O
+Air	B-ORG
+Force	I-ORG
 Base	O
 ...	O
 
-California	O
+California	B-LOC
 is	O
 a	O
 bit	O
 north	O
 of	O
-San	O
-Diego	O
+San	B-LOC
+Diego	I-LOC
 .	O
 
 Boy	O
@@ -3114,7 +3114,7 @@ good	O
 luck	O
 
 is	O
-montparnasse	O
+montparnasse	B-LOC
 storage	O
 still	O
 available	O
@@ -3175,8 +3175,8 @@ is	O
 still	O
 available	O
 at	O
-Gare	O
-Montparnasse	O
+Gare	B-LOC
+Montparnasse	I-LOC
 .	O
 
 Pay	O
@@ -3251,7 +3251,7 @@ i	O
 wan	O
 na	O
 meet	O
-american	O
+american	B-LOCderiv
 girls	O
 there	O
 where	O
@@ -3277,13 +3277,13 @@ me	O
 if	O
 i	O
 am	O
-mexican	O
+mexican	B-LOCderiv
 ?	O
 
 You	O
 can	O
 find	O
-American	O
+American	B-LOCderiv
 girls	O
 all	O
 over	O
@@ -3329,7 +3329,7 @@ you	O
 
 go	O
 to	O
-LA	O
+LA	B-LOC
 after	O
 say	O
 11:00	O
@@ -3345,7 +3345,7 @@ locked	O
 up	O
 and	O
 have	O
-$	O
+$	B-MISC
 200	O
 on	O
 hand	O
@@ -3371,7 +3371,7 @@ my	O
 last	O
 day	O
 in	O
-Sydney	O
+Sydney	B-LOC
 ,	O
 I	O
 will	O
@@ -3529,8 +3529,8 @@ find	O
 one	O
 place	O
 in	O
-Tampa	O
-Bay	O
+Tampa	B-LOC
+Bay	I-LOC
 that	O
 ,	O
 also	O
@@ -3554,8 +3554,8 @@ find	O
 all	O
 across	O
 the	O
-North	O
-American	O
+North	B-LOC
+American	I-ORG
 region	O
 .	O
 
@@ -3705,7 +3705,7 @@ Govt	O
 ,	O
 ,	O
 Call	O
-Center	O
+Center	B-ORG
 ,	O
 Private	O
 white	O
@@ -3723,18 +3723,18 @@ can	O
 find	O
 them	O
 From	O
-Indian	O
+Indian	B-LOCderiv
 Oil	O
-Building	O
+Building	B-ORG
 ,	O
 -	O
 37	O
 ,	O
-Taj	O
-Express	O
-Road	O
+Taj	B-LOC
+Express	I-ORG
+Road	I-LOC
 (	O
-Bus	O
+Bus	B-MISC
 )	O
 etc.	O
 
@@ -3878,7 +3878,7 @@ you	O
 how	O
 are	O
 and	O
-Afghanistan	O
+Afghanistan	B-ORG
 alike	O
 ?	O
 
@@ -3945,7 +3945,7 @@ going	O
 into	O
 war	O
 
-Global	O
+Global	B-MISC
 reasons	O
 for	O
 conflict	O
@@ -3959,7 +3959,7 @@ wars	O
 cost	O
 of	O
 the	O
-U.S.	O
+U.S.	B-ORG
 in	O
 money	O
 and	O
@@ -3979,7 +3979,7 @@ the	O
 war	O
 on	O
 the	O
-American	O
+American	B-LOCderiv
 people	O
 ?	O
 
@@ -4013,7 +4013,7 @@ for	O
 reasons	O
 by	O
 the	O
-US	O
+US	B-LOCderiv
 (	O
 no	O
 matter	O
@@ -4093,7 +4093,7 @@ I	O
 have	O
 a	O
 name	O
-Star	O
+Star	B-ORG
 we	O
 called	O
 her	O
@@ -4113,8 +4113,8 @@ And	O
 she	O
 is	O
 the	O
-STAR	O
-of	O
+STAR	B-ORG
+of	I-ORG
 the	O
 family	O
 .	O
@@ -4128,8 +4128,8 @@ her	O
 I	O
 have	O
 a	O
-Norwegian	O
-Forest	O
+Norwegian	B-LOCderiv
+Forest	I-ORG
 Cat	O
 that	O
 is	O
@@ -4152,7 +4152,7 @@ My	O
 cat	O
 s	O
 Called	O
-Frank	O
+Frank	B-PER
 because	O
 the	O
 year	O
@@ -4162,7 +4162,7 @@ him	O
 was	O
 the	O
 year	O
-Frank	O
+Frank	B-PER
 died	O
 
 He	O
@@ -4172,7 +4172,7 @@ bright	O
 blue	O
 eyes	O
 like	O
-Frank	O
+Frank	B-PER
 did	O
 :)	O
 
@@ -4334,8 +4334,8 @@ I	O
 have	O
 24	O
 in	O
-San	O
-Francisco	O
+San	B-LOC
+Francisco	I-LOC
 -	O
 what	O
 are	O
@@ -4358,8 +4358,8 @@ stop	O
 -	O
 over	O
 in	O
-San	O
-Francisco	O
+San	B-LOC
+Francisco	I-LOC
 and	O
 my	O
 wife	O
@@ -4441,9 +4441,9 @@ major	O
 sites	O
 (	O
 ,	O
-Haight	O
+Haight	B-LOC
 ,	O
-Chinatown	O
+Chinatown	B-ORG
 ,	O
 etc	O
 )	O
@@ -4510,7 +4510,7 @@ to	O
 go	O
 on	O
 A	O
-cruise	O
+cruise	I-ORG
 any	O
 and	O
 all	O
@@ -5002,7 +5002,7 @@ and	O
 hold	O
 .	O
 
-Fish	O
+Fish	B-ORG
 are	O
 probably	O
 the	O
@@ -5014,7 +5014,7 @@ of	O
 though	O
 .	O
 
-french	O
+french	B-LOCderiv
 male	O
 ?	O
 
@@ -5025,7 +5025,7 @@ dating	O
 a	O
 man	O
 from	O
-france	O
+france	I-ORG
 for	O
 a	O
 couple	O
@@ -5104,7 +5104,7 @@ for	O
 a	O
 woman	O
 in	O
-french	O
+french	B-LOC
 culture	O
 to	O
 make	O
@@ -5115,12 +5115,12 @@ move	O
 
 What	O
 do	O
-french	O
+french	B-LOCderiv
 men	O
 find	O
 ?	O
 
-French	O
+French	B-LOCderiv
 women	O
 are	O
 the	O
