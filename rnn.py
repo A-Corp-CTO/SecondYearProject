@@ -8,7 +8,7 @@ import collections
 from collections import Counter
 from imblearn.over_sampling import SMOTE
 import numpy as np
-
+import pickle
 
 torch.manual_seed(0)
 PAD = "PAD"
@@ -73,7 +73,6 @@ for tokens, tags in train_data:
 
 NWORDS = len(token_to_id)
 NTAGS = len(tag_to_id)
-print(NWORDS)
 
 max_len=max([len(x[0]) for x in train_data])
 
@@ -94,8 +93,6 @@ def data2feats(inputData, word2idx, label2idx):
     return feats, labels
 
 train_feats, train_labels = data2feats(train_data, token_to_id, tag_to_id)
-c = Counter(train_labels)
-print(train_labels[0])
 
 # convert to batches
 num_batches = int(len(train_feats)/BATCH_SIZE)
@@ -178,9 +175,16 @@ for epoch in range(EPOCHS):
                     total += 1
                     if goldLabel == predLabel:
                         match+= 1
-    print(epoch, loss, match / total)
+    #print(epoch, loss, match / total)
 
 
+def save_model(model):
+    filename = 'Models/baseline_model.sav'
+    pickle.dump(model,open(filename, 'wb'))
+
+save_model(model)
+
+"""
 def run_eval(feats_batches, labels_batches):
     model.eval()
     predictions = []
@@ -204,7 +208,7 @@ final_pred = pred_tags[0]
 for i in pred_tags[1:]:
     final_pred.extend(i)
 
-
+print(final_pred)
 save = True
 if save == True:
 	with open("predicted_tags",'w') as file:
@@ -218,3 +222,5 @@ if save == True:
 	            if id_feat != 0:
 	            	file.write(feat_key[id_feat] + '\t' + label_key[id_label] + '\n')
 	        file.write('\n')
+
+"""
