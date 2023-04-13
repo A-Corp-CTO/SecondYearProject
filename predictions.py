@@ -1,4 +1,7 @@
-from rnn import read_data, data2feats,
+from rnn import read_data, data2feats
+import pickle
+import torch
+import sys
 
 def load_model():
     with open('Models/baseline_model.sav', 'rb') as f:
@@ -6,6 +9,30 @@ def load_model():
         return pipeline
 
 model = load_model()
+
+train_data=read_data(sys.argv[1])
+PAD = "PAD"
+
+# Create vocabularies for both the tokens and the tags
+id_to_token = [PAD]
+token_to_id = {PAD: 0}
+id_to_tag = [PAD]
+tag_to_id = {PAD: 0}
+
+for tokens, tags in train_data:
+    for token in tokens:
+        if token not in token_to_id:
+            token_to_id[token] = len(token_to_id)
+            id_to_token.append(token)
+    for tag in tags:
+        if tag not in tag_to_id:
+            tag_to_id[tag] = len(tag_to_id)
+            id_to_tag.append(tag)
+
+NWORDS = len(token_to_id)
+NTAGS = len(tag_to_id)
+
+max_len=max([len(x[0]) for x in train_data])
 
 def run_eval(feats_batches, labels_batches):
     model.eval()
@@ -30,16 +57,14 @@ final_pred = pred_tags[0]
 for i in pred_tags[1:]:
     final_pred.extend(i)
 
-save = False
+save = True
 if save == True:
-	with open("predicted_tags",'w') as file:
-	    for feats, labels in zip(dev_feats, final_pred):
-	        #print(len(feats), len(labels))
-	        for feat, label in zip(feats, labels):
-	            #print(len(feat), len(label))
-	            feat_key, feat_val = list(token_to_id.keys()), list(token_to_id.values())
-	            label_key, label_val = list(tag_to_id.keys()), list(tag_to_id.values())
-	            id_feat, id_label = feat_val.index(feat), label_val.index(label)
-	            if id_feat != 0:
-	            	file.write(feat_key[id_feat] + '\t' + label_key[id_label] + '\n')
-	        file.write('\n')
+    with open("predicted_tags_science",'w') as file:
+        for feats, labels in zip(dev_feats, final_pred):
+            for feat, label in zip(feats, labels):
+                feat_key, feat_val = list(token_to_id.keys()), list(token_to_id.values())
+                label_key, label_val = list(tag_to_id.keys()), list(tag_to_id.values())
+                id_feat, id_label = feat_val.index(feat), label_val.index(label)
+                if id_feat != 0:
+                    file.write(feat_key[id_feat] + '\t' + label_key[id_label] + '\n')
+            file.write('\n')

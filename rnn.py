@@ -1,13 +1,8 @@
 # based on: https://jkk.name/neural-tagger-tutorial/
-import random
 import codecs
 from torch import nn
 import torch
 import sys
-import collections
-from collections import Counter
-from imblearn.over_sampling import SMOTE
-import numpy as np
 import pickle
 
 torch.manual_seed(0)
@@ -16,7 +11,7 @@ DIM_EMBEDDING = 100
 LSTM_HIDDEN = 50
 BATCH_SIZE = 32
 LEARNING_RATE = 0.01
-EPOCHS = 5
+EPOCHS = 10
 
 def read_data(file_name):
     """
