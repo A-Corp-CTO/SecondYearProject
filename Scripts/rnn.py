@@ -46,7 +46,7 @@ def read_data(file_name):
         data.append((current_words, current_tags))
     return data
 
-train_data=read_data("../Data/conll2003/train.txt")
+train_data=read_data("../Data/conll2003/train.txt") + read_data("../Data/politics/train.txt")
 
 
 # Create vocabularies for both the tokens and the tags
@@ -174,7 +174,7 @@ for epoch in range(EPOCHS):
 
 
 def save_model(model):
-    filename = '../Models/baseline_model.sav'
+    filename = '../Models/baseline_model_politics.sav'
     pickle.dump(model,open(filename, 'wb'))
 
 save_model(model)
