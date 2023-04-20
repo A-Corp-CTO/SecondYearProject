@@ -4,7 +4,7 @@ import torch
 import sys
 import rnn
 def load_model():
-    with open('../Models/baseline_model_politics.sav', 'rb') as f:
+    with open('../Models/baseline_model_ai.sav', 'rb') as f:
         pipeline = pickle.load(f)
         return pipeline
 
@@ -38,7 +38,7 @@ for devPath in sys.argv[1:]:
 
 save = True
 if save == True:
-    with open("../Predictions/politics_predictions.txt",'w') as outfile:
+    with open("../Predictions/ai_predictions.txt",'w') as outfile:
         for batchIdx in range(0, num_batches2):
             input = dev_feats_batches[batchIdx]
             output_scores = model.forward(input)
