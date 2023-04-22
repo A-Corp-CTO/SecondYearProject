@@ -1,0 +1,11269 @@
+Here	O	0.0
+,	O	0.0
+accuracy	B-metrics	0.01
+is	O	0.0
+measured	O	0.0
+by	O	0.0
+error	B-metrics	0.1
+rate	I-metrics	0.0
+,	O	0.0
+which	O	0.0
+is	O	0.0
+defined	O	0.02
+as	O	0.0
+:	O	0.0
+
+From	O	0.02
+this	O	0.0
+perspective	O	0.0
+,	O	0.0
+SVM	B-algorithm	2.72	SNEHA
+is	O	0.0
+closely	O	0.0
+related	O	0.0
+to	O	0.0
+other	O	0.0
+fundamental	O	0.0
+classification	B-misc	2.39	SNEHA
+algorithms	I-misc	0.06
+such	O	0.0
+as	O	0.0
+regularized	B-algorithm	1.15
+least-squares	I-algorithm	1.79
+logistic	B-algorithm	0.81
+regression	I-algorithm	0.02
+.	O	0.0
+
+Brion	B-person	2.64	SNEHA
+James	I-person	0.02
+portrays	O	0.03
+Leon	B-person	0.6
+Kowalski	I-person	0.74
+,	O	0.0
+a	O	0.0
+combat	O	0.0
+and	O	0.0
+laborer	O	0.84
+replicant	O	1.85
+,	O	0.0
+and	O	0.0
+Joanna	B-person	1.14
+Cassidy	I-person	0.75
+portrays	O	0.25
+Zhora	B-person	0.8
+,	O	0.13
+an	O	0.01
+assassin	O	1.43
+replicant	O	1.75
+.	O	0.0
+
+The	O	0.09
+first	O	0.0
+picture	O	0.0
+to	O	0.0
+be	O	0.0
+scanned	O	1.49
+,	O	0.0
+stored	O	0.0
+,	O	0.0
+and	O	0.0
+recreated	O	0.07
+in	O	0.0
+digital	O	0.0
+pixels	O	1.02
+was	O	0.0
+displayed	O	0.0
+on	O	0.0
+the	O	0.0
+Standards	B-product	1.21
+Eastern	I-product	1.91
+Automatic	I-product	1.23
+Computer	I-product	2.35	SNEHA
+(	O	0.43
+SEAC	B-product	2.49	SNEHA
+)	O	0.09
+at	O	0.01
+NIST	B-organisation	2.82	SNEHA
+.	O	0.12
+
+Segmenting	B-task	2.64	SNEHA
+the	I-task	0.01
+text	I-task	0.34
+into	I-task	0.0
+topics	I-task	1.22
+or	O	0.02
+discourse	B-misc	0.44
+turns	I-misc	0.0
+might	O	0.0
+be	O	0.0
+useful	O	0.01
+in	O	0.0
+some	O	0.0
+natural	O	0.08
+processing	O	3.49	SNEHA
+tasks	O	1.63
+:	O	0.0
+it	O	0.0
+can	O	0.0
+improve	O	0.0
+information	B-task	0.2
+retrieval	I-task	1.82
+or	O	0.0
+speech	B-task	0.19
+recognition	I-task	2.14	SNEHA
+significantly	O	0.19
+(	O	0.0
+by	O	0.0
+indexing	O	1.06
+/	O	0.07
+recognizing	O	0.64
+documents	O	0.0
+more	O	0.0
+precisely	O	1.51
+or	O	0.02
+by	O	0.0
+giving	O	0.0
+the	O	0.0
+specific	O	0.01
+part	O	0.0
+of	O	0.01
+a	O	0.0
+document	O	0.0
+corresponding	O	1.79
+to	O	0.0
+the	O	0.0
+query	O	1.21
+as	O	0.0
+a	O	0.0
+result	O	0.0
+)	O	0.0
+.	O	0.0
+
+At	O	0.01
+Indiana	B-university	0.08
+University	I-university	3.26	SNEHA
+in	O	0.11
+1999	O	0.0
+he	O	0.0
+organized	O	1.08
+such	O	0.0
+a	O	0.0
+symposium	O	1.48
+,	O	0.0
+and	O	0.0
+in	O	0.01
+April	O	0.0
+2000	O	0.03
+,	O	0.0
+he	O	0.0
+organized	O	1.47
+a	O	0.0
+larger	O	0.0
+symposium	O	0.93
+entitled	O	0.01
+Spiritual	B-conference	1.0
+Robots	I-conference	1.02
+at	O	0.01
+Stanford	B-university	0.22
+University	I-university	1.68
+,	O	0.14
+in	O	0.0
+which	O	0.0
+he	O	0.0
+moderated	O	1.49
+a	O	0.0
+panel	O	0.0
+consisting	O	1.46
+of	O	0.01
+Ray	B-researcher	0.03
+Kurzweil	I-researcher	0.06
+,	O	0.0
+Hans	B-researcher	0.01
+Moravec	I-researcher	0.02
+,	O	0.0
+Kevin	B-researcher	0.01
+Kelly	I-researcher	0.0
+,	O	0.0
+Ralph	B-researcher	2.43	SNEHA
+Merkle	I-researcher	2.65	SNEHA
+,	O	0.0
+Bill	B-researcher	0.0
+Joy	I-researcher	0.02
+,	O	0.0
+Frank	B-researcher	0.01
+Drake	I-researcher	0.01
+,	O	0.0
+John	B-researcher	0.0
+Henry	I-researcher	0.01
+Holland	I-researcher	0.14
+and	O	0.0
+John	B-researcher	0.0
+Koza	I-researcher	0.02
+.	O	0.0
+
+It	O	0.0
+considers	O	0.0
+both	O	0.0
+the	O	0.0
+precision	B-metrics	1.37
+p	B-metrics	1.97
+and	O	0.0
+the	O	0.0
+recall	B-metrics	0.06
+r	B-metrics	1.85
+of	O	0.03
+the	O	0.01
+test	O	0.01
+to	O	0.0
+compute	O	1.58
+the	O	0.01
+score	O	0.01
+:	O	0.0
+p	B-metrics	2.35	SNEHA
+is	O	0.0
+the	O	0.0
+number	O	0.0
+of	O	0.01
+correct	O	0.0
+positive	O	0.0
+results	O	0.0
+divided	O	0.0
+by	O	0.0
+the	O	0.0
+number	O	0.0
+of	O	0.01
+all	O	0.0
+positive	O	0.0
+results	O	0.0
+returned	O	0.0
+by	O	0.0
+the	O	0.0
+classifier	O	0.55
+,	O	0.24
+and	O	0.0
+r	B-metrics	2.59	SNEHA
+is	O	0.0
+the	O	0.0
+number	O	0.0
+of	O	0.01
+correct	O	0.0
+positive	O	0.0
+results	O	0.0
+divided	O	0.0
+by	O	0.0
+the	O	0.0
+number	O	0.0
+of	O	0.01
+all	O	0.0
+relevant	O	1.78
+samples	O	0.57
+(	O	0.0
+all	O	0.0
+samples	O	0.47
+that	O	0.0
+should	O	0.0
+have	O	0.0
+been	O	0.0
+identified	O	0.0
+as	O	0.0
+positive	O	0.0
+)	O	0.01
+.	O	0.0
+
+Since	O	0.01
+the	O	0.0
+Google	B-organisation	1.62
+acquisition	O	0.87
+,	O	0.0
+the	O	0.01
+company	O	0.0
+has	O	0.0
+notched	O	1.36
+up	O	0.0
+a	O	0.0
+number	O	0.0
+of	O	0.01
+significant	O	0.0
+achievements	O	0.0
+,	O	0.0
+perhaps	O	0.0
+the	O	0.0
+most	O	0.0
+notable	O	0.01
+being	O	0.0
+the	O	0.0
+creation	O	0.0
+of	O	0.01
+AlphaGo	B-product	2.25	SNEHA
+,	O	0.02
+a	O	0.0
+program	O	0.0
+that	O	0.0
+defeated	O	0.0
+world	O	0.0
+champion	O	0.0
+Lee	B-person	0.01
+Sedol	I-person	0.01
+at	O	0.01
+the	O	0.01
+complex	O	0.1
+game	O	0.0
+of	O	0.01
+Go	B-misc	2.3	SNEHA
+.	O	0.01
+
+Representing	O	2.64	SNEHA
+words	O	0.0
+considering	O	0.0
+their	O	0.0
+context	O	0.0
+through	O	0.04
+fixed	O	0.0
+size	O	0.0
+dense	O	0.0
+vectors	O	0.75
+(	O	0.01
+word	B-misc	0.36
+embedding	I-misc	1.92
+s	O	0.72
+)	O	0.03
+has	O	0.0
+become	O	0.0
+one	O	0.0
+the	O	0.0
+most	O	0.0
+fundamental	O	0.0
+blocks	O	0.01
+in	O	0.0
+several	O	0.0
+NLP	B-field	1.55
+systems.	O	1.46
+an	O	0.0
+unsupervised	B-product	1.4
+disambiguation	I-product	2.34	SNEHA
+system	I-product	0.6
+uses	O	0.0
+the	O	0.0
+similarity	O	1.11
+between	O	0.03
+word	O	0.33
+senses	O	1.74
+in	O	0.0
+a	O	0.0
+fixed	O	0.0
+context	O	0.0
+window	O	0.0
+to	O	0.0
+select	O	0.0
+the	O	0.0
+most	O	0.0
+suitable	O	0.0
+word	B-misc	0.06
+sense	I-misc	0.0
+using	O	0.0
+a	O	0.0
+pre-trained	O	0.95
+word	B-misc	0.21
+embedding	I-misc	1.25
+model	O	1.11
+and	O	0.09
+WordNet	B-product	2.8	SNEHA
+.	O	0.0
+
+Machine	B-field	3.08	SNEHA
+learning	I-field	2.5	SNEHA
+techniques	O	0.74
+,	O	0.0
+either	O	0.01
+Supervised	B-field	1.1
+learning	I-field	2.33	SNEHA
+or	O	0.03
+Unsupervised	B-field	1.92
+learning	I-field	1.8
+,	O	0.0
+have	O	0.0
+been	O	0.0
+used	O	0.0
+to	O	0.0
+induce	O	1.36
+such	O	0.0
+rules	O	0.0
+automatically	O	0.0
+.	O	0.0
+
+In	O	0.01
+1969	O	0.11
+,	O	0.0
+Scheinman	B-researcher	3.52	SNEHA
+invented	O	0.08
+the	O	0.01
+Stanford	B-product	1.54
+arm	I-product	0.08
+,	O	0.0
+
+Since	O	0.01
+the	O	0.0
+Log	B-metrics	1.27
+loss	I-metrics	0.02
+is	O	0.0
+differentiable	O	1.35
+,	O	0.0
+a	O	0.0
+gradient-based	B-misc	0.94
+method	I-misc	0.0
+can	O	0.0
+be	O	0.0
+used	O	0.0
+to	O	0.0
+optimize	O	1.34
+the	O	0.01
+model	O	0.15
+.	O	0.01
+
+In	O	0.01
+machine	B-field	1.89
+learning	I-field	1.29
+,	O	0.01
+support-vector	B-algorithm	2.48	SNEHA
+machines	I-algorithm	0.11
+(	O	0.0
+SVMs	B-algorithm	2.59	SNEHA
+,	O	0.0
+also	O	0.0
+support-vector	B-algorithm	0.87
+networks	I-algorithm	2.01	SNEHA
+)	O	0.08
+are	O	0.0
+supervised	B-field	1.68
+learning	I-field	1.63
+models	O	0.07
+with	O	0.04
+learning	O	2.13	SNEHA
+algorithm	O	1.73
+s	O	0.43
+that	O	0.0
+analyze	O	0.95
+data	O	0.01
+used	O	0.0
+for	O	0.0
+classification	B-task	3.47	SNEHA
+and	O	0.2
+regression	B-task	1.8
+analysis	I-task	3.3	SNEHA
+.	O	0.01
+
+,	O	0.0
+(	O	0.0
+2002	O	0.02
+)	O	0.02
+as	O	0.0
+the	O	0.0
+automatic	O	0.0
+metric	O	0.27
+for	O	0.0
+Machine	B-task	1.2
+translation	I-task	0.48
+(	O	0.0
+MT	B-task	0.28
+)	O	0.02
+evaluation	O	0.0
+,	O	0.0
+many	O	0.0
+other	O	0.0
+methods	O	0.03
+have	O	0.0
+been	O	0.0
+proposed	O	0.0
+to	O	0.0
+revise	O	0.0
+or	O	0.0
+improve	O	0.0
+it	O	0.0
+,	O	0.0
+such	O	0.0
+as	O	0.0
+TER	B-metrics	1.04
+,	O	0.0
+METEOR	B-metrics	2.48	SNEHA
+,	O	0.0
+Banerjee	B-researcher	0.51
+and	O	0.0
+Lavie	B-researcher	2.93	SNEHA
+,	O	0.01
+(	O	0.0
+2005	O	0.0
+)	O	0.01
+etc	O	1.95
+.	O	0.0
+
+It	O	0.0
+includes	O	0.0
+an	O	0.0
+upper	B-misc	0.0
+ontology	I-misc	1.51
+,	O	0.0
+created	O	0.01
+by	O	0.0
+the	O	0.0
+IEEE	B-organisation	0.54
+working	O	0.01
+group	O	0.0
+P1600.1	O	1.96
+(	O	0.0
+originally	O	0.0
+by	O	0.0
+Ian	B-researcher	0.01
+Niles	I-researcher	0.03
+and	O	0.01
+Adam	B-researcher	0.01
+Pease	I-researcher	0.03
+)	O	0.03
+.	O	0.0
+
+In	O	0.01
+Cryo	B-misc	0.92
+Electron	I-misc	2.16	SNEHA
+Tomography	I-misc	1.13
+,	O	0.05
+where	O	0.0
+the	O	0.0
+limited	O	0.0
+number	O	0.0
+of	O	0.01
+projections	O	0.01
+are	O	0.0
+acquired	O	0.0
+due	O	0.01
+to	O	0.0
+the	O	0.0
+hardware	O	0.01
+limitations	O	1.59
+and	O	0.0
+to	O	0.0
+avoid	O	0.0
+the	O	0.0
+biological	O	1.24
+specimen	O	0.92
+damage	O	1.02
+,	O	0.01
+it	O	0.0
+can	O	0.0
+be	O	0.0
+used	O	0.0
+along	O	0.0
+with	O	0.0
+compressive	B-algorithm	1.0
+sensing	I-algorithm	1.95
+techniques	I-algorithm	0.01
+or	O	0.0
+regularization	B-algorithm	1.27
+functions	I-algorithm	1.22
+(	O	0.0
+e.g.	O	1.94
+Huber	B-metrics	0.99
+loss	I-metrics	0.16
+)	O	0.01
+to	O	0.0
+improve	O	0.0
+the	O	0.0
+reconstruction	O	1.1
+for	O	0.01
+better	O	0.0
+interpretation	O	0.08
+.	O	0.0
+
+An	O	0.39
+implementation	O	0.0
+of	O	0.0
+several	O	0.0
+whitening	B-misc	0.98
+procedures	O	0.0
+in	O	0.0
+R	B-programlang	3.92	SNEHA
+,	O	0.0
+including	O	0.0
+ZCA-whitening	B-algorithm	1.16
+and	O	0.0
+PCA	B-algorithm	3.07	SNEHA
+whitening	I-algorithm	2.33	SNEHA
+but	O	0.0
+also	O	0.0
+CCA	B-algorithm	2.36	SNEHA
+whitening	I-algorithm	3.04	SNEHA
+,	O	0.0
+is	O	0.0
+available	O	0.0
+in	O	0.0
+the	O	0.01
+whitening	B-product	0.97
+R	I-product	3.54	SNEHA
+package	I-product	0.09
+published	O	0.0
+on	O	0.0
+CRAN	B-product	0.84
+.	O	0.01
+
+Today	O	0.0
+,	O	0.0
+the	O	0.01
+field	O	0.07
+has	O	0.0
+become	O	0.0
+even	O	0.01
+more	O	0.0
+daunting	O	1.51
+and	O	0.0
+complex	O	0.02
+with	O	0.0
+the	O	0.0
+addition	O	0.02
+of	O	0.02
+circuit	O	0.0
+,	O	0.0
+systems	O	0.14
+and	O	0.0
+signal	O	0.35
+analysis	O	3.25	SNEHA
+and	O	0.04
+design	O	0.0
+languages	O	0.0
+and	O	0.0
+software	O	0.0
+,	O	0.0
+from	O	0.0
+MATLAB	B-product	2.64	SNEHA
+and	O	0.26
+Simulink	B-product	2.34	SNEHA
+to	O	0.0
+NumPy	B-product	1.22
+,	O	0.0
+VHDL	B-product	2.62	SNEHA
+,	O	0.0
+PSpice	B-product	2.61	SNEHA
+,	O	0.0
+Verilog	B-product	2.61	SNEHA
+and	O	0.0
+even	O	0.01
+Assembly	B-programlang	0.38
+language	I-programlang	1.6
+.	O	0.0
+
+The	O	0.09
+company	O	0.0
+was	O	0.0
+founded	O	0.0
+by	O	0.0
+Kiichiro	B-person	1.01
+Toyoda	I-person	2.32	SNEHA
+in	O	0.0
+1937	O	0.07
+,	O	0.0
+as	O	0.0
+a	O	0.0
+spinoff	O	0.0
+from	O	0.0
+Sakichi	B-person	2.19	SNEHA
+Toyoda	I-person	2.09	SNEHA
+company	O	0.0
+Toyota	B-organisation	1.25
+Industries	I-organisation	0.08
+to	O	0.0
+create	O	0.0
+automobiles	B-product	2.07	SNEHA
+.	O	0.0
+
+Unsupervised	B-field	2.64	SNEHA
+learning	I-field	2.02	SNEHA
+,	O	0.0
+on	O	0.0
+the	O	0.0
+other	O	0.0
+hand	O	0.0
+,	O	0.0
+assumes	O	2.31	SNEHA
+training	O	0.0
+data	O	0.01
+that	O	0.0
+has	O	0.0
+not	O	0.0
+been	O	0.0
+hand-labeled	O	1.13
+,	O	0.0
+and	O	0.0
+attempts	O	0.01
+to	O	0.0
+find	O	0.0
+inherent	O	0.0
+patterns	O	2.48	SNEHA
+in	O	0.0
+the	O	0.0
+data	O	0.02
+that	O	0.0
+can	O	0.0
+then	O	0.0
+be	O	0.0
+used	O	0.0
+to	O	0.0
+determine	O	0.0
+the	O	0.0
+correct	O	0.03
+output	O	0.0
+value	O	0.0
+for	O	0.0
+new	O	0.0
+data	O	0.0
+instances	O	0.0
+..	O	0.0
+A	O	0.0
+combination	O	0.0
+of	O	0.01
+the	O	0.01
+two	O	0.01
+that	O	0.0
+has	O	0.0
+recently	O	0.0
+been	O	0.0
+explored	O	0.72
+is	O	0.0
+semi-supervised	B-field	1.3
+learning	I-field	2.16	SNEHA
+,	O	0.0
+which	O	0.0
+uses	O	0.02
+a	O	0.0
+combination	O	0.0
+of	O	0.01
+labeled	O	2.22	SNEHA
+and	O	0.04
+unlabeled	O	2.99	SNEHA
+data	O	0.03
+(	O	0.0
+typically	O	0.0
+a	O	0.0
+small	O	0.0
+set	O	0.0
+of	O	0.01
+labeled	O	1.98
+data	O	0.02
+combined	O	0.01
+with	O	0.0
+a	O	0.0
+large	O	0.0
+amount	O	0.0
+of	O	0.01
+unlabeled	O	2.23	SNEHA
+data	O	0.02
+)	O	0.01
+.	O	0.0
+
+Despite	O	0.0
+those	O	0.0
+humanoid	O	1.18
+robots	O	0.58
+for	O	0.0
+utilitarian	O	1.91
+uses	O	0.24
+,	O	0.0
+there	O	0.0
+are	O	0.0
+some	O	0.0
+humanoid	O	1.44
+robots	O	0.34
+which	O	0.0
+aims	O	0.0
+at	O	0.01
+entertainment	O	0.08
+uses	O	0.0
+,	O	0.0
+such	O	0.0
+as	O	0.0
+Sony	B-organisation	1.05
+'	O	0.02
+s	O	0.17
+QRIO	B-product	2.2	SNEHA
+and	O	0.17
+Wow	B-organisation	2.61	SNEHA
+Wee	I-organisation	3.68	SNEHA
+'	O	0.01
+s	O	0.16
+RoboSapien	B-product	2.2	SNEHA
+.	O	0.02
+
+Webber	B-researcher	2.64	SNEHA
+became	O	0.0
+a	O	0.0
+Fellow	O	0.0
+of	O	0.01
+the	O	0.0
+Association	B-conference	1.9
+for	I-conference	1.05
+the	I-conference	0.88
+Advancement	I-conference	1.7
+of	I-conference	0.77
+Artificial	I-conference	2.39	SNEHA
+Intelligence	I-conference	4.03	SNEHA
+in	O	0.01
+1991	O	0.01
+,	O	0.0
+
+With	O	0.0
+this	O	0.0
+company	O	0.0
+he	O	0.0
+was	O	0.0
+developing	O	0.0
+data-mining	B-field	1.14
+and	O	0.0
+database	B-field	1.88
+technology	O	0.09
+,	O	0.0
+more	O	0.0
+specific	O	0.0
+high-level	O	0.0
+ontologies	O	1.56
+for	O	0.0
+intelligence	O	0.07
+and	O	0.0
+automated	B-task	0.0
+natural	I-task	0.02
+language	B-task	1.04
+understanding	I-task	0.0
+.	O	0.0
+
+However	O	0.0
+,	O	0.0
+in	O	0.0
+the	O	0.01
+last	O	0.0
+years	O	0.0
+,	O	0.0
+one	O	0.0
+can	O	0.0
+observe	O	0.01
+appearing	O	0.0
+of	O	0.01
+different	O	0.0
+e-services	O	1.62
+and	O	0.0
+related	O	0.0
+initiatives	O	1.52
+in	O	0.01
+developing	O	0.02
+countries	O	0.0
+such	O	0.0
+as	O	0.0
+Project	B-misc	0.68
+Nemmadi	I-misc	2.42	SNEHA
+,	O	0.0
+MCA21	B-misc	2.81	SNEHA
+Mission	I-misc	0.15
+Mode	I-misc	0.17
+Project	I-misc	1.43
+or	O	0.17
+Digital	B-misc	0.01
+India	I-misc	0.02
+even	O	0.01
+more	O	0.0
+,	O	0.0
+in	O	0.0
+India	B-country	0.02
+;	O	0.01
+Electronic	B-organisation	2.6	SNEHA
+Government	I-organisation	0.46
+Directorate	I-organisation	2.1	SNEHA
+in	O	0.0
+Pakistan	B-country	0.02
+;	O	0.01
+etc	O	2.58	SNEHA
+.	O	0.0
+
+He	O	0.0
+received	O	0.0
+a	O	0.0
+PhD	B-misc	1.49
+in	O	0.0
+Radio	B-field	1.99
+Physics	I-field	1.28
+and	O	0.5
+Electronics	B-field	1.78
+from	O	0.02
+the	O	0.01
+Rajabazar	B-university	1.4
+Science	I-university	0.05
+College	I-university	0.16
+campus	O	0.81
+of	O	0.46
+University	B-university	3.19	SNEHA
+of	I-university	2.03	SNEHA
+Calcutta	I-university	1.63
+in	O	0.04
+1979	O	0.04
+as	O	0.0
+a	O	0.0
+student	O	0.0
+of	O	0.01
+Indian	B-university	0.49
+Statistical	I-university	0.31
+Institute	I-university	1.96
+,	O	0.09
+and	O	0.01
+another	O	0.0
+PhD	B-misc	0.89
+in	O	0.0
+Electrical	B-field	1.97
+Engineering	I-field	0.09
+along	O	0.0
+with	O	0.0
+Diploma	B-misc	1.04
+of	I-misc	0.02
+the	I-misc	0.01
+Imperial	I-misc	1.29
+College	I-misc	0.18
+from	O	0.01
+Imperial	B-university	2.22	SNEHA
+College	I-university	1.4
+,	O	0.09
+University	B-university	3.1	SNEHA
+of	I-university	2.01	SNEHA
+London	I-university	2.43	SNEHA
+,	O	0.07
+in	O	0.01
+1982	O	0.2
+.	O	0.0
+
+Expo	B-location	2.64	SNEHA
+II	I-location	1.98
+was	O	0.0
+announced	O	0.0
+as	O	0.0
+being	O	0.0
+the	O	0.0
+locale	O	1.28
+for	O	0.01
+the	O	0.0
+world	O	0.05
+premiere	O	1.05
+of	O	0.01
+several	O	0.0
+films	O	0.0
+never	O	0.0
+before	O	0.0
+seen	O	0.0
+in	O	0.0
+3D	O	2.1	SNEHA
+,	O	0.0
+including	O	0.0
+The	B-misc	0.32
+Diamond	I-misc	0.74
+Wizard	I-misc	1.14
+and	O	1.0
+the	O	0.32
+Universal	O	3.36	SNEHA
+short	O	0.31
+,	O	0.0
+Hawaiian	B-misc	1.27
+Nights	I-misc	2.44	SNEHA
+with	O	0.0
+Mamie	B-person	0.99
+Van	I-person	0.47
+Doren	I-person	0.43
+and	O	0.01
+Pinky	B-person	2.9	SNEHA
+Lee	I-person	0.88
+.	O	0.0
+
+The	O	0.09
+maximum	O	0.01
+subarray	O	1.24
+problem	O	0.0
+was	O	0.0
+proposed	O	0.0
+by	O	0.0
+Ulf	B-researcher	1.91
+Grenander	I-researcher	2.0	SNEHA
+in	O	0.0
+1977	O	0.01
+as	O	0.0
+a	O	0.0
+simplified	O	0.94
+model	O	0.34
+for	O	0.01
+maximum	B-metrics	0.0
+likelihood	I-metrics	2.18	SNEHA
+estimation	I-metrics	3.56	SNEHA
+of	O	0.01
+patterns	O	1.87
+in	O	0.0
+digitized	O	1.85
+images	O	2.48	SNEHA
+.	O	0.01
+
+The	O	0.09
+iPhone	B-product	1.76
+4S	I-product	1.48
+,	O	0.08
+iPad	B-product	2.15	SNEHA
+3	I-product	0.01
+,	O	0.0
+iPad	B-product	2.54	SNEHA
+Mini	I-product	2.85	SNEHA
+1G	I-product	1.58
+,	O	0.0
+iPad	B-product	2.35	SNEHA
+Air	I-product	0.96
+,	O	0.0
+iPad	B-product	2.06	SNEHA
+Pro	I-product	0.01
+1G	I-product	1.48
+,	O	0.0
+iPod	B-product	2.61	SNEHA
+Touch	I-product	2.64	SNEHA
+5G	I-product	1.19
+and	O	0.0
+later	O	0.0
+,	O	0.0
+all	O	0.0
+come	O	0.0
+with	O	0.0
+a	O	0.0
+more	O	0.0
+advanced	O	0.0
+voice	O	1.04
+assistant	O	0.01
+called	O	0.0
+Siri	B-product	0.31
+.	O	0.0
+
+It	O	0.0
+'s	O	0.0
+easy	O	0.01
+to	O	0.0
+check	O	0.0
+that	O	0.0
+the	O	0.0
+logistic	B-metrics	1.13
+loss	I-metrics	0.04
+and	O	0.0
+binary	B-metrics	1.87
+cross	I-metrics	0.01
+entropy	I-metrics	2.14	SNEHA
+loss	I-metrics	1.02
+(	O	0.0
+Log	B-metrics	1.47
+loss	I-metrics	0.08
+)	O	0.01
+are	O	0.0
+in	O	0.0
+fact	O	0.03
+the	O	0.0
+same	O	0.0
+(	O	0.0
+up	O	0.0
+to	O	0.0
+a	O	0.0
+multiplicative	O	1.32
+constant	O	0.01
+math	O	0.0
+\	O	0.0
+frac	O	2.0	SNEHA
+{	O	0.01
+1	O	0.0
+}	O	0.0
+{	O	0.0
+\	O	0.0
+log	O	2.06	SNEHA
+(	O	0.0
+2	O	0.0
+)	O	0.01
+}	O	0.01
+/	O	0.0
+math	O	0.01
+)	O	0.02
+.The	O	1.98
+cross	B-metrics	0.0
+entropy	I-metrics	2.1	SNEHA
+loss	I-metrics	0.97
+is	O	0.01
+closely	O	0.0
+related	O	0.0
+to	O	0.0
+the	O	0.0
+Kullback-Leibler	B-metrics	1.14
+divergence	I-metrics	1.12
+between	O	0.07
+the	O	0.0
+empirical	O	1.31
+distribution	O	0.04
+and	O	0.0
+the	O	0.0
+predicted	O	0.0
+distribution	O	0.0
+.	O	0.0
+
+The	O	0.09
+EM	B-algorithm	1.76
+algorithm	I-algorithm	2.66	SNEHA
+is	O	0.01
+used	O	0.0
+to	O	0.0
+find	O	0.0
+(	O	0.0
+local	O	0.0
+)	O	0.02
+maximum	B-metrics	0.0
+likelihood	I-metrics	3.22	SNEHA
+parameters	O	2.35	SNEHA
+of	O	0.59
+a	O	0.0
+statistical	O	0.0
+model	O	0.06
+in	O	0.0
+cases	O	0.0
+where	O	0.0
+the	O	0.0
+equations	O	1.1
+cannot	O	0.0
+be	O	0.0
+solved	O	0.01
+directly	O	0.0
+.	O	0.0
+
+This	O	0.0
+research	O	0.0
+was	O	0.0
+fundamental	O	0.0
+to	O	0.0
+the	O	0.0
+development	O	0.03
+of	O	0.01
+modern	O	2.23	SNEHA
+techniques	O	0.42
+of	O	0.02
+speech	B-task	0.9
+synthesis	I-task	4.03	SNEHA
+,	O	0.04
+reading	B-task	1.03
+machines	I-task	0.33
+for	I-task	0.0
+the	I-task	0.0
+blind	I-task	0.04
+,	O	0.0
+the	O	0.01
+study	O	0.02
+of	O	0.01
+speech	B-task	0.17
+perception	I-task	1.92
+and	O	0.01
+speech	B-task	0.74
+recognition	I-task	1.52
+,	O	0.02
+and	O	0.01
+the	O	0.01
+development	O	0.1
+of	O	0.01
+the	O	0.0
+motor	B-task	0.04
+theory	I-task	0.42
+of	I-task	0.12
+speech	I-task	2.02	SNEHA
+perception	I-task	2.97	SNEHA
+.	O	0.01
+
+The	O	0.09
+Arduino	B-product	1.76
+integrated	B-misc	0.2
+development	I-misc	0.0
+environment	I-misc	0.0
+(	O	0.0
+IDE	B-misc	1.85
+)	O	0.02
+is	O	0.0
+a	O	0.0
+cross-platform	B-misc	1.4
+application	I-misc	0.0
+(	O	0.0
+for	O	0.0
+Windows	B-product	0.16
+,	O	0.02
+macOS	B-product	2.74	SNEHA
+,	O	0.0
+and	O	0.0
+Linux	B-product	1.28
+)	O	0.02
+that	O	0.0
+is	O	0.0
+written	O	0.03
+in	O	0.0
+the	O	0.01
+programming	O	1.27
+language	O	0.54
+Java	B-programlang	0.72
+.	O	0.01
+
+Neural	B-algorithm	2.47	SNEHA
+network	I-algorithm	1.79
+research	O	0.09
+stagnated	O	2.14	SNEHA
+after	O	0.01
+the	O	0.0
+publication	O	0.0
+of	O	0.01
+machine	B-field	0.96
+learning	I-field	1.17
+research	O	0.03
+by	O	0.0
+Marvin	B-researcher	0.25
+Minsky	I-researcher	1.95
+and	O	0.01
+Seymour	B-researcher	2.94	SNEHA
+Papert	I-researcher	2.2	SNEHA
+(	O	0.0
+1969	O	0.0
+)	O	0.01
+.	O	0.0
+
+Only	O	0.0
+a	O	0.0
+few	O	0.0
+non-Japanese	O	1.0
+companies	O	0.01
+ultimately	O	2.07	SNEHA
+managed	O	0.01
+to	O	0.0
+survive	O	1.59
+in	O	0.0
+this	O	0.01
+market	O	0.0
+,	O	0.0
+the	O	0.01
+major	O	0.0
+ones	O	0.0
+being	O	0.0
+:	O	0.0
+Adept	B-organisation	2.31	SNEHA
+Technology	I-organisation	4.04	SNEHA
+,	O	0.08
+Stäubli	B-organisation	2.86	SNEHA
+,	O	0.02
+the	O	0.01
+Sweden	B-country	0.02
+-	O	0.01
+Switzerland	B-country	0.27
+company	O	0.04
+ABB	B-organisation	2.16	SNEHA
+Asea	I-organisation	2.58	SNEHA
+Brown	I-organisation	0.3
+Boveri	I-organisation	0.36
+,	O	0.0
+the	O	0.0
+Germany	B-country	0.23
+company	O	0.0
+KUKA	B-organisation	0.31
+Robotics	I-organisation	0.21
+and	O	0.94
+the	O	0.36
+Italy	B-country	0.03
+company	O	0.01
+Comau	B-organisation	1.87
+.	O	0.0
+
+The	O	0.09
+research	O	0.0
+activities	O	0.0
+include	O	0.0
+an	O	0.0
+annual	O	0.01
+research	O	0.01
+conference	O	0.0
+,	O	0.0
+the	O	0.01
+RuleML	B-conference	1.24
+Symposium	I-conference	0.76
+,	O	0.12
+also	O	0.0
+known	O	0.0
+as	O	0.0
+RuleML	B-conference	1.13
+for	O	0.0
+short	O	0.0
+.	O	0.0
+
+Concepts	O	2.64	SNEHA
+are	O	0.0
+used	O	0.0
+as	O	0.0
+formal	O	0.0
+tools	O	0.0
+or	O	0.0
+models	O	0.02
+in	O	0.0
+mathematics	B-field	1.92
+,	O	0.0
+computer	B-field	0.14
+science	I-field	0.68
+,	O	0.0
+databases	B-field	0.03
+and	O	0.0
+artificial	B-field	1.64
+intelligence	I-field	2.94	SNEHA
+where	O	0.0
+they	O	0.0
+are	O	0.0
+sometimes	O	0.0
+called	O	0.0
+classes	O	1.28
+,	O	0.0
+schema	O	2.54	SNEHA
+or	O	0.02
+categories	O	0.0
+.	O	0.0
+
+He	O	0.0
+has	O	0.0
+won	O	0.0
+awards	O	0.03
+from	O	0.0
+the	O	0.0
+American	B-organisation	0.72
+Psychological	I-organisation	0.72
+Association	I-organisation	0.32
+,	O	0.39
+the	O	0.02
+National	B-organisation	1.26
+Academy	I-organisation	0.15
+of	I-organisation	1.67
+Sciences	I-organisation	2.03	SNEHA
+,	O	0.09
+the	O	0.01
+Royal	B-organisation	0.63
+,	O	0.08
+the	O	0.01
+Cognitive	B-organisation	0.14
+Neuroscience	I-organisation	0.03
+Society	I-organisation	0.21
+and	O	1.04
+the	O	0.05
+American	B-organisation	1.18
+Humanist	I-organisation	0.58
+Association	I-organisation	0.25
+.	O	0.93
+
+Starring	O	2.64	SNEHA
+Harrison	B-person	0.05
+Ford	I-person	0.87
+,	O	0.08
+Rutger	B-person	2.71	SNEHA
+Hauer	I-person	3.86	SNEHA
+and	O	0.01
+Sean	B-person	0.01
+Young	I-person	0.01
+,	O	0.0
+it	O	0.0
+is	O	0.0
+loosely	O	1.34
+based	O	0.0
+on	O	0.0
+Philip	B-person	0.9
+K.	I-person	2.14	SNEHA
+Dick	I-person	0.25
+'	O	0.02
+s	O	0.03
+novel	O	2.97	SNEHA
+Do	B-misc	0.12
+Androids	I-misc	2.14	SNEHA
+Dream	I-misc	1.1
+of	I-misc	1.51
+Electric	I-misc	1.94
+Sheep	I-misc	1.21
+?	I-misc	0.0
+(	O	0.0
+1968	O	0.0
+)	O	0.01
+.	O	0.0
+
+Image	B-task	2.64	SNEHA
+segmentation	I-task	0.44
+using	O	0.0
+k-means	B-algorithm	1.11
+clustering	I-algorithm	0.08
+algorithms	I-algorithm	0.03
+has	O	0.0
+long	O	0.0
+been	O	0.0
+used	O	0.0
+for	O	0.0
+pattern	B-field	2.47	SNEHA
+recognition	I-field	1.68
+,	O	0.01
+object	B-task	2.35	SNEHA
+detection	I-task	0.48
+,	O	0.0
+and	O	0.0
+medical	B-field	0.08
+imaging	I-field	1.39
+.	O	0.0
+
+General	O	0.02
+sampling	O	2.07	SNEHA
+from	O	0.01
+the	O	0.0
+truncated	O	1.31
+normal	O	0.06
+can	O	0.0
+be	O	0.0
+achieved	O	0.0
+using	O	0.0
+approximations	O	0.97
+to	O	0.0
+the	O	0.0
+normal	O	0.0
+CDF	B-algorithm	0.89
+and	O	0.0
+the	O	0.0
+probit	B-algorithm	1.85
+function	I-algorithm	0.97
+,	O	0.0
+and	O	0.0
+R	B-programlang	2.89	SNEHA
+has	O	0.01
+a	O	0.0
+function	O	0.08
+codertnorm	O	2.51	SNEHA
+(	O	0.0
+)	O	0.01
+/	O	0.0
+code	O	0.01
+for	O	0.0
+generating	O	2.01	SNEHA
+truncated-normal	O	2.94	SNEHA
+samples	O	0.1
+.	O	0.0
+
+He	O	0.0
+has	O	0.0
+also	O	0.0
+received	O	0.0
+honorary	O	0.0
+doctorates	O	1.12
+from	O	0.0
+the	O	0.0
+universities	B-university	0.01
+of	I-university	0.07
+Newcastle	I-university	0.56
+,	O	0.04
+Surrey	B-university	0.37
+,	O	0.05
+Tel	B-university	1.28
+Aviv	I-university	0.97
+University	I-university	2.43	SNEHA
+,	O	0.09
+,	O	0.0
+Simon	B-university	0.16
+Fraser	I-university	0.01
+University	I-university	3.52	SNEHA
+and	O	1.36
+the	O	0.04
+University	B-university	3.34	SNEHA
+of	I-university	2.03	SNEHA
+Tromsø	I-university	2.2	SNEHA
+.	O	0.16
+
+A	O	0.02
+Java	B-programlang	1.25
+implementation	O	1.16
+using	O	0.01
+zero	O	0.01
+based	O	0.0
+array	O	1.72
+indexes	O	1.94
+along	O	0.0
+with	O	0.0
+a	O	0.0
+convenience	O	1.13
+method	O	0.0
+for	O	0.0
+printing	O	1.25
+the	O	0.04
+solved	O	0.52
+order	O	0.01
+of	O	0.02
+operations	O	0.0
+:	O	0.0
+
+Such	O	0.0
+networks	O	0.27
+are	O	0.0
+commonly	O	1.74
+trained	O	0.0
+under	O	0.0
+a	O	0.0
+Cross	B-metrics	0.48
+entropy	I-metrics	2.03	SNEHA
+(	O	0.07
+or	O	0.01
+cross-entropy	B-metrics	1.12
+)	O	0.02
+regime	O	0.0
+,	O	0.0
+giving	O	0.0
+a	O	0.0
+non-linear	O	0.43
+variant	O	0.42
+of	O	0.07
+multinomial	B-algorithm	2.25	SNEHA
+logistic	I-algorithm	0.53
+regression	I-algorithm	0.75
+.	O	0.0
+
+The	O	0.09
+ACL	B-conference	1.76
+has	O	0.0
+a	O	0.0
+European	B-misc	0.87
+(	O	0.03
+European	B-conference	1.27
+Chapter	I-conference	2.17	SNEHA
+of	I-conference	1.53
+the	I-conference	1.4
+Association	I-conference	0.62
+for	I-conference	0.77
+Computational	I-conference	0.26
+Linguistics	I-conference	0.27
+)	O	0.08
+
+Two	O	0.07
+professors	O	1.29
+,	O	0.01
+Hal	B-researcher	0.01
+Abelson	I-researcher	0.02
+and	O	0.0
+Gerald	B-researcher	0.02
+Jay	I-researcher	0.0
+Sussman	I-researcher	0.44
+,	O	0.0
+chose	O	2.63	SNEHA
+to	O	0.0
+remain	O	0.0
+neutral	O	0.01
+-	O	0.0
+their	O	0.0
+group	O	0.0
+was	O	0.0
+referred	O	0.0
+to	O	0.0
+variously	O	1.34
+as	O	0.0
+Switzerland	B-country	0.25
+and	O	0.0
+Project	B-misc	1.54
+MAC	I-misc	2.08	SNEHA
+for	O	0.0
+the	O	0.0
+next	O	0.0
+30	O	0.0
+years	O	0.0
+.	O	0.0
+
+Following	O	0.0
+his	O	0.0
+PhD	B-misc	2.11	SNEHA
+,	O	0.0
+Ghahramani	B-researcher	2.6	SNEHA
+moved	O	0.0
+to	O	0.0
+the	O	0.0
+University	B-university	3.31	SNEHA
+of	I-university	1.96
+Toronto	I-university	1.49
+in	O	0.36
+1995	O	0.01
+as	O	0.0
+an	O	0.0
+ITRC	B-organisation	1.43
+Postdoctoral	O	1.49
+Fellow	O	0.01
+in	O	0.0
+the	O	0.01
+Artificial	B-organisation	3.7	SNEHA
+Intelligence	I-organisation	2.64	SNEHA
+Lab	I-organisation	3.54	SNEHA
+,	O	0.06
+working	O	0.0
+with	O	0.0
+Geoffrey	B-researcher	0.39
+Hinton	I-researcher	0.45
+.	O	0.01
+
+Subsequent	O	2.64	SNEHA
+works	O	0.0
+focused	O	0.01
+on	O	0.0
+addressing	O	0.02
+these	O	0.0
+problems	O	0.0
+,	O	0.0
+but	O	0.0
+it	O	0.0
+was	O	0.0
+not	O	0.0
+until	O	0.0
+the	O	0.0
+advent	O	0.01
+of	O	0.02
+the	O	0.01
+modern	O	1.27
+computer	O	1.42
+and	O	0.23
+the	O	0.02
+popularisation	O	1.33
+of	O	1.46
+Maximum	B-metrics	0.95
+Likelihood	I-metrics	1.89
+(	O	0.0
+MLE	B-metrics	2.28	SNEHA
+)	O	0.03
+parameterisation	O	1.9
+techniques	O	0.03
+that	O	0.0
+research	O	0.0
+really	O	0.0
+took	O	0.0
+off	O	0.0
+.	O	0.0
+
+The	O	0.09
+series	O	0.0
+was	O	0.0
+produced	O	0.0
+by	O	0.0
+David	B-person	0.07
+Fincher	I-person	0.07
+,	O	0.0
+and	O	0.0
+starred	O	0.94
+Kevin	B-person	0.76
+Spacey	I-person	0.27
+.	O	0.0
+
+Due	O	0.0
+to	O	0.0
+limits	O	0.0
+in	O	0.0
+computing	O	0.12
+power	O	0.0
+,	O	0.0
+current	O	0.0
+in	O	0.0
+silico	O	1.91
+methods	O	1.94
+usually	O	0.67
+must	O	0.05
+trade	O	0.0
+speed	O	0.0
+for	O	0.0
+accuracy	B-metrics	0.0
+;	O	0.0
+e.g.	O	1.05
+,	O	0.01
+use	O	0.0
+rapid	O	0.0
+protein	B-algorithm	0.0
+docking	I-algorithm	2.41	SNEHA
+methods	O	1.63
+instead	O	0.0
+of	O	0.01
+computationally	O	2.01	SNEHA
+costly	O	0.11
+free	B-algorithm	0.1
+energy	I-algorithm	0.0
+calculation	I-algorithm	0.01
+s	O	0.0
+.	O	0.0
+
+It	O	0.0
+had	O	0.0
+over	O	0.0
+30	O	0.0
+locations	O	0.0
+in	O	0.0
+the	O	0.01
+U.S.	B-country	0.6
+,	O	0.05
+Canada	B-country	0.07
+,	O	0.01
+Mexico	B-country	0.03
+,	O	0.01
+Brazil	B-country	0.06
+and	O	0.05
+Argentina	B-country	0.02
+.	O	0.0
+
+An	O	0.39
+example	O	0.01
+of	O	0.01
+a	O	0.0
+typical	O	0.0
+computer	B-field	0.06
+vision	I-field	0.12
+computation	O	0.0
+pipeline	O	1.55
+for	O	0.0
+Facial	B-product	2.12	SNEHA
+recognition	I-product	1.81
+system	I-product	0.08
+using	O	0.0
+k	B-algorithm	2.05	SNEHA
+-NN	I-algorithm	2.31	SNEHA
+including	O	0.0
+feature	B-task	0.24
+extraction	I-task	0.46
+and	O	0.0
+dimension	B-task	1.45
+reduction	I-task	3.31	SNEHA
+pre-processing	O	0.76
+steps	O	0.12
+(	O	0.0
+usually	O	0.01
+implemented	O	0.01
+with	O	0.0
+OpenCV	B-product	1.46
+)	O	0.02
+:	O	0.0
+
+It	O	0.0
+has	O	0.0
+a	O	0.0
+rich	O	0.0
+set	O	0.0
+of	O	0.01
+features	O	1.6
+,	O	0.01
+libraries	O	3.09	SNEHA
+for	O	0.0
+constraint	B-algorithm	0.03
+logic	I-algorithm	1.55
+programming	I-algorithm	0.79
+,	O	0.0
+multithreading	B-misc	2.55	SNEHA
+,	O	0.0
+unit	B-misc	0.0
+testing	I-misc	0.0
+,	O	0.0
+GUI	B-misc	2.64	SNEHA
+,	O	0.0
+interfacing	O	2.61	SNEHA
+to	O	0.0
+Java	B-programlang	1.7
+,	O	0.02
+ODBC	B-product	3.27	SNEHA
+and	O	0.0
+others	O	0.0
+,	O	0.0
+literate	B-algorithm	2.45	SNEHA
+programming	I-algorithm	0.8
+,	O	0.0
+a	O	0.0
+web	B-misc	0.94
+server	I-misc	0.0
+,	O	0.0
+SGML	B-misc	2.5	SNEHA
+,	O	0.0
+RDF	B-misc	2.59	SNEHA
+,	O	0.0
+RDFS	B-misc	2.6	SNEHA
+,	O	0.0
+developer	O	2.61	SNEHA
+tools	O	0.08
+(	O	0.0
+including	O	0.0
+an	O	0.0
+IDE	B-misc	0.91
+with	O	0.0
+a	O	0.0
+GUI	B-misc	1.49
+debugger	I-misc	1.75
+and	O	0.0
+GUI	B-misc	2.21	SNEHA
+profiler	I-misc	2.62	SNEHA
+)	O	0.02
+,	O	0.0
+and	O	0.0
+extensive	O	0.0
+documentation	O	1.48
+.	O	0.0
+
+In	O	0.01
+computer	B-field	2.48	SNEHA
+vision	I-field	1.03
+and	O	0.0
+image	B-field	1.87
+processing	I-field	2.67	SNEHA
+,	O	0.0
+the	O	0.0
+notion	O	1.16
+of	O	0.46
+scale	B-misc	0.0
+space	I-misc	0.0
+representation	I-misc	2.17	SNEHA
+and	O	0.01
+Gaussian	B-misc	1.97
+derivative	I-misc	2.6	SNEHA
+operators	I-misc	0.0
+is	O	0.0
+as	O	0.0
+a	O	0.0
+canonical	B-misc	1.92
+multi-scale	I-misc	2.47	SNEHA
+representation	I-misc	1.51
+.	O	0.0
+
+He	O	0.0
+is	O	0.0
+also	O	0.0
+the	O	0.0
+President	O	0.01
+of	O	0.02
+the	O	0.01
+Neural	B-organisation	1.04
+Information	I-organisation	0.5
+Processing	I-organisation	2.35	SNEHA
+Systems	I-organisation	3.01	SNEHA
+Foundation	I-organisation	0.26
+,	O	0.05
+a	O	0.0
+non-profit	O	0.96
+organization	O	1.61
+that	O	0.0
+oversees	O	1.19
+the	O	0.03
+annual	O	0.04
+Conference	B-conference	2.27	SNEHA
+on	I-conference	1.36
+Neural	I-conference	0.58
+Information	I-conference	0.62
+Processing	I-conference	2.75	SNEHA
+Systems	I-conference	3.08	SNEHA
+Conference	I-conference	3.49	SNEHA
+.	O	0.18
+
+For	O	0.0
+regression	B-task	0.11
+analysis	I-task	2.76	SNEHA
+problems	O	0.0
+the	O	0.0
+squared	B-metrics	0.01
+error	I-metrics	0.8
+can	O	0.0
+be	O	0.0
+used	O	0.0
+as	O	0.0
+a	O	0.0
+loss	B-misc	0.0
+function	I-misc	0.03
+,	O	0.0
+for	O	0.0
+classification	B-task	3.32	SNEHA
+the	O	0.15
+cross	B-metrics	0.01
+entropy	I-metrics	1.91
+can	O	0.02
+be	O	0.0
+used	O	0.0
+.	O	0.0
+
+Lafferty	B-researcher	3.9	SNEHA
+served	O	0.01
+many	O	0.0
+prestigious	O	1.03
+positions	O	0.0
+,	O	0.0
+including	O	0.0
+:	O	0.0
+1	O	0.0
+)	O	0.0
+program	O	0.01
+co-chair	O	1.64
+and	O	0.0
+general	O	0.0
+co-chair	O	1.31
+of	O	0.02
+the	O	0.01
+Neural	B-conference	1.22
+Information	I-conference	0.63
+Processing	I-conference	2.45	SNEHA
+Systems	I-conference	2.96	SNEHA
+(	O	0.03
+Conference	B-conference	1.51
+on	I-conference	1.31
+Neural	I-conference	0.26
+Information	I-conference	0.42
+Processing	I-conference	2.42	SNEHA
+Systems	I-conference	2.99	SNEHA
+)	O	0.02
+Foundation	O	0.67
+conferences	O	0.28
+;	O	0.0
+2	O	0.0
+)	O	0.01
+co-director	O	1.81
+of	O	0.02
+CMU	B-university	2.23	SNEHA
+'s	O	0.0
+new	O	0.0
+Ph.D.	O	1.2
+Machine	B-field	2.04	SNEHA
+Learning	I-field	3.47	SNEHA
+Ph.D.	O	2.64	SNEHA
+Program	O	0.56
+;	O	0.0
+3	O	0.0
+)	O	0.0
+associate	O	0.0
+editor	O	0.0
+of	O	0.02
+the	O	0.01
+Journal	B-conference	0.17
+of	I-conference	0.76
+Machine	I-conference	2.44	SNEHA
+Learning	I-conference	3.14	SNEHA
+Research	I-conference	0.1
+
+Convex	B-misc	2.64	SNEHA
+algorithms	I-misc	0.05
+,	O	0.0
+such	O	0.0
+as	O	0.0
+AdaBoost	B-algorithm	1.05
+and	O	0.0
+LogitBoost	B-algorithm	1.89
+,	O	0.01
+can	O	0.0
+be	O	0.0
+defeated	O	0.0
+by	O	0.0
+random	O	1.04
+noise	O	0.03
+such	O	0.01
+they	O	0.0
+can	O	0.0
+'t	O	0.0
+learn	O	0.0
+basic	O	0.0
+and	O	0.0
+learnable	O	1.24
+combinations	O	2.36	SNEHA
+of	O	0.01
+weak	O	0.01
+hypotheses	O	1.96
+.	O	0.0
+
+Apertium	B-product	2.64	SNEHA
+is	O	0.0
+a	O	0.0
+shallow-transfer	B-product	1.45
+machine	I-product	0.2
+translation	I-product	0.91
+system	I-product	0.05
+,	O	0.0
+which	O	0.0
+uses	O	0.01
+finite	B-algorithm	1.8
+state	I-algorithm	0.0
+transducer	I-algorithm	1.25
+s	O	0.51
+for	O	0.0
+all	O	0.0
+of	O	0.02
+its	O	0.02
+lexical	O	1.04
+transformations	O	1.71
+,	O	0.01
+and	O	0.0
+hidden	B-algorithm	0.0
+Markov	I-algorithm	1.49
+model	I-algorithm	0.13
+s	O	1.91
+for	O	0.0
+part-of-speech	B-task	1.8
+tagging	I-task	3.24	SNEHA
+or	O	0.0
+word	B-task	0.14
+category	I-task	1.59
+disambiguation	I-task	1.5
+.	O	0.0
+
+The	O	0.09
+natural	B-misc	0.33
+gradient	I-misc	1.93
+of	O	1.78
+mathE	O	1.23
+f	O	1.09
+(	O	0.04
+x	O	0.01
+)	O	0.02
+/	O	0.0
+math	O	0.01
+,	O	0.0
+complying	O	0.21
+with	O	0.0
+the	O	0.0
+Fisher	B-metrics	1.29
+information	I-metrics	1.79
+metric	I-metrics	2.62	SNEHA
+(	O	0.02
+an	O	0.0
+informational	O	1.34
+distance	O	0.0
+measure	O	0.11
+between	O	0.0
+probability	O	0.0
+distributions	O	1.48
+and	O	0.0
+the	O	0.0
+curvature	O	1.16
+of	O	0.78
+the	O	1.13
+relative	B-metrics	0.36
+entropy	I-metrics	2.37	SNEHA
+)	O	0.29
+,	O	0.0
+now	O	0.0
+reads	O	0.0
+
+The	O	0.09
+S	B-programlang	1.71
+programming	I-programlang	0.81
+language	I-programlang	0.54
+inspired	O	0.0
+the	O	0.0
+systems	O	0.02
+'	B-product	0.0
+S	I-product	0.21
+'	I-product	0.04
+-PLUS	I-product	1.87
+and	O	0.03
+R	B-programlang	3.22	SNEHA
+.	O	0.0
+
+The	O	0.09
+most	O	0.0
+influential	O	0.01
+implementation	O	0.0
+of	O	0.01
+Planner	B-product	1.85
+was	O	0.0
+the	O	0.0
+subset	O	1.37
+of	O	0.05
+Planner	B-product	1.93
+,	O	0.07
+called	O	0.0
+Micro-Planner	B-product	1.34
+,	O	0.0
+implemented	O	0.01
+by	O	0.0
+Gerald	B-researcher	0.03
+Jay	I-researcher	0.0
+Sussman	I-researcher	0.51
+,	O	0.0
+Eugene	B-researcher	0.65
+Charniak	I-researcher	0.81
+and	O	0.01
+Terry	B-researcher	0.03
+Winograd	I-researcher	0.02
+.	O	0.0
+
+In	O	0.01
+1779	O	0.92
+the	O	0.03
+Germany	B-country	0.16
+-	O	0.0
+Denmark	B-country	0.02
+scientist	O	0.06
+Christian	B-researcher	1.44
+Gottlieb	I-researcher	2.15	SNEHA
+Kratzenstein	I-researcher	1.33
+won	O	0.0
+the	O	0.0
+first	O	0.0
+prize	O	0.0
+in	O	0.0
+a	O	0.0
+competition	O	0.0
+announced	O	0.0
+the	O	0.0
+Russian	B-misc	0.12
+Imperial	B-university	0.27
+Academy	I-university	1.98
+of	I-university	1.19
+Sciences	I-university	2.07	SNEHA
+and	I-university	0.99
+Arts	I-university	3.17	SNEHA
+for	O	0.01
+models	O	0.02
+he	O	0.0
+built	O	0.0
+of	O	0.01
+the	O	0.0
+human	O	0.07
+vocal	B-misc	1.75
+tract	I-misc	0.02
+that	O	0.0
+could	O	0.0
+produce	O	0.0
+the	O	0.0
+five	O	0.0
+long	O	0.0
+vowel	B-misc	1.87
+sounds	I-misc	2.01	SNEHA
+(	O	0.0
+in	O	0.0
+International	B-misc	1.95
+Phonetic	I-misc	1.18
+Alphabet	I-misc	0.53
+notation	O	1.22
+:	O	0.06
+
+New	O	1.78
+features	O	1.66
+in	O	0.04
+Office	B-product	2.39	SNEHA
+XP	I-product	0.69
+include	O	0.47
+smart	B-misc	0.8
+tags	I-misc	2.45	SNEHA
+,	O	0.01
+a	O	0.0
+selection-based	B-misc	0.97
+search	I-misc	1.12
+feature	I-misc	1.18
+that	O	0.0
+recognizes	O	0.0
+different	O	0.0
+types	O	0.01
+of	O	0.01
+text	O	0.83
+in	O	0.0
+a	O	0.0
+document	O	0.0
+so	O	0.0
+that	O	0.0
+users	O	0.0
+can	O	0.0
+perform	O	0.0
+additional	O	0.0
+actions	O	0.0
+;	O	0.0
+a	O	0.0
+task	B-misc	0.0
+pane	I-misc	1.79
+interface	I-misc	0.0
+that	O	0.0
+consolidates	O	1.54
+popular	O	0.0
+menu	O	0.91
+bar	O	0.01
+commands	O	1.25
+on	O	0.0
+the	O	0.0
+right	O	0.0
+side	O	0.0
+of	O	0.02
+the	O	0.01
+screen	O	0.16
+to	O	0.0
+facilitate	O	0.01
+quick	O	0.0
+access	O	0.0
+to	O	0.0
+them	O	0.0
+;	O	0.0
+new	O	0.0
+document	B-task	0.0
+collaboration	I-task	1.57
+capabilities	O	1.77
+,	O	0.0
+support	O	0.0
+for	O	0.0
+MSN	B-product	1.55
+Groups	I-product	2.87	SNEHA
+and	O	0.01
+SharePoint	B-product	2.7	SNEHA
+;	O	0.02
+and	O	0.0
+integrated	O	0.02
+handwriting	B-task	2.18	SNEHA
+recognition	I-task	2.26	SNEHA
+and	O	0.01
+speech	B-task	1.61
+recognition	I-task	2.34	SNEHA
+capabilities	O	3.74	SNEHA
+.	O	0.03
+
+In	O	0.01
+many	O	0.02
+applications	O	0.0
+the	O	0.0
+units	O	0.0
+of	O	0.0
+these	O	0.0
+networks	O	0.74
+apply	O	1.5
+a	O	0.0
+sigmoid	B-algorithm	2.94	SNEHA
+function	I-algorithm	1.89
+as	O	0.01
+an	O	0.0
+activation	B-misc	0.0
+function	I-misc	0.25
+.	O	0.0
+
+In	O	0.01
+2001	O	0.02
+,	O	0.0
+Mehler	B-researcher	2.83	SNEHA
+was	O	0.0
+elected	O	0.0
+a	O	0.0
+foreign	O	0.0
+honorary	O	0.0
+member	O	0.0
+of	O	0.01
+the	O	0.0
+American	B-organisation	0.87
+Academy	I-organisation	0.23
+of	I-organisation	1.67
+Arts	I-organisation	1.01
+and	I-organisation	0.45
+Sciences	I-organisation	0.89
+,	O	0.07
+and	O	0.02
+in	O	0.02
+2003	O	0.0
+,	O	0.0
+he	O	0.0
+was	O	0.0
+elected	O	0.0
+a	O	0.0
+Fellow	O	0.0
+of	O	0.01
+the	O	0.0
+American	B-organisation	0.86
+Association	I-organisation	0.06
+for	I-organisation	1.11
+the	I-organisation	0.88
+Advancement	I-organisation	1.69
+of	I-organisation	0.77
+Science	I-organisation	0.14
+.	O	0.34
+
+The	O	0.09
+extension	O	0.01
+of	O	0.02
+this	O	0.0
+concept	O	0.0
+to	O	0.0
+non-binary	B-task	1.71
+classifications	I-task	1.49
+yields	O	0.0
+the	O	0.0
+confusion	B-metrics	0.01
+matrix	I-metrics	2.05	SNEHA
+.	O	0.01
+
+An	O	0.39
+updated	O	0.01
+measurement	O	0.25
+noise	O	0.0
+variance	O	2.41	SNEHA
+estimate	O	0.02
+can	O	0.0
+be	O	0.0
+obtained	O	0.0
+from	O	0.0
+the	O	0.0
+maximum	B-algorithm	0.01
+likelihood	I-algorithm	2.1	SNEHA
+calculation	O	0.01
+
+In	O	0.01
+machine	B-field	1.89
+learning	I-field	1.29
+,	O	0.01
+the	O	0.0
+perceptron	B-algorithm	0.01
+is	O	0.0
+an	O	0.0
+algorithm	O	1.65
+for	O	0.0
+supervised	B-field	2.47	SNEHA
+learning	I-field	1.41
+of	O	0.01
+binary	B-task	2.49	SNEHA
+classification	I-task	3.79	SNEHA
+.	O	0.03
+
+She	O	0.0
+has	O	0.0
+also	O	0.0
+served	O	0.0
+as	O	0.0
+Area	O	1.11
+Chair	O	0.09
+of	O	1.13
+several	O	0.25
+machine	B-field	0.54
+learning	I-field	0.7
+and	O	0.01
+vision	B-field	1.34
+conferences	O	0.01
+including	O	0.0
+Conference	B-conference	1.1
+on	I-conference	0.62
+Neural	I-conference	0.18
+Information	I-conference	0.56
+Processing	I-conference	2.81	SNEHA
+Systems	I-conference	3.16	SNEHA
+,	O	0.01
+International	B-conference	1.11
+Conference	I-conference	1.39
+on	I-conference	1.29
+Learning	I-conference	2.86	SNEHA
+Representations	I-conference	2.85	SNEHA
+,	O	0.01
+Conference	B-conference	2.03	SNEHA
+on	I-conference	1.09
+Computer	I-conference	2.68	SNEHA
+Vision	I-conference	3.62	SNEHA
+and	I-conference	1.39
+Pattern	I-conference	3.18	SNEHA
+Recognition	I-conference	2.83	SNEHA
+,	O	0.02
+International	B-conference	1.14
+Conference	I-conference	1.48
+on	I-conference	1.33
+Computer	I-conference	3.4	SNEHA
+Vision	I-conference	3.4	SNEHA
+,	O	0.52
+and	O	0.01
+European	B-conference	1.16
+Conference	I-conference	1.38
+on	I-conference	1.31
+Computer	I-conference	3.25	SNEHA
+Vision	I-conference	3.62	SNEHA
+.	O	0.11
+
+The	O	0.09
+condensation	B-algorithm	1.76
+algorithm	I-algorithm	2.66	SNEHA
+has	O	0.0
+also	O	0.0
+been	O	0.0
+used	O	0.0
+for	O	0.0
+facial	B-product	1.75
+recognition	I-product	1.84
+system	I-product	0.05
+in	O	0.0
+a	O	0.0
+video	O	0.03
+sequence	O	2.17	SNEHA
+.	O	0.0
+
+Information	B-task	1.42
+Dissemination	I-task	0.72
+is	O	0.15
+also	O	0.0
+part	O	0.02
+of	O	0.01
+ELRA	B-conference	2.24	SNEHA
+'s	O	0.01
+missions	O	0.02
+which	O	0.0
+is	O	0.0
+carried	O	0.0
+through	O	0.02
+both	O	0.0
+the	O	0.0
+organisation	O	0.0
+of	O	0.02
+the	O	0.01
+conference	O	0.02
+LREC	B-conference	0.6
+and	O	0.0
+the	O	0.0
+Language	B-conference	1.14
+Resources	I-conference	0.08
+and	I-conference	0.75
+Evaluation	I-conference	2.93	SNEHA
+Journal	I-conference	0.26
+edited	O	0.68
+by	O	0.0
+Springer	B-conference	2.16	SNEHA
+.	O	0.04
+
+In	O	0.01
+linear	B-field	3.76	SNEHA
+time-invariant	I-field	1.69
+(	I-field	0.0
+LTI	I-field	1.27
+)	I-field	0.02
+system	I-field	0.03
+theory	I-field	0.41
+,	O	0.0
+control	B-field	0.0
+theory	I-field	1.29
+,	O	0.0
+and	O	0.0
+in	O	0.01
+digital	B-field	0.0
+signal	I-field	0.08
+processing	I-field	3.06	SNEHA
+or	O	0.01
+signal	B-field	0.01
+processing	I-field	3.64	SNEHA
+,	O	0.0
+the	O	0.0
+relationship	O	0.02
+between	O	0.0
+the	O	0.0
+input	O	0.01
+signal	O	0.03
+,	O	0.0
+math	O	0.01
+\	O	0.0
+displaystyle	O	1.87
+x	O	0.0
+(	O	0.0
+t	O	0.01
+)	O	0.02
+/	O	0.0
+math	O	0.01
+,	O	0.0
+to	O	0.0
+output	O	0.0
+signal	O	0.03
+,	O	0.0
+math	O	0.01
+\	O	0.0
+displaystyle	O	1.88
+y	O	0.01
+(	O	0.0
+t	O	0.01
+)	O	0.02
+/	O	0.0
+math	O	0.01
+,	O	0.0
+of	O	0.01
+an	O	0.0
+LTI	B-field	1.17
+system	I-field	0.11
+is	O	0.0
+governed	O	1.28
+by	O	0.0
+a	O	0.0
+convolution	B-algorithm	0.89
+operation	O	0.0
+:	O	0.0
+
+Due	O	0.0
+to	O	0.0
+its	O	0.0
+generality	O	1.16
+,	O	0.0
+the	O	0.0
+field	O	0.05
+is	O	0.0
+studied	O	0.01
+in	O	0.0
+many	O	0.01
+other	O	0.0
+disciplines	O	1.45
+,	O	0.0
+such	O	0.0
+as	O	0.0
+game	B-field	0.0
+theory	I-field	0.32
+,	O	0.01
+control	B-field	0.0
+theory	I-field	1.27
+,	O	0.01
+operations	B-field	0.0
+research	I-field	0.0
+,	O	0.0
+information	B-field	0.44
+theory	I-field	1.69
+,	O	0.04
+simulation-based	B-field	2.35	SNEHA
+optimization	I-field	3.45	SNEHA
+,	O	0.0
+multi-agent	B-product	2.21	SNEHA
+systems	I-product	0.08
+,	O	0.0
+swarm	B-field	2.59	SNEHA
+intelligence	I-field	0.94
+,	O	0.0
+statistics	B-field	0.0
+and	O	0.0
+genetic	B-algorithm	0.01
+algorithm	I-algorithm	2.3	SNEHA
+s	O	1.55
+.	O	0.0
+
+Stochastic	B-algorithm	2.64	SNEHA
+gradient	I-algorithm	0.37
+descent	I-algorithm	1.5
+is	O	0.0
+a	O	0.0
+popular	O	0.0
+algorithm	O	0.32
+for	O	0.0
+training	O	0.0
+a	O	0.0
+wide	O	0.0
+range	O	0.0
+of	O	0.01
+models	O	0.02
+in	O	0.0
+machine	B-field	1.36
+learning	I-field	1.18
+,	O	0.01
+including	O	0.0
+(	O	0.0
+linear	O	3.26	SNEHA
+)	O	0.05
+support	B-algorithm	0.0
+vector	I-algorithm	0.74
+machine	I-algorithm	1.71
+s	O	0.61
+,	O	0.0
+logistic	B-algorithm	1.41
+regression	I-algorithm	0.2
+(	O	0.0
+see	O	0.0
+,	O	0.0
+e.g.	O	1.73
+,	O	0.0
+Vowpal	B-algorithm	2.6	SNEHA
+Wabbit	I-algorithm	2.68	SNEHA
+)	O	0.02
+and	O	0.0
+graphical	B-algorithm	0.07
+model	I-algorithm	1.21
+s.Jenny	B-researcher	1.68
+Rose	I-researcher	2.31	SNEHA
+Finkel	I-researcher	0.31
+,	O	0.02
+Alex	B-researcher	0.0
+Kleeman	I-researcher	0.02
+,	O	0.0
+Christopher	B-researcher	0.04
+D.	I-researcher	0.0
+Manning	I-researcher	0.93
+(	O	0.0
+2008	O	0.13
+)	O	0.0
+.	O	0.0
+
+In	O	0.01
+August	O	0.01
+2011	O	0.0
+,	O	0.0
+it	O	0.0
+was	O	0.0
+announced	O	0.0
+that	O	0.0
+Hitachi	B-organisation	1.34
+would	O	0.0
+donate	O	0.63
+an	O	0.0
+electron	B-product	0.78
+microscope	I-product	1.9
+to	O	0.0
+each	O	0.0
+of	O	0.01
+five	O	0.0
+universities	O	0.0
+in	O	0.0
+Indonesia	B-country	0.02
+(	O	0.04
+the	O	0.0
+University	B-university	3.14	SNEHA
+of	I-university	2.05	SNEHA
+North	I-university	0.68
+Sumatra	I-university	2.0	SNEHA
+in	O	0.02
+Medan	B-location	2.07	SNEHA
+,	O	0.0
+the	O	0.0
+Indonesian	B-university	1.31
+Christian	I-university	1.1
+University	I-university	3.6	SNEHA
+in	O	0.7
+Jakarta	B-location	0.04
+,	O	0.01
+Padjadjaran	B-university	2.62	SNEHA
+University	I-university	3.6	SNEHA
+in	O	0.32
+Bandung	B-location	1.54
+,	O	0.04
+Jenderal	B-university	2.94	SNEHA
+Soedirman	I-university	1.81
+University	I-university	3.74	SNEHA
+in	O	0.71
+Purwokerto	B-location	1.53
+and	O	0.07
+Muhammadiyah	B-university	2.8	SNEHA
+University	I-university	3.77	SNEHA
+in	O	0.16
+Malang	B-location	2.03	SNEHA
+)	O	0.03
+.	O	0.0
+
+Optimization	B-field	2.64	SNEHA
+techniques	O	0.02
+of	O	0.0
+operations	B-field	0.0
+research	I-field	0.0
+such	O	0.0
+as	O	0.0
+linear	B-algorithm	3.27	SNEHA
+programming	I-algorithm	1.76
+or	O	0.0
+dynamic	B-algorithm	0.0
+programming	I-algorithm	0.13
+are	O	0.0
+often	O	0.0
+impractical	O	1.42
+for	O	0.0
+large	O	0.0
+scale	O	0.01
+software	B-field	0.0
+engineering	I-field	0.0
+problems	O	0.0
+because	O	0.0
+of	O	0.01
+their	O	0.0
+computational	B-metrics	0.01
+complexity	I-metrics	1.31
+.	O	0.0
+
+Sensitivity	B-metrics	2.64	SNEHA
+is	O	0.0
+not	O	0.0
+the	O	0.0
+same	O	0.0
+as	O	0.0
+the	O	0.0
+precision	B-metrics	1.51
+or	O	0.03
+positive	B-metrics	0.0
+predictive	I-metrics	1.07
+value	I-metrics	0.0
+(	O	0.0
+ratio	O	0.01
+of	O	0.01
+TRUE	B-metrics	1.04
+positives	I-metrics	0.78
+to	O	0.0
+combined	O	0.0
+TRUE	B-metrics	2.21	SNEHA
+and	I-metrics	0.02
+FALSE	I-metrics	2.28	SNEHA
+positives	I-metrics	1.23
+)	O	0.02
+,	O	0.0
+which	O	0.0
+is	O	0.0
+as	O	0.0
+much	O	0.0
+a	O	0.0
+statement	O	0.0
+about	O	0.01
+the	O	0.0
+proportion	O	0.13
+of	O	0.04
+actual	O	0.0
+positives	O	1.97
+in	O	0.0
+the	O	0.01
+population	O	0.0
+being	O	0.0
+tested	O	0.0
+as	O	0.0
+it	O	0.0
+is	O	0.0
+about	O	0.01
+the	O	0.0
+test	O	0.01
+.	O	0.0
+
+The	O	0.09
+screenplay	O	1.76
+by	O	0.0
+Hampton	B-person	1.75
+Fancher	I-person	1.73
+!	O	0.37
+--	O	0.11
+Not	O	0.12
+titled	O	1.83
+Android	B-product	1.23
+initially	O	0.0
+-	O	0.0
+See	O	1.78
+Sammon	B-person	2.96	SNEHA
+,	O	0.0
+pp.	O	0.83
+32	O	0.0
+and	O	0.0
+38	O	0.0
+for	O	0.0
+explanation	O	0.01
+--	O	0.02
+was	O	0.0
+optioned	O	1.62
+in	O	0.01
+1977	O	0.01
+.	O	0.0
+Sammon	B-person	1.18
+,	O	0.0
+pp.	O	1.27
+23-30	O	1.16
+Producer	O	0.38
+Michael	B-person	0.18
+Deeley	I-person	0.06
+became	O	0.05
+interested	O	0.01
+in	O	0.0
+Fancher	B-person	1.49
+'s	O	0.0
+draft	O	0.01
+and	O	0.0
+convinced	O	0.01
+director	O	0.0
+Ridley	B-person	1.55
+Scott	I-person	0.3
+to	O	0.01
+film	O	0.0
+it	O	0.0
+.	O	0.0
+
+Text	B-field	2.64	SNEHA
+analysis	I-field	3.22	SNEHA
+involves	O	0.03
+information	B-task	1.74
+retrieval	I-task	1.95
+,	O	0.0
+lexical	B-task	2.5	SNEHA
+analysis	I-task	3.28	SNEHA
+to	O	0.01
+study	O	0.0
+word	B-misc	0.07
+frequency	I-misc	1.91
+distributions	I-misc	1.99
+,	O	0.0
+pattern	B-field	1.52
+recognition	I-field	1.51
+,	O	0.0
+tagging	B-task	0.89
+/	I-task	0.0
+annotation	I-task	2.49	SNEHA
+,	O	0.0
+information	B-task	0.81
+extraction	I-task	1.06
+,	O	0.0
+data	B-field	0.01
+mining	I-field	0.02
+techniques	O	0.03
+including	O	0.0
+link	B-task	0.0
+and	I-task	0.0
+association	I-task	0.0
+analysis	I-task	2.22	SNEHA
+,	O	0.0
+visualization	B-task	0.02
+,	O	0.0
+and	O	0.0
+predictive	B-task	2.08	SNEHA
+analytics	I-task	1.5
+.	O	0.0
+
+Several	O	0.0
+metrics	O	0.0
+use	O	0.0
+WordNet	B-product	1.3
+,	O	0.0
+a	O	0.0
+manually	O	0.94
+constructed	O	1.8
+lexical	O	1.1
+database	O	1.07
+of	O	0.01
+English	B-misc	0.06
+words	O	0.02
+.	O	0.0
+
+The	O	0.09
+system	O	0.15
+uses	O	0.0
+a	O	0.0
+combination	O	0.0
+of	O	0.01
+techniques	O	0.05
+from	O	0.0
+computational	B-field	0.0
+linguistics	I-field	0.04
+,	O	0.0
+information	B-task	1.01
+retrieval	I-task	1.31
+and	O	0.0
+knowledge	B-task	0.01
+representation	I-task	1.04
+for	I-task	0.01
+finding	I-task	0.0
+answers	I-task	0.0
+.	O	0.0
+
+As	O	0.01
+a	O	0.0
+performance	O	0.0
+metric	O	0.25
+,	O	0.0
+the	O	0.01
+uncertainty	B-metrics	0.02
+coefficient	I-metrics	3.47	SNEHA
+has	O	0.0
+the	O	0.0
+advantage	O	0.0
+over	O	0.0
+simple	O	0.01
+accuracy	B-metrics	0.0
+in	O	0.0
+that	O	0.0
+it	O	0.0
+is	O	0.0
+not	O	0.0
+affected	O	0.0
+by	O	0.0
+the	O	0.0
+relative	O	0.0
+sizes	O	1.91
+of	O	0.02
+the	O	0.01
+different	O	0.0
+classes	O	1.23
+.	O	0.0
+
+Researchers	O	0.0
+have	O	0.0
+attempted	O	0.0
+a	O	0.0
+number	O	0.0
+of	O	0.01
+methods	O	1.92
+such	O	0.01
+as	O	0.0
+optical	B-algorithm	1.02
+flow	I-algorithm	0.04
+,	O	0.0
+Kalman	B-algorithm	2.41	SNEHA
+filtering	I-algorithm	2.82	SNEHA
+,	O	0.0
+Hidden	B-algorithm	2.33	SNEHA
+Markov	I-algorithm	0.25
+model	I-algorithm	0.15
+s	O	2.77	SNEHA
+,	O	0.0
+etc	O	2.31	SNEHA
+.	O	0.0
+
+She	O	0.0
+has	O	0.0
+held	O	0.0
+the	O	0.0
+positions	O	0.0
+of	O	0.0
+President	O	0.02
+,	O	0.0
+Vice	O	0.0
+President	O	0.0
+,	O	0.0
+and	O	0.0
+Secretary-Treasurer	O	1.19
+of	O	0.03
+the	O	0.01
+Association	B-conference	1.94
+for	I-conference	1.02
+Computational	I-conference	0.23
+Linguistics	I-conference	0.3
+and	O	0.79
+has	O	0.0
+been	O	0.0
+a	O	0.0
+board	O	0.0
+member	O	0.0
+and	O	0.0
+secretary	O	0.0
+of	O	0.0
+the	O	0.0
+board	O	0.04
+of	O	0.02
+the	O	0.0
+Computing	B-organisation	1.28
+Research	I-organisation	0.35
+Association	I-organisation	0.05
+.	O	0.95
+
+Like	O	0.02
+other	O	0.0
+similar	O	0.0
+languages	O	0.0
+such	O	0.0
+as	O	0.0
+APL	B-programlang	1.2
+and	O	0.0
+MATLAB	B-product	2.61	SNEHA
+,	O	0.02
+R	B-programlang	3.84	SNEHA
+supports	O	3.38	SNEHA
+matrix	B-misc	1.22
+arithmetic	I-misc	1.08
+.	O	0.0
+
+On	O	0.0
+7	O	0.0
+June	O	0.01
+2014	O	0.0
+,	O	0.0
+in	O	0.0
+a	O	0.0
+Turing	B-misc	0.91
+test	I-misc	0.0
+competition	O	0.0
+at	O	0.01
+the	O	0.01
+Royal	B-organisation	0.79
+Society	I-organisation	0.29
+,	O	0.09
+organised	O	0.0
+by	O	0.0
+Kevin	B-researcher	0.05
+Warwick	I-researcher	0.03
+of	O	0.03
+the	O	0.01
+University	B-university	3.23	SNEHA
+of	I-university	2.07	SNEHA
+Reading	I-university	1.41
+to	O	0.0
+mark	O	0.0
+the	O	0.0
+60th	B-misc	0.0
+anniversary	I-misc	0.0
+of	I-misc	0.02
+Turing	I-misc	2.2	SNEHA
+'s	I-misc	0.02
+death	I-misc	0.0
+,	O	0.0
+Goostman	B-researcher	2.58	SNEHA
+won	O	0.0
+after	O	0.0
+33	O	0.0
+%	O	0.0
+of	O	0.01
+the	O	0.01
+judges	O	0.0
+were	O	0.0
+convinced	O	0.0
+that	O	0.0
+the	O	0.0
+bot	O	1.13
+was	O	0.0
+human	O	0.0
+.	O	0.0
+
+A	O	0.02
+collaborative	B-product	1.77
+robot	I-product	1.84
+or	O	0.02
+cobot	B-product	1.86
+is	O	0.01
+a	O	0.0
+robot	O	2.17	SNEHA
+that	O	0.0
+can	O	0.0
+safely	O	0.0
+and	O	0.0
+effectively	O	0.0
+interact	O	0.96
+with	O	0.0
+human	O	0.01
+workers	O	0.0
+while	O	0.0
+performing	O	0.0
+simple	O	0.01
+industrial	O	0.0
+tasks	O	0.01
+.	O	0.0
+
+This	O	0.0
+overall	O	0.0
+framework	O	0.01
+has	O	0.0
+been	O	0.0
+applied	O	0.02
+to	O	0.0
+a	O	0.0
+large	O	0.0
+variety	O	0.0
+of	O	0.0
+problems	O	0.0
+in	O	0.0
+computer	B-field	0.78
+vision	I-field	0.35
+,	O	0.0
+including	O	0.0
+feature	B-task	0.06
+detection	I-task	1.34
+,	O	0.0
+feature	B-task	0.15
+classification	I-task	3.5	SNEHA
+,	O	0.03
+image	B-task	2.63	SNEHA
+segmentation	I-task	0.28
+,	O	0.0
+image	B-task	1.73
+matching	I-task	0.02
+,	O	0.0
+motion	B-task	0.0
+estimation	I-task	2.77	SNEHA
+,	O	0.0
+computation	B-task	0.01
+of	I-task	0.02
+shape	I-task	0.01
+cues	I-task	1.53
+and	O	0.0
+object	B-task	0.23
+recognition	I-task	2.3	SNEHA
+.	O	0.0
+
+In	O	0.01
+many	O	0.02
+practical	O	0.0
+applications	O	0.0
+,	O	0.0
+parameter	B-task	2.49	SNEHA
+estimation	I-task	3.29	SNEHA
+for	O	0.0
+naive	B-algorithm	2.44	SNEHA
+Bayes	I-algorithm	2.35	SNEHA
+models	I-algorithm	0.15
+uses	O	0.06
+the	O	0.0
+method	O	0.0
+of	O	0.01
+maximum	B-algorithm	0.0
+likelihood	I-algorithm	2.33	SNEHA
+;	O	0.01
+other	O	0.0
+words	O	0.0
+,	O	0.0
+one	O	0.0
+can	O	0.0
+work	O	0.0
+with	O	0.0
+the	O	0.0
+naive	B-algorithm	1.24
+Bayes	I-algorithm	1.74
+model	O	2.36	SNEHA
+without	O	0.03
+accepting	O	0.0
+Bayesian	B-algorithm	1.4
+probability	I-algorithm	0.01
+or	O	0.0
+using	O	0.0
+any	O	0.0
+Bayesian	B-algorithm	1.46
+methods	I-algorithm	0.68
+.	O	0.01
+
+Brothers	O	1.66
+-	O	0.02
+Victor	B-researcher	1.86
+Gershevich	I-researcher	1.54
+Katz	I-researcher	0.09
+,	O	0.0
+American	B-misc	0.51
+mathematician	O	0.44
+,	O	0.11
+professor	O	0.02
+at	O	0.01
+the	O	0.01
+Massachusetts	B-university	0.69
+Institute	I-university	1.64
+of	I-university	0.61
+Technology	I-university	2.32	SNEHA
+;	O	0.3
+Mikhail	B-researcher	3.12	SNEHA
+Gershevich	I-researcher	3.15	SNEHA
+Katz	I-researcher	0.04
+,	O	0.0
+Israeli	B-misc	0.05
+mathematician	O	0.3
+,	O	0.06
+graduate	O	3.42	SNEHA
+of	O	1.4
+Harvard	B-university	2.23	SNEHA
+and	O	0.85
+Columbia	B-university	2.15	SNEHA
+(	O	0.23
+Ph.D.	B-misc	2.23	SNEHA
+,	O	0.04
+1984	O	0.01
+)	O	0.01
+universities	O	0.0
+,	O	0.0
+professor	O	0.01
+at	O	0.01
+Bar-Ilan	B-university	1.37
+University	I-university	3.68	SNEHA
+,	O	0.16
+author	O	0.01
+of	O	0.0
+the	O	0.0
+monograph	O	1.17
+Systolic	B-misc	0.67
+Geometry	I-misc	1.22
+and	I-misc	0.74
+Topology	I-misc	2.38	SNEHA
+(	O	0.19
+Mathematical	B-misc	1.91
+Surveys	I-misc	1.49
+and	I-misc	0.32
+Monographs	I-misc	2.27	SNEHA
+,	O	0.08
+vol	O	0.0
+.	O	0.0
+
+In	O	0.01
+2000	O	0.32
+Manuel	B-person	0.06
+Toharia	I-person	0.03
+,	O	0.0
+a	O	0.0
+speaker	O	0.0
+at	O	0.01
+previous	O	0.01
+Campus	B-conference	0.91
+Parties	I-conference	2.52	SNEHA
+,	O	0.01
+and	O	0.0
+director	O	0.0
+of	O	0.02
+Príncipe	B-organisation	2.16	SNEHA
+Felipe	I-organisation	0.38
+'s	I-organisation	0.07
+Museum	I-organisation	2.18	SNEHA
+of	I-organisation	0.03
+Sciences	I-organisation	0.23
+in	O	0.03
+Valencia	B-location	0.04
+'s	I-location	0.01
+City	I-location	1.22
+of	I-location	1.09
+arts	I-location	1.9
+and	I-location	0.71
+Sciences	I-location	0.59
+suggested	O	0.01
+that	O	0.0
+Ragageles	B-person	1.3
+expand	O	0.0
+and	O	0.0
+make	O	0.0
+the	O	0.0
+event	O	0.0
+more	O	0.0
+international	O	0.0
+by	O	0.0
+moving	O	0.29
+it	O	0.0
+to	O	0.0
+the	O	0.0
+famous	O	0.0
+museum	O	1.11
+.	O	0.01
+
+Within	O	2.64	SNEHA
+20	O	0.0
+minutes	O	0.0
+,	O	0.0
+a	O	0.0
+facial	B-product	1.57
+recognition	I-product	2.61	SNEHA
+system	I-product	0.05
+identifies	O	1.28
+personal	O	0.0
+information	O	0.59
+including	O	0.01
+family	O	0.0
+name	O	0.0
+,	O	0.0
+ID	O	1.99
+number	O	0.0
+and	O	0.0
+address	O	0.0
+which	O	0.0
+are	O	0.0
+displayed	O	0.0
+in	O	0.0
+the	O	0.01
+street	O	0.01
+on	O	0.01
+an	O	0.0
+advertising	O	0.0
+screen	O	0.0
+.	O	0.0
+
+Recent	O	0.01
+research	O	0.0
+has	O	0.0
+increasingly	O	0.0
+focused	O	0.0
+on	O	0.0
+unsupervised	B-field	1.29
+learning	I-field	1.9
+and	O	0.0
+semi-supervised	B-field	2.04	SNEHA
+learning	I-field	1.88
+algorithms	O	0.02
+.	O	0.0
+
+Computation	O	2.64	SNEHA
+of	O	0.03
+this	O	0.0
+example	O	0.0
+using	O	0.0
+Python	B-programlang	1.02
+code	O	1.29
+:	O	0.1
+
+Today	O	0.0
+,	O	0.0
+however	O	0.0
+,	O	0.0
+many	O	0.0
+aspects	O	0.88
+of	O	0.01
+speech	B-task	0.31
+recognition	I-task	2.46	SNEHA
+have	O	0.01
+been	O	0.0
+taken	O	0.0
+over	O	0.0
+by	O	0.0
+a	O	0.0
+deep	B-field	0.15
+learning	I-field	1.32
+method	O	0.01
+called	O	0.0
+Long	B-algorithm	1.6
+short-term	I-algorithm	0.75
+memory	I-algorithm	1.78
+(	O	0.0
+LSTM	B-algorithm	1.52
+)	O	0.01
+,	O	0.0
+a	O	0.0
+recurrent	B-algorithm	2.46	SNEHA
+neural	I-algorithm	2.11	SNEHA
+network	I-algorithm	2.41	SNEHA
+published	O	0.01
+by	O	0.0
+Sepp	B-researcher	1.28
+Hochreiter	I-researcher	0.79
+&	O	0.94
+Jürgen	B-researcher	2.78	SNEHA
+Schmidhuber	I-researcher	2.64	SNEHA
+in	O	0.01
+1997	O	0.0
+.	O	0.0
+
+In	O	0.01
+preliminary	O	0.0
+experimental	O	0.0
+results	O	0.0
+with	O	0.0
+noisy	O	0.0
+datasets	O	0.96
+,	O	0.0
+BrownBoost	B-algorithm	2.62	SNEHA
+outperformed	O	2.73	SNEHA
+AdaBoost	B-algorithm	1.19
+'	O	0.01
+s	O	0.06
+generalization	O	1.52
+error	O	0.77
+;	O	0.01
+however	O	0.0
+,	O	0.0
+LogitBoost	B-algorithm	2.28	SNEHA
+performed	O	0.01
+as	O	0.0
+well	O	0.0
+as	O	0.0
+BrownBoost	B-algorithm	1.11
+.	O	0.01
+
+Evolutionary	B-algorithm	2.64	SNEHA
+programming	I-algorithm	1.23
+was	O	0.0
+introduced	O	0.0
+by	O	0.0
+Lawrence	B-researcher	0.03
+J.	I-researcher	0.01
+Fogel	I-researcher	1.36
+in	O	0.0
+the	O	0.01
+US	B-country	1.35
+,	O	0.02
+while	O	0.0
+John	B-researcher	0.01
+Henry	I-researcher	0.01
+Holland	I-researcher	0.15
+called	O	0.0
+his	O	0.0
+method	O	0.0
+a	O	0.0
+genetic	B-algorithm	0.01
+algorithm	I-algorithm	2.03	SNEHA
+.	O	0.0
+
+The	O	0.09
+back-of-the-envelope	O	1.76
+calculations	O	1.48
+by	O	0.0
+Doug	B-researcher	0.09
+,	O	0.01
+Alan	B-researcher	0.01
+,	O	0.0
+and	O	0.0
+their	O	0.0
+colleagues	O	0.0
+(	O	0.0
+including	O	0.0
+Marvin	B-researcher	0.58
+Minsky	I-researcher	2.12	SNEHA
+,	O	0.01
+Allen	B-researcher	0.02
+Newell	I-researcher	0.49
+,	O	0.02
+Edward	B-researcher	0.03
+Feigenbaum	I-researcher	0.05
+,	O	0.0
+and	O	0.0
+John	B-researcher	0.01
+McCarthy	I-researcher	0.0
+)	O	0.02
+indicated	O	0.0
+that	O	0.0
+that	O	0.0
+effort	O	0.0
+would	O	0.0
+require	O	0.0
+between	O	0.0
+1000	O	0.06
+and	O	0.01
+3000	O	0.03
+person-years	O	1.47
+of	O	0.01
+effort	O	0.0
+,	O	0.0
+far	O	0.0
+beyond	O	0.0
+the	O	0.0
+standard	O	0.01
+academic	O	0.01
+project	O	0.0
+model	O	0.05
+.	O	0.0
+
+Common	O	2.64	SNEHA
+criteria	O	2.4	SNEHA
+are	O	0.0
+the	O	0.0
+Mean	B-metrics	1.21
+Squared	I-metrics	2.02	SNEHA
+Error	I-metrics	1.26
+criterion	O	1.12
+implemented	O	1.55
+in	O	0.01
+MSECriterion	B-metrics	1.56
+and	O	0.01
+the	O	0.01
+cross-entropy	B-metrics	1.4
+criterion	I-metrics	1.03
+implemented	O	1.46
+in	O	0.01
+NLLCriterion	B-metrics	1.54
+.	O	0.0
+
+Zurada	B-researcher	2.64	SNEHA
+has	O	0.0
+served	O	0.0
+the	O	0.0
+engineering	O	0.0
+profession	O	0.0
+as	O	0.0
+a	O	0.0
+long-time	O	0.06
+volunteer	O	1.79
+of	O	0.01
+IEEE	B-organisation	1.24
+:	O	0.19
+as	O	0.0
+2014	B-misc	0.0
+IEEE	I-misc	1.85
+Vice-President-Technical	I-misc	2.93	SNEHA
+Activities	I-misc	2.66	SNEHA
+(	O	0.03
+TAB	O	1.67
+Chair	O	0.15
+)	O	0.23
+,	O	0.0
+as	O	0.0
+President	O	0.0
+of	O	0.01
+IEEE	B-conference	1.33
+Computational	I-conference	0.36
+Intelligence	I-conference	1.87
+Society	I-conference	2.89	SNEHA
+in	O	0.06
+2004-05	O	2.15	SNEHA
+and	O	0.0
+the	O	0.0
+ADCOM	B-conference	1.11
+member	O	0.02
+in	O	0.01
+2009-14	O	2.16	SNEHA
+,	O	0.0
+2016-18	O	2.56	SNEHA
+and	O	0.0
+earlier	O	0.0
+years	O	0.0
+.	O	0.0
+
+In	O	0.01
+general	O	0.08
+,	O	0.0
+computational	B-field	0.01
+linguistics	I-field	0.02
+draws	O	0.0
+upon	O	0.0
+the	O	0.0
+involvement	O	0.02
+of	O	0.09
+linguists	O	1.62
+,	O	0.2
+computer	B-field	1.49
+science	I-field	1.99
+,	O	0.0
+experts	O	0.01
+in	O	0.0
+artificial	B-field	2.12	SNEHA
+intelligence	I-field	2.45	SNEHA
+,	O	0.0
+mathematicians	O	2.38	SNEHA
+,	O	0.0
+logicians	O	2.65	SNEHA
+,	O	0.0
+philosophers	O	2.59	SNEHA
+,	O	0.0
+cognitive	O	2.6	SNEHA
+scientists	O	0.01
+,	O	0.0
+cognitive	O	2.62	SNEHA
+psychologists	O	2.78	SNEHA
+,	O	0.0
+psycholinguists	O	2.34	SNEHA
+,	O	0.0
+anthropologists	O	2.59	SNEHA
+and	O	0.0
+neuroscientists	O	1.96
+,	O	0.0
+among	O	0.0
+others	O	0.0
+.	O	0.0
+
+Techniques	O	2.64	SNEHA
+such	O	0.0
+as	O	0.0
+dynamic	B-algorithm	0.0
+Markov	I-algorithm	0.7
+Networks	I-algorithm	0.14
+,	O	0.34
+Convolutional	B-algorithm	2.1	SNEHA
+neural	I-algorithm	1.72
+network	I-algorithm	1.79
+and	O	0.01
+Long	B-algorithm	0.5
+short-term	I-algorithm	0.7
+memory	I-algorithm	2.37	SNEHA
+are	O	0.0
+often	O	0.0
+employed	O	0.0
+to	O	0.0
+exploit	O	1.41
+the	O	0.01
+inter-frame	O	1.65
+correlations	O	0.59
+.	O	0.03
+
+Unimate	B-product	0.02
+was	O	0.0
+the	O	0.0
+first	O	0.0
+industrial	B-product	0.0
+robot	I-product	2.05	SNEHA
+,	O	0.0
+
+Together	O	0.0
+with	O	0.0
+Geoffrey	B-researcher	0.07
+Hinton	I-researcher	0.35
+and	O	0.47
+Yann	B-researcher	2.7	SNEHA
+LeCun	I-researcher	3.32	SNEHA
+,	O	0.01
+Bengio	B-researcher	2.7	SNEHA
+won	O	0.0
+the	O	0.0
+2018	B-misc	1.14
+Turing	I-misc	0.99
+Award	I-misc	1.2
+.	O	0.11
+
+Additional	O	2.64	SNEHA
+series	O	0.0
+were	O	0.0
+filmed	O	0.0
+at	O	0.01
+the	O	0.01
+UK	B-country	0.08
+venue	O	0.0
+for	O	0.0
+specific	O	0.0
+sectors	O	0.0
+of	O	0.01
+the	O	0.0
+global	O	0.01
+market	O	0.0
+,	O	0.0
+including	O	0.0
+two	O	0.0
+series	O	0.0
+of	O	0.01
+Robot	B-misc	2.23	SNEHA
+Wars	I-misc	1.69
+Extreme	I-misc	0.41
+Warriors	I-misc	0.1
+with	O	0.72
+United	B-country	0.21
+States	I-country	0.01
+competitors	O	0.01
+for	O	0.0
+the	O	0.0
+TNN	B-organisation	1.1
+network	I-organisation	2.37	SNEHA
+(	O	0.0
+hosted	O	2.04	SNEHA
+by	O	0.0
+Mick	B-person	1.17
+Foley	I-person	0.27
+with	O	0.0
+Rebecca	B-person	0.01
+Grant	I-person	0.0
+serving	O	0.02
+as	O	0.0
+pit	O	0.02
+reporter	O	0.0
+)	O	0.0
+,	O	0.0
+two	O	0.0
+of	O	0.01
+Dutch	B-misc	0.15
+Robot	I-misc	0.61
+Wars	I-misc	0.35
+for	O	0.92
+distribution	O	0.23
+in	O	0.0
+the	O	0.01
+Netherlands	B-country	0.27
+and	O	0.0
+a	O	0.0
+single	O	0.0
+series	O	0.0
+for	O	0.0
+Germany	B-country	0.03
+.	O	0.0
+
+For	O	0.0
+many	O	0.0
+years	O	0.0
+starting	O	0.0
+from	O	0.0
+1986	O	0.0
+,	O	0.0
+Miller	B-researcher	1.97
+directed	O	0.01
+the	O	0.0
+development	O	0.04
+of	O	0.01
+WordNet	B-product	2.15	SNEHA
+,	O	0.01
+a	O	0.0
+large	O	0.0
+computer-readable	O	1.66
+electronic	O	0.0
+reference	O	0.0
+usable	O	1.65
+in	O	0.0
+applications	O	0.0
+such	O	0.0
+as	O	0.0
+search	B-product	0.2
+engines	I-product	0.04
+.	O	0.0
+
+Since	O	0.01
+2009	O	0.01
+,	O	0.0
+the	O	0.0
+recurrent	B-algorithm	2.7	SNEHA
+neural	I-algorithm	1.88
+network	I-algorithm	2.11	SNEHA
+s	O	2.37	SNEHA
+and	O	0.0
+deep	B-algorithm	2.86	SNEHA
+feedforward	I-algorithm	2.34	SNEHA
+neural	I-algorithm	2.9	SNEHA
+networks	I-algorithm	3.24	SNEHA
+developed	O	0.09
+in	O	0.0
+the	O	0.01
+research	O	0.01
+group	O	0.0
+of	O	0.03
+Jürgen	B-researcher	2.37	SNEHA
+Schmidhuber	I-researcher	2.4	SNEHA
+at	O	0.01
+the	O	0.01
+Swiss	B-organisation	0.19
+AI	I-organisation	0.78
+Lab	I-organisation	0.63
+IDSIA	I-organisation	0.19
+have	O	0.0
+won	O	0.0
+several	O	0.0
+international	B-misc	0.0
+handwriting	I-misc	1.79
+competitions	I-misc	0.02
+..	O	0.0
+
+The	O	0.09
+software	O	0.01
+is	O	0.0
+implemented	O	0.08
+in	O	0.0
+C	B-programlang	0.05
++	I-programlang	1.79
++	I-programlang	2.28	SNEHA
+and	O	0.02
+it	O	0.0
+is	O	0.0
+wrapped	O	1.4
+for	O	0.0
+Python	B-programlang	1.92
+.	O	0.21
+
+In	O	0.01
+1857	O	0.92
+,	O	0.0
+at	O	0.01
+the	O	0.01
+request	O	0.01
+of	O	0.01
+the	O	0.0
+Tokugawa	B-country	1.16
+Shogunate	I-country	0.71
+,	O	0.09
+a	O	0.0
+group	O	0.0
+of	O	0.02
+Dutch	B-misc	0.23
+engineers	O	0.04
+began	O	0.0
+work	O	0.0
+on	O	0.0
+the	O	0.0
+Nagasaki	B-misc	1.22
+Yotetsusho	I-misc	1.18
+,	O	0.07
+a	O	0.0
+modern	O	1.5
+,	O	0.0
+Western-style	O	2.32	SNEHA
+foundry	O	2.77	SNEHA
+and	O	0.0
+shipyard	O	0.01
+near	O	0.0
+the	O	0.01
+Dutch	B-misc	0.11
+settlement	O	0.01
+of	O	0.01
+Dejima	B-misc	1.88
+,	O	0.01
+at	O	0.01
+Nagasaki	B-misc	1.21
+.	O	0.02
+
+We	O	0.0
+make	O	0.0
+as	O	0.0
+well	O	0.0
+as	O	0.0
+possible	O	0.0
+precise	O	0.0
+by	O	0.0
+measuring	O	0.0
+the	O	0.0
+mean	B-metrics	1.05
+squared	I-metrics	0.14
+error	I-metrics	1.19
+between	O	0.02
+mathy	O	1.05
+/	O	0.05
+math	O	0.01
+and	O	0.0
+math	O	0.01
+\	O	0.0
+hat	O	1.83
+{	O	0.01
+f	O	0.98
+}	O	0.11
+(	O	0.0
+x	O	0.0
+;	O	0.0
+D	O	0.0
+)	O	0.01
+/	O	0.0
+math	O	0.01
+:	O	0.0
+we	O	0.0
+want	O	0.0
+math	O	0.0
+(	O	0.0
+y	O	0.0
+-	O	0.0
+\	O	0.0
+hat	O	1.36
+{	O	0.01
+f	O	0.97
+}	O	0.11
+(	O	0.0
+x	O	0.0
+;	O	0.0
+D	O	0.0
+)	O	0.01
+)	O	0.0
+^	O	0.0
+2	O	0.0
+/	O	0.0
+math	O	0.02
+to	O	0.0
+be	O	0.0
+minimal	O	0.0
+,	O	0.0
+both	O	0.0
+for	O	0.0
+mathx	O	1.02
+_	O	0.01
+1	O	0.0
+,	O	0.0
+\	O	0.0
+dots	O	1.31
+,	O	0.0
+x	O	0.01
+_	O	0.0
+n	O	0.0
+/	O	0.0
+math	O	0.01
+and	O	0.0
+for	O	0.0
+points	O	0.0
+outside	O	0.0
+of	O	0.01
+our	O	0.01
+sample	O	0.0
+.	O	0.0
+
+He	O	0.0
+subsequently	O	0.0
+extended	O	0.0
+an	O	0.0
+invitation	O	0.0
+for	O	0.0
+Wydner	B-researcher	1.19
+to	O	0.0
+attend	O	0.0
+the	O	0.0
+annual	O	0.03
+meeting	O	0.0
+of	O	0.02
+the	O	0.01
+American	B-organisation	0.87
+Translators	I-organisation	0.7
+Association	I-organisation	0.32
+that	O	0.24
+following	O	0.0
+October	O	0.0
+where	O	0.0
+the	O	0.0
+Weidner	B-product	1.22
+Machine	I-product	2.68	SNEHA
+Translation	I-product	3.36	SNEHA
+System	I-product	1.74
+hailed	O	0.71
+a	O	0.0
+hoped-for	O	1.49
+breakthrough	O	0.0
+in	O	0.0
+machine	B-task	1.08
+translation	I-task	2.12	SNEHA
+.	O	0.0
+
+At	O	0.01
+the	O	0.01
+2018	B-conference	0.84
+Conference	I-conference	1.66
+on	I-conference	1.18
+Neural	I-conference	0.49
+Information	I-conference	0.78
+Processing	I-conference	2.79	SNEHA
+Systems	I-conference	2.89	SNEHA
+(	O	0.03
+NeurIPS	B-conference	2.18	SNEHA
+)	O	0.12
+researchers	O	0.0
+from	O	0.0
+Google	B-organisation	2.98	SNEHA
+presented	O	0.55
+the	O	0.01
+work	O	0.01
+.	O	0.0
+
+The	O	0.09
+Baum-Welch	B-algorithm	1.76
+algorithm	I-algorithm	2.66	SNEHA
+uses	O	0.09
+the	O	0.0
+well	O	0.0
+known	O	0.0
+EM	B-algorithm	1.93
+algorithm	I-algorithm	2.37	SNEHA
+to	O	0.0
+find	O	0.0
+the	O	0.0
+maximum	B-metrics	0.01
+likelihood	I-metrics	2.91	SNEHA
+estimate	I-metrics	0.0
+of	O	0.0
+the	O	0.0
+parameters	O	1.54
+of	O	0.99
+a	O	0.02
+hidden	B-algorithm	0.0
+Markov	I-algorithm	1.4
+model	I-algorithm	0.43
+given	O	0.0
+a	O	0.0
+set	O	0.0
+of	O	0.01
+observed	O	0.0
+feature	O	0.17
+vectors	O	1.83
+.	O	0.08
+
+)	O	0.02
+In	O	0.01
+addition	O	0.01
+to	O	0.0
+the	O	0.0
+taxonomic	O	1.17
+information	O	1.44
+contained	O	0.01
+in	O	0.0
+OpenCyc	B-product	1.91
+,	O	0.0
+ResearchCyc	B-product	2.83	SNEHA
+includes	O	0.0
+significantly	O	0.0
+more	O	0.0
+semantic	O	1.33
+knowledge	O	0.5
+(	O	0.0
+i.e.	O	1.68
+,	O	0.01
+additional	O	0.0
+facts	O	1.62
+and	O	0.0
+rules	O	0.0
+of	O	0.01
+thumb	O	2.27	SNEHA
+)	O	0.17
+involving	O	0.0
+the	O	0.0
+concepts	O	0.0
+in	O	0.01
+its	O	0.02
+knowledge	B-misc	0.0
+base	I-misc	0.0
+;	O	0.0
+it	O	0.0
+also	O	0.0
+includes	O	0.0
+a	O	0.0
+large	B-product	0.0
+lexicon	I-product	1.29
+,	I-product	0.0
+English	I-product	0.09
+parsing	I-product	1.75
+and	I-product	0.02
+generation	I-product	0.01
+tools	I-product	0.0
+,	O	0.0
+and	O	0.0
+Java	B-programlang	0.85
+based	O	0.02
+interfaces	B-product	3.9	SNEHA
+for	I-product	0.0
+knowledge	I-product	0.0
+editing	I-product	0.09
+and	I-product	0.0
+querying	I-product	1.4
+.	O	0.0
+
+The	O	0.09
+Hough	B-algorithm	1.76
+transform	I-algorithm	1.48
+is	O	0.08
+a	O	0.0
+feature	B-task	0.03
+extraction	I-task	0.46
+technique	O	0.01
+used	O	0.0
+in	O	0.0
+image	B-field	2.84	SNEHA
+analysis	I-field	3.16	SNEHA
+,	O	0.0
+computer	B-field	0.35
+vision	I-field	0.18
+,	O	0.0
+and	O	0.0
+digital	B-field	0.0
+image	I-field	1.71
+processing	I-field	1.62
+.	O	0.0
+
+In	O	0.01
+1978	O	0.01
+,	O	0.0
+the	O	0.0
+PUMA	B-product	1.24
+(	O	0.02
+Programmable	B-product	3.63	SNEHA
+Universal	I-product	2.57	SNEHA
+Machine	I-product	2.3	SNEHA
+for	I-product	0.01
+Assembly	I-product	0.66
+)	O	0.22
+robot	O	2.25	SNEHA
+was	O	0.0
+developed	O	0.0
+by	O	0.0
+Unimation	B-organisation	1.15
+from	O	0.01
+Vicarm	B-organisation	1.85
+(	O	0.01
+Victor	B-researcher	0.78
+Scheinman	I-researcher	1.63
+)	O	0.05
+and	O	0.0
+with	O	0.0
+support	O	0.0
+from	O	0.0
+General	B-organisation	0.01
+Motors	I-organisation	1.46
+.	O	0.18
+
+LSTM	B-algorithm	3.57	SNEHA
+was	O	0.0
+proposed	O	0.0
+in	O	0.0
+1997	O	0.0
+by	O	0.0
+Sepp	B-researcher	1.26
+Hochreiter	I-researcher	0.9
+and	O	0.0
+Jürgen	B-researcher	2.58	SNEHA
+Schmidhuber	I-researcher	2.16	SNEHA
+.	O	0.0
+
+The	O	0.09
+four	O	0.0
+outcomes	O	1.46
+can	O	0.0
+be	O	0.0
+formulated	O	0.0
+in	O	0.01
+a	O	0.0
+2	O	0.0
+×	O	1.9
+2	O	0.0
+contingency	B-metrics	0.01
+table	I-metrics	0.0
+or	O	0.0
+confusion	B-metrics	0.0
+matrix	I-metrics	2.21	SNEHA
+,	O	0.01
+as	O	0.0
+follows	O	0.01
+:	O	0.0
+
+He	O	0.0
+also	O	0.0
+contributed	O	0.01
+much	O	0.0
+through	O	0.02
+the	O	0.0
+establishment	O	0.08
+of	O	0.05
+ELRA	B-conference	2.03	SNEHA
+and	O	0.21
+the	O	0.04
+LREC	B-conference	1.66
+conference	I-conference	0.06
+.	O	0.0
+
+A	O	0.02
+popular	O	0.0
+application	O	0.0
+for	O	0.0
+serial	O	0.01
+robots	O	0.45
+in	O	0.01
+today	O	0.0
+'s	O	0.0
+industry	O	0.0
+is	O	0.0
+the	O	0.0
+pick-and-place	O	1.43
+assembly	B-programlang	0.01
+robot	O	1.14
+,	O	0.0
+called	O	0.0
+a	O	0.0
+SCARA	B-product	1.36
+robot	I-product	1.95
+,	O	0.0
+which	O	0.0
+has	O	0.0
+four	O	0.0
+degrees	O	1.73
+of	O	0.01
+freedom	O	0.0
+.	O	0.0
+
+He	O	0.0
+was	O	0.0
+one	O	0.0
+of	O	0.01
+the	O	0.0
+founding	O	0.01
+members	O	0.0
+and	O	0.0
+former	O	0.0
+chair	O	0.88
+(	O	0.0
+2006-2008	O	1.93
+)	O	0.02
+of	O	0.01
+the	O	0.01
+Special	B-conference	0.34
+Interest	I-conference	0.19
+Group	I-conference	0.18
+on	I-conference	0.0
+Web	I-conference	0.0
+as	I-conference	0.0
+Corpus	I-conference	1.08
+(	O	0.0
+SIGWAC	B-conference	1.91
+)	O	0.02
+of	O	0.01
+the	O	0.01
+Association	B-conference	1.89
+for	I-conference	1.01
+Computational	I-conference	0.23
+Linguistics	I-conference	0.3
+and	O	0.79
+also	O	0.0
+one	O	0.0
+of	O	0.02
+the	O	0.01
+founding	O	0.01
+organizers	O	0.16
+of	O	0.01
+SENSEVAL	B-conference	2.15	SNEHA
+.	O	0.01
+
+As	O	0.01
+a	O	0.0
+platform	O	0.0
+,	O	0.0
+LinguaStream	B-product	2.6	SNEHA
+provides	O	0.0
+an	O	0.0
+extensive	O	0.0
+Java	B-product	1.18
+API	I-product	0.31
+.	O	0.02
+
+The	O	0.09
+robot	O	2.77	SNEHA
+kit	O	2.21	SNEHA
+is	O	0.08
+Android-based	O	1.45
+,	O	0.02
+and	O	0.0
+it	O	0.0
+is	O	0.0
+programmed	O	1.37
+using	O	0.01
+Java	B-programlang	1.0
+,	O	0.09
+the	O	0.02
+Blocks	B-misc	1.38
+programming	I-misc	0.89
+interface	I-misc	0.0
+,	O	0.0
+or	O	0.0
+other	O	0.0
+Android	B-product	1.51
+programming	I-product	0.69
+systems	I-product	0.01
+.	O	0.0
+
+The	O	0.09
+method	O	0.0
+of	O	0.01
+defining	O	1.96
+the	O	0.16
+linked	O	0.01
+list	O	0.0
+specifies	O	2.3	SNEHA
+the	O	0.03
+use	O	0.01
+of	O	0.02
+a	O	0.0
+depth-first	B-algorithm	1.32
+search	I-algorithm	1.31
+or	O	0.01
+a	O	0.0
+breadth-first	B-algorithm	0.95
+search	I-algorithm	1.12
+.	O	0.0
+
+These	O	0.0
+regions	O	0.0
+could	O	0.0
+signal	O	0.03
+the	O	0.01
+presence	O	0.04
+of	O	0.02
+objects	O	2.35	SNEHA
+or	O	0.01
+parts	O	0.0
+of	O	0.01
+objects	O	2.0	SNEHA
+in	O	0.0
+the	O	0.01
+image	O	2.79	SNEHA
+domain	O	3.06	SNEHA
+with	O	0.0
+application	O	0.0
+to	O	0.0
+object	B-task	0.36
+recognition	I-task	2.28	SNEHA
+and	O	0.01
+/	O	0.25
+or	O	0.05
+object	B-task	0.03
+video	I-task	0.05
+tracking	I-task	1.5
+.	O	0.0
+
+An	O	0.39
+example	O	0.01
+of	O	0.01
+a	O	0.0
+semantic	B-algorithm	2.33	SNEHA
+network	I-algorithm	1.46
+is	O	0.0
+WordNet	B-product	1.16
+,	O	0.0
+a	O	0.0
+lexical	O	0.94
+database	O	1.8
+of	O	0.01
+English	B-misc	0.06
+.	O	0.01
+
+Speech	B-task	1.15
+recognition	I-task	2.85	SNEHA
+is	O	0.02
+an	O	0.0
+interdisciplinary	O	1.13
+subfield	O	1.55
+of	O	0.01
+computer	B-field	0.98
+science	I-field	1.5
+and	O	0.04
+computational	B-field	0.01
+linguistics	I-field	0.03
+that	O	0.0
+develops	O	0.0
+methodologies	O	2.05	SNEHA
+and	O	0.0
+technologies	O	0.0
+that	O	0.0
+enable	O	0.01
+the	O	0.0
+recognition	B-task	2.78	SNEHA
+and	I-task	0.01
+translation	I-task	2.94	SNEHA
+of	I-task	0.12
+spoken	I-task	0.01
+language	I-task	1.52
+into	O	0.0
+text	O	0.28
+by	O	0.0
+computers	O	0.0
+.	O	0.0
+
+Artificial	B-field	3.72	SNEHA
+intelligence	I-field	1.88
+has	O	0.0
+retained	O	0.0
+the	O	0.0
+most	O	0.0
+attention	O	0.0
+regarding	O	0.01
+applied	B-misc	0.0
+ontology	I-misc	0.6
+in	O	0.01
+subfields	O	2.1	SNEHA
+like	O	0.0
+natural	B-field	0.14
+language	I-field	2.96	SNEHA
+processing	I-field	2.79	SNEHA
+within	O	0.0
+machine	B-task	0.01
+and	O	0.0
+knowledge	B-task	0.0
+representation	I-task	1.55
+,	O	0.0
+but	O	0.0
+ontology	O	1.85
+editors	O	1.79
+are	O	0.0
+being	O	0.0
+used	O	0.0
+often	O	0.0
+in	O	0.0
+a	O	0.0
+range	O	0.0
+of	O	0.01
+fields	O	0.0
+like	O	0.0
+education	O	0.0
+without	O	0.0
+the	O	0.0
+intent	O	0.0
+to	O	0.0
+contribute	O	0.0
+to	O	0.0
+AI	B-field	3.43	SNEHA
+.	O	0.14
+
+This	O	0.0
+update	O	0.0
+rule	O	0.0
+is	O	0.0
+in	O	0.0
+fact	O	0.03
+the	O	0.0
+stochastic	B-algorithm	1.51
+gradient	I-algorithm	1.15
+descent	I-algorithm	1.25
+update	O	0.0
+for	O	0.0
+linear	B-algorithm	3.28	SNEHA
+regression	I-algorithm	0.31
+.	O	0.0
+
+He	O	0.0
+was	O	0.0
+elected	O	0.0
+to	O	0.0
+the	O	0.0
+American	B-organisation	0.64
+Academy	I-organisation	0.24
+of	I-organisation	1.69
+Arts	I-organisation	0.99
+and	I-organisation	0.43
+Sciences	I-organisation	0.89
+and	O	1.21
+the	O	0.09
+National	B-organisation	1.43
+Academy	I-organisation	0.16
+of	I-organisation	1.69
+Sciences	I-organisation	2.03	SNEHA
+and	O	1.09
+has	O	0.0
+received	O	0.0
+a	O	0.0
+series	O	0.0
+of	O	0.01
+awards	O	0.17
+:	O	0.03
+
+The	O	0.09
+most	O	0.0
+recent	O	0.01
+school	O	0.0
+of	O	0.01
+thought	O	0.0
+on	O	0.0
+Honda	B-organisation	0.17
+'s	O	0.46
+strategy	O	0.09
+was	O	0.0
+put	O	0.0
+forward	O	0.0
+by	O	0.0
+Gary	B-person	0.02
+Hamel	I-person	0.02
+and	O	0.0
+C.	B-person	0.03
+K.	I-person	0.0
+Prahalad	I-person	0.81
+in	O	0.0
+1989	O	0.01
+.	O	0.0
+
+Where	O	2.64	SNEHA
+BLEU	B-metrics	3.65	SNEHA
+simply	O	0.0
+calculates	O	1.69
+n-gram	B-metrics	1.95
+precision	I-metrics	0.81
+adding	O	0.0
+equal	O	0.0
+weight	O	0.0
+to	O	0.0
+each	O	0.0
+one	O	0.0
+,	O	0.0
+NIST	B-metrics	1.74
+also	O	0.01
+calculates	O	2.8	SNEHA
+how	O	0.0
+informative	O	1.52
+a	O	0.0
+particular	O	0.0
+n-gram	B-misc	1.14
+is	O	0.0
+.	O	0.0
+
+He	O	0.0
+was	O	0.0
+honored	O	1.6
+with	O	0.0
+the	O	0.0
+2019	B-misc	0.01
+Lifetime	I-misc	0.74
+Achievement	I-misc	1.75
+Award	I-misc	2.17	SNEHA
+from	O	0.01
+the	O	0.0
+Association	B-conference	1.32
+for	I-conference	1.02
+Computational	I-conference	0.23
+Linguistics	I-conference	0.3
+(	O	0.01
+ACL	B-conference	1.66
+)	O	0.18
+.	O	0.0
+
+Sycara	B-researcher	2.64	SNEHA
+is	O	0.0
+a	O	0.0
+Fellow	O	0.0
+of	O	0.01
+Institute	B-organisation	1.11
+of	I-organisation	1.09
+Electrical	I-organisation	1.37
+and	I-organisation	1.14
+Electronics	I-organisation	0.53
+Engineers	I-organisation	0.36
+(	O	0.0
+IEEE	B-organisation	1.39
+)	O	0.03
+,	O	0.0
+and	O	0.0
+a	O	0.0
+Fellow	O	0.0
+of	O	0.01
+American	B-conference	0.56
+Association	I-conference	0.08
+for	I-conference	1.1
+Artificial	I-conference	1.95
+Intelligence	I-conference	3.79	SNEHA
+(	O	0.03
+AAAI	B-conference	3.29	SNEHA
+)	O	0.5
+.	O	0.0
+
+The	O	0.09
+following	O	0.0
+MATLAB	B-product	2.76	SNEHA
+code	O	0.41
+demonstrates	O	2.3	SNEHA
+a	O	0.0
+concrete	O	0.0
+solution	O	0.0
+for	O	0.0
+solving	O	0.0
+the	O	0.0
+non-linear	B-misc	2.03	SNEHA
+system	I-misc	0.12
+of	O	0.0
+equations	O	2.61	SNEHA
+presented	O	0.12
+in	O	0.0
+the	O	0.01
+previous	O	0.03
+section	O	0.01
+:	O	0.0
+See	O	2.34	SNEHA
+also	O	0.0
+
+Pattern	B-product	3.46	SNEHA
+recognition	I-product	2.93	SNEHA
+systems	I-product	0.1
+are	O	0.0
+in	O	0.0
+many	O	0.0
+cases	O	0.0
+trained	O	0.0
+from	O	0.0
+labeled	O	2.35	SNEHA
+training	O	0.0
+data	O	0.01
+(	O	0.0
+supervised	B-field	1.87
+learning	I-field	1.07
+)	O	0.26
+but	O	0.0
+when	O	0.0
+no	O	0.0
+labeled	O	1.16
+data	O	0.01
+are	O	0.0
+available	O	0.0
+other	O	0.0
+algorithms	O	0.01
+can	O	0.0
+be	O	0.0
+used	O	0.0
+to	O	0.0
+discover	O	1.35
+previously	O	0.0
+unknown	O	0.0
+patterns	O	1.16
+(	O	0.0
+unsupervised	B-field	1.88
+learning	I-field	1.58
+)	O	0.22
+.	O	0.0
+
+It	O	0.0
+was	O	0.0
+first	O	0.0
+used	O	0.0
+by	O	0.0
+Lawrence	B-researcher	0.04
+J.	I-researcher	0.01
+Fogel	I-researcher	1.41
+in	O	0.0
+the	O	0.01
+US	B-country	1.35
+in	O	0.01
+1960	O	0.0
+in	O	0.0
+order	O	0.0
+to	O	0.0
+use	O	0.0
+simulated	O	0.0
+evolution	O	1.35
+as	O	0.0
+a	O	0.0
+learning	O	2.81	SNEHA
+process	O	0.02
+aiming	O	0.0
+to	O	0.0
+generate	O	1.39
+artificial	B-field	1.98
+intelligence	I-field	3.18	SNEHA
+.	O	0.0
+
+Reinforcement	B-field	2.64	SNEHA
+learning	I-field	2.02	SNEHA
+is	O	0.0
+one	O	0.0
+of	O	0.02
+three	O	0.0
+basic	O	0.0
+machine	B-field	0.04
+learning	I-field	1.79
+paradigms	O	3.79	SNEHA
+,	O	0.0
+alongside	O	0.0
+supervised	B-field	2.74	SNEHA
+learning	I-field	2.3	SNEHA
+and	O	0.0
+unsupervised	B-field	2.08	SNEHA
+learning	I-field	1.23
+.	O	0.01
+
+In	O	0.01
+such	O	0.0
+cases	O	0.0
+,	O	0.0
+cloud	B-field	1.94
+computing	I-field	0.02
+and	O	0.0
+open	O	0.0
+source	O	0.0
+programming	O	0.25
+language	O	0.71
+R	B-programlang	3.59	SNEHA
+can	O	0.0
+help	O	0.0
+smaller	O	0.0
+banks	O	0.0
+to	O	0.0
+adopt	O	0.0
+risk	O	0.0
+analytics	O	1.99
+and	O	0.0
+support	O	0.0
+branch	O	0.0
+level	O	0.0
+monitoring	O	0.0
+by	O	0.0
+applying	O	1.13
+predictive	B-field	2.02	SNEHA
+analytics	I-field	2.63	SNEHA
+.	O	0.0
+
+One	O	0.0
+of	O	0.01
+the	O	0.0
+first	O	0.0
+versions	O	0.0
+of	O	0.01
+the	O	0.0
+theorem	O	1.2
+was	O	0.0
+proved	O	0.0
+by	O	0.0
+George	B-researcher	0.58
+Cybenko	I-researcher	0.66
+in	O	0.0
+1989	O	0.0
+for	O	0.0
+sigmoid	B-algorithm	2.94	SNEHA
+function	I-algorithm	1.33
+activation	O	0.14
+functions.	O	0.01
+Cybenko	B-researcher	1.54
+G.	I-researcher	0.06
+(	O	0.32
+1989	O	0.0
+)	O	0.01
+,	O	0.0
+2	O	0.0
+(	O	0.0
+4	O	0.0
+)	O	0.02
+,	O	0.0
+303-314	O	1.98
+.	O	0.0
+
+In	O	0.01
+this	O	0.01
+process	O	0.0
+,	O	0.0
+which	O	0.0
+is	O	0.0
+known	O	0.0
+as	O	0.0
+cross-validation	B-algorithm	1.07
+,	O	0.0
+the	O	0.0
+MSE	B-metrics	0.11
+is	O	0.0
+often	O	0.0
+called	O	0.0
+the	O	0.0
+mean	B-metrics	1.1
+squared	I-metrics	0.15
+prediction	I-metrics	0.18
+error	I-metrics	0.08
+,	O	0.0
+and	O	0.0
+is	O	0.0
+computed	O	0.01
+as	O	0.0
+
+OMR	B-task	2.64	SNEHA
+is	O	0.0
+generally	O	0.0
+distinguished	O	0.8
+from	O	0.0
+optical	B-task	1.85
+character	I-task	0.03
+recognition	I-task	2.87	SNEHA
+(	O	0.0
+OCR	B-task	2.87	SNEHA
+)	O	0.03
+by	O	0.0
+the	O	0.0
+fact	O	0.0
+that	O	0.0
+a	O	0.0
+complicated	O	0.0
+pattern	B-field	1.11
+recognition	I-field	1.83
+engine	O	0.0
+is	O	0.0
+not	O	0.0
+required	O	0.0
+.	O	0.0
+
+In	O	0.01
+2018	O	0.92
+and	O	0.02
+2019	O	0.0
+,	O	0.0
+the	O	0.0
+Championship	O	0.96
+was	O	0.0
+be	O	0.0
+held	O	0.0
+in	O	0.0
+Houston	B-location	0.14
+and	O	0.11
+Detroit	B-location	0.87
+,	O	0.03
+Michigan	B-location	0.08
+at	O	0.02
+the	O	0.01
+TCF	B-location	0.66
+Center	I-location	0.7
+and	O	0.64
+Ford	B-location	2.04	SNEHA
+Field	I-location	1.3
+.	O	0.06
+
+Classification	B-task	0.9
+can	O	0.01
+be	O	0.0
+thought	O	0.0
+of	O	0.01
+as	O	0.0
+two	O	0.0
+separate	O	0.08
+problems	O	0.0
+-	O	0.0
+binary	B-task	2.37	SNEHA
+classification	I-task	4.05	SNEHA
+and	O	0.31
+multiclass	B-task	2.83	SNEHA
+classification	I-task	2.78	SNEHA
+.	O	0.03
+
+Two	O	0.07
+examples	O	0.11
+of	O	0.02
+popular	O	0.0
+parallel	B-product	0.0
+robots	I-product	0.03
+are	O	0.0
+the	O	0.0
+Stewart	B-product	0.06
+platform	I-product	0.01
+and	O	0.0
+the	O	0.0
+Delta	B-product	1.1
+robot	I-product	1.65
+.	O	0.02
+
+(	O	0.0
+Nevertheless	O	0.0
+,	O	0.0
+the	O	0.0
+ReLU	B-algorithm	1.24
+activation	I-algorithm	0.26
+function	I-algorithm	0.21
+,	O	0.0
+which	O	0.0
+is	O	0.0
+non-differentiable	O	1.24
+at	O	0.01
+0	O	0.0
+,	O	0.0
+has	O	0.0
+become	O	0.0
+quite	O	0.0
+popular	O	0.0
+,	O	0.0
+e.g.	O	2.61	SNEHA
+in	O	0.01
+AlexNet	B-algorithm	2.37	SNEHA
+)	O	0.02
+
+The	O	0.09
+F-score	B-metrics	1.76
+is	O	0.04
+often	O	0.0
+used	O	0.0
+in	O	0.0
+the	O	0.01
+field	O	0.07
+of	O	0.02
+information	B-task	0.59
+retrieval	I-task	1.66
+for	O	0.0
+measuring	O	0.0
+search	B-task	1.03
+,	O	0.0
+document	B-task	0.0
+classification	I-task	3.1	SNEHA
+,	O	0.0
+and	O	0.0
+query	B-task	1.48
+classification	I-task	3.48	SNEHA
+performance.	O	2.68	SNEHA
+and	O	0.21
+so	O	0.0
+F_beta	B-metrics	1.39
+is	O	0.0
+seen	O	0.0
+in	O	0.0
+wide	O	0.0
+application	O	0.0
+.	O	0.0
+
+This	O	0.0
+is	O	0.0
+done	O	0.0
+by	O	0.0
+modeling	O	2.8	SNEHA
+the	O	0.01
+received	O	0.0
+signal	O	0.07
+then	O	0.0
+using	O	0.0
+a	O	0.0
+statistical	O	0.0
+estimation	O	0.84
+method	O	0.0
+such	O	0.0
+as	O	0.0
+maximum	B-algorithm	0.0
+likelihood	I-algorithm	2.61	SNEHA
+(	O	0.0
+ML	B-algorithm	1.72
+)	O	0.01
+,	O	0.0
+majority	B-algorithm	0.0
+voting	I-algorithm	0.0
+(	O	0.0
+MV	B-algorithm	1.94
+)	O	0.02
+or	O	0.0
+maximum	B-algorithm	0.0
+a	I-algorithm	0.0
+posteriori	I-algorithm	1.0
+(	O	0.0
+MAP	B-algorithm	2.28	SNEHA
+)	O	0.1
+to	O	0.0
+make	O	0.0
+a	O	0.0
+decision	O	0.0
+about	O	0.01
+which	O	0.0
+target	O	0.0
+in	O	0.0
+the	O	0.01
+library	O	0.02
+best	O	0.0
+fits	O	0.75
+the	O	0.03
+model	O	0.21
+built	O	0.01
+using	O	0.0
+the	O	0.0
+received	O	0.0
+signal	O	0.07
+.	O	0.0
+
+Sowa	B-researcher	2.64	SNEHA
+received	O	0.0
+a	O	0.0
+BS	B-misc	1.08
+in	O	0.0
+mathematics	B-field	1.95
+from	O	0.0
+Massachusetts	B-university	0.15
+Institute	I-university	2.7	SNEHA
+of	I-university	0.6
+Technology	I-university	2.32	SNEHA
+in	O	0.48
+1962	O	1.38
+,	O	0.01
+an	O	0.0
+MA	B-misc	1.14
+in	O	0.0
+applied	B-field	0.03
+from	O	0.0
+Harvard	B-university	2.48	SNEHA
+University	I-university	3.55	SNEHA
+in	O	0.77
+1966	O	0.05
+,	O	0.0
+and	O	0.0
+a	O	0.0
+PhD	B-misc	0.91
+in	O	0.0
+computer	B-field	0.95
+science	I-field	1.01
+from	O	0.01
+the	O	0.0
+Vrije	B-university	1.19
+Universiteit	I-university	0.88
+Brussel	I-university	1.1
+in	O	0.15
+1999	O	0.0
+on	O	0.0
+a	O	0.0
+dissertation	O	1.28
+titled	O	1.65
+Knowledge	B-misc	0.15
+Representation	I-misc	0.05
+:	I-misc	0.63
+Logical	I-misc	2.79	SNEHA
+,	I-misc	0.1
+Philosophical	I-misc	2.75	SNEHA
+,	I-misc	0.04
+and	I-misc	0.0
+Computational	I-misc	1.08
+Foundations	I-misc	2.19	SNEHA
+.	O	0.0
+
+Since	O	0.01
+paraphrase	B-task	2.94	SNEHA
+recognition	I-task	1.5
+can	O	0.0
+be	O	0.0
+posed	O	0.0
+as	O	0.0
+a	O	0.0
+classification	B-task	2.15	SNEHA
+problem	O	0.01
+,	O	0.0
+most	O	0.0
+standard	O	0.0
+evaluations	O	1.08
+metrics	O	0.01
+such	O	0.0
+as	O	0.0
+accuracy	B-metrics	0.0
+,	O	0.0
+f1	B-metrics	2.62	SNEHA
+score	I-metrics	0.0
+,	O	0.0
+or	O	0.0
+an	O	0.0
+ROC	B-metrics	1.01
+curve	I-metrics	0.01
+do	O	0.0
+relatively	O	0.0
+well	O	0.0
+.	O	0.0
+
+This	O	0.0
+makes	O	0.0
+it	O	0.0
+practical	O	0.0
+for	O	0.0
+analyzing	O	0.0
+large	O	0.0
+data	O	0.01
+sets	O	0.0
+(	O	0.0
+hundreds	O	0.0
+or	O	0.0
+thousands	O	0.0
+of	O	0.01
+taxa	O	2.24	SNEHA
+)	O	0.21
+and	O	0.0
+for	O	0.0
+bootstrapping	B-algorithm	1.03
+,	O	0.0
+for	O	0.0
+which	O	0.0
+purposes	O	0.0
+other	O	0.0
+means	O	0.0
+of	O	0.01
+analysis	O	3.24	SNEHA
+(	O	0.0
+e.g.	O	2.03	SNEHA
+maximum	B-algorithm	0.06
+parsimony	I-algorithm	1.41
+,	O	0.02
+maximum	B-algorithm	0.0
+likelihood	I-algorithm	2.04	SNEHA
+)	O	0.01
+may	O	0.0
+be	O	0.0
+computation	O	0.0
+ally	O	1.31
+prohibitive	O	1.21
+.	O	0.0
+
+The	O	0.09
+2002	O	0.01
+submission	O	0.0
+of	O	0.01
+the	O	0.01
+DAML	B-programlang	1.21
++	O	1.51
+OIL	B-programlang	2.22	SNEHA
+language	O	2.4	SNEHA
+to	O	0.0
+the	O	0.0
+World	B-organisation	0.28
+Wide	I-organisation	0.17
+Web	I-organisation	0.91
+Consortium	I-organisation	2.8	SNEHA
+(	O	0.11
+W3C	B-organisation	1.71
+)	O	0.2
+the	O	0.0
+work	O	0.01
+done	O	0.0
+by	O	0.0
+DAML	B-programlang	1.93
+contractors	O	0.0
+and	O	0.0
+the	O	0.0
+European	B-organisation	1.19
+Union	I-organisation	0.08
+/	I-organisation	1.0
+United	I-organisation	1.58
+States	I-organisation	0.02
+ad	I-organisation	1.28
+hoc	I-organisation	2.23	SNEHA
+Joint	I-organisation	0.46
+Committee	I-organisation	1.2
+on	I-organisation	0.05
+Markup	I-organisation	1.83
+Languages	I-organisation	0.65
+.	O	0.02
+
+An	O	0.39
+example	O	0.01
+of	O	0.01
+non-linear	B-misc	1.21
+normalization	I-misc	1.0
+is	O	0.0
+when	O	0.01
+the	O	0.0
+normalization	B-misc	1.07
+follows	O	0.05
+a	O	0.0
+sigmoid	B-algorithm	2.93	SNEHA
+function	I-algorithm	1.89
+,	O	0.0
+in	O	0.0
+that	O	0.0
+case	O	0.0
+,	O	0.0
+the	O	0.0
+normalized	O	1.22
+image	O	3.03	SNEHA
+is	O	0.01
+computed	O	0.01
+according	O	0.0
+to	O	0.0
+the	O	0.0
+formula	O	0.05
+
+It	O	0.0
+has	O	0.0
+been	O	0.0
+pointed	O	1.35
+out	O	0.0
+that	O	0.0
+precision	B-metrics	0.23
+is	O	0.0
+usually	O	0.01
+twinned	O	0.46
+with	O	0.0
+recall	B-metrics	0.0
+to	O	0.0
+overcome	O	0.01
+this	O	0.0
+problem	O	0.0
+
+The	O	0.09
+commonly	O	1.63
+used	O	0.12
+metrics	O	0.0
+are	O	0.0
+the	O	0.0
+mean	B-metrics	1.13
+squared	I-metrics	0.15
+error	I-metrics	1.01
+and	O	0.03
+root	B-metrics	0.0
+mean	I-metrics	0.01
+squared	I-metrics	0.01
+error	I-metrics	0.37
+,	O	0.0
+the	O	0.0
+latter	O	0.02
+having	O	0.0
+been	O	0.0
+used	O	0.0
+in	O	0.0
+the	O	0.01
+Netflix	B-misc	1.26
+Prize	I-misc	0.41
+.	O	0.01
+
+In	O	0.01
+August	O	0.01
+2016	O	0.01
+,	O	0.0
+a	O	0.0
+research	O	0.0
+programme	O	0.0
+with	O	0.0
+University	B-organisation	3.42	SNEHA
+College	I-organisation	0.26
+Hospital	I-organisation	0.1
+was	O	0.0
+announced	O	0.0
+with	O	0.0
+the	O	0.0
+aim	O	0.1
+of	O	0.11
+developing	O	0.0
+an	O	0.0
+algorithm	O	1.58
+that	O	0.0
+can	O	0.0
+automatically	O	0.0
+differentiate	O	1.37
+between	O	0.01
+healthy	O	0.01
+and	O	0.0
+cancerous	O	2.02	SNEHA
+tissues	O	2.53	SNEHA
+in	O	0.0
+head	O	0.04
+and	O	0.0
+neck	O	0.0
+areas	O	0.0
+.	O	0.0
+
+The	O	0.09
+impact	O	0.01
+of	O	0.01
+Posner	B-researcher	1.24
+'s	O	0.02
+theoretical	O	0.12
+and	O	0.0
+empirical	O	1.63
+contributions	O	0.01
+has	O	0.0
+been	O	0.0
+recognized	O	0.58
+through	O	0.01
+fellowship	O	1.21
+in	O	0.0
+the	O	0.01
+American	B-organisation	0.84
+Psychological	I-organisation	0.72
+Association	I-organisation	0.31
+,	O	0.39
+the	O	0.02
+Association	B-organisation	1.64
+for	I-organisation	0.93
+Psychological	I-organisation	0.82
+Science	I-organisation	0.07
+,	O	0.22
+the	O	0.02
+Society	B-organisation	1.64
+of	I-organisation	1.15
+Experimental	I-organisation	1.64
+Psychologists	I-organisation	1.34
+,	O	0.09
+the	O	0.03
+American	B-organisation	1.21
+Academy	I-organisation	0.19
+of	I-organisation	1.69
+Arts	I-organisation	1.0
+and	I-organisation	0.35
+Sciences	I-organisation	0.83
+,	O	0.07
+the	O	0.02
+American	B-organisation	1.12
+Association	I-organisation	0.07
+for	I-organisation	1.09
+the	I-organisation	0.89
+Advancement	I-organisation	1.69
+of	I-organisation	0.77
+Science	I-organisation	0.15
+,	O	0.21
+and	O	0.02
+the	O	0.01
+National	B-organisation	1.28
+Academy	I-organisation	0.14
+of	I-organisation	1.66
+Sciences	I-organisation	2.03	SNEHA
+.	O	0.13
+
+These	O	0.0
+Intelligent	O	1.87
+Chatbots	B-product	2.85	SNEHA
+make	O	0.01
+use	O	0.0
+of	O	0.01
+all	O	0.0
+kinds	O	1.8
+of	O	0.01
+artificial	B-field	2.54	SNEHA
+intelligence	I-field	3.24	SNEHA
+like	O	0.01
+image	B-task	2.5	SNEHA
+moderation	I-task	2.85	SNEHA
+and	O	0.0
+natural	B-task	0.2
+language	I-task	3.48	SNEHA
+understanding	I-task	0.02
+(	O	0.0
+NLU	B-task	1.64
+)	O	0.02
+,	O	0.0
+natural	B-task	0.15
+language	I-task	2.92	SNEHA
+generation	I-task	0.03
+(	O	0.0
+NLG	B-task	1.53
+)	O	0.02
+,	O	0.0
+machine	B-field	0.25
+learning	I-field	1.51
+and	O	0.0
+deep	B-field	2.29	SNEHA
+learning	I-field	0.8
+.	O	0.0
+
+The	O	0.09
+row	O	0.01
+ratios	O	0.48
+are	O	0.0
+Positive	B-metrics	0.45
+Predictive	I-metrics	1.7
+Value	I-metrics	0.0
+(	O	0.0
+PPV	B-metrics	1.46
+,	O	0.0
+aka	O	2.59	SNEHA
+precision	B-metrics	1.54
+)	O	0.01
+(	O	0.0
+TP	B-metrics	2.53	SNEHA
+/	I-metrics	0.05
+(	I-metrics	0.0
+TP	I-metrics	1.54
++	I-metrics	1.94
+FP	I-metrics	2.47	SNEHA
+)	I-metrics	0.05
+)	O	0.0
+,	O	0.0
+with	O	0.0
+complement	O	1.07
+the	O	0.01
+FALSE	B-metrics	0.4
+Discovery	I-metrics	0.81
+Rate	I-metrics	0.51
+(	O	0.01
+FDR	B-metrics	2.11	SNEHA
+)	O	0.15
+(	O	0.0
+FP	B-metrics	2.68	SNEHA
+/	I-metrics	0.05
+(	I-metrics	0.0
+TP	I-metrics	1.54
++	I-metrics	1.94
+FP	I-metrics	2.47	SNEHA
+)	I-metrics	0.05
+)	O	0.0
+;	O	0.0
+and	O	0.0
+Negative	B-metrics	0.99
+Predictive	I-metrics	2.33	SNEHA
+Value	I-metrics	0.0
+(	O	0.0
+NPV	B-metrics	1.49
+)	O	0.02
+(	O	0.0
+TN	B-metrics	2.69	SNEHA
+/	I-metrics	0.05
+(	I-metrics	0.0
+TN	I-metrics	1.55
++	I-metrics	1.94
+FN	I-metrics	2.47	SNEHA
+)	I-metrics	0.05
+)	O	0.0
+,	O	0.0
+with	O	0.0
+complement	O	1.07
+the	O	0.01
+FALSE	B-metrics	0.4
+Omission	I-metrics	0.81
+Rate	I-metrics	0.51
+(	O	0.01
+FOR	B-metrics	0.0
+)	O	0.0
+(	O	0.0
+FN	B-metrics	2.38	SNEHA
+/	I-metrics	0.05
+(	I-metrics	0.0
+TN	I-metrics	1.55
++	I-metrics	1.94
+FN	I-metrics	2.47	SNEHA
+)	I-metrics	0.05
+)	O	0.0
+.	O	0.0
+
+The	O	0.09
+information	O	1.35
+is	O	0.03
+a	O	0.0
+blend	O	1.48
+of	O	0.01
+sitemaps	O	2.29	SNEHA
+and	O	0.04
+RSS	B-misc	2.99	SNEHA
+and	O	0.04
+is	O	0.0
+created	O	0.01
+using	O	0.02
+the	O	0.0
+Information	B-algorithm	2.07	SNEHA
+Model	I-algorithm	0.67
+(	O	0.63
+IM	B-algorithm	2.48	SNEHA
+)	O	0.16
+and	O	0.0
+Biomedical	B-algorithm	2.03	SNEHA
+Resource	I-algorithm	2.5	SNEHA
+Ontology	I-algorithm	2.75	SNEHA
+(	O	0.01
+BRO	B-algorithm	2.39	SNEHA
+)	O	0.03
+.	O	0.0
+
+Recent	O	0.01
+text	B-task	0.03
+recognition	I-task	2.45	SNEHA
+is	O	0.01
+based	O	0.0
+on	O	0.0
+Recurrent	B-algorithm	1.42
+neural	I-algorithm	2.54	SNEHA
+network	I-algorithm	1.73
+(	O	0.0
+Long	B-algorithm	0.14
+short-term	I-algorithm	0.73
+memory	I-algorithm	2.38	SNEHA
+)	O	0.11
+and	O	0.0
+does	O	0.0
+not	O	0.0
+require	O	0.0
+a	O	0.0
+language	B-algorithm	0.03
+model	I-algorithm	0.08
+.	O	0.0
+
+Popular	O	0.61
+loss	B-misc	0.07
+functions	I-misc	0.22
+include	O	0.0
+the	O	0.02
+hinge	B-metrics	2.52	SNEHA
+loss	I-metrics	2.38	SNEHA
+(	O	0.01
+for	O	0.0
+linear	B-algorithm	3.36	SNEHA
+SVMs	I-algorithm	2.65	SNEHA
+)	O	0.02
+and	O	0.0
+the	O	0.0
+log	B-metrics	1.1
+loss	I-metrics	0.05
+(	O	0.0
+for	O	0.0
+logistic	B-algorithm	0.98
+regression	I-algorithm	0.31
+)	O	0.02
+.	O	0.0
+
+SSIM	B-metrics	0.1
+is	O	0.0
+designed	O	0.02
+to	O	0.0
+improve	O	0.0
+on	O	0.0
+traditional	O	0.0
+methods	O	0.09
+such	O	0.01
+as	O	0.0
+peak	B-metrics	0.0
+signal-to-noise	I-metrics	1.39
+ratio	I-metrics	0.01
+(	O	0.0
+PSNR	B-metrics	1.34
+)	O	0.02
+and	O	0.0
+mean	B-metrics	0.26
+squared	I-metrics	0.05
+error	I-metrics	1.11
+(	O	0.0
+MSE	B-metrics	0.02
+)	O	0.01
+.	O	0.0
+
+His	O	0.0
+work	O	0.01
+inspired	O	0.0
+subsequent	O	0.0
+generations	O	1.15
+of	O	0.03
+robotics	O	1.35
+researchers	O	0.02
+such	O	0.0
+as	O	0.0
+Rodney	B-researcher	0.06
+Brooks	I-researcher	0.0
+,	O	0.0
+Hans	B-researcher	0.01
+Moravec	I-researcher	0.03
+and	O	0.0
+Mark	B-researcher	0.0
+Tilden	I-researcher	0.01
+.	O	0.0
+
+Further	O	0.0
+pulse	O	1.83
+training	O	0.0
+is	O	0.0
+not	O	0.0
+differentiable	O	0.67
+,	O	0.0
+eliminating	O	0.0
+backpropagation	B-algorithm	1.48
+-based	O	0.36
+training	O	0.0
+methods	O	0.13
+like	O	0.0
+gradient	B-algorithm	0.65
+descent	I-algorithm	1.72
+.	O	0.0
+
+This	O	0.0
+relations	O	0.0
+can	O	0.0
+be	O	0.0
+easily	O	0.0
+represented	O	0.0
+with	O	0.0
+a	O	0.0
+confusion	B-metrics	0.0
+matrix	I-metrics	2.13	SNEHA
+,	O	0.01
+a	O	0.0
+table	O	0.0
+which	O	0.0
+describes	O	0.0
+the	O	0.01
+accuracy	B-metrics	0.0
+of	O	0.02
+a	O	0.0
+classification	B-task	1.95
+model	O	0.56
+.	O	0.01
+
+At	O	0.01
+the	O	0.01
+2018	B-conference	0.84
+Conference	I-conference	1.66
+on	I-conference	1.18
+Neural	I-conference	0.49
+Information	I-conference	0.78
+Processing	I-conference	2.79	SNEHA
+Systems	I-conference	2.89	SNEHA
+(	O	0.03
+NeurIPS	B-conference	2.18	SNEHA
+)	O	0.12
+researchers	O	0.0
+from	O	0.0
+Google	B-organisation	2.98	SNEHA
+presented	O	0.55
+the	O	0.01
+work	O	0.01
+
+During	O	0.0
+his	O	0.0
+time	O	0.0
+at	O	0.01
+Duke	B-university	1.22
+,	O	0.02
+he	O	0.0
+worked	O	0.0
+on	O	0.0
+an	O	0.0
+automated	O	0.0
+crossword	O	0.65
+solver	O	1.97
+PROVERB	B-product	0.65
+,	O	0.0
+which	O	0.0
+won	O	0.0
+an	O	0.0
+Outstanding	B-misc	1.3
+Paper	I-misc	0.18
+Award	I-misc	0.8
+in	O	0.01
+1999	O	0.0
+from	O	0.0
+AAAI	B-conference	3.41	SNEHA
+and	O	0.0
+competed	O	0.0
+in	O	0.0
+the	O	0.01
+American	B-misc	0.83
+Crossword	I-misc	0.69
+Puzzle	I-misc	0.78
+Tournament	I-misc	1.1
+.	O	0.1
+
+Headquartered	O	2.64	SNEHA
+in	O	0.0
+Rochester	B-location	2.08	SNEHA
+Hills	I-location	2.45	SNEHA
+,	O	0.01
+Michigan	B-location	0.04
+,	O	0.01
+the	O	0.0
+company	O	0.0
+had	O	0.0
+10	O	0.0
+regional	O	0.0
+locations	O	0.0
+in	O	0.01
+the	B-country	0.01
+U.S.	I-country	0.6
+,	O	0.05
+Canada	B-country	0.07
+,	O	0.01
+Mexico	B-country	0.03
+and	O	0.05
+Brazil	B-country	0.06
+.	O	0.01
+
+It	O	0.0
+joins	O	1.32
+a	O	0.0
+collection	O	0.01
+of	O	0.01
+historically	O	0.03
+important	O	0.01
+robots	O	0.03
+that	O	0.0
+includes	O	0.0
+an	O	0.0
+early	O	0.0
+Unimate	B-product	0.01
+and	O	0.0
+the	O	0.0
+Odetics	B-product	1.1
+Odex	I-product	0.92
+1	I-product	0.12
+.	O	0.0
+
+A	O	0.02
+guest	O	0.0
+editor	O	0.0
+for	O	0.0
+that	O	0.0
+issue	O	0.0
+will	O	0.0
+be	O	0.0
+David	B-researcher	0.05
+'s	O	0.02
+former	O	0.0
+colleague	O	0.01
+at	O	0.01
+NIST	B-organisation	2.61	SNEHA
+,	O	0.09
+Judah	B-researcher	2.6	SNEHA
+Levine	I-researcher	2.98	SNEHA
+who	O	0.0
+is	O	0.0
+the	O	0.0
+most	O	0.0
+recent	O	0.01
+recipient	O	1.09
+of	O	0.01
+the	O	0.01
+I.	B-misc	0.02
+I.	I-misc	0.02
+Rabi	I-misc	0.3
+Award	I-misc	2.93	SNEHA
+.	O	0.0
+
+These	O	0.0
+can	O	0.0
+be	O	0.0
+arranged	O	0.0
+into	O	0.0
+a	O	0.0
+2	O	0.0
+×	O	1.9
+2	O	0.0
+contingency	O	0.01
+table	O	0.0
+(	O	0.0
+confusion	B-metrics	0.01
+matrix	I-metrics	2.51	SNEHA
+)	O	0.13
+,	O	0.0
+conventionally	O	2.64	SNEHA
+with	O	0.0
+the	O	0.0
+test	O	0.01
+result	O	0.0
+on	O	0.0
+the	O	0.0
+vertical	O	1.22
+axis	O	0.98
+and	O	0.48
+the	O	0.17
+actual	O	0.05
+condition	O	0.02
+on	O	0.0
+the	O	0.0
+horizontal	O	1.3
+axis	O	0.86
+.	O	0.03
+
+The	O	0.09
+Apple	B-product	0.4
+iOS	I-product	0.24
+operating	I-product	0.05
+system	I-product	0.14
+used	O	0.0
+on	O	0.0
+the	O	0.0
+iPhone	B-product	1.22
+,	O	0.01
+iPad	B-product	1.73
+and	O	0.0
+iPod	B-product	2.09	SNEHA
+Touch	I-product	3.23	SNEHA
+uses	O	0.02
+VoiceOver	B-product	1.81
+speech	I-product	0.43
+synthesis	I-product	3.91	SNEHA
+accessibility	O	3.36	SNEHA
+.	O	0.0
+
+For	O	0.0
+example	O	0.0
+,	O	0.0
+the	O	0.0
+best	O	0.01
+system	O	0.03
+entering	O	0.0
+MUC-7	B-conference	1.19
+scored	O	0.0
+93.39	O	1.77
+%	O	0.0
+of	O	0.01
+F-measure	B-metrics	2.01	SNEHA
+while	O	0.04
+human	O	0.0
+annotators	O	1.48
+scored	O	0.0
+97.6	O	1.63
+%	O	0.0
+and	O	0.0
+96.95	O	0.95
+%	O	0.0
+.	O	0.0
+
+This	O	0.0
+is	O	0.0
+done	O	0.0
+using	O	0.0
+standard	O	0.0
+neural	O	3.1	SNEHA
+net	O	0.01
+training	O	0.0
+algorithms	O	0.05
+such	O	0.0
+as	O	0.0
+stochastic	B-algorithm	1.04
+gradient	I-algorithm	1.49
+descent	I-algorithm	1.55
+with	O	0.0
+backpropagation	B-algorithm	1.04
+.	O	0.0
+
+Rotten	B-organisation	2.64	SNEHA
+Tomatoes	I-organisation	2.4	SNEHA
+is	O	0.0
+a	O	0.0
+top	O	0.0
+1000	O	0.07
+site	O	0.0
+,	O	0.0
+placing	O	0.0
+around	O	0.0
+#	O	1.94
+400	O	0.0
+globally	O	0.7
+and	O	0.0
+top	O	0.0
+150	O	0.04
+for	O	0.0
+the	O	0.0
+US	B-country	1.32
+only	O	0.03
+,	O	0.0
+according	O	0.0
+to	O	0.0
+website	O	1.31
+ranker	O	1.65
+Alexa	B-product	1.96
+.	O	0.0
+
+Generally	O	2.64	SNEHA
+speaking	O	0.01
+all	O	0.0
+learning	O	2.41	SNEHA
+displays	O	1.09
+incremental	O	2.6	SNEHA
+change	O	0.0
+over	O	0.0
+time	O	0.0
+,	O	0.0
+but	O	0.0
+describes	O	0.02
+an	O	0.0
+Sigmoid	B-algorithm	1.76
+function	I-algorithm	2.55	SNEHA
+which	O	0.01
+has	O	0.0
+different	O	0.0
+appearances	O	0.0
+depending	O	0.0
+on	O	0.0
+the	O	0.0
+time	O	0.0
+scale	O	0.01
+of	O	0.01
+observation	O	0.02
+.	O	0.0
+
+The	O	0.09
+SSD	B-metrics	1.76
+is	O	0.04
+also	O	0.0
+known	O	0.0
+as	O	0.0
+mean	B-metrics	0.06
+squared	I-metrics	0.01
+error	I-metrics	0.47
+.	O	0.0
+
+Decision	B-algorithm	2.64	SNEHA
+tree	I-algorithm	0.0
+learning	I-algorithm	2.26	SNEHA
+,	O	0.0
+neural	B-algorithm	3.08	SNEHA
+networks	I-algorithm	3.12	SNEHA
+,	O	0.0
+or	O	0.0
+a	O	0.0
+naive	B-algorithm	1.38
+Bayes	I-algorithm	1.65
+classifier	I-algorithm	2.58	SNEHA
+could	O	0.03
+be	O	0.0
+used	O	0.0
+in	O	0.0
+combination	O	0.13
+with	O	0.0
+measures	O	0.0
+of	O	0.01
+model	O	0.17
+quality	O	0.03
+such	O	0.0
+as	O	0.0
+balanced	B-metrics	0.02
+accuracy	I-metrics	0.0
+
+He	O	0.0
+is	O	0.0
+a	O	0.0
+past	O	0.0
+President	O	0.01
+(	O	0.0
+1979	O	0.01
+)	O	0.01
+and	O	0.0
+an	O	0.0
+inaugural	O	0.0
+Fellow	O	0.0
+(	O	0.0
+2011	O	0.0
+)	O	0.01
+of	O	0.01
+the	O	0.01
+ACL	B-conference	1.23
+,	O	0.05
+a	O	0.0
+co-recipient	O	1.22
+of	O	0.01
+the	O	0.0
+1992	B-conference	0.43
+Association	I-conference	1.39
+for	I-conference	1.17
+Computing	I-conference	1.07
+Machinery	I-conference	0.44
+Software	B-misc	0.4
+Systems	I-misc	0.31
+Award	I-misc	0.55
+for	O	0.04
+his	O	0.0
+contribution	O	0.0
+to	O	0.0
+the	O	0.0
+Interlisp	B-product	1.19
+programming	I-product	0.4
+system	I-product	0.03
+,	O	0.0
+and	O	0.0
+a	O	0.0
+Fellow	O	0.0
+of	O	0.01
+the	O	0.0
+Association	B-conference	1.89
+for	I-conference	1.05
+Computing	I-conference	0.86
+Machinery	I-conference	0.44
+.	O	0.24
+
+Along	O	0.0
+with	O	0.0
+Geoffrey	B-researcher	0.15
+Hinton	I-researcher	0.4
+and	O	0.48
+Yann	B-researcher	2.7	SNEHA
+LeCun	I-researcher	3.29	SNEHA
+,	O	0.01
+Bengio	B-researcher	2.7	SNEHA
+is	O	0.0
+considered	O	0.0
+by	O	0.0
+Cade	B-researcher	1.06
+Metz	I-researcher	0.16
+as	O	0.02
+one	O	0.0
+of	O	0.02
+the	O	0.01
+three	O	0.02
+people	O	0.0
+most	O	0.0
+responsible	O	0.0
+for	O	0.0
+the	O	0.0
+advancement	O	1.1
+of	O	0.76
+deep	B-field	2.11	SNEHA
+learning	I-field	1.15
+during	O	0.01
+the	O	0.01
+1990s	O	0.0
+and	O	0.0
+2000s	O	1.25
+.	O	0.0
+
+In	O	0.01
+information	B-field	2.56	SNEHA
+theory	I-field	1.83
+and	O	0.13
+computer	B-field	0.95
+science	I-field	2.27	SNEHA
+,	O	0.01
+a	O	0.0
+code	O	0.01
+is	O	0.0
+usually	O	0.01
+considered	O	0.0
+as	O	0.0
+an	O	0.0
+algorithm	O	1.76
+that	O	0.0
+uniquely	O	1.77
+represents	O	0.01
+symbols	O	0.0
+from	O	0.0
+some	O	0.0
+source	O	0.0
+alphabet	O	1.95
+,	O	0.0
+by	O	0.0
+encoded	O	1.11
+strings	O	2.34	SNEHA
+,	O	0.0
+which	O	0.0
+may	O	0.0
+be	O	0.0
+in	O	0.01
+some	O	0.0
+other	O	0.0
+target	O	0.0
+alphabet	O	1.32
+.	O	0.0
+
+A	O	0.02
+fairly	O	0.0
+simple	O	0.01
+non-linear	O	0.1
+function	O	0.07
+,	O	0.0
+the	O	0.0
+sigmoid	B-algorithm	3.53	SNEHA
+function	I-algorithm	2.19	SNEHA
+such	O	0.03
+as	O	0.0
+the	O	0.0
+logistic	B-algorithm	1.34
+function	I-algorithm	0.21
+also	O	0.0
+has	O	0.0
+an	O	0.0
+easily	O	0.0
+calculated	O	0.0
+derivative	O	1.68
+,	O	0.0
+which	O	0.0
+can	O	0.0
+be	O	0.0
+important	O	0.0
+when	O	0.0
+calculating	O	2.13	SNEHA
+the	O	0.01
+weight	O	0.0
+updates	O	1.19
+in	O	0.01
+the	O	0.01
+network	O	1.69
+.	O	0.0
+
+Čapek	B-person	2.64	SNEHA
+was	O	0.0
+born	O	0.0
+in	O	0.0
+Hronov	B-location	1.91
+,	O	0.0
+Bohemia	B-location	2.83	SNEHA
+(	O	0.0
+Austria-Hungary	B-country	2.25	SNEHA
+,	O	0.0
+later	O	0.0
+Czechoslovakia	B-country	1.91
+,	O	0.0
+now	O	0.0
+the	O	0.0
+Czech	B-country	0.98
+Republic	I-country	0.02
+)	O	0.02
+in	O	0.0
+1887	O	1.86
+.	O	0.0
+
+Some	O	0.0
+specialized	O	1.65
+software	O	0.02
+can	O	0.0
+narrate	O	1.66
+RSS	B-product	0.94
+.	O	0.0
+
+Aspects	O	2.64	SNEHA
+of	O	0.03
+ontology	O	2.25	SNEHA
+editors	O	2.03	SNEHA
+include	O	0.03
+:	O	0.07
+visual	B-task	1.91
+navigation	I-task	3.21	SNEHA
+possibilities	O	2.34	SNEHA
+within	O	0.01
+the	O	0.0
+knowledge	B-task	0.0
+model	I-task	0.46
+,	O	0.0
+inference	B-task	2.61	SNEHA
+engine	I-task	0.0
+s	O	0.02
+and	O	0.01
+extraction	B-task	1.3
+;	O	0.0
+support	B-task	0.0
+for	I-task	0.0
+modules	I-task	1.68
+;	O	0.01
+the	O	0.0
+import	O	0.04
+and	O	0.0
+export	O	0.0
+of	O	0.01
+foreign	O	0.0
+knowledge	B-task	0.0
+representation	I-task	2.13	SNEHA
+languages	O	0.0
+for	O	0.0
+ontology	B-task	2.38	SNEHA
+matching	I-task	0.0
+;	O	0.0
+and	O	0.0
+the	O	0.0
+support	O	0.01
+of	O	0.0
+meta-ontologies	B-task	2.02	SNEHA
+such	O	0.01
+as	O	0.0
+OWL-S	B-product	1.1
+,	O	0.0
+Dublin	B-product	1.14
+Core	I-product	0.12
+,	O	0.0
+etc	O	2.32	SNEHA
+.	O	0.0
+
+The	O	0.09
+FBI	B-organisation	0.65
+has	O	0.0
+also	O	0.0
+instituted	O	1.55
+its	O	0.0
+Next	B-misc	0.0
+Generation	I-misc	1.74
+Identification	I-misc	1.57
+program	I-misc	0.01
+to	O	0.0
+include	O	0.0
+face	B-task	0.0
+recognition	I-task	2.62	SNEHA
+,	O	0.0
+as	O	0.0
+well	O	0.0
+as	O	0.0
+more	O	0.0
+traditional	O	0.0
+biometrics	B-field	0.73
+like	O	0.0
+fingerprints	B-misc	0.83
+and	O	0.01
+iris	B-misc	2.09	SNEHA
+scans	I-misc	0.27
+,	O	0.0
+which	O	0.0
+can	O	0.0
+pull	O	0.0
+from	O	0.0
+both	O	0.0
+criminal	O	0.02
+and	O	0.0
+civil	O	0.0
+databases	O	0.01
+.	O	0.0
+
+For	O	0.0
+the	O	0.0
+2016	O	0.0
+season	O	0.0
+,	O	0.0
+Samantha	B-person	2.53	SNEHA
+Ponder	I-person	2.53	SNEHA
+was	O	0.0
+added	O	0.0
+as	O	0.0
+host	O	0.0
+,	O	0.0
+replacing	O	0.01
+Molly	B-person	2.59	SNEHA
+McGrath	I-person	0.39
+.	O	0.0
+
+It	O	0.0
+is	O	0.0
+an	O	0.0
+adversarial	B-algorithm	1.34
+search	I-algorithm	1.53
+algorithm	I-algorithm	2.9	SNEHA
+used	O	0.01
+commonly	O	1.62
+for	O	0.0
+machine	O	0.56
+playing	O	0.0
+of	O	0.01
+two-player	O	1.97
+games	O	0.0
+(	O	0.0
+Tic-tac-toe	B-misc	1.04
+,	O	0.0
+Chess	B-misc	2.6	SNEHA
+,	O	0.0
+Go	B-misc	2.6	SNEHA
+,	O	0.0
+etc	O	2.61	SNEHA
+.	O	0.0
+
+It	O	0.0
+involves	O	0.0
+the	O	0.0
+fields	O	0.0
+of	O	0.01
+computer	B-field	1.21
+vision	I-field	0.41
+or	O	0.01
+machine	B-field	0.04
+vision	I-field	0.07
+,	O	0.0
+and	O	0.0
+medical	B-field	0.07
+imaging	I-field	1.39
+,	O	0.0
+and	O	0.0
+makes	O	0.0
+heavy	O	0.0
+use	O	0.0
+of	O	0.01
+pattern	B-field	2.3	SNEHA
+recognition	I-field	1.82
+,	O	0.01
+digital	B-field	0.01
+geometry	I-field	1.5
+,	O	0.0
+and	O	0.0
+signal	B-field	0.31
+processing	I-field	2.65	SNEHA
+.	O	0.0
+
+In	O	0.01
+facial	B-product	3.55	SNEHA
+recognition	I-product	2.09	SNEHA
+system	I-product	0.43
+,	O	0.0
+for	O	0.0
+instance	O	1.0
+,	O	0.0
+a	O	0.0
+picture	O	0.0
+of	O	0.01
+a	O	0.0
+person	O	0.0
+'s	O	0.0
+face	O	0.07
+would	O	0.0
+be	O	0.0
+the	O	0.0
+input	O	0.0
+,	O	0.0
+and	O	0.0
+the	O	0.0
+output	O	0.01
+label	O	1.56
+would	O	0.0
+be	O	0.0
+that	O	0.0
+person	O	0.0
+'s	O	0.0
+name	O	0.0
+.	O	0.0
+
+Apple	B-organisation	0.29
+Inc	I-organisation	0.06
+introduced	O	0.01
+Face	B-product	2.07	SNEHA
+ID	I-product	1.97
+on	O	0.0
+the	O	0.0
+flagship	O	1.22
+iPhone	B-product	0.86
+X	I-product	1.15
+as	O	0.01
+a	O	0.0
+biometric	O	1.03
+authentication	O	0.0
+successor	O	0.0
+to	O	0.0
+the	O	0.0
+Touch	B-product	1.17
+ID	I-product	1.71
+,	O	0.01
+a	O	0.0
+fingerprint	O	1.44
+based	O	0.0
+system	O	0.42
+.	O	0.0
+
+Or	O	2.64	SNEHA
+combine	O	2.4	SNEHA
+the	O	0.01
+F-measure	B-metrics	1.09
+with	O	0.04
+the	O	0.0
+R-square	B-metrics	1.37
+evaluated	O	0.09
+for	O	0.0
+the	O	0.0
+raw	O	0.0
+model	O	0.1
+output	O	0.01
+and	O	0.0
+the	O	0.0
+target	O	0.0
+;	O	0.0
+or	O	0.0
+the	O	0.0
+cost	B-metrics	0.0
+/	I-metrics	0.0
+gain	I-metrics	0.0
+matrix	I-metrics	1.53
+with	O	0.01
+the	O	0.0
+correlation	B-metrics	1.23
+coefficient	I-metrics	3.34	SNEHA
+,	O	0.0
+and	O	0.0
+so	O	0.0
+on	O	0.0
+.	O	0.0
+
+The	O	0.09
+Spanish	B-conference	0.07
+edition	I-conference	0.03
+of	I-conference	0.01
+Campus	I-conference	2.16	SNEHA
+Party	I-conference	0.32
+has	O	0.0
+been	O	0.0
+held	O	0.0
+at	O	0.01
+the	O	0.01
+Colegio	B-location	1.01
+Miguel	I-location	1.23
+Hernández	I-location	2.98	SNEHA
+,	O	0.0
+Ceulaj	B-location	2.28	SNEHA
+,	O	0.0
+and	O	0.0
+the	O	0.0
+Municipal	B-location	1.04
+Sport	I-location	0.19
+Arena	I-location	0.13
+of	I-location	1.06
+Benalmádena	I-location	1.21
+in	O	0.4
+Málaga	B-location	2.26	SNEHA
+,	O	0.14
+Spain	B-country	0.11
+;	O	0.0
+and	O	0.0
+at	O	0.01
+both	O	0.0
+the	O	0.0
+Valencia	B-location	0.42
+County	I-location	0.84
+Fair	I-location	0.07
+and	O	0.46
+the	O	0.15
+City	B-location	2.06	SNEHA
+of	I-location	1.42
+Arts	I-location	1.13
+and	I-location	0.22
+Sciences	I-location	0.67
+in	O	0.18
+Valencia	B-location	0.09
+over	O	0.01
+the	O	0.0
+past	O	0.0
+15	O	0.0
+years	O	0.0
+.	O	0.0
+
+gnuplot	B-product	2.64	SNEHA
+can	O	0.0
+be	O	0.0
+used	O	0.0
+from	O	0.0
+various	O	0.0
+programming	O	1.54
+languages	O	0.0
+to	O	0.0
+graph	O	0.0
+data	O	0.01
+,	O	0.0
+including	O	0.0
+Perl	B-programlang	2.05	SNEHA
+(	O	0.38
+via	O	0.01
+PDL	B-product	2.36	SNEHA
+and	O	0.0
+CPAN	B-product	2.19	SNEHA
+packages	O	0.03
+)	O	0.01
+,	O	0.0
+Python	B-programlang	1.6
+(	O	0.1
+via	O	0.0
+)	O	0.01
+.	O	0.0
+
+The	O	0.09
+field	O	0.03
+of	O	0.11
+spoken	B-product	0.09
+dialog	I-product	2.46	SNEHA
+systems	I-product	2.81	SNEHA
+is	O	0.0
+quite	O	0.0
+large	O	0.0
+and	O	0.0
+includes	O	0.0
+research	O	0.0
+(	O	0.0
+featured	O	0.03
+at	O	0.01
+scientific	O	0.01
+conferences	O	0.0
+such	O	0.0
+as	O	0.0
+SIGdial	B-conference	1.2
+and	O	0.0
+Interspeech	B-conference	1.88
+)	O	0.02
+and	O	0.0
+a	O	0.0
+large	O	0.0
+industrial	O	0.0
+sector	O	0.0
+(	O	0.0
+with	O	0.0
+its	O	0.0
+own	O	0.0
+meetings	O	0.0
+such	O	0.0
+as	O	0.0
+SpeechTek	B-conference	1.34
+and	O	0.0
+AVIOS	B-conference	1.88
+)	O	0.02
+.	O	0.0
+
+Challenges	O	2.64	SNEHA
+in	O	0.0
+natural	B-field	0.46
+language	I-field	2.71	SNEHA
+processing	I-field	2.8	SNEHA
+frequently	O	0.05
+involve	O	0.0
+speech	B-task	0.2
+recognition	I-task	1.6
+,	O	0.01
+natural	B-task	0.3
+language	I-task	3.14	SNEHA
+understanding	I-task	0.05
+,	O	0.0
+and	O	0.0
+natural	B-task	0.96
+language	I-task	3.3	SNEHA
+generation	I-task	0.01
+.	O	0.0
+
+These	O	0.0
+systems	O	0.04
+,	O	0.0
+such	O	0.0
+as	O	0.0
+Siri	B-product	1.44
+of	O	0.01
+the	O	0.01
+iOS	B-product	1.47
+operating	I-product	0.01
+system	I-product	0.01
+,	O	0.0
+operate	O	0.01
+on	O	0.0
+a	O	0.0
+similar	O	0.0
+pattern-recognizing	O	1.28
+technique	O	0.02
+as	O	0.0
+that	O	0.0
+of	O	0.01
+text-based	O	1.98
+systems	O	2.57	SNEHA
+,	O	0.0
+but	O	0.0
+with	O	0.0
+the	O	0.0
+former	O	0.0
+,	O	0.0
+the	O	0.01
+user	O	0.22
+input	O	0.05
+is	O	0.0
+conducted	O	0.02
+through	O	0.01
+speech	B-task	0.04
+recognition	I-task	2.54	SNEHA
+.	O	0.01
+
+More	O	0.01
+exotic	B-algorithm	1.63
+fitness	I-algorithm	0.01
+functions	I-algorithm	1.02
+that	O	0.0
+explore	O	1.31
+model	O	0.54
+granularity	O	2.79	SNEHA
+include	O	0.0
+the	O	0.01
+area	O	0.02
+under	O	0.0
+the	O	0.0
+ROC	B-metrics	1.31
+curve	I-metrics	0.05
+and	O	0.0
+rank	O	0.0
+measure	O	0.02
+.	O	0.0
+
+The	O	0.09
+term	O	0.0
+Semantic	B-product	1.3
+Web	I-product	0.01
+was	O	0.0
+coined	O	0.08
+by	O	0.0
+Tim	B-researcher	0.02
+Berners-Lee	I-researcher	0.01
+,	O	0.0
+the	O	0.0
+inventor	O	1.25
+of	O	0.48
+the	O	0.24
+World	B-product	0.21
+Wide	I-product	0.11
+Web	I-product	0.96
+and	O	0.07
+director	O	0.0
+of	O	0.02
+the	O	0.01
+World	B-organisation	0.27
+Wide	I-organisation	0.18
+Web	I-organisation	0.91
+Consortium	I-organisation	2.81	SNEHA
+(	O	0.11
+W3C	B-organisation	1.72
+)	O	0.2
+,	O	0.0
+which	O	0.0
+oversees	O	1.49
+the	O	0.03
+development	O	0.04
+of	O	0.01
+proposed	O	0.0
+Semantic	B-product	1.33
+Web	I-product	0.0
+standards	I-product	0.0
+.	O	0.0
+
+Machine	B-task	3.08	SNEHA
+translation	I-task	2.53	SNEHA
+,	O	0.0
+sometimes	O	0.0
+referred	O	0.0
+to	O	0.0
+by	O	0.0
+the	O	0.0
+abbreviation	O	1.15
+MT	B-task	1.21
+(	O	0.01
+not	O	0.0
+to	O	0.0
+be	O	0.0
+confused	O	0.0
+with	O	0.0
+computer-aided	B-product	1.15
+translation	I-product	3.17	SNEHA
+,	O	0.0
+machine-aided	B-product	2.44	SNEHA
+human	I-product	0.03
+translation	I-product	0.56
+(	O	0.0
+MAHT	B-product	1.86
+)	O	0.02
+or	O	0.0
+interactive	B-product	0.0
+translation	I-product	1.0
+)	O	0.01
+,	O	0.0
+is	O	0.0
+a	O	0.0
+sub-field	O	1.1
+of	O	0.01
+computational	B-field	0.0
+linguistics	I-field	0.02
+that	O	0.0
+investigates	O	1.45
+the	O	0.04
+use	O	0.01
+of	O	0.01
+software	O	0.01
+to	O	0.0
+translate	O	1.4
+text	O	0.33
+or	O	0.0
+speech	O	0.05
+from	O	0.01
+one	O	0.0
+language	O	2.3	SNEHA
+to	O	0.0
+another	O	0.0
+.	O	0.0
+
+Early	O	0.0
+interlingual	B-product	2.37	SNEHA
+MT	I-product	2.15	SNEHA
+systems	I-product	0.11
+were	O	0.0
+also	O	0.0
+built	O	0.0
+at	O	0.01
+Stanford	B-university	0.22
+in	O	0.01
+the	O	0.01
+1970s	O	0.01
+by	O	0.0
+Roger	B-researcher	0.05
+Schank	I-researcher	0.11
+and	O	0.02
+Yorick	B-researcher	2.88	SNEHA
+Wilks	I-researcher	2.97	SNEHA
+;	O	0.0
+the	O	0.0
+former	O	0.0
+became	O	0.01
+the	O	0.0
+basis	O	0.0
+of	O	0.01
+a	O	0.0
+commercial	O	0.0
+system	O	0.23
+for	O	0.0
+the	O	0.0
+transfer	O	0.02
+of	O	0.02
+funds	O	0.0
+,	O	0.0
+and	O	0.0
+the	O	0.0
+latter	O	0.02
+'s	O	0.0
+code	O	0.05
+is	O	0.0
+preserved	O	0.0
+at	O	0.01
+The	B-location	1.44
+Computer	I-location	2.9	SNEHA
+Museum	I-location	0.38
+at	O	0.01
+Boston	B-location	1.06
+as	O	0.01
+the	O	0.0
+first	O	0.0
+interlingual	B-product	0.83
+machine	I-product	0.86
+translation	I-product	0.43
+system	I-product	0.11
+.	O	0.0
+
+Sycara	B-researcher	2.64	SNEHA
+served	O	0.0
+as	O	0.0
+the	O	0.0
+program	O	0.07
+chair	O	1.7
+of	O	0.01
+the	O	0.01
+Second	B-conference	1.1
+International	I-conference	1.57
+Semantic	I-conference	0.95
+Web	I-conference	1.0
+Conference	I-conference	1.96
+(	O	0.51
+ISWC	B-conference	2.22	SNEHA
+2003	I-conference	1.14
+)	O	0.03
+;	O	0.0
+general	O	0.0
+chair	O	1.13
+,	O	0.0
+of	O	0.01
+the	O	0.0
+Second	B-conference	1.11
+International	I-conference	1.61
+Conference	I-conference	1.23
+on	I-conference	1.5
+Autonomous	I-conference	2.02	SNEHA
+Agents	I-conference	0.22
+(	O	0.0
+Agents	B-conference	0.0
+98	I-conference	0.0
+)	O	0.01
+;	O	0.0
+chair	O	1.05
+of	O	0.04
+the	O	0.01
+Steering	B-organisation	1.51
+Committee	I-organisation	1.35
+of	I-organisation	1.46
+the	I-organisation	1.36
+Agents	I-organisation	0.33
+Conference	I-organisation	2.21	SNEHA
+(	O	0.74
+1999-2001	O	2.66	SNEHA
+)	O	0.2
+;	O	0.0
+scholarship	O	1.28
+chair	O	2.56	SNEHA
+of	O	0.01
+AAAI	B-conference	3.35	SNEHA
+(	O	0.05
+1993-1999	O	3.0	SNEHA
+)	O	0.03
+;	O	0.0
+
+In	O	0.01
+2016	O	0.31
+,	O	0.0
+she	O	0.01
+was	O	0.0
+selected	O	0.01
+as	O	0.0
+the	O	0.0
+ACL	B-conference	1.21
+(	O	0.0
+Association	B-conference	1.63
+for	I-conference	0.95
+Computational	I-conference	0.28
+Linguistics	I-conference	0.18
+)	O	0.09
+Lifetime	B-misc	1.73
+Achievement	I-misc	2.26	SNEHA
+Award	I-misc	3.03	SNEHA
+winner	O	0.0
+.	O	0.0
+
+Sepp	B-researcher	1.4
+Hochreiter	I-researcher	2.61	SNEHA
+,	O	0.0
+Y.	B-researcher	1.97
+Bengio	I-researcher	0.89
+,	O	0.0
+P.	B-researcher	0.0
+Frasconi	I-researcher	0.01
+,	O	0.0
+and	O	0.0
+Jürgen	B-researcher	2.0	SNEHA
+Schmidhuber	I-researcher	2.44	SNEHA
+.	O	0.0
+
+For	O	0.0
+example	O	0.0
+,	O	0.0
+A.L.I.C.E.	B-product	2.48	SNEHA
+uses	O	0.13
+a	O	0.0
+markup	B-misc	1.08
+language	I-misc	0.86
+called	O	0.0
+AIML	B-programlang	1.82
+,	O	0.0
+which	O	0.0
+is	O	0.0
+specific	O	0.0
+to	O	0.0
+its	O	0.0
+function	O	0.01
+as	O	0.0
+a	O	0.0
+dialogue	B-product	0.0
+system	I-product	0.1
+,	O	0.0
+and	O	0.0
+has	O	0.0
+since	O	0.0
+been	O	0.0
+adopted	O	0.0
+by	O	0.0
+various	O	0.0
+other	O	0.0
+developers	O	0.01
+of	O	0.01
+,	O	0.01
+so-called	O	0.03
+,	O	0.0
+Alicebot	B-product	2.78	SNEHA
+s	O	2.31	SNEHA
+.	O	0.01
+
+In	O	0.01
+2000	O	0.32
+,	O	0.0
+she	O	0.0
+was	O	0.0
+elected	O	0.0
+as	O	0.0
+a	O	0.0
+Fellow	O	0.0
+of	O	0.01
+the	O	0.0
+Association	B-conference	1.9
+for	I-conference	1.05
+the	I-conference	0.88
+Advancement	I-conference	1.7
+of	I-conference	0.77
+Artificial	I-conference	2.39	SNEHA
+Intelligence	I-conference	4.03	SNEHA
+.	O	0.02
+
+Learning	B-misc	3.85	SNEHA
+classifier	I-misc	2.91	SNEHA
+systems	I-misc	2.31	SNEHA
+(	O	0.0
+LCS	B-misc	2.04	SNEHA
+)	O	0.02
+are	O	0.0
+a	O	0.0
+family	O	0.0
+of	O	0.01
+rule-based	B-misc	0.91
+machine	I-misc	0.34
+learning	I-misc	1.53
+algorithms	I-misc	0.03
+that	O	0.0
+combine	O	1.22
+a	O	0.0
+discovery	O	0.0
+component	O	0.92
+,	O	0.0
+typically	O	0.0
+a	O	0.0
+genetic	B-algorithm	0.01
+algorithm	I-algorithm	1.99
+,	O	0.0
+with	O	0.0
+a	O	0.0
+learning	O	2.88	SNEHA
+component	O	0.4
+,	O	0.0
+performing	O	0.0
+either	O	0.0
+supervised	B-field	2.21	SNEHA
+learning	I-field	1.3
+,	O	0.0
+reinforcement	B-field	0.87
+learning	I-field	1.82
+,	O	0.0
+or	O	0.0
+unsupervised	B-field	1.47
+learning	I-field	1.99
+.	O	0.01
+
+The	O	0.09
+unknown	O	0.0
+parameters	O	2.45	SNEHA
+in	O	0.06
+each	O	0.0
+vector	O	1.51
+βsubk	O	2.37	SNEHA
+/	O	1.84
+sub	O	0.41
+are	O	0.0
+typically	O	0.0
+jointly	O	0.0
+estimated	O	0.0
+by	O	0.0
+maximum	B-algorithm	0.0
+a	I-algorithm	0.0
+posteriori	I-algorithm	0.97
+(	O	0.0
+MAP	B-algorithm	2.27	SNEHA
+)	O	0.1
+estimation	O	1.0
+,	O	0.0
+which	O	0.0
+is	O	0.0
+an	O	0.0
+extension	O	0.0
+of	O	0.01
+maximum	B-algorithm	0.0
+likelihood	I-algorithm	2.39	SNEHA
+using	O	0.0
+regularization	B-misc	1.2
+of	O	0.06
+the	O	0.02
+weights	O	1.51
+to	O	0.0
+prevent	O	0.0
+pathological	O	2.15	SNEHA
+solutions	O	0.15
+(	O	0.0
+usually	O	0.01
+a	O	0.0
+squared	B-algorithm	0.0
+regularizing	I-algorithm	1.99
+function	I-algorithm	0.56
+,	O	0.0
+which	O	0.0
+is	O	0.0
+equivalent	O	0.0
+to	O	0.0
+placing	O	0.0
+a	O	0.0
+zero-mean	B-misc	1.18
+Gaussian	I-misc	1.37
+prior	I-misc	0.0
+distribution	I-misc	0.0
+on	O	0.0
+the	O	0.0
+weights	O	1.22
+,	O	0.01
+but	O	0.0
+other	O	0.0
+distributions	O	1.47
+are	O	0.0
+also	O	0.0
+possible	O	0.0
+)	O	0.01
+.	O	0.0
+
+The	O	0.09
+hierarchical	O	0.0
+structure	O	0.0
+of	O	0.03
+words	O	0.05
+has	O	0.0
+been	O	0.0
+explicitly	O	1.43
+mapped	O	0.78
+in	O	0.0
+George	B-researcher	0.34
+Miller	I-researcher	0.0
+'	O	0.0
+s	O	0.05
+Wordnet	B-product	2.72	SNEHA
+.	O	0.0
+
+An	O	0.39
+illustration	O	2.68	SNEHA
+of	O	0.01
+their	O	0.0
+capabilities	O	1.28
+is	O	0.0
+given	O	0.0
+by	O	0.0
+the	O	0.0
+ImageNet	B-conference	1.11
+Large	I-conference	0.78
+Scale	I-conference	0.96
+Visual	I-conference	1.17
+Recognition	I-conference	2.64	SNEHA
+Challenge	I-conference	1.38
+;	O	0.02
+this	O	0.0
+is	O	0.0
+a	O	0.0
+benchmark	O	0.0
+in	O	0.0
+object	B-task	1.66
+classification	I-task	0.89
+and	I-task	0.0
+detection	I-task	1.02
+,	O	0.0
+with	O	0.0
+millions	O	0.0
+of	O	0.01
+images	O	2.29	SNEHA
+and	O	0.04
+hundreds	O	0.0
+of	O	0.01
+object	O	1.87
+classes	O	1.02
+.	O	0.0
+
+In	O	0.01
+science	B-misc	0.42
+fiction	I-misc	2.44	SNEHA
+,	O	0.01
+female-appearing	O	2.82	SNEHA
+robots	O	2.13	SNEHA
+are	O	0.0
+often	O	0.0
+produced	O	0.0
+for	O	0.0
+use	O	0.0
+as	O	0.0
+domestic	O	0.0
+servants	O	0.0
+and	O	0.0
+sexual	O	0.0
+slaves	O	0.0
+,	O	0.0
+as	O	0.0
+seen	O	0.0
+in	O	0.0
+the	O	0.01
+film	O	0.0
+Westworld	B-misc	2.2	SNEHA
+,	O	0.0
+Paul	B-person	0.01
+J.	I-person	0.01
+McAuley	I-person	0.81
+'	O	0.0
+s	O	0.02
+novel	O	2.62	SNEHA
+Fairyland	B-misc	3.29	SNEHA
+(	O	0.01
+1995	O	0.0
+)	O	0.01
+,	O	0.0
+and	O	0.0
+Lester	B-person	1.36
+del	I-person	2.47	SNEHA
+Rey	I-person	1.13
+'	O	1.39
+s	O	1.06
+short	O	0.06
+story	O	0.03
+Helen	B-misc	1.38
+O	I-misc	2.03	SNEHA
+'Loy	I-misc	0.81
+(	O	0.03
+1938	O	1.75
+)	O	0.2
+,	O	0.0
+and	O	0.0
+sometimes	O	0.0
+as	O	0.0
+warriors	O	0.0
+,	O	0.0
+killers	O	0.0
+,	O	0.0
+or	O	0.0
+laborers	O	0.0
+.	O	0.0
+
+question	B-task	0.0
+answering	I-task	1.29
+,	O	0.0
+speech	B-task	0.37
+recognition	I-task	1.51
+,	O	0.01
+and	O	0.01
+machine	B-task	0.45
+translation	I-task	1.71
+.	O	0.0
+
+In	O	0.01
+his	O	0.0
+seminal	O	0.09
+paper	O	0.0
+,	O	0.0
+Harry	B-researcher	2.55	SNEHA
+Blum	I-researcher	2.39	SNEHA
+of	O	0.01
+the	O	0.01
+Air	B-organisation	0.49
+Force	I-organisation	0.11
+Cambridge	I-organisation	2.02	SNEHA
+Research	I-organisation	0.1
+Laboratories	I-organisation	0.54
+at	O	0.03
+Hanscom	B-location	1.5
+Air	I-location	0.98
+Force	I-location	0.16
+Base	I-location	0.39
+,	O	0.01
+in	O	0.01
+Bedford	B-location	1.91
+,	O	0.0
+Massachusetts	B-location	0.21
+,	O	0.01
+defined	O	0.03
+a	O	0.0
+medial	O	1.24
+axis	O	1.67
+for	O	0.0
+computing	O	0.07
+a	O	0.0
+skeleton	O	1.45
+of	O	0.01
+a	O	0.0
+shape	O	0.0
+,	O	0.0
+using	O	0.0
+an	O	0.0
+intuitive	O	1.17
+model	O	0.26
+of	O	0.15
+fire	O	0.0
+propagation	O	1.87
+on	O	0.0
+a	O	0.0
+grass	O	1.18
+field	O	0.01
+,	O	0.0
+where	O	0.0
+the	O	0.0
+field	O	0.07
+has	O	0.0
+the	O	0.0
+form	O	0.0
+of	O	0.02
+the	O	0.01
+given	O	0.02
+shape	O	0.0
+.	O	0.0
+
+However	O	0.0
+,	O	0.0
+in	O	0.0
+contrast	O	1.68
+to	O	0.0
+boosting	O	0.0
+algorithms	O	0.01
+that	O	0.0
+analytically	O	2.08	SNEHA
+minimize	O	3.08	SNEHA
+a	O	0.0
+convex	O	1.48
+loss	O	0.01
+function	O	0.07
+(	O	0.0
+e.g.	O	2.3	SNEHA
+AdaBoost	B-algorithm	2.88	SNEHA
+and	O	0.0
+LogitBoost	B-algorithm	2.05	SNEHA
+)	O	0.02
+,	O	0.0
+BrownBoost	B-algorithm	2.16	SNEHA
+solves	O	2.57	SNEHA
+a	O	0.0
+system	O	0.3
+of	O	0.0
+two	O	0.0
+equations	O	1.43
+and	O	0.0
+two	O	0.0
+unknowns	O	0.93
+using	O	0.01
+standard	O	0.0
+numerical	O	0.01
+methods	O	0.24
+.	O	0.01
+
+Getoor	B-researcher	2.64	SNEHA
+has	O	0.0
+multiple	O	0.0
+best	O	0.0
+paper	O	0.0
+awards	O	0.09
+,	O	0.01
+an	O	0.0
+NSF	B-misc	0.87
+Career	I-misc	0.59
+Award	I-misc	0.27
+,	O	0.03
+and	O	0.01
+is	O	0.0
+an	O	0.0
+Association	B-conference	1.89
+for	I-conference	1.12
+the	I-conference	0.85
+Advancement	I-conference	1.69
+of	I-conference	0.78
+Artificial	I-conference	2.39	SNEHA
+Intelligence	I-conference	4.03	SNEHA
+(	O	0.02
+AAAI	B-conference	3.07	SNEHA
+)	O	0.45
+Fellow	O	0.0
+.	O	0.0
+
+ACM	B-misc	2.64	SNEHA
+Fellow	I-misc	0.01
+(	O	0.0
+2015	O	0.59
+)	O	0.04
+br	O	1.92
+Association	B-misc	0.24
+for	I-misc	1.14
+Computational	I-misc	0.28
+Linguistics	I-misc	0.34
+Fellow	I-misc	1.42
+(	O	0.0
+2011	O	0.01
+)	O	0.02
+br	O	1.9
+AAAI	B-misc	3.42	SNEHA
+Fellow	I-misc	0.13
+(	O	0.0
+1994	O	0.0
+)	O	0.0
+br	O	1.85
+International	B-misc	1.59
+Speech	I-misc	0.49
+Communication	I-misc	1.05
+Association	I-misc	0.07
+Fellow	I-misc	0.07
+(	O	0.02
+2011	O	0.02
+)	O	0.05
+br	O	1.7
+Honorary	B-misc	1.54
+Doctorate	I-misc	0.92
+(	O	0.0
+Hedersdoktor	O	2.13	SNEHA
+)	O	0.02
+KTH	B-university	1.76
+Royal	I-university	1.42
+Institute	I-university	1.44
+of	I-university	0.59
+Technology	I-university	2.46	SNEHA
+(	O	0.54
+2007	O	2.14	SNEHA
+)	O	0.15
+br	O	1.89
+Columbia	B-misc	2.24	SNEHA
+Engineering	I-misc	1.08
+School	I-misc	0.51
+Alumni	I-misc	1.98
+Association	I-misc	0.31
+Distinguished	I-misc	0.07
+Faculty	I-misc	0.75
+Teaching	I-misc	1.14
+award	I-misc	1.48
+(	O	0.17
+2009	O	0.05
+)	O	0.02
+br	O	1.77
+IEEE	B-misc	2.87	SNEHA
+James	I-misc	0.61
+L.	I-misc	0.01
+Flanagan	I-misc	0.61
+Speech	I-misc	0.46
+and	I-misc	0.01
+Audio	I-misc	0.43
+Processing	I-misc	2.2	SNEHA
+Award	I-misc	4.01	SNEHA
+(	O	0.69
+2011	O	0.01
+)	O	0.02
+br	O	2.0	SNEHA
+ISCA	B-misc	1.68
+Medal	I-misc	1.1
+for	I-misc	0.0
+Scientific	I-misc	2.08	SNEHA
+Achievement	I-misc	2.94	SNEHA
+(	O	0.0
+2011	O	0.0
+)	O	0.01
+
+A	O	0.02
+frustrating	O	0.02
+outcome	O	0.0
+of	O	0.01
+the	O	0.0
+same	O	0.0
+study	O	0.0
+by	O	0.0
+Stanford	B-university	1.89
+(	O	0.01
+and	O	0.0
+other	O	0.0
+attempts	O	0.0
+to	O	0.0
+improve	O	0.0
+named	B-task	0.01
+recognition	I-task	3.01	SNEHA
+translation	I-task	1.63
+)	O	0.05
+is	O	0.0
+that	O	0.0
+many	O	0.0
+times	O	0.0
+,	O	0.0
+a	O	0.0
+decrease	O	0.0
+in	O	0.0
+the	O	0.01
+Bilingual	B-metrics	0.97
+evaluation	I-metrics	0.15
+understudy	I-metrics	1.87
+scores	O	0.0
+for	O	0.0
+translation	O	2.81	SNEHA
+will	O	0.0
+result	O	0.0
+from	O	0.0
+the	O	0.0
+inclusion	O	0.25
+of	O	0.07
+methods	O	1.97
+for	O	0.0
+named	B-task	0.04
+entity	I-task	2.27	SNEHA
+translation	I-task	1.95
+.	O	0.0
+
+Medtronic	B-organisation	2.64	SNEHA
+is	O	0.0
+using	O	0.01
+the	O	0.0
+collected	O	0.07
+PM	O	0.03
+data	O	0.01
+and	O	0.0
+is	O	0.0
+working	O	0.0
+with	O	0.0
+researchers	O	0.0
+at	O	0.01
+Johns	B-organisation	0.05
+Hopkins	I-organisation	0.01
+Hospital	I-organisation	0.01
+and	O	0.15
+Washington	B-university	1.11
+University	I-university	3.19	SNEHA
+School	I-university	2.13	SNEHA
+of	I-university	0.22
+Medicine	I-university	1.05
+in	O	0.03
+order	O	0.0
+to	O	0.0
+help	O	0.0
+answer	O	0.0
+specific	O	0.0
+questions	O	0.0
+about	O	0.0
+heart	O	0.0
+disease	O	0.0
+,	O	0.0
+such	O	0.0
+as	O	0.0
+whether	O	0.0
+weak	O	0.0
+hearts	O	0.0
+cause	O	0.0
+arrhythmias	O	1.02
+or	O	0.01
+vice	O	0.0
+versa	O	0.79
+.	O	0.0
+
+Following	O	0.0
+that	O	0.0
+was	O	0.0
+Paramount	B-organisation	0.62
+'s	O	0.28
+first	O	0.0
+feature	O	0.14
+,	O	0.0
+Sangaree	B-misc	2.75	SNEHA
+with	O	0.0
+Fernando	B-person	0.03
+Lamas	I-person	0.04
+and	O	0.01
+Arlene	B-person	2.17	SNEHA
+Dahl	I-person	0.15
+.	O	0.0
+
+KRL	B-programlang	2.64	SNEHA
+is	O	0.0
+a	O	0.0
+knowledge	O	0.0
+representation	O	1.81
+language	O	0.74
+,	O	0.0
+developed	O	0.0
+by	O	0.0
+Daniel	B-researcher	0.0
+G.	I-researcher	0.01
+Bobrow	I-researcher	0.09
+and	O	0.0
+Terry	B-researcher	0.03
+Winograd	I-researcher	0.02
+while	O	0.0
+at	O	0.01
+Xerox	B-organisation	1.21
+PARC	I-organisation	0.28
+and	O	0.14
+Stanford	B-university	1.95
+University	I-university	3.04	SNEHA
+,	O	0.15
+respectively	O	0.01
+.	O	0.0
+
+At	O	0.01
+the	O	0.01
+IEEE	B-conference	0.64
+Conference	I-conference	1.35
+on	I-conference	1.4
+Computer	I-conference	3.23	SNEHA
+Vision	I-conference	3.51	SNEHA
+and	I-conference	1.45
+Pattern	I-conference	3.17	SNEHA
+Recognition	I-conference	2.86	SNEHA
+in	O	0.02
+2006	O	0.03
+,	O	0.0
+Qiang	B-researcher	0.15
+Zhu	I-researcher	0.32
+,	O	0.01
+Shai	B-researcher	2.96	SNEHA
+Avidan	I-researcher	2.88	SNEHA
+,	O	0.0
+Mei-Chen	B-researcher	2.39	SNEHA
+Yeh	I-researcher	2.67	SNEHA
+,	O	0.0
+and	O	0.0
+Kwang-Ting	B-researcher	1.16
+Cheng	I-researcher	2.49	SNEHA
+presented	O	0.0
+an	O	0.0
+algorithm	O	1.51
+to	O	0.0
+significantly	O	0.0
+speed	O	0.0
+up	O	0.0
+human	B-task	0.01
+detection	I-task	0.51
+using	O	0.0
+HOG	B-algorithm	1.67
+descriptor	I-algorithm	2.51	SNEHA
+methods	I-algorithm	0.74
+.	O	0.01
+
+Hayes	B-researcher	3.81	SNEHA
+is	O	0.14
+a	O	0.0
+charter	O	0.03
+Fellow	O	0.03
+of	O	0.0
+AAAI	B-conference	3.65	SNEHA
+and	O	0.02
+of	O	0.01
+the	O	0.01
+Cognitive	B-organisation	0.2
+Science	I-organisation	0.02
+Society	I-organisation	0.19
+
+Time	B-misc	1.15
+series	I-misc	0.0
+are	O	0.0
+used	O	0.0
+in	O	0.0
+statistics	B-field	0.0
+,	O	0.0
+signal	B-field	0.14
+processing	I-field	2.74	SNEHA
+,	O	0.0
+pattern	B-field	1.83
+recognition	I-field	1.64
+,	O	0.0
+econometrics	B-field	2.82	SNEHA
+,	O	0.01
+mathematical	B-field	0.21
+finance	I-field	0.1
+,	O	0.01
+weather	B-field	0.01
+forecasting	I-field	1.61
+,	O	0.0
+earthquake	B-field	0.0
+prediction	I-field	0.01
+,	O	0.0
+electroencephalography	B-field	2.54	SNEHA
+,	O	0.0
+control	B-field	0.0
+engineering	I-field	0.0
+,	O	0.0
+astronomy	B-field	2.62	SNEHA
+,	O	0.0
+communications	B-field	0.0
+engineering	I-field	0.0
+,	O	0.0
+and	O	0.0
+largely	O	0.0
+in	O	0.01
+any	O	0.0
+domain	O	1.43
+of	O	0.02
+applied	B-field	0.12
+science	I-field	1.94
+and	O	0.08
+engineering	O	0.01
+which	O	0.0
+involves	O	0.0
+temporal	O	1.25
+measurements	O	0.0
+.	O	0.0
+
+In	O	0.01
+principle	O	0.0
+,	O	0.0
+exact	O	0.04
+recovery	O	0.0
+can	O	0.0
+be	O	0.0
+solved	O	0.01
+in	O	0.0
+its	O	0.03
+feasible	O	0.0
+range	O	0.0
+using	O	0.0
+maximum	B-metrics	0.0
+likelihood	I-metrics	2.24	SNEHA
+,	O	0.0
+but	O	0.0
+this	O	0.0
+amounts	O	1.3
+to	O	0.0
+solving	O	0.0
+a	O	0.0
+constrained	O	1.42
+or	O	0.0
+regularized	O	0.65
+cut	O	0.0
+problem	O	0.0
+such	O	0.0
+as	O	0.0
+minimum	O	0.0
+bisection	O	1.1
+that	O	0.0
+is	O	0.0
+typically	O	0.0
+NP-complete	B-misc	0.54
+.	O	0.0
+
+in	O	0.01
+their	O	0.0
+work	O	0.0
+for	O	0.0
+pedestrian	B-task	0.02
+detection	I-task	0.73
+,	O	0.0
+that	O	0.0
+was	O	0.0
+first	O	0.0
+described	O	0.0
+at	O	0.01
+the	O	0.01
+BMVC	B-conference	0.93
+in	O	0.01
+2009	O	0.06
+.	O	0.0
+
+In	O	0.01
+2007	O	0.92
+,	O	0.0
+at	O	0.01
+the	O	0.01
+International	B-conference	1.58
+Conference	I-conference	1.45
+on	I-conference	1.33
+Computer	I-conference	3.36	SNEHA
+Vision	I-conference	3.49	SNEHA
+,	O	0.51
+Terzopoulos	B-researcher	3.04	SNEHA
+was	O	0.0
+awarded	O	0.0
+the	O	0.0
+inaugural	B-misc	0.01
+IEEE	I-misc	0.53
+PAMI	I-misc	1.14
+Computer	I-misc	2.73	SNEHA
+Vision	I-misc	2.73	SNEHA
+Distinguished	I-misc	3.19	SNEHA
+Researcher	I-misc	3.76	SNEHA
+Award	I-misc	2.89	SNEHA
+for	O	0.09
+pioneering	O	0.47
+and	O	0.0
+sustained	O	0.01
+research	O	0.0
+on	O	0.0
+deformable	O	1.03
+models	O	0.04
+and	O	0.01
+their	O	0.0
+applications	O	0.0
+.	O	0.0
+
+Cluster	B-task	2.64	SNEHA
+analysis	I-task	3.22	SNEHA
+or	O	0.06
+cluster	B-task	0.01
+analysis	I-task	2.76	SNEHA
+involves	O	0.01
+assigning	O	2.14	SNEHA
+data	O	0.01
+points	O	0.0
+to	O	0.0
+clusters	O	1.49
+such	O	0.0
+that	O	0.0
+items	O	0.0
+in	O	0.0
+the	O	0.01
+same	O	0.0
+cluster	O	0.01
+are	O	0.0
+as	O	0.0
+similar	O	0.0
+as	O	0.0
+possible	O	0.0
+,	O	0.0
+while	O	0.0
+items	O	0.0
+belonging	O	0.0
+to	O	0.0
+different	O	0.0
+clusters	O	1.39
+are	O	0.0
+as	O	0.0
+dissimilar	O	1.02
+as	O	0.0
+possible	O	0.0
+.	O	0.0
+
+(	O	0.0
+2005	O	0.0
+)	O	0.01
+we	O	0.0
+can	O	0.0
+differ	O	0.02
+three	O	0.0
+different	O	0.0
+perspectives	O	1.67
+of	O	0.01
+text	B-field	0.85
+mining	I-field	1.26
+,	O	0.0
+namely	O	0.0
+text	B-field	0.07
+mining	I-field	0.77
+as	O	0.0
+information	B-task	0.06
+extraction	I-task	0.09
+,	O	0.0
+text	B-field	0.14
+mining	I-field	0.79
+as	O	0.0
+text	O	0.09
+data	B-field	0.01
+mining	I-field	0.03
+,	O	0.0
+and	O	0.0
+text	B-field	0.4
+mining	I-field	0.59
+as	O	0.0
+Data	B-field	0.02
+mining	I-field	0.06
+(	O	0.0
+Knowledge	B-task	2.35	SNEHA
+Discovery	I-task	1.88
+in	O	0.0
+Databases	B-misc	1.88
+)	O	0.03
+process.Hotho	O	1.94
+,	O	0.0
+A.	O	0.01
+,	O	0.0
+Nürnberger	O	2.73	SNEHA
+,	O	0.0
+A.	O	0.01
+and	O	0.02
+Paaß	O	2.7	SNEHA
+,	O	0.0
+G.	O	0.0
+(	O	0.09
+2005	O	0.01
+)	O	0.01
+.	O	0.0
+
+The	O	0.09
+Rancho	B-product	1.76
+Arm	I-product	1.48
+was	O	0.02
+developed	O	0.0
+as	O	0.0
+a	O	0.0
+robotic	O	0.05
+arm	O	0.01
+to	O	0.0
+help	O	0.0
+handicapped	O	0.01
+patients	O	0.0
+at	O	0.01
+the	O	0.01
+Rancho	B-location	0.92
+Los	I-location	1.09
+Amigos	I-location	0.9
+National	I-location	1.65
+Rehabilitation	I-location	1.2
+Center	I-location	0.12
+in	O	0.67
+Downey	B-location	2.59	SNEHA
+,	O	0.15
+California	B-location	0.92
+;	O	0.01
+this	O	0.0
+computer-controlled	O	1.25
+arm	O	0.0
+was	O	0.0
+bought	O	0.0
+by	O	0.0
+Stanford	B-university	2.0	SNEHA
+University	I-university	3.72	SNEHA
+in	O	0.13
+1963	O	0.41
+.	O	0.0
+
+At	O	0.01
+UCSD	B-university	1.79
+,	O	0.0
+Norman	B-researcher	0.02
+was	O	0.0
+a	O	0.0
+founder	O	0.0
+of	O	0.01
+the	B-organisation	0.01
+Institute	I-organisation	0.97
+for	I-organisation	0.74
+Cognitive	I-organisation	0.68
+Science	I-organisation	0.03
+and	O	1.07
+one	O	0.01
+of	O	0.01
+the	O	0.01
+organizers	O	1.47
+of	O	0.79
+the	O	1.03
+Cognitive	B-organisation	0.6
+Science	I-organisation	0.02
+Society	I-organisation	0.2
+(	O	0.05
+along	O	0.03
+with	O	0.0
+Roger	B-researcher	0.01
+Schank	I-researcher	0.02
+,	O	0.0
+Allan	B-researcher	0.01
+M.	I-researcher	0.13
+Collins	I-researcher	0.75
+,	O	0.0
+and	O	0.0
+others	O	0.0
+)	O	0.01
+,	O	0.0
+which	O	0.0
+held	O	0.0
+its	O	0.01
+first	O	0.0
+meeting	O	0.0
+at	O	0.01
+the	O	0.01
+UCSD	B-university	0.93
+campus	O	0.19
+in	O	0.0
+1979	O	0.01
+.	O	0.0
+
+The	O	0.09
+most	O	0.0
+commonly	O	1.41
+used	O	0.07
+robot	O	2.54	SNEHA
+configurations	O	2.5	SNEHA
+are	O	0.0
+articulated	B-product	1.44
+robots	I-product	0.87
+,	O	0.01
+SCARA	B-product	2.86	SNEHA
+robots	I-product	1.84
+,	O	0.01
+delta	B-product	0.0
+robots	I-product	0.55
+and	O	0.04
+cartesian	B-product	2.9	SNEHA
+coordinate	I-product	0.0
+robots	I-product	0.04
+,	O	0.0
+(	O	0.0
+gantry	B-product	0.01
+robots	I-product	0.07
+or	O	0.01
+x-y-z	B-product	0.54
+robots	I-product	0.82
+)	O	0.03
+.	O	0.0
+
+Alternatively	O	2.64	SNEHA
+,	O	0.0
+it	O	0.0
+can	O	0.0
+be	O	0.0
+used	O	0.0
+directly	O	0.0
+with	O	0.0
+the	O	0.0
+Perl	B-programlang	0.75
+Module	B-misc	1.86
+TM	I-misc	1.49
+(	O	0.98
+which	O	0.01
+also	O	0.0
+supports	O	1.34
+LTM	B-misc	2.85	SNEHA
+)	O	0.02
+.	O	0.0
+
+This	O	0.0
+was	O	0.0
+won	O	0.0
+by	O	0.0
+an	O	0.0
+United	B-country	0.52
+States	I-country	0.05
+team	O	0.0
+from	O	0.0
+Newton	B-organisation	2.24	SNEHA
+Labs	I-organisation	2.37	SNEHA
+,	O	0.0
+and	O	0.0
+the	O	0.0
+competition	O	0.0
+was	O	0.0
+shown	O	0.0
+on	O	0.0
+CNN	B-organisation	0.26
+.	O	0.02
+
+The	B-misc	0.09
+Butler	I-misc	1.76
+'s	I-misc	0.05
+in	I-misc	0.03
+Love	I-misc	1.71
+,	O	0.01
+a	O	0.0
+short	O	0.0
+film	O	0.0
+directed	O	0.0
+by	O	0.0
+David	B-person	0.06
+Arquette	I-person	0.07
+and	O	0.0
+starring	O	0.05
+Elizabeth	B-person	1.8
+Berkley	I-person	2.14	SNEHA
+and	O	0.02
+Thomas	B-person	0.0
+Jane	I-person	0.0
+was	O	0.0
+released	O	0.0
+on	O	0.0
+June	O	0.01
+23	O	0.0
+,	O	0.0
+2008	O	0.63
+.	O	0.0
+
+For	O	0.0
+instance	O	2.23	SNEHA
+,	O	0.0
+WordNet	B-product	2.6	SNEHA
+is	O	0.0
+a	O	0.0
+resource	O	0.0
+including	O	0.0
+a	O	0.0
+taxonomy	B-field	0.94
+,	O	0.0
+whose	O	0.0
+elements	O	0.0
+are	O	0.0
+meanings	O	1.47
+of	O	0.02
+English	B-misc	0.06
+words	O	0.02
+.	O	0.0
+
+Existing	O	2.64	SNEHA
+humanoid	B-product	2.4	SNEHA
+robot	I-product	3.28	SNEHA
+systems	I-product	0.16
+such	O	0.01
+as	O	0.0
+ASIMO	B-product	1.1
+and	O	0.0
+QRIO	B-product	1.88
+use	O	0.0
+many	O	0.0
+motors	O	1.62
+to	O	0.0
+achieve	O	0.0
+locomotion	B-misc	1.04
+.	O	0.0
+
+LEPOR	B-metrics	2.64	SNEHA
+is	O	0.0
+designed	O	0.01
+with	O	0.0
+the	O	0.0
+factors	O	0.01
+of	O	0.02
+enhanced	O	2.23	SNEHA
+length	O	0.53
+penalty	O	0.1
+,	O	0.01
+precision	B-metrics	0.61
+,	O	0.0
+n-gram	B-misc	2.75	SNEHA
+word	I-misc	0.55
+order	I-misc	0.0
+penalty	I-misc	0.0
+,	O	0.0
+and	O	0.0
+recall	B-metrics	0.02
+.	O	0.0
+
+It	O	0.0
+is	O	0.0
+based	O	0.0
+on	O	0.0
+the	O	0.0
+Bilingual	B-metrics	1.22
+evaluation	I-metrics	0.1
+understudy	I-metrics	1.81
+metric	I-metrics	2.43	SNEHA
+,	O	0.01
+but	O	0.0
+with	O	0.0
+some	O	0.0
+alterations	O	0.0
+.	O	0.0
+
+This	O	0.0
+is	O	0.0
+an	O	0.0
+example	O	0.0
+implementation	O	0.0
+in	O	0.0
+MATLAB	B-product	2.59	SNEHA
+/	O	0.61
+Octave	B-product	2.84	SNEHA
+:	O	0.5
+
+It	O	0.0
+is	O	0.0
+designed	O	0.02
+to	O	0.0
+be	O	0.0
+used	O	0.0
+through	O	0.01
+a	O	0.0
+number	O	0.0
+of	O	0.01
+computer	O	1.15
+languages	O	0.0
+,	O	0.0
+include	O	0.0
+Python	B-programlang	2.41	SNEHA
+,	O	0.04
+Ruby	B-programlang	2.39	SNEHA
+,	O	0.05
+and	O	0.01
+Scheme	B-programlang	2.64	SNEHA
+.	O	0.0
+
+Hayes	B-researcher	3.81	SNEHA
+has	O	0.0
+served	O	0.0
+as	O	0.0
+secretary	O	0.0
+of	O	0.0
+AISB	B-organisation	2.05	SNEHA
+,	O	0.01
+chairman	O	0.0
+and	O	0.0
+trustee	O	1.01
+of	O	0.02
+IJCAI	B-conference	2.05	SNEHA
+,	O	0.08
+associate	O	0.0
+editor	O	0.0
+of	O	0.02
+Artificial	B-field	3.93	SNEHA
+Intelligence	I-field	3.31	SNEHA
+,	O	0.0
+a	O	0.0
+governor	O	0.0
+of	O	0.01
+the	O	0.0
+Cognitive	B-organisation	0.22
+Science	I-organisation	0.02
+Society	I-organisation	0.19
+and	O	1.12
+president	O	0.01
+of	O	0.01
+American	B-organisation	0.66
+Association	I-organisation	0.09
+for	I-organisation	1.09
+Artificial	I-organisation	1.94
+Intelligence	I-organisation	3.79	SNEHA
+.	O	0.07
+
+Two	O	0.07
+of	O	0.02
+them	O	0.01
+,	O	0.0
+Now	B-misc	0.01
+is	I-misc	0.01
+the	I-misc	0.0
+Time	I-misc	1.44
+(	I-misc	0.04
+to	I-misc	0.0
+Put	I-misc	0.0
+On	I-misc	0.01
+Your	I-misc	1.48
+Glasses	I-misc	1.79
+)	I-misc	0.03
+and	O	0.0
+Around	B-misc	0.02
+is	I-misc	0.0
+Around	I-misc	0.01
+,	O	0.0
+were	O	0.0
+directed	O	0.0
+by	O	0.0
+Norman	B-person	0.06
+McLaren	I-person	2.08	SNEHA
+in	O	0.01
+1951	O	0.04
+for	O	0.0
+the	O	0.0
+National	B-organisation	1.39
+Film	I-organisation	1.3
+Board	I-organisation	0.2
+of	I-organisation	0.47
+Canada	I-organisation	0.98
+.	O	0.08
+
+A	O	0.02
+recommender	B-product	1.11
+system	I-product	2.37	SNEHA
+aims	O	0.0
+to	O	0.0
+predict	O	0.0
+the	O	0.0
+preference	O	0.02
+for	O	0.0
+an	O	0.0
+item	O	0.0
+of	O	0.0
+a	O	0.0
+target	O	0.0
+user	O	0.3
+.	O	0.01
+
+Convolution	B-algorithm	2.64	SNEHA
+has	O	0.0
+applications	O	0.0
+that	O	0.0
+include	O	0.0
+probability	B-field	0.01
+,	O	0.0
+statistics	B-field	0.0
+,	O	0.0
+computer	B-field	0.23
+vision	I-field	0.17
+,	O	0.0
+natural	B-field	0.05
+language	I-field	2.31	SNEHA
+processing	I-field	2.92	SNEHA
+,	O	0.0
+image	B-field	2.64	SNEHA
+processing	I-field	2.58	SNEHA
+and	O	0.0
+signal	B-field	0.11
+processing	I-field	3.02	SNEHA
+,	O	0.0
+engineering	B-field	0.0
+,	O	0.0
+and	O	0.0
+differential	B-field	0.0
+equations	I-field	1.0
+.	O	0.0
+
+Applications	O	0.42
+of	O	0.59
+DSP	B-field	0.83
+include	O	1.25
+audio	B-task	1.35
+signal	I-task	0.93
+processing	I-task	3.18	SNEHA
+,	O	0.0
+audio	B-task	0.25
+compression	I-task	0.01
+,	O	0.0
+digital	B-task	0.0
+image	B-task	1.54
+processing	B-task	1.66
+,	O	0.0
+video	B-task	0.54
+compression	I-task	0.02
+,	O	0.0
+speech	B-task	0.6
+processing	I-task	2.24	SNEHA
+,	O	0.0
+speech	B-task	0.2
+recognition	I-task	1.89
+,	O	0.0
+digital	B-task	0.0
+communication	I-task	0.02
+s	O	0.35
+,	O	0.0
+digital	B-task	0.0
+synthesizer	I-task	0.95
+s	O	0.22
+,	O	0.0
+radar	B-field	2.02	SNEHA
+,	O	0.0
+sonar	B-field	2.59	SNEHA
+,	O	0.0
+financial	B-field	0.0
+signal	I-field	0.04
+processing	I-field	3.71	SNEHA
+,	O	0.0
+seismology	B-field	2.42	SNEHA
+and	O	0.0
+biomedicine	B-field	1.95
+.	O	0.0
+
+(	O	0.0
+February	O	0.0
+20	O	0.0
+,	O	0.0
+1912	O	0.18
+-	O	0.0
+August	O	0.0
+11	O	0.0
+,	O	0.0
+2011	O	0.0
+)	O	0.01
+was	O	0.0
+an	O	0.0
+American	B-misc	0.58
+inventor	O	1.26
+,	O	0.04
+best	O	0.01
+known	O	0.0
+for	O	0.0
+creating	O	0.01
+Unimate	B-product	0.0
+,	O	0.0
+the	O	0.0
+first	O	0.0
+industrial	O	0.0
+robot	O	2.09	SNEHA
+.	O	0.0
+
+With	O	0.0
+David	B-researcher	0.03
+E.	I-researcher	0.01
+Rumelhart	I-researcher	0.85
+and	O	0.0
+Ronald	B-researcher	0.25
+J.	I-researcher	0.01
+Williams	I-researcher	0.13
+,	O	0.0
+Hinton	B-researcher	2.94	SNEHA
+was	O	0.01
+co-author	O	1.06
+of	O	0.05
+a	O	0.0
+highly	O	0.0
+cited	O	0.0
+paper	O	0.0
+published	O	0.0
+in	O	0.0
+1986	O	0.0
+that	O	0.0
+popularized	O	1.81
+the	O	0.02
+backpropagation	B-algorithm	2.0	SNEHA
+algorithm	I-algorithm	2.27	SNEHA
+for	O	0.0
+training	O	0.0
+multi-layer	B-algorithm	0.88
+neural	I-algorithm	2.36	SNEHA
+networks	I-algorithm	3.2	SNEHA
+,	O	0.0
+The	O	0.34
+dramatic	O	0.01
+image-recognition	B-task	1.38
+milestone	O	0.66
+of	O	1.32
+the	O	1.39
+AlexNet	B-algorithm	2.33	SNEHA
+designed	O	0.83
+by	O	0.0
+his	O	0.0
+student	O	0.0
+Alex	B-researcher	0.0
+Krizhevsky	I-researcher	0.02
+{	O	0.0
+{	O	0.0
+cite	O	0.0
+web	O	1.41
+
+When	O	0.0
+the	O	0.0
+value	O	0.0
+being	O	0.0
+predicted	O	0.0
+is	O	0.0
+continuously	O	1.31
+distributed	O	0.0
+,	O	0.0
+the	O	0.0
+mean	B-metrics	0.78
+squared	I-metrics	0.15
+error	I-metrics	1.01
+,	O	0.01
+root	B-metrics	0.0
+mean	I-metrics	0.02
+squared	I-metrics	0.01
+error	I-metrics	0.52
+or	O	0.01
+median	B-metrics	0.44
+absolute	I-metrics	0.01
+deviation	I-metrics	1.15
+could	O	0.0
+be	O	0.0
+used	O	0.0
+to	O	0.0
+summarize	O	1.34
+the	O	0.01
+errors	O	0.02
+.	O	0.01
+
+Conceptual	B-algorithm	2.64	SNEHA
+clustering	I-algorithm	0.03
+developed	O	0.01
+mainly	O	0.0
+during	O	0.0
+the	O	0.0
+1980s	O	0.01
+,	O	0.0
+as	O	0.0
+a	O	0.0
+machine	B-field	0.02
+learning	I-field	1.88
+paradigm	O	0.01
+for	O	0.0
+unsupervised	B-field	1.34
+learning	I-field	1.64
+.	O	0.01
+
+If	O	0.0
+named	O	0.01
+entities	O	0.45
+cannot	O	0.0
+be	O	0.0
+recognized	O	1.66
+by	O	0.0
+the	O	0.0
+machine	B-product	0.41
+translator	I-product	0.59
+,	O	0.01
+they	O	0.0
+may	O	0.0
+be	O	0.0
+erroneously	O	1.63
+translated	O	0.01
+as	O	0.0
+common	O	0.0
+nouns	O	1.77
+,	O	0.0
+which	O	0.0
+would	O	0.0
+most	O	0.0
+likely	O	0.0
+not	O	0.0
+affect	O	0.0
+the	O	0.0
+Bilingual	B-metrics	1.2
+evaluation	I-metrics	0.07
+understudy	I-metrics	1.75
+rating	O	0.0
+of	O	0.01
+the	O	0.0
+translation	O	2.05	SNEHA
+but	O	0.0
+would	O	0.0
+change	O	0.0
+the	O	0.0
+text	O	0.53
+'s	O	0.0
+human	O	0.04
+readability	O	2.21	SNEHA
+.	O	0.0
+
+Roger	B-researcher	0.01
+Schank	I-researcher	0.02
+,	O	0.0
+1969	O	0.0
+,	O	0.0
+A	O	0.0
+conceptual	O	1.09
+dependency	O	1.37
+parser	O	1.17
+for	O	0.0
+natural	B-misc	0.16
+language	I-misc	2.91	SNEHA
+Proceedings	B-conference	2.36	SNEHA
+of	I-conference	0.03
+the	I-conference	0.0
+1969	I-conference	0.08
+on	I-conference	0.01
+Computational	I-conference	1.41
+linguistics	I-conference	0.87
+,	O	0.0
+Sång-Säby	B-location	2.45	SNEHA
+,	O	0.0
+Sweden	B-country	0.02
+,	O	0.01
+pages	O	0.0
+1-3	O	0.01
+This	O	0.0
+model	O	0.14
+,	O	0.01
+partially	O	0.0
+influenced	O	0.0
+by	O	0.0
+the	O	0.0
+work	O	0.07
+of	O	0.02
+Sydney	B-researcher	0.64
+Lamb	I-researcher	0.65
+,	O	0.04
+was	O	0.0
+extensively	O	1.71
+used	O	0.01
+by	O	0.0
+Schank	B-researcher	1.65
+'s	O	0.01
+students	O	0.02
+at	O	0.02
+Yale	B-university	1.71
+University	I-university	3.58	SNEHA
+,	O	0.18
+such	O	0.01
+as	O	0.0
+Robert	B-researcher	0.27
+Wilensky	I-researcher	0.85
+,	O	0.0
+Wendy	B-researcher	2.72	SNEHA
+Lehnert	I-researcher	2.78	SNEHA
+,	O	0.0
+and	O	0.0
+Janet	B-researcher	1.19
+Kolodner	I-researcher	0.05
+.	O	0.0
+
+Improved	O	2.64	SNEHA
+maximum	B-algorithm	0.01
+likelihood	I-algorithm	2.38	SNEHA
+method	I-algorithm	0.0
+(	O	0.0
+IMLM	B-algorithm	1.47
+)	O	0.02
+is	O	0.0
+a	O	0.0
+combination	O	0.0
+of	O	0.01
+two	O	0.0
+MLM	B-algorithm	1.3
+(	O	0.0
+maximum	B-metrics	0.0
+likelihood	I-metrics	2.33	SNEHA
+)	O	0.01
+estimators	O	1.77
+.	O	0.0
+
+These	O	0.0
+methods	O	0.94
+may	O	0.0
+also	O	0.0
+analyze	O	1.51
+a	O	0.0
+program	O	0.0
+'s	O	0.0
+output	O	0.0
+and	O	0.0
+its	O	0.02
+usefulness	O	1.22
+and	O	0.0
+therefore	O	2.3	SNEHA
+may	O	0.0
+involve	O	0.0
+the	O	0.0
+analysis	O	3.16	SNEHA
+of	O	0.17
+its	O	0.03
+confusion	B-metrics	0.0
+matrix	I-metrics	2.23	SNEHA
+(	O	0.01
+or	O	0.01
+table	B-metrics	0.0
+of	I-metrics	0.01
+confusion	I-metrics	0.01
+)	O	0.01
+.	O	0.0
+
+SURF	B-product	2.64	SNEHA
+was	O	0.0
+first	O	0.0
+published	O	0.0
+by	O	0.0
+Herbert	B-researcher	0.23
+Bay	I-researcher	0.02
+,	O	0.0
+Tinne	B-researcher	2.42	SNEHA
+Tuytelaars	I-researcher	2.79	SNEHA
+,	O	0.0
+and	O	0.0
+Luc	B-researcher	0.04
+Van	I-researcher	0.0
+Gool	I-researcher	1.92
+,	O	0.0
+and	O	0.0
+presented	O	0.06
+at	O	0.02
+the	O	0.01
+2006	B-conference	0.04
+European	I-conference	1.32
+Conference	I-conference	1.38
+on	I-conference	1.31
+Computer	I-conference	3.25	SNEHA
+Vision	I-conference	3.62	SNEHA
+.	O	0.11
+
+OCR	B-task	2.64	SNEHA
+is	O	0.0
+a	O	0.0
+field	O	0.01
+of	O	0.01
+research	O	0.0
+in	O	0.0
+pattern	B-field	2.51	SNEHA
+recognition	I-field	1.73
+,	O	0.01
+artificial	B-field	0.84
+intelligence	I-field	2.89	SNEHA
+and	O	0.0
+computer	B-field	0.1
+vision	I-field	0.13
+.	O	0.0
+
+Continuing	O	0.0
+the	O	0.0
+example	O	0.01
+using	O	0.01
+the	O	0.0
+maximum	B-metrics	0.01
+likelihood	I-metrics	2.98	SNEHA
+estimator	I-metrics	2.42	SNEHA
+,	O	0.0
+the	O	0.0
+probability	B-algorithm	0.01
+density	I-algorithm	1.18
+function	I-algorithm	0.17
+(	O	0.0
+pdf	B-algorithm	2.16	SNEHA
+)	O	0.02
+of	O	0.01
+the	O	0.01
+noise	O	0.15
+for	O	0.01
+one	O	0.0
+sample	O	0.01
+mathw	O	1.54
+n	O	0.02
+/	O	0.0
+math	O	0.01
+is	O	0.0
+
+Sub-domains	O	2.64	SNEHA
+of	O	0.03
+computer	B-field	1.05
+vision	I-field	0.47
+include	O	0.0
+scene	B-task	0.0
+reconstruction	I-task	1.5
+,	O	0.0
+event	B-task	0.0
+detection	I-task	0.22
+,	O	0.0
+video	B-task	0.54
+tracking	I-task	1.2
+,	O	0.0
+object	B-task	2.4	SNEHA
+recognition	I-task	2.17	SNEHA
+,	O	0.0
+3D	B-task	0.83
+pose	I-task	1.43
+estimation	I-task	3.53	SNEHA
+,	O	0.0
+learning	B-task	2.08	SNEHA
+,	O	0.0
+indexing	B-task	2.63	SNEHA
+,	O	0.0
+motion	B-task	0.0
+estimation	I-task	2.25	SNEHA
+,	O	0.0
+visual	B-task	2.4	SNEHA
+servoing	I-task	2.68	SNEHA
+,	O	0.0
+3D	B-task	0.87
+scene	I-task	0.02
+modeling	I-task	2.65	SNEHA
+,	O	0.0
+and	O	0.0
+image	B-task	2.04	SNEHA
+restoration	I-task	0.01
+.	O	0.0
+
+In	O	0.01
+2013	O	0.53
+,	O	0.0
+at	O	0.01
+the	O	0.01
+International	B-conference	1.58
+Conference	I-conference	1.45
+on	I-conference	1.33
+Computer	I-conference	3.36	SNEHA
+Vision	I-conference	3.49	SNEHA
+,	O	0.51
+Terzopoulos	B-researcher	3.04	SNEHA
+was	O	0.0
+awarded	O	0.0
+a	O	0.0
+Helmholtz	B-misc	1.47
+Prize	I-misc	0.95
+for	O	0.0
+his	O	0.0
+1987	B-conference	0.0
+ICCV	I-conference	1.11
+paper	O	0.0
+with	O	0.0
+Kass	B-researcher	1.68
+and	O	0.0
+Witkin	B-researcher	1.98
+on	O	0.0
+active	B-algorithm	0.01
+contour	I-algorithm	2.02	SNEHA
+model	I-algorithm	0.64
+s	O	2.11	SNEHA
+.	O	0.01
+
+If	O	0.0
+the	O	0.0
+regularization	O	1.34
+function	O	0.18
+Many	O	0.0
+algorithms	O	0.02
+exist	O	0.01
+for	O	0.0
+solving	O	0.0
+such	O	0.0
+problems	O	0.0
+;	O	0.0
+popular	O	0.0
+ones	O	0.0
+for	O	0.0
+linear	B-task	3.37	SNEHA
+classification	I-task	3.52	SNEHA
+include	O	0.01
+Stochastic	B-algorithm	2.1	SNEHA
+gradient	I-algorithm	1.91
+descent	I-algorithm	1.77
+)	O	0.01
+gradient	B-algorithm	0.93
+descent	I-algorithm	0.64
+,	O	0.0
+L-BFGS	B-algorithm	2.75	SNEHA
+,	O	0.0
+coordinate	B-algorithm	0.01
+descent	I-algorithm	0.63
+and	O	0.0
+Newton	B-algorithm	1.88
+method	I-algorithm	0.0
+s	O	0.07
+.	O	0.0
+
+Long	B-algorithm	0.09
+short-term	I-algorithm	1.71
+memory	I-algorithm	1.89
+(	O	0.0
+LSTM	B-algorithm	1.67
+)	O	0.01
+networks	O	0.16
+were	O	0.0
+invented	O	0.0
+by	O	0.0
+Sepp	B-researcher	1.56
+Hochreiter	I-researcher	0.96
+and	O	0.0
+Jürgen	B-researcher	2.5	SNEHA
+Schmidhuber	I-researcher	2.21	SNEHA
+in	O	0.01
+1997	O	0.0
+and	O	0.0
+set	O	0.0
+accuracy	O	0.0
+records	O	0.01
+in	O	0.0
+multiple	O	0.01
+applications	O	0.0
+domains	O	0.79
+.	O	0.01
+
+TN	B-product	2.64	SNEHA
+was	O	0.0
+developed	O	0.0
+at	O	0.01
+Massachusetts	B-organisation	0.07
+General	I-organisation	1.3
+Hospital	I-organisation	0.14
+and	O	0.95
+was	O	0.0
+tested	O	0.0
+in	O	0.0
+multiple	O	0.01
+scenarios	O	1.92
+including	O	0.0
+the	O	0.0
+extraction	O	1.1
+of	O	0.02
+smoking	O	2.12	SNEHA
+status	O	0.0
+,	O	0.0
+family	O	0.0
+history	O	0.0
+of	O	0.01
+coronary	O	2.15	SNEHA
+artery	O	0.76
+disease	O	0.01
+,	O	0.0
+identifying	O	2.74	SNEHA
+patients	O	0.02
+with	O	0.0
+sleep	O	0.01
+disorders	O	1.47
+,	O	0.0
+
+In	O	0.01
+1960	O	0.01
+,	O	0.0
+Devol	B-researcher	1.62
+personally	O	0.03
+sold	O	0.0
+the	O	0.0
+first	O	0.0
+Unimate	B-product	0.03
+robot	O	1.94
+,	O	0.0
+which	O	0.0
+was	O	0.0
+shipped	O	0.02
+in	O	0.0
+1961	O	0.0
+to	O	0.0
+General	B-organisation	0.0
+Motors	I-organisation	2.1	SNEHA
+.	O	0.12
+
+The	O	0.09
+Campus	B-conference	1.76
+Party	I-conference	0.16
+Europe	I-conference	0.15
+was	O	0.0
+held	O	0.0
+April	O	0.0
+14-18	O	1.1
+,	O	0.0
+2010	O	0.02
+at	O	0.01
+the	O	0.01
+Caja	B-location	0.29
+Mágica	I-location	0.38
+in	O	0.11
+Madrid	B-location	1.19
+,	O	0.02
+Spain	B-country	0.13
+with	O	0.0
+800	O	0.0
+participants	O	0.0
+from	O	0.0
+each	O	0.0
+of	O	0.01
+the	O	0.01
+27	O	0.01
+European	B-organisation	1.15
+Union	I-organisation	0.08
+member	O	0.47
+states	O	0.0
+.	O	0.0
+
+In	O	0.01
+July	O	0.0
+2016	O	0.0
+,	O	0.0
+a	O	0.0
+collaboration	O	0.94
+between	O	0.0
+DeepMind	B-organisation	0.77
+and	O	1.08
+Moorfields	B-organisation	3.36	SNEHA
+Eye	I-organisation	1.57
+Hospital	I-organisation	0.04
+was	O	0.0
+announced	O	0.0
+to	O	0.0
+develop	O	0.0
+AI	B-misc	1.6
+applications	I-misc	0.18
+for	I-misc	0.0
+healthcare	I-misc	0.0
+.	O	0.0
+
+They	O	0.0
+ended	O	0.0
+up	O	0.0
+awarding	O	1.2
+eleven	O	1.49
+PR2s	B-misc	0.97
+to	O	0.0
+different	O	0.0
+institutions	O	0.0
+,	O	0.0
+including	O	0.0
+University	B-university	3.07	SNEHA
+of	I-university	2.05	SNEHA
+Freiburg	I-university	1.3
+,	O	0.05
+Bosch	B-university	2.4	SNEHA
+,	O	0.07
+Georgia	B-university	0.04
+Tech	I-university	1.65
+,	O	0.01
+KU	B-university	2.48	SNEHA
+Leuven	I-university	2.93	SNEHA
+,	O	0.0
+MIT	B-university	0.28
+,	O	0.18
+Stanford	B-university	2.2	SNEHA
+,	O	0.04
+Technical	B-university	2.31	SNEHA
+University	I-university	3.84	SNEHA
+of	I-university	1.79
+Munich	I-university	1.86
+,	O	0.05
+UC	B-university	2.17	SNEHA
+Berkeley	I-university	1.05
+,	O	0.03
+U	B-university	0.51
+Penn	I-university	2.25	SNEHA
+,	O	0.06
+USC	B-university	1.82
+,	O	0.06
+and	O	0.0
+University	B-university	3.07	SNEHA
+of	I-university	2.07	SNEHA
+Tokyo	I-university	2.44	SNEHA
+.	O	0.1
+
+The	O	0.09
+counts	O	1.76
+of	O	0.86
+TP	B-metrics	1.93
+,	O	0.25
+TN	B-metrics	2.9	SNEHA
+,	O	0.1
+FP	B-metrics	2.87	SNEHA
+,	O	0.08
+and	O	0.01
+FN	B-metrics	2.78	SNEHA
+are	O	0.0
+usually	O	0.0
+kept	O	0.0
+on	O	0.0
+a	O	0.0
+table	O	0.0
+known	O	0.0
+as	O	0.0
+the	O	0.0
+confusion	B-metrics	0.01
+matrix	I-metrics	2.06	SNEHA
+.	O	0.01
+
+As	O	0.01
+feature	O	0.05
+set	O	0.0
+,	O	0.0
+information	B-metrics	0.8
+gain	I-metrics	0.0
+,	O	0.0
+cross	B-metrics	0.0
+entropy	I-metrics	1.5
+,	O	0.1
+mutual	B-metrics	0.01
+information	I-metrics	0.1
+,	O	0.0
+and	O	0.01
+odds	B-metrics	0.0
+ratio	I-metrics	0.0
+are	O	0.0
+usually	O	0.0
+used	O	0.0
+.	O	0.0
+
+It	O	0.0
+has	O	0.0
+been	O	0.0
+applied	O	0.02
+successfully	O	0.83
+to	O	0.0
+various	O	0.0
+problems	O	0.0
+,	O	0.0
+including	O	0.0
+robot	B-task	0.8
+control	I-task	0.0
+,	O	0.0
+elevator	B-task	2.37	SNEHA
+scheduling	I-task	2.62	SNEHA
+,	O	0.0
+telecommunications	B-task	0.0
+,	O	0.0
+,	O	0.0
+checkers	B-task	0.11
+and	O	0.0
+Go	B-task	1.42
+(	O	0.0
+AlphaGo	B-product	2.28	SNEHA
+)	O	0.02
+.	O	0.0
+
+In	O	0.01
+2018	O	0.92
+,	O	0.0
+the	O	0.0
+inaugural	O	0.0
+year	O	0.0
+of	O	0.01
+mission	O	0.0
+8	O	0.0
+,	O	0.0
+the	O	0.0
+American	B-misc	0.92
+Venue	O	0.71
+was	O	0.04
+held	O	0.0
+on	O	0.0
+the	O	0.0
+campus	O	0.0
+of	O	0.03
+the	O	0.01
+Georgia	B-university	0.32
+Institute	I-university	2.47	SNEHA
+of	I-university	0.51
+Technology	I-university	2.31	SNEHA
+in	O	0.92
+Atlanta	B-location	0.49
+,	O	0.04
+Georgia	B-location	0.08
+,	O	0.0
+and	O	0.01
+the	O	0.0
+Asia	B-location	1.2
+/	I-location	1.32
+Pacific	I-location	0.99
+Venue	O	2.27	SNEHA
+was	O	0.0
+conducted	O	0.0
+at	O	0.01
+Beihang	B-location	1.36
+University	I-location	3.68	SNEHA
+Gymnasium	I-location	2.77	SNEHA
+in	O	0.02
+Beijing	B-location	0.02
+China	B-country	1.34
+.	O	0.0
+
+Machine	B-field	3.08	SNEHA
+learning	I-field	2.5	SNEHA
+is	O	0.0
+strongly	O	0.01
+related	O	0.0
+to	O	0.0
+pattern	B-field	0.7
+recognition	I-field	1.75
+and	O	0.01
+originates	O	3.34	SNEHA
+from	O	0.01
+artificial	B-field	1.38
+intelligence	I-field	2.08	SNEHA
+.	O	0.0
+
+It	O	0.0
+comes	O	0.0
+with	O	0.0
+3	O	0.0
+Java	B-programlang	0.16
+games	O	0.0
+that	O	0.0
+are	O	0.0
+controlled	O	0.0
+with	O	0.0
+the	O	0.0
+remote	O	0.08
+control	O	0.0
+and	O	0.0
+displayed	O	0.0
+to	O	0.0
+its	O	0.0
+LCD	B-product	1.17
+screen	I-product	0.0
+.	O	0.0
+
+A	O	0.02
+commercially	O	1.77
+successful	O	0.06
+but	O	0.0
+specialized	O	2.18	SNEHA
+computer	B-task	1.03
+vision-based	I-task	2.24	SNEHA
+articulated	I-task	2.88	SNEHA
+body	I-task	0.0
+pose	I-task	1.78
+estimation	I-task	3.35	SNEHA
+technique	O	0.0
+is	O	0.0
+optical	B-algorithm	1.4
+motion	I-algorithm	0.0
+capture	I-algorithm	0.0
+.	O	0.0
+
+The	O	0.09
+SMC	B-organisation	1.76
+is	O	0.04
+very	O	0.0
+similar	O	0.0
+to	O	0.0
+the	O	0.0
+more	O	0.01
+popular	O	0.0
+Jaccard	B-metrics	0.6
+index	I-metrics	0.0
+.	O	0.0
+
+The	O	0.09
+PUMA	B-product	1.76
+(	O	0.01
+Programmable	B-product	3.53	SNEHA
+Universal	I-product	2.24	SNEHA
+Machine	I-product	2.25	SNEHA
+for	I-product	0.01
+Assembly	I-product	0.69
+,	O	0.08
+or	O	0.0
+Programmable	B-product	2.0	SNEHA
+Universal	I-product	3.88	SNEHA
+Manipulation	I-product	3.81	SNEHA
+Arm	I-product	3.37	SNEHA
+)	O	0.16
+is	O	0.0
+an	O	0.0
+industrial	O	0.0
+robot	O	1.71
+robotic	O	0.51
+arm	O	0.0
+developed	O	0.0
+by	O	0.0
+Victor	B-researcher	1.94
+Scheinman	I-researcher	2.34	SNEHA
+at	O	0.01
+pioneering	O	0.38
+robot	O	1.68
+company	O	0.03
+Unimation	B-organisation	1.0
+.	O	0.02
+
+It	O	0.0
+is	O	0.0
+written	O	0.03
+in	O	0.0
+Python	B-programlang	0.8
+.	O	0.12
+
+Bandwidth	B-misc	2.64	SNEHA
+in	O	0.0
+hertz	B-misc	2.08	SNEHA
+is	O	0.0
+a	O	0.0
+central	O	0.0
+concept	O	0.0
+in	O	0.0
+many	O	0.0
+fields	O	0.0
+,	O	0.0
+including	O	0.0
+electronics	B-field	0.02
+,	O	0.0
+information	B-field	0.49
+theory	I-field	2.0	SNEHA
+,	O	0.07
+digital	B-field	0.01
+communication	I-field	0.04
+s	O	0.29
+,	O	0.0
+radio	B-field	0.0
+communication	I-field	0.0
+s	O	0.15
+,	O	0.0
+signal	B-field	0.16
+processing	I-field	2.26	SNEHA
+,	O	0.0
+and	O	0.0
+spectroscopy	B-field	1.09
+and	O	0.01
+is	O	0.0
+one	O	0.0
+of	O	0.01
+the	O	0.01
+determinants	O	1.21
+of	O	1.36
+the	O	1.4
+capacity	O	0.32
+of	O	0.79
+a	O	0.01
+given	O	0.01
+communication	O	0.0
+channel	O	1.02
+.	O	0.0
+
+If	O	0.0
+a	O	0.0
+convex	O	0.96
+loss	O	0.0
+is	O	0.0
+utilized	O	1.32
+(	O	0.0
+as	O	0.0
+in	O	0.0
+AdaBoost	B-algorithm	1.46
+,	O	0.0
+LogitBoost	B-algorithm	2.85	SNEHA
+,	O	0.0
+and	O	0.0
+all	O	0.0
+members	O	0.0
+of	O	0.01
+the	O	0.01
+AnyBoost	B-misc	1.32
+family	I-misc	0.04
+of	I-misc	0.04
+algorithms	I-misc	0.08
+)	O	0.02
+then	O	0.0
+an	O	0.0
+example	O	0.0
+with	O	0.0
+higher	O	0.0
+margin	O	0.0
+will	O	0.0
+receive	O	0.0
+less	O	0.0
+(	O	0.0
+or	O	0.0
+equal	O	0.0
+)	O	0.01
+weight	O	0.0
+than	O	0.0
+an	O	0.0
+example	O	0.0
+with	O	0.0
+lower	O	0.0
+margin	O	0.0
+.	O	0.0
+
+Sepp	B-researcher	1.4
+Hochreiter	I-researcher	2.61	SNEHA
+'	O	0.01
+s	O	0.15
+diploma	O	2.0	SNEHA
+thesis	O	0.89
+of	O	1.69
+1991	O	0.31
+Sepp	B-researcher	2.03	SNEHA
+Hochreiter	I-researcher	3.0	SNEHA
+.	O	0.01
+
+Typical	O	2.64	SNEHA
+discriminative	O	2.4	SNEHA
+models	O	0.01
+include	O	0.01
+logistic	B-algorithm	2.46	SNEHA
+regression	I-algorithm	1.03
+(	O	0.0
+LR	B-algorithm	2.64	SNEHA
+)	O	0.03
+,	O	0.0
+support	B-algorithm	0.0
+vector	I-algorithm	1.31
+machine	I-algorithm	1.93
+s	O	1.11
+(	O	0.0
+SVM	B-algorithm	1.46
+)	O	0.02
+,	O	0.0
+conditional	B-algorithm	0.0
+random	I-algorithm	1.26
+fields	I-algorithm	0.0
+(	O	0.0
+CRFs	B-algorithm	1.27
+)	O	0.02
+(	O	0.0
+specified	O	0.02
+over	O	0.01
+an	O	0.0
+undirected	B-algorithm	0.84
+graph	I-algorithm	0.0
+)	O	0.01
+,	O	0.0
+decision	B-algorithm	0.0
+trees	I-algorithm	0.0
+,	O	0.0
+neural	B-algorithm	3.1	SNEHA
+networks	I-algorithm	3.03	SNEHA
+,	O	0.0
+and	O	0.0
+many	O	0.0
+others	O	0.0
+.	O	0.0
+
+Then	O	0.0
+it	O	0.0
+is	O	0.0
+also	O	0.0
+possible	O	0.0
+to	O	0.0
+use	O	0.0
+these	O	0.0
+probabilities	O	1.44
+and	O	0.0
+evaluate	O	2.01	SNEHA
+the	O	0.04
+mean	B-metrics	0.19
+squared	I-metrics	0.06
+error	I-metrics	1.26
+(	O	0.0
+or	O	0.0
+some	O	0.0
+other	O	0.0
+similar	O	0.0
+measure	O	0.0
+)	O	0.01
+between	O	0.0
+the	O	0.0
+probabilities	O	1.13
+and	O	0.09
+the	O	0.03
+actual	O	0.05
+values	O	0.0
+,	O	0.0
+then	O	0.0
+combine	O	2.12	SNEHA
+this	O	0.0
+with	O	0.0
+the	O	0.0
+confusion	B-metrics	0.01
+matrix	I-metrics	2.05	SNEHA
+to	O	0.0
+create	O	0.0
+very	O	0.0
+efficient	O	1.38
+fitness	O	0.01
+functions	O	1.1
+for	O	0.0
+logistic	O	2.49	SNEHA
+regression	O	0.48
+.	O	0.0
+
+VoiceOver	B-product	2.64	SNEHA
+was	O	0.0
+for	O	0.0
+the	O	0.0
+first	O	0.0
+time	O	0.0
+featured	O	0.01
+in	O	0.01
+2005	O	0.01
+in	O	0.0
+Mac	B-product	1.89
+OS	I-product	2.44	SNEHA
+X	I-product	0.09
+Tiger	I-product	1.47
+(	O	0.06
+10.4	O	1.89
+)	O	0.18
+.	O	0.0
+
+In	O	0.01
+practice	O	0.03
+,	O	0.0
+machine	O	0.22
+learning	O	2.19	SNEHA
+algorithms	O	0.02
+cope	O	1.53
+with	O	0.0
+that	O	0.0
+either	O	0.0
+by	O	0.0
+employing	O	1.0
+a	O	0.0
+convex	B-algorithm	0.78
+approximation	I-algorithm	1.9
+to	O	0.0
+the	O	0.0
+0-1	O	0.0
+loss	B-misc	0.01
+function	I-misc	0.04
+(	O	0.0
+like	O	0.0
+hinge	B-metrics	0.25
+loss	I-metrics	2.34	SNEHA
+for	O	0.0
+Support	B-algorithm	1.82
+vector	I-algorithm	2.11	SNEHA
+machine	I-algorithm	2.72	SNEHA
+)	O	0.09
+,	O	0.0
+which	O	0.0
+is	O	0.0
+easier	O	0.0
+to	O	0.0
+optimize	O	1.35
+,	O	0.0
+or	O	0.0
+by	O	0.0
+imposing	O	1.67
+assumptions	O	2.11	SNEHA
+on	O	0.0
+the	O	0.0
+distribution	O	0.02
+mathP	O	1.26
+(	O	0.0
+x	O	0.0
+,	O	0.0
+y	O	0.0
+)	O	0.01
+/	O	0.0
+math	O	0.01
+(	O	0.0
+and	O	0.0
+thus	O	0.0
+stop	O	0.0
+being	O	0.0
+agnostic	B-misc	0.78
+learning	I-misc	1.95
+algorithms	I-misc	0.02
+to	O	0.0
+which	O	0.0
+the	O	0.0
+above	O	0.02
+result	O	0.01
+applies	O	0.48
+)	O	0.02
+.	O	0.0
+
+Westworld	B-misc	1.65
+(	O	0.0
+1973	O	0.03
+)	O	0.02
+was	O	0.0
+the	O	0.0
+first	O	0.0
+feature	O	0.18
+film	O	0.01
+to	O	0.0
+use	O	0.0
+the	O	0.0
+digital	B-field	0.0
+image	I-field	2.37	SNEHA
+processing	I-field	1.55
+to	O	0.01
+photography	O	2.21	SNEHA
+to	O	0.0
+simulate	O	0.91
+an	O	0.0
+android	B-product	0.78
+'s	O	0.0
+point	O	0.0
+of	O	0.01
+view	O	0.0
+.	O	0.0
+
+It	O	0.0
+is	O	0.0
+now	O	0.0
+also	O	0.0
+commonly	O	1.72
+used	O	0.06
+in	O	0.0
+speech	B-task	0.32
+recognition	I-task	2.23	SNEHA
+,	O	0.01
+speech	B-task	1.4
+synthesis	I-task	3.88	SNEHA
+,	O	0.03
+diarization	B-task	2.7	SNEHA
+,	O	0.0
+Xavier	B-researcher	0.01
+Anguera	I-researcher	0.01
+et	O	1.83
+al	O	0.04
+.	O	0.13
+
+Here	O	0.0
+,	O	0.0
+math	O	0.01
+\	O	0.0
+sigma	O	1.82
+/	O	0.06
+math	O	0.01
+is	O	0.0
+an	O	0.0
+element-wise	B-algorithm	1.34
+activation	I-algorithm	0.01
+function	I-algorithm	0.23
+such	O	0.0
+as	O	0.0
+a	O	0.0
+sigmoid	B-algorithm	3.03	SNEHA
+function	I-algorithm	1.94
+or	O	0.09
+a	O	0.0
+rectified	B-algorithm	1.24
+linear	I-algorithm	3.91	SNEHA
+unit	I-algorithm	0.0
+.	O	0.0
+
+Traditional	O	2.64	SNEHA
+phonetic-based	O	2.4	SNEHA
+(	O	0.0
+i.e.	O	2.29	SNEHA
+,	O	0.0
+all	O	0.0
+Hidden	B-algorithm	1.08
+Markov	I-algorithm	2.11	SNEHA
+model	I-algorithm	0.46
+-based	O	0.18
+model	O	0.09
+)	O	0.03
+approaches	O	0.0
+required	O	0.0
+separate	O	0.04
+components	O	0.0
+and	O	0.0
+training	O	0.0
+for	O	0.0
+the	O	0.0
+pronunciation	B-misc	1.09
+,	O	0.02
+acoustic	B-misc	1.75
+and	O	0.02
+language	B-misc	3.03	SNEHA
+model	I-misc	1.81
+.	O	0.0
+
+The	O	0.09
+Roberts	B-algorithm	1.86
+cross	I-algorithm	1.15
+operator	I-algorithm	0.08
+is	O	0.0
+used	O	0.01
+in	O	0.0
+image	B-field	2.83	SNEHA
+processing	I-field	2.25	SNEHA
+and	O	0.0
+computer	B-field	0.13
+vision	I-field	0.1
+for	O	0.0
+edge	B-task	0.0
+detection	I-task	1.1
+.	O	0.0
+
+The	O	0.09
+values	O	0.0
+of	O	0.01
+sensitivity	B-metrics	1.97
+and	O	0.05
+specificity	B-metrics	2.9	SNEHA
+are	O	0.0
+agnostic	O	1.84
+to	O	0.0
+the	O	0.0
+percent	O	0.0
+of	O	0.01
+positive	O	0.0
+cases	O	0.0
+in	O	0.0
+the	O	0.01
+population	O	0.0
+of	O	0.01
+interest	O	0.0
+(	O	0.0
+as	O	0.0
+opposed	O	0.0
+to	O	0.0
+,	O	0.0
+for	O	0.0
+example	O	0.0
+,	O	0.0
+precision	B-metrics	0.37
+)	O	0.01
+.	O	0.0
+
+But	O	0.0
+perceptron	B-algorithm	0.0
+models	I-algorithm	0.03
+were	O	0.0
+made	O	0.0
+very	O	0.0
+unpopular	O	0.0
+by	O	0.0
+the	O	0.0
+book	O	0.0
+Perceptrons	B-misc	1.84
+by	O	0.0
+Marvin	B-researcher	0.45
+Minsky	I-researcher	2.34	SNEHA
+and	O	0.02
+Seymour	B-researcher	2.79	SNEHA
+Papert	I-researcher	2.23	SNEHA
+,	O	0.01
+published	O	0.01
+in	O	0.0
+1969	O	0.01
+.	O	0.0
+
+The	O	0.09
+Document	B-conference	3.7	SNEHA
+Understanding	I-conference	2.89	SNEHA
+Conferences	I-conference	3.66	SNEHA
+,	O	0.05
+conducted	O	0.03
+annually	O	0.01
+by	O	0.0
+NIST	B-organisation	3.6	SNEHA
+,	O	0.2
+have	O	0.0
+developed	O	0.0
+sophisticated	O	0.0
+evaluation	O	0.0
+criteria	O	1.63
+for	O	0.0
+techniques	O	0.02
+accepting	O	0.0
+the	O	0.0
+multi-document	B-task	1.26
+summarization	I-task	2.16	SNEHA
+challenge	O	0.01
+.	O	0.0
+
+A	O	0.02
+parallel	B-product	0.0
+manipulator	I-product	1.31
+is	O	0.0
+designed	O	0.01
+so	O	0.0
+that	O	0.0
+each	O	0.0
+chain	O	0.0
+is	O	0.0
+usually	O	0.01
+short	O	0.0
+,	O	0.0
+simple	O	0.01
+and	O	0.0
+can	O	0.0
+thus	O	0.01
+be	O	0.0
+rigid	O	1.64
+against	O	0.01
+unwanted	O	0.0
+movement	O	0.0
+,	O	0.0
+compared	O	0.0
+to	O	0.0
+a	O	0.0
+serial	B-product	0.0
+manipulator	I-product	1.81
+.	O	0.0
+
+The	O	0.09
+manipulator	O	1.76
+is	O	0.04
+what	O	0.0
+makes	O	0.0
+the	O	0.0
+robot	O	1.58
+move	O	0.95
+,	O	0.0
+and	O	0.01
+the	O	0.0
+design	O	0.0
+of	O	0.02
+these	O	0.0
+systems	O	0.04
+can	O	0.0
+be	O	0.0
+categorized	O	1.53
+into	O	0.0
+several	O	0.0
+common	O	0.0
+types	O	0.01
+,	O	0.0
+such	O	0.0
+as	O	0.0
+SCARA	B-misc	1.03
+and	O	0.0
+cartesian	B-misc	1.9
+coordinate	I-misc	0.01
+robot	I-misc	2.28	SNEHA
+,	O	0.0
+which	O	0.0
+use	O	0.0
+different	O	0.0
+coordinate	O	0.0
+systems	O	0.04
+to	O	0.0
+direct	O	0.0
+the	O	0.0
+arms	O	0.0
+of	O	0.01
+the	O	0.0
+machine	O	0.36
+.	O	0.01
+
+In	O	0.01
+the	O	0.02
+United	B-country	0.6
+States	I-country	0.01
+he	O	0.0
+is	O	0.0
+a	O	0.0
+Member	O	1.22
+of	O	0.01
+the	O	0.0
+National	B-organisation	1.45
+Academy	I-organisation	0.18
+of	I-organisation	1.68
+Sciences	I-organisation	2.03	SNEHA
+,	O	0.09
+the	O	0.01
+American	B-organisation	1.11
+Academy	I-organisation	0.19
+of	I-organisation	1.7
+Arts	I-organisation	1.0
+and	I-organisation	0.33
+Sciences	I-organisation	0.83
+,	O	0.07
+the	O	0.02
+Linguistic	B-organisation	1.28
+Society	I-organisation	0.59
+of	I-organisation	1.79
+America	I-organisation	1.36
+,	O	0.03
+the	O	0.01
+American	B-organisation	1.06
+Philosophical	I-organisation	0.7
+Association	I-organisation	0.26
+,	O	0.37
+and	O	0.01
+the	O	0.0
+American	B-organisation	1.06
+Association	I-organisation	0.07
+for	I-organisation	1.1
+the	I-organisation	0.89
+Advancement	I-organisation	1.69
+of	I-organisation	0.77
+Science	I-organisation	0.15
+.	O	0.34
+
+They	O	0.0
+rose	O	0.0
+to	O	0.0
+great	O	0.0
+prominence	O	0.0
+with	O	0.0
+the	O	0.0
+popularity	O	0.0
+of	O	0.03
+the	O	0.01
+support	B-algorithm	0.02
+vector	I-algorithm	2.06	SNEHA
+machine	I-algorithm	2.12	SNEHA
+(	O	0.0
+SVM	B-algorithm	2.24	SNEHA
+)	O	0.03
+in	O	0.0
+the	O	0.01
+1990s	O	0.0
+,	O	0.0
+when	O	0.0
+the	O	0.0
+SVM	B-algorithm	1.15
+was	O	0.0
+found	O	0.0
+to	O	0.0
+be	O	0.0
+competitive	O	0.11
+with	O	0.0
+neural	B-algorithm	3.02	SNEHA
+networks	I-algorithm	2.65	SNEHA
+on	O	0.01
+tasks	O	0.07
+such	O	0.0
+as	O	0.0
+handwriting	B-task	1.76
+recognition	I-task	2.19	SNEHA
+.	O	0.0
+
+An	O	0.39
+empirical	O	2.68	SNEHA
+whitening	B-misc	2.72	SNEHA
+transform	I-misc	2.4	SNEHA
+is	O	0.0
+obtained	O	0.01
+by	O	0.0
+estimating	O	1.35
+the	O	0.03
+covariance	B-misc	1.36
+(	O	0.02
+e.g.	O	2.42	SNEHA
+by	O	0.0
+maximum	B-algorithm	0.0
+likelihood	I-algorithm	2.38	SNEHA
+)	O	0.01
+and	O	0.0
+subsequently	O	0.0
+constructing	O	0.01
+a	O	0.0
+corresponding	O	1.36
+estimated	O	0.01
+whitening	B-misc	1.15
+matrix	I-misc	2.58	SNEHA
+(	O	0.01
+e.g.	O	2.33	SNEHA
+by	O	0.0
+Cholesky	B-algorithm	1.31
+decomposition	I-algorithm	2.09	SNEHA
+)	O	0.02
+.	O	0.0
+
+IAI	B-organisation	2.64	SNEHA
+is	O	0.0
+the	O	0.0
+world	O	0.02
+'s	O	0.0
+largest	O	0.0
+manufacturer	O	0.0
+of	O	0.01
+cartesian	B-product	2.04	SNEHA
+coordinate	I-product	0.03
+robot	I-product	1.21
+s	O	0.36
+and	O	0.01
+is	O	0.0
+an	O	0.0
+established	O	0.0
+leader	O	0.0
+in	O	0.0
+low	O	0.02
+cost	O	0.0
+,	O	0.0
+high	O	0.0
+performance	O	0.0
+SCARA	B-product	1.62
+robot	I-product	2.85	SNEHA
+s	O	0.2
+.	O	0.0
+
+Formal	O	2.64	SNEHA
+concept	O	0.0
+analysis	O	2.13	SNEHA
+finds	O	0.03
+practical	O	0.02
+application	O	0.01
+in	O	0.0
+fields	O	0.0
+including	O	0.0
+data	B-field	0.01
+mining	I-field	0.04
+,	O	0.0
+text	B-field	0.27
+mining	I-field	0.78
+,	O	0.0
+machine	B-field	0.25
+learning	I-field	1.14
+,	O	0.0
+knowledge	B-field	0.01
+management	I-field	0.03
+,	O	0.0
+semantic	B-field	0.23
+web	I-field	0.27
+,	O	0.0
+software	B-field	0.0
+development	I-field	0.0
+,	O	0.0
+chemistry	B-field	2.32	SNEHA
+and	O	0.0
+biology	B-field	2.09	SNEHA
+.	O	0.01
+
+In	O	0.01
+computer	B-field	2.48	SNEHA
+science	I-field	1.62
+,	O	0.0
+computational	B-field	0.02
+learning	I-field	2.94	SNEHA
+theory	I-field	0.48
+(	O	0.0
+or	O	0.0
+just	O	0.0
+learning	B-field	2.95	SNEHA
+theory	I-field	0.41
+)	O	0.01
+is	O	0.0
+a	O	0.0
+subfield	O	1.22
+of	O	0.01
+artificial	B-field	2.31	SNEHA
+intelligence	I-field	3.21	SNEHA
+devoted	O	0.01
+to	O	0.0
+studying	O	0.02
+the	O	0.01
+design	O	0.0
+and	O	0.0
+analysis	O	2.74	SNEHA
+of	O	0.17
+machine	B-field	0.48
+learning	I-field	0.77
+algorithms	O	0.02
+.	O	0.0
+
+Collaborative	B-algorithm	2.64	SNEHA
+filtering	I-algorithm	2.4	SNEHA
+(	O	0.0
+CF	B-algorithm	2.29	SNEHA
+)	O	0.02
+is	O	0.0
+a	O	0.0
+technique	O	0.0
+used	O	0.0
+by	O	0.0
+recommender	B-product	1.58
+system	I-product	2.09	SNEHA
+s	O	0.01
+.	O	0.0
+
+The	O	0.09
+FALSE	B-metrics	0.29
+positive	I-metrics	0.87
+rate	I-metrics	0.0
+is	O	0.0
+the	O	0.0
+proportion	O	0.13
+of	O	0.05
+all	O	0.0
+negatives	O	2.2	SNEHA
+that	O	0.0
+still	O	0.0
+yield	O	0.0
+positive	O	0.0
+test	O	0.0
+outcomes	O	2.17	SNEHA
+,	O	0.0
+i.e.	O	2.59	SNEHA
+,	O	0.0
+the	O	0.0
+conditional	O	0.0
+probability	O	0.0
+of	O	0.02
+a	O	0.0
+positive	O	0.0
+test	O	0.0
+result	O	0.0
+given	O	0.0
+an	O	0.0
+event	O	0.0
+that	O	0.0
+was	O	0.0
+not	O	0.0
+present	O	0.0
+.	O	0.0
+
+In	O	0.01
+VLDB	B-conference	0.92
+'	O	0.1
+8	O	0.0
+:	O	0.0
+Proceedings	B-conference	2.26	SNEHA
+of	I-conference	0.02
+the	I-conference	0.01
+34th	I-conference	0.02
+International	I-conference	1.45
+Conference	I-conference	1.44
+on	I-conference	1.32
+Very	I-conference	0.03
+Large	I-conference	1.66
+Data	I-conference	0.36
+Bases	I-conference	0.19
+,	O	0.2
+pages	O	0.01
+422--433.	O	1.74
+showed	O	0.0
+that	O	0.0
+the	O	0.0
+given	O	0.01
+values	O	0.0
+for	O	0.0
+mathC	O	1.44
+/	O	0.09
+math	O	0.01
+and	O	0.0
+mathK	O	0.99
+/	O	0.06
+math	O	0.01
+generally	O	0.0
+imply	O	1.74
+relatively	O	0.0
+low	O	0.0
+accuracy	B-metrics	0.0
+of	O	0.01
+iteratively	O	2.0	SNEHA
+computed	O	0.53
+SimRank	B-metrics	1.92
+scores	O	0.01
+.	O	0.0
+
+The	O	0.09
+science	B-misc	1.77
+fiction	I-misc	0.19
+drama	I-misc	1.84
+Sense8	B-misc	0.24
+debuted	O	0.8
+in	O	0.07
+June	O	0.17
+2015	O	0.3
+,	O	0.0
+which	O	0.0
+was	O	0.0
+written	O	0.0
+and	O	0.0
+produced	O	0.01
+by	O	0.0
+The	B-person	0.19
+Wachowskis	I-person	1.89
+and	O	0.04
+J.	B-person	0.15
+Michael	I-person	0.06
+Straczynski	I-person	0.26
+.	O	0.0
+
+While	O	0.0
+Eurotra	B-misc	2.29	SNEHA
+never	O	0.0
+delivered	O	0.0
+a	O	0.0
+working	O	0.0
+MT	B-product	1.26
+system	I-product	0.02
+,	O	0.0
+the	O	0.0
+project	O	0.01
+made	O	0.0
+a	O	0.0
+far-reaching	O	1.29
+long-term	O	0.01
+impact	O	0.01
+on	O	0.0
+the	O	0.0
+nascent	O	0.0
+language	O	1.61
+industries	O	0.43
+in	O	0.0
+European	B-misc	1.28
+member	O	0.18
+states	O	0.0
+,	O	0.0
+in	O	0.0
+particular	O	0.0
+among	O	0.0
+the	O	0.0
+southern	O	0.0
+countries	O	0.0
+of	O	0.01
+Greece	B-country	0.02
+,	O	0.01
+Italy	B-country	0.02
+,	O	0.01
+Spain	B-country	0.03
+,	O	0.01
+and	O	0.0
+Portugal	B-country	0.03
+.	O	0.02
+
+Autoencoder	B-algorithm	2.64	SNEHA
+has	O	0.0
+been	O	0.0
+successfully	O	0.65
+applied	O	0.05
+to	O	0.0
+the	O	0.0
+machine	B-task	0.37
+translation	I-task	2.93	SNEHA
+of	O	0.02
+human	O	0.05
+languages	O	0.0
+which	O	0.0
+is	O	0.0
+usually	O	0.01
+referred	O	0.0
+to	O	0.0
+as	O	0.0
+neural	B-task	3.21	SNEHA
+machine	I-task	3.18	SNEHA
+translation	I-task	3.37	SNEHA
+(	O	0.01
+NMT	B-task	2.29	SNEHA
+)	O	0.02
+.	O	0.0
+
+Popular	O	0.61
+examples	O	0.78
+of	O	0.03
+fitness	O	0.01
+functions	O	1.73
+based	O	0.0
+on	O	0.0
+the	O	0.0
+probabilities	O	1.22
+include	O	0.02
+maximum	B-metrics	0.01
+likelihood	I-metrics	2.95	SNEHA
+estimation	I-metrics	4.03	SNEHA
+and	O	0.0
+hinge	B-metrics	0.17
+loss	I-metrics	1.61
+.	O	0.0
+
+Data	B-field	0.24
+mining	I-field	0.35
+is	O	0.01
+a	O	0.0
+related	O	0.0
+field	O	0.03
+of	O	0.02
+study	O	0.0
+,	O	0.0
+focusing	O	0.0
+on	O	0.0
+exploratory	B-task	0.0
+data	I-task	0.0
+analysis	I-task	2.93	SNEHA
+through	O	0.1
+unsupervised	B-field	0.8
+learning	I-field	1.81
+.	O	0.01
+
+Collaborative	B-algorithm	2.64	SNEHA
+filtering	I-algorithm	2.4	SNEHA
+encompasses	O	1.54
+techniques	O	0.02
+for	O	0.0
+matching	O	0.0
+people	O	0.0
+with	O	0.0
+similar	O	0.0
+interests	O	0.0
+and	O	0.0
+making	O	0.0
+recommender	B-product	1.23
+system	I-product	2.2	SNEHA
+on	O	0.0
+this	O	0.0
+basis	O	0.0
+.	O	0.0
+
+A	O	0.02
+number	O	0.0
+of	O	0.01
+WordNet-based	B-algorithm	2.03	SNEHA
+word	I-algorithm	0.74
+similarity	I-algorithm	1.38
+algorithms	I-algorithm	0.02
+are	O	0.0
+implemented	O	0.0
+in	O	0.0
+a	O	0.0
+Perl	B-programlang	1.02
+package	O	0.23
+called	O	0.0
+WordNet	B-product	1.25
+::	I-product	1.59
+Similarity	I-product	1.77
+.	O	0.0
+
+Another	O	0.0
+paper	O	0.0
+,	O	0.0
+presented	O	0.14
+at	O	0.01
+the	O	0.01
+CVPR	B-conference	1.34
+(	O	0.18
+CVPR	B-conference	1.75
+)	O	0.44
+2000	O	0.07
+by	O	0.0
+Erik	B-researcher	0.15
+Miller	I-researcher	0.0
+,	O	0.0
+Nicholas	B-researcher	0.01
+Matsakis	I-researcher	0.01
+,	O	0.0
+and	O	0.0
+Paul	B-researcher	0.02
+Viola	I-researcher	0.03
+will	O	0.0
+also	O	0.0
+be	O	0.0
+discussed	O	0.0
+.	O	0.0
+
+QC	B-algorithm	2.64	SNEHA
+has	O	0.0
+not	O	0.0
+been	O	0.0
+evaluated	O	0.0
+against	O	0.0
+traditional	O	0.01
+modern	O	1.63
+clustering	B-misc	0.02
+algorithms	I-misc	0.02
+,	O	0.0
+aside	O	2.65	SNEHA
+from	O	0.01
+Jaccard	B-metrics	1.83
+index	I-metrics	0.0
+.	O	0.0
+
+During	O	0.0
+the	O	0.0
+VEX	B-misc	1.22
+Robotics	I-misc	1.0
+World	I-misc	1.15
+Championship	I-misc	0.13
+,	O	0.05
+a	O	0.0
+Parade	B-misc	1.48
+of	I-misc	0.01
+Nations	I-misc	2.15	SNEHA
+is	O	0.14
+held	O	0.01
+in	O	0.0
+Freedom	B-location	0.97
+Hall	I-location	0.31
+that	O	0.0
+includes	O	0.0
+hundreds	O	0.01
+of	O	0.01
+students	O	0.0
+from	O	0.01
+more	O	0.0
+than	O	0.0
+30	O	0.0
+countries	O	0.0
+.	O	0.0
+
+Other	O	0.0
+measures	O	0.0
+of	O	0.01
+accuracy	O	0.0
+include	O	0.0
+Single	B-metrics	2.35	SNEHA
+Word	I-metrics	0.01
+Error	I-metrics	0.72
+Rate	I-metrics	0.01
+(	O	0.0
+SWER	B-metrics	2.1	SNEHA
+)	O	0.02
+and	O	0.0
+Command	B-metrics	1.59
+Success	I-metrics	0.79
+Rate	I-metrics	0.0
+(	O	0.0
+CSR	B-metrics	1.74
+)	O	0.03
+.	O	0.0
+
+They	O	0.0
+presented	O	0.12
+their	O	0.0
+method	O	0.0
+and	O	0.0
+results	O	0.0
+in	O	0.0
+SIGGRAPH	B-conference	1.76
+2000	I-conference	1.05
+.	O	0.0
+
+The	O	0.09
+KDD	B-conference	1.76
+Conference	I-conference	2.08	SNEHA
+grew	O	1.05
+from	O	0.01
+KDD	B-conference	1.9
+(	O	0.0
+Knowledge	B-conference	2.3	SNEHA
+Discovery	I-conference	1.24
+and	I-conference	0.02
+Data	I-conference	1.13
+Mining	I-conference	0.13
+)	O	0.08
+workshops	O	1.94
+at	O	0.01
+AAAI	B-conference	3.73	SNEHA
+conferences	I-conference	0.17
+,	O	0.0
+which	O	0.0
+were	O	0.0
+started	O	0.0
+by	O	0.0
+Gregory	B-researcher	0.03
+I.	I-researcher	0.02
+Piatetsky-Shapiro	I-researcher	0.38
+in	O	0.0
+1989	O	0.01
+,	O	0.0
+1991	O	0.0
+,	O	0.0
+and	O	0.0
+1993	O	0.0
+,	O	0.0
+and	O	0.0
+Usama	B-researcher	1.37
+Fayyad	I-researcher	2.24	SNEHA
+in	O	0.0
+1994	O	0.0
+.	O	0.0
+Machinery	B-conference	1.21
+|	I-conference	2.29	SNEHA
+ACM	I-conference	1.24
+.	O	0.0
+
+He	O	0.0
+has	O	0.0
+been	O	0.0
+elected	O	0.0
+a	O	0.0
+Fellow	O	0.0
+of	O	0.01
+the	O	0.0
+Association	B-conference	1.89
+for	I-conference	1.05
+Computing	I-conference	0.86
+Machinery	I-conference	0.44
+(	O	0.59
+ACM	B-conference	2.59	SNEHA
+)	O	0.16
+,	O	0.0
+the	O	0.0
+Institute	B-organisation	0.55
+of	I-organisation	0.75
+Electrical	I-organisation	1.45
+and	I-organisation	1.12
+Electronics	I-organisation	0.54
+Engineers	I-organisation	0.26
+(	O	0.01
+IEEE	B-organisation	0.88
+)	O	0.03
+,	O	0.0
+the	O	0.0
+International	B-conference	1.12
+Association	I-conference	0.08
+for	I-conference	1.2
+Pattern	I-conference	1.12
+Recognition	I-conference	3.07	SNEHA
+(	O	0.0
+IAPR	B-conference	0.11
+)	O	0.13
+,	O	0.0
+the	O	0.0
+Association	B-conference	0.73
+for	I-conference	0.93
+the	I-conference	0.89
+Advancement	I-conference	1.69
+of	I-conference	0.77
+Artificial	I-conference	2.39	SNEHA
+Intelligence	I-conference	4.03	SNEHA
+(	O	0.02
+AAAI	B-conference	3.07	SNEHA
+)	O	0.45
+,	O	0.0
+American	B-conference	0.49
+Association	I-conference	0.07
+for	I-conference	1.19
+Advancement	I-conference	1.82
+of	I-conference	1.7
+Science	I-conference	0.43
+(	O	0.07
+AAAS	B-conference	1.95
+)	O	0.2
+,	O	0.0
+and	O	0.0
+the	O	0.0
+Society	B-conference	1.25
+for	I-conference	0.01
+Optics	I-conference	1.22
+and	I-conference	1.15
+Photonics	I-conference	2.79	SNEHA
+Technology	I-conference	2.39	SNEHA
+(	O	0.97
+SPIE	B-conference	1.96
+)	O	0.15
+.	O	0.0
+
+Machine	B-field	3.08	SNEHA
+learning	I-field	2.5	SNEHA
+and	O	0.01
+data	B-field	0.06
+mining	I-field	0.04
+often	O	0.0
+employ	O	0.0
+the	O	0.0
+same	O	0.0
+methods	O	0.17
+and	O	0.0
+overlap	O	2.5	SNEHA
+significantly	O	0.01
+,	O	0.0
+but	O	0.0
+while	O	0.0
+machine	B-field	0.0
+learning	I-field	1.78
+focuses	O	1.5
+on	O	0.01
+prediction	O	0.04
+,	O	0.0
+based	O	0.0
+on	O	0.0
+known	O	0.0
+properties	O	0.09
+learned	O	0.0
+from	O	0.0
+the	O	0.0
+training	O	0.01
+data	O	0.02
+,	O	0.0
+data	B-field	0.01
+mining	I-field	0.04
+focuses	O	2.07	SNEHA
+on	O	0.0
+the	O	0.0
+discovery	O	0.0
+of	O	0.02
+(	O	0.0
+previously	O	0.01
+)	O	0.0
+unknown	O	0.0
+properties	O	0.28
+in	O	0.0
+the	O	0.01
+data	O	0.03
+(	O	0.0
+this	O	0.0
+is	O	0.0
+the	O	0.0
+analysis	O	3.21	SNEHA
+step	O	0.05
+of	O	0.36
+knowledge	B-task	0.03
+discovery	I-task	0.0
+in	I-task	0.0
+databases	I-task	0.01
+)	O	0.0
+.	O	0.0
+
+Indy	B-product	2.64	SNEHA
+is	O	0.0
+written	O	0.01
+in	O	0.0
+Java	B-programlang	1.59
+and	O	0.22
+therefore	O	2.7	SNEHA
+runs	O	0.01
+on	O	0.0
+most	O	0.0
+modern	O	1.65
+operating	B-misc	0.0
+system	I-misc	0.03
+s	O	0.0
+.	O	0.0
+
+NMF	B-algorithm	3.67	SNEHA
+is	O	0.16
+an	O	0.01
+instance	O	0.59
+of	O	0.01
+nonnegative	B-algorithm	2.24	SNEHA
+quadratic	I-algorithm	0.77
+programming	I-algorithm	1.58
+(	O	0.0
+NQP	B-algorithm	2.19	SNEHA
+)	O	0.02
+,	O	0.0
+just	O	0.0
+like	O	0.0
+the	O	0.0
+support	B-algorithm	0.01
+vector	I-algorithm	2.54	SNEHA
+machine	I-algorithm	2.07	SNEHA
+(	O	0.0
+SVM	B-algorithm	1.71
+)	O	0.02
+.	O	0.0
+
+The	O	0.09
+method	O	0.0
+is	O	0.0
+based	O	0.0
+on	O	0.0
+estimating	O	0.87
+the	O	0.04
+conditional	B-misc	0.03
+probabilities	I-misc	1.05
+using	O	0.0
+the	O	0.0
+nonparametric	B-metrics	1.35
+maximum	I-metrics	0.12
+likelihood	I-metrics	2.85	SNEHA
+method	O	0.0
+which	O	0.0
+leads	O	0.0
+
+The	O	0.09
+basic	O	0.0
+concepts	O	0.0
+involved	O	0.0
+in	O	0.0
+spectral	O	1.93
+estimation	O	3.75	SNEHA
+include	O	0.0
+autocorrelation	B-algorithm	2.44	SNEHA
+,	O	0.0
+multi-D	B-algorithm	2.6	SNEHA
+Fourier	I-algorithm	2.7	SNEHA
+transform	I-algorithm	1.19
+,	O	0.0
+mean	B-metrics	0.03
+square	I-metrics	0.32
+error	I-metrics	0.71
+and	O	0.0
+entropy	B-metrics	2.09	SNEHA
+.	O	0.02
+
+Application	O	2.64	SNEHA
+areas	O	0.01
+of	O	0.01
+kernel	B-algorithm	1.97
+methods	I-algorithm	1.33
+are	O	0.0
+diverse	O	0.01
+and	O	0.0
+include	O	0.0
+geostatistics	B-field	2.37	SNEHA
+,	O	0.01
+kriging	B-algorithm	2.69	SNEHA
+,	O	0.0
+inverse	B-algorithm	2.6	SNEHA
+distance	I-algorithm	0.01
+weighting	I-algorithm	1.97
+,	O	0.0
+3D	B-task	1.7
+reconstruction	I-task	1.56
+,	O	0.0
+bioinformatics	B-field	2.48	SNEHA
+,	O	0.0
+chemoinformatics	B-field	2.6	SNEHA
+,	O	0.0
+information	B-task	0.86
+extraction	I-task	0.97
+and	O	0.0
+handwriting	B-task	1.49
+recognition	I-task	2.06	SNEHA
+.	O	0.0
+
+Robots	O	2.64	SNEHA
+can	O	0.0
+be	O	0.0
+autonomous	O	1.6
+or	O	0.02
+semi-autonomous	O	0.33
+and	O	0.01
+range	O	0.0
+from	O	0.0
+humanoids	O	2.22	SNEHA
+such	O	0.0
+as	O	0.0
+Honda	B-organisation	0.15
+'	O	0.03
+s	O	0.28
+Advanced	B-product	0.21
+Step	I-product	0.22
+in	I-product	0.11
+Innovative	I-product	2.59	SNEHA
+Mobility	I-product	0.19
+(	O	0.22
+ASIMO	B-product	2.28	SNEHA
+)	O	0.21
+and	O	0.0
+TOSY	B-organisation	1.92
+'	O	0.03
+s	O	0.19
+TOSY	B-product	2.1	SNEHA
+Ping	I-product	1.25
+Pong	I-product	1.54
+Playing	I-product	0.18
+Robot	I-product	2.24	SNEHA
+(	O	0.05
+TOPIO	B-product	1.67
+)	O	0.2
+to	O	0.0
+industrial	B-product	0.0
+robot	I-product	1.67
+s	O	0.03
+,	O	0.0
+medical	B-product	0.12
+operating	I-product	0.0
+robot	I-product	1.57
+s	O	0.02
+,	O	0.0
+patient	B-product	0.01
+assist	I-product	2.22	SNEHA
+robots	I-product	0.64
+,	O	0.0
+dog	B-product	0.0
+therapy	I-product	0.0
+robots	I-product	0.07
+,	O	0.01
+collectively	O	2.74	SNEHA
+programmed	O	2.82	SNEHA
+swarm	B-product	1.25
+robots	I-product	0.82
+,	O	0.01
+UAV	B-product	2.89	SNEHA
+drones	I-product	2.78	SNEHA
+such	O	0.0
+as	O	0.0
+General	B-product	0.0
+Atomics	I-product	2.16	SNEHA
+MQ-1	I-product	2.67	SNEHA
+Predator	I-product	1.32
+,	O	0.0
+and	O	0.0
+even	O	0.0
+microscopic	B-product	1.68
+nano	I-product	2.84	SNEHA
+robots	I-product	0.06
+.	O	0.0
+
+Freddy	B-product	0.05
+and	O	0.1
+Freddy	B-product	0.29
+II	I-product	1.93
+were	O	0.0
+robots	O	0.02
+built	O	0.0
+at	O	0.01
+the	O	0.01
+University	B-university	3.51	SNEHA
+of	I-university	2.13	SNEHA
+Edinburgh	I-university	2.22	SNEHA
+School	I-university	0.55
+of	I-university	0.58
+Informatics	I-university	2.88	SNEHA
+by	O	0.01
+Pat	B-researcher	0.02
+Ambler	I-researcher	0.05
+,	O	0.0
+Robin	B-researcher	0.02
+Popplestone	I-researcher	0.02
+,	O	0.0
+Austin	B-researcher	0.01
+Tate	I-researcher	0.02
+,	O	0.0
+and	O	0.0
+Donald	B-researcher	0.09
+Mitchie	I-researcher	0.07
+,	O	0.0
+and	O	0.0
+were	O	0.0
+capable	O	0.0
+of	O	0.0
+assembling	O	2.03	SNEHA
+wooden	O	0.02
+blocks	O	0.03
+in	O	0.0
+a	O	0.0
+period	O	0.0
+of	O	0.01
+several	O	0.0
+hours	O	0.0
+.	O	0.0
+
+He	O	0.0
+spent	O	0.0
+his	O	0.0
+childhood	O	2.02	SNEHA
+years	O	0.0
+in	O	0.0
+Paris	B-location	0.05
+,	O	0.02
+France	B-country	0.03
+,	O	0.01
+where	O	0.0
+his	O	0.0
+parents	O	0.0
+had	O	0.0
+emigrated	O	0.0
+from	O	0.0
+Lithuania	B-country	0.03
+in	O	0.01
+the	O	0.0
+early	O	0.02
+1920s	O	0.0
+.	O	0.0
+
+Previously	O	2.64	SNEHA
+,	O	0.0
+Dr.	B-researcher	0.0
+Paulos	I-researcher	2.21	SNEHA
+held	O	0.0
+the	O	0.0
+Cooper-Siegel	B-misc	1.22
+Associate	I-misc	1.56
+Professor	I-misc	1.24
+Chair	I-misc	0.06
+in	O	0.11
+the	O	0.14
+School	B-organisation	1.95
+of	I-organisation	0.82
+Computer	I-organisation	3.64	SNEHA
+Science	I-organisation	2.24	SNEHA
+at	O	0.05
+Carnegie	B-university	3.3	SNEHA
+Mellon	I-university	2.13	SNEHA
+University	I-university	2.45	SNEHA
+where	O	0.07
+he	O	0.0
+was	O	0.0
+faculty	O	1.65
+within	O	0.0
+the	O	0.0
+Human-Computer	B-university	1.32
+Interaction	I-university	0.98
+Institute	I-university	2.41	SNEHA
+with	O	0.09
+courtesy	O	2.49	SNEHA
+faculty	O	1.11
+appointments	O	1.32
+in	O	0.12
+the	O	0.05
+Robotics	B-university	0.99
+Institute	I-university	1.76
+and	O	0.89
+in	O	0.08
+the	O	0.01
+Entertainment	B-university	1.35
+Technology	I-university	1.65
+Center	I-university	0.06
+.	O	0.62
+
+In	O	0.01
+1969	O	0.11
+Victor	B-researcher	2.0	SNEHA
+Scheinman	I-researcher	2.55	SNEHA
+at	O	0.01
+Stanford	B-university	0.23
+University	I-university	1.67
+invented	O	2.61	SNEHA
+the	O	0.01
+Stanford	B-product	1.51
+arm	I-product	0.07
+,	O	0.0
+an	O	0.0
+all-electric	O	1.07
+,	O	0.0
+6-axis	B-product	2.71	SNEHA
+articulated	I-product	2.68	SNEHA
+robot	I-product	3.17	SNEHA
+designed	O	0.01
+to	O	0.0
+permit	O	1.68
+an	O	0.0
+arm	B-misc	0.0
+solution	I-misc	0.0
+.	O	0.0
+
+The	O	0.09
+creation	O	0.0
+and	O	0.0
+implementation	O	0.01
+of	O	0.01
+chatbots	B-product	2.14	SNEHA
+is	O	0.01
+still	O	0.0
+a	O	0.0
+developing	O	0.0
+area	O	0.0
+,	O	0.0
+heavily	O	0.01
+related	O	0.0
+to	O	0.0
+artificial	B-field	0.8
+intelligence	I-field	1.98
+and	O	0.0
+machine	B-field	0.22
+learning	I-field	1.49
+,	O	0.0
+so	O	0.0
+the	O	0.0
+provided	O	0.0
+solutions	O	0.01
+,	O	0.0
+while	O	0.0
+possessing	O	1.55
+obvious	O	0.0
+advantages	O	0.73
+,	O	0.0
+have	O	0.0
+some	O	0.0
+important	O	0.0
+limitations	O	0.92
+in	O	0.0
+terms	O	0.01
+of	O	0.01
+functionalities	O	2.21	SNEHA
+and	O	0.07
+use	O	0.0
+cases	O	0.0
+.	O	0.0
+
+In	O	0.01
+terms	O	0.1
+of	O	0.01
+freely	O	2.24	SNEHA
+available	O	0.01
+resources	O	0.01
+,	O	0.0
+Carnegie	B-university	1.39
+Mellon	I-university	2.53	SNEHA
+University	I-university	3.17	SNEHA
+'	O	0.57
+s	O	0.78
+Sphinx	B-product	2.13	SNEHA
+toolkit	I-product	0.65
+is	O	0.09
+one	O	0.0
+place	O	0.0
+to	O	0.0
+start	O	0.0
+to	O	0.0
+both	O	0.0
+learn	O	0.0
+about	O	0.0
+speech	B-task	0.05
+recognition	I-task	1.9
+and	O	0.01
+to	O	0.0
+start	O	0.0
+experimenting	O	1.74
+.	O	0.0
+
+The	O	0.09
+formal	O	0.0
+RoboCup	B-misc	1.08
+competition	I-misc	0.0
+was	O	0.0
+preceded	O	1.72
+by	O	0.0
+the	O	0.0
+(	O	0.0
+often	O	0.0
+unacknowledged	O	0.98
+)	O	0.01
+first	O	0.0
+International	B-misc	1.36
+Micro	I-misc	0.67
+Robot	I-misc	0.89
+World	I-misc	0.24
+Cup	I-misc	0.03
+Soccer	I-misc	0.93
+Tournament	I-misc	1.02
+(	O	0.08
+MIROSOT	B-misc	1.82
+)	O	0.18
+held	O	0.0
+by	O	0.0
+KAIST	B-university	1.13
+in	O	0.0
+Taejon	B-location	1.94
+,	O	0.0
+Korea	B-country	1.25
+,	O	0.0
+in	O	0.0
+November	O	0.0
+1996	O	0.0
+.	O	0.0
+
+In	O	0.01
+addition	O	0.0
+to	O	0.0
+the	O	0.0
+standard	O	0.01
+hinge	B-metrics	1.2
+loss	I-metrics	2.42	SNEHA
+math	O	0.16
+(	O	0.0
+1-yf	O	1.38
+(	O	0.0
+x	O	0.01
+)	O	0.0
+)	O	0.0
+_	O	0.0
++	O	0.31
+/	O	0.03
+math	O	0.01
+for	O	0.0
+labeled	O	1.48
+data	O	0.02
+,	O	0.0
+a	O	0.0
+loss	B-misc	0.0
+function	I-misc	0.02
+math	O	0.02
+(	O	0.0
+-1	O	1.85
+|	O	2.54	SNEHA
+f	O	0.83
+(	O	0.0
+x	O	0.0
+)	O	0.0
+|	O	1.7
+)	O	0.01
+_	O	0.0
++	O	0.38
+/	O	0.03
+math	O	0.01
+is	O	0.0
+introduced	O	0.0
+over	O	0.0
+the	O	0.0
+unlabeled	O	1.2
+data	O	0.03
+by	O	0.0
+letting	O	0.01
+mathy	O	1.19
+=	O	0.0
+\	O	0.0
+operatorname	O	1.97
+{	O	0.01
+sign	O	0.03
+}	O	0.01
+{	O	0.0
+f	O	1.29
+(	O	0.0
+x	O	0.0
+)	O	0.0
+}	O	0.01
+/	O	0.0
+math	O	0.01
+.	O	0.0
+
+In	O	0.01
+particular	O	0.01
+,	O	0.0
+RLS	B-misc	2.71	SNEHA
+is	O	0.0
+designed	O	0.01
+to	O	0.0
+minimize	O	1.34
+the	O	0.01
+mean	B-metrics	0.39
+squared	I-metrics	0.1
+error	I-metrics	0.98
+between	O	0.02
+the	O	0.0
+predicted	O	0.0
+values	O	0.0
+and	O	0.0
+the	O	0.0
+TRUE	O	1.52
+labels	O	0.6
+,	O	0.09
+subject	O	0.0
+to	O	0.0
+regularization	O	1.54
+.	O	0.0
+
+Essentially	O	2.64	SNEHA
+,	O	0.0
+this	O	0.0
+combines	O	0.0
+maximum	B-algorithm	0.0
+likelihood	I-algorithm	2.74	SNEHA
+estimation	I-algorithm	3.2	SNEHA
+with	O	0.02
+a	O	0.0
+regularization	B-algorithm	1.09
+procedure	I-algorithm	0.0
+that	O	0.0
+favors	O	0.94
+simpler	O	2.59	SNEHA
+models	O	0.01
+over	O	0.01
+more	O	0.0
+complex	O	0.01
+models	O	0.1
+.	O	0.0
+
+The	O	0.09
+true-positive	B-metrics	1.76
+rate	I-metrics	0.0
+is	O	0.0
+also	O	0.0
+known	O	0.0
+as	O	0.0
+sensitivity	B-metrics	0.97
+,	O	0.0
+recall	B-metrics	0.0
+or	O	0.0
+probability	B-metrics	0.0
+of	I-metrics	0.01
+detection	I-metrics	0.79
+math	O	0.01
+to	O	0.0
+the	O	0.0
+discrimination	B-misc	0.0
+threshold	I-misc	1.84
+)	O	0.01
+of	O	0.02
+the	O	0.01
+detection	O	1.81
+probability	O	0.02
+in	O	0.01
+the	O	0.0
+y-axis	O	0.81
+versus	O	0.05
+the	O	0.0
+cumulative	B-algorithm	0.01
+distribution	I-algorithm	0.0
+function	I-algorithm	0.12
+of	O	0.01
+the	O	0.0
+false-alarm	B-metrics	1.23
+probability	I-metrics	0.22
+on	O	0.0
+the	O	0.0
+x-axis	O	1.22
+.	O	0.01
+
+In	O	0.01
+English	B-misc	0.2
+,	O	0.01
+WordNet	B-product	2.84	SNEHA
+is	O	0.0
+an	O	0.0
+example	O	0.0
+of	O	0.01
+a	O	0.0
+semantic	O	2.36	SNEHA
+network	O	1.58
+.	O	0.0
+
+Prolonged	O	2.64	SNEHA
+use	O	0.0
+of	O	0.01
+speech	B-product	0.26
+recognition	I-product	2.77	SNEHA
+software	I-product	0.1
+in	O	0.0
+conjunction	O	0.27
+with	O	0.0
+word	B-product	0.27
+processor	I-product	3.0	SNEHA
+s	O	2.61	SNEHA
+has	O	0.0
+shown	O	0.0
+benefits	O	0.01
+to	O	0.0
+short-term-memory	O	1.33
+restrengthening	O	1.63
+in	O	0.0
+brain	B-misc	0.0
+AVM	I-misc	1.5
+patients	O	0.02
+who	O	0.0
+have	O	0.0
+been	O	0.0
+treated	O	0.0
+with	O	0.0
+resection	O	1.63
+.	O	0.0
+
+Its	O	0.0
+founding	O	0.0
+editor-in-chiefs	O	1.49
+were	O	0.0
+Ron	B-researcher	0.03
+Sun	I-researcher	0.46
+,	O	0.02
+Vasant	B-researcher	2.81	SNEHA
+Honavar	I-researcher	3.12	SNEHA
+,	O	0.0
+and	O	0.0
+Gregg	B-researcher	1.26
+Oden	I-researcher	2.56	SNEHA
+(	O	0.0
+from	O	0.0
+1999	O	0.0
+to	O	0.0
+2014	O	0.0
+)	O	0.01
+.	O	0.0
+
+Their	O	0.0
+'	O	0.0
+parallel	O	0.0
+'	O	0.0
+distinction	O	1.21
+,	O	0.0
+as	O	0.0
+opposed	O	0.0
+to	O	0.0
+a	O	0.0
+serial	B-product	0.0
+manipulator	I-product	1.78
+,	O	0.0
+is	O	0.0
+that	O	0.0
+the	O	0.0
+end	B-misc	0.0
+effector	I-misc	0.95
+(	O	0.0
+or	O	0.0
+'	O	0.0
+hand	O	0.0
+'	O	0.0
+)	O	0.01
+of	O	0.01
+this	O	0.0
+linkage	O	1.27
+(	O	0.0
+or	O	0.0
+'	O	0.0
+arm	O	0.0
+'	O	0.0
+)	O	0.01
+is	O	0.0
+directly	O	0.0
+connected	O	0.0
+to	O	0.0
+its	O	0.0
+base	O	0.0
+by	O	0.0
+a	O	0.0
+number	O	0.0
+of	O	0.01
+(	O	0.0
+usually	O	0.01
+three	O	0.0
+or	O	0.0
+six	O	0.0
+)	O	0.01
+separate	O	0.02
+and	O	0.0
+independent	O	0.01
+linkages	O	1.57
+working	O	0.0
+simultaneously	O	1.19
+.	O	0.0
+
+His	O	0.0
+thesis	O	1.72
+advisor	O	0.29
+was	O	0.0
+Professor	O	0.0
+Cordell	B-researcher	2.06	SNEHA
+Green	I-researcher	0.99
+,	O	0.0
+and	O	0.0
+his	O	0.0
+thesis	O	1.79
+/	O	0.07
+oral	O	0.0
+committee	O	0.0
+included	O	0.01
+Professors	O	1.18
+Edward	B-researcher	0.47
+Feigenbaum	I-researcher	0.13
+Joshua	B-researcher	0.99
+Lederberg	I-researcher	3.13	SNEHA
+,	O	0.0
+Paul	B-researcher	0.01
+Cohen	I-researcher	2.66	SNEHA
+,	O	0.0
+Allen	B-researcher	0.02
+Newell	I-researcher	0.81
+,	O	0.01
+Herbert	B-researcher	0.02
+Simon	I-researcher	0.01
+,	O	0.0
+.	O	0.0
+
+Such	O	0.0
+functions	O	0.75
+include	O	0.0
+the	O	0.01
+mean	B-metrics	0.79
+squared	I-metrics	0.1
+error	I-metrics	1.03
+,	O	0.01
+root	B-metrics	0.0
+mean	I-metrics	0.02
+squared	I-metrics	0.01
+error	I-metrics	0.53
+,	O	0.01
+mean	B-metrics	0.03
+absolute	I-metrics	0.01
+error	I-metrics	0.07
+,	O	0.0
+relative	B-metrics	0.0
+squared	I-metrics	0.0
+error	I-metrics	0.31
+,	O	0.0
+root	B-metrics	0.0
+relative	I-metrics	0.0
+squared	I-metrics	0.0
+error	I-metrics	0.28
+,	O	0.0
+relative	B-metrics	0.0
+absolute	I-metrics	0.01
+error	I-metrics	0.03
+,	O	0.0
+and	O	0.0
+others	O	0.0
+.	O	0.0
+
+There	O	0.0
+are	O	0.0
+bindings	O	1.04
+in	O	0.0
+Python	B-programlang	0.82
+,	O	0.03
+Java	B-programlang	2.06	SNEHA
+and	O	0.39
+MATLAB	B-product	3.28	SNEHA
+/	O	1.2
+OCTAVE	B-programlang	2.44	SNEHA
+.	O	0.02
+
+An	O	0.39
+implementation	O	0.0
+in	O	0.0
+MATLAB	B-product	2.59	SNEHA
+can	O	0.04
+be	O	0.0
+found	O	0.0
+on	O	0.0
+the	O	0.0
+.	O	0.0
+
+John	B-researcher	0.01
+McCarthy	I-researcher	0.0
+is	O	0.0
+one	O	0.0
+of	O	0.01
+the	O	0.01
+founding	O	0.01
+fathers	O	1.29
+of	O	0.01
+artificial	B-field	2.33	SNEHA
+intelligence	I-field	3.34	SNEHA
+,	O	0.0
+together	O	0.0
+with	O	0.0
+Alan	B-researcher	0.0
+Turing	I-researcher	0.01
+,	O	0.0
+Marvin	B-researcher	0.78
+Minsky	I-researcher	1.29
+,	O	0.0
+Allen	B-researcher	0.01
+Newell	I-researcher	0.68
+,	O	0.02
+and	O	0.0
+Herbert	B-researcher	0.28
+A.	I-researcher	0.12
+Simon	I-researcher	0.02
+.	O	0.0
+
+A	O	0.02
+parallel	O	0.0
+manipulator	O	1.31
+is	O	0.0
+a	O	0.0
+mechanical	O	0.0
+system	O	0.09
+that	O	0.0
+uses	O	0.02
+several	O	0.0
+serial	B-product	0.0
+manipulator	I-product	2.04	SNEHA
+s	O	0.45
+to	O	0.0
+support	O	0.0
+a	O	0.0
+single	O	0.0
+platform	O	0.0
+,	O	0.0
+or	O	0.0
+end-effector	B-misc	1.36
+.	O	0.0
+
+GATE	B-product	2.64	SNEHA
+includes	O	0.0
+an	O	0.0
+information	B-task	0.04
+extraction	I-task	0.16
+system	O	0.02
+called	O	0.0
+ANNIE	B-product	1.41
+(	O	0.0
+A	B-product	0.01
+Nearly-New	I-product	1.01
+Information	I-product	1.69
+Extraction	I-product	1.11
+System	I-product	0.22
+)	O	0.11
+which	O	0.0
+is	O	0.0
+a	O	0.0
+set	O	0.0
+of	O	0.01
+modules	O	2.05	SNEHA
+comprising	O	1.23
+a	O	0.0
+tokenizer	B-misc	1.38
+,	O	0.0
+a	O	0.0
+gazetteer	B-misc	0.94
+,	O	0.0
+a	O	0.0
+sentence	B-misc	0.0
+splitter	I-misc	0.82
+,	O	0.0
+a	O	0.0
+Part-of-speech	B-task	0.95
+tagging	I-task	3.33	SNEHA
+,	O	0.0
+a	O	0.0
+Named	B-product	0.53
+entity	I-product	0.58
+recognition	I-product	2.41	SNEHA
+transducer	I-product	1.79
+and	O	0.36
+a	O	0.0
+coreference	B-product	1.44
+tagger	I-product	1.57
+.	O	0.17
+
+He	O	0.0
+graduated	O	2.25	SNEHA
+from	O	0.01
+Moscow	B-university	0.15
+State	I-university	1.74
+University	I-university	2.64	SNEHA
+and	O	1.35
+in	O	0.02
+November	O	0.0
+1978	O	0.0
+,	O	0.0
+he	O	0.0
+left	O	0.0
+for	O	0.0
+the	O	0.0
+United	B-country	0.63
+States	I-country	0.01
+thanks	O	0.01
+to	O	0.0
+the	O	0.0
+personal	O	0.0
+intervention	O	0.0
+of	O	0.01
+Senator	B-person	0.03
+Edward	I-person	0.01
+M.	I-person	0.06
+Kennedy	I-person	0.01
+..	O	0.0
+
+In	O	0.01
+2017	O	0.92
+,	O	0.0
+the	O	0.0
+DeepMind	B-organisation	0.39
+AlphaGo	I-organisation	0.13
+team	I-organisation	0.0
+received	O	0.0
+the	O	0.0
+inaugural	B-misc	0.0
+IJCAI	I-misc	0.94
+Marvin	I-misc	1.33
+Minsky	I-misc	2.33	SNEHA
+medal	I-misc	0.37
+for	O	0.01
+Outstanding	O	1.62
+Achievements	O	1.75
+in	O	0.03
+AI	B-field	3.44	SNEHA
+.	O	0.12
+
+Other	O	0.0
+ways	O	0.0
+anomalous	B-misc	1.2
+propagation	I-misc	1.45
+is	O	0.0
+recorded	O	0.0
+is	O	0.0
+by	O	0.0
+troposcatter	B-misc	1.68
+s	O	0.7
+causing	O	0.0
+irregularities	O	0.0
+in	O	0.0
+the	O	0.01
+troposphere	B-misc	0.92
+,	O	0.02
+scattering	O	2.33	SNEHA
+due	O	0.01
+to	O	0.0
+meteor	O	1.58
+s	O	0.33
+,	O	0.0
+refraction	O	2.43	SNEHA
+in	O	0.01
+the	O	0.0
+ionized	B-misc	0.81
+regions	I-misc	0.0
+and	O	0.0
+layers	O	1.0
+of	O	0.03
+the	O	0.01
+ionosphere	B-misc	1.42
+,	O	0.05
+and	O	0.01
+reflection	O	2.76	SNEHA
+from	O	0.01
+the	O	0.0
+ionosphere	B-misc	1.3
+.	O	0.01
+
+Natural	B-field	0.38
+language	I-field	1.2
+processing	I-field	1.17
+(	O	0.02
+NLP	B-field	2.75	SNEHA
+)	O	0.02
+is	O	0.0
+a	O	0.0
+subfield	O	1.4
+of	O	0.01
+linguistics	B-field	0.19
+,	O	0.0
+computer	B-field	0.15
+science	I-field	0.67
+,	O	0.0
+information	B-field	0.62
+engineering	I-field	0.01
+,	O	0.0
+and	O	0.0
+artificial	B-field	1.87
+intelligence	I-field	2.99	SNEHA
+concerned	O	0.0
+with	O	0.0
+the	O	0.0
+interactions	O	1.21
+between	O	0.02
+computers	O	0.0
+and	O	0.0
+human	O	0.01
+(	O	0.0
+natural	O	0.21
+)	O	0.08
+languages	O	0.0
+,	O	0.0
+in	O	0.0
+particular	O	0.0
+how	O	0.0
+to	O	0.0
+program	O	0.0
+computers	O	0.0
+to	O	0.0
+process	O	0.0
+and	O	0.0
+analyze	O	0.93
+large	O	0.0
+amounts	O	1.84
+of	O	0.02
+natural	O	0.21
+language	O	2.85	SNEHA
+data	O	0.01
+.	O	0.0
+
+Other	O	0.0
+active	O	0.01
+youth-led	O	1.75
+climate	O	0.24
+groups	O	0.0
+include	O	0.0
+Extinction	B-organisation	2.42	SNEHA
+Rebellion	I-organisation	2.67	SNEHA
+,	O	0.0
+the	O	0.0
+Sunrise	B-organisation	1.23
+Movement	I-organisation	0.14
+,	O	0.08
+SustainUS	B-organisation	1.44
+,	O	0.1
+the	O	0.02
+,	O	0.01
+among	O	0.0
+others	O	0.0
+working	O	0.0
+at	O	0.01
+both	O	0.0
+the	O	0.0
+transnational	O	1.22
+and	O	0.16
+local	O	0.01
+levels	O	0.01
+.	O	0.0
+

@@ -1,8 +1,7 @@
-from rnn import read_data, data2feats
+from rnn import read_data, data2feats, token_to_id, tag_to_id, max_len
 import pickle
 import torch
 import sys
-import rnn
 import numpy as np
 
 def load_model():
@@ -23,11 +22,9 @@ def prob(data):
         for word in predicted_tags:
             label_probs = {}
             for index, score in enumerate(word):
-                if score > 0:
-                    ff = index
-                    key = next((k for k, v in rnn.tag_to_id.items() if v == ff), None)
-                    label_probs[key] = score
-                    sen.append(label_probs)
+                key = next((k for k, v in tag_to_id.items() if v == index), None)
+                label_probs[key] = score
+            sen.append(label_probs)
         probabilities.append(sen)
     return probabilities
 
@@ -46,17 +43,26 @@ def entropy(probabilities):
     return scores
 
 
-
-
 for devPath in sys.argv[1:]:
     dev_data = read_data(devPath)
-    dev_feats, dev_labels = data2feats(dev_data, rnn.token_to_id, rnn.tag_to_id)
+    sentence, sen_labels = [i[0] for i in dev_data], [i[1] for i in dev_data]
+    length = [len(i) for i in sentence]
+    dev_feats, dev_labels = data2feats(dev_data, token_to_id, tag_to_id)
     probabilities = prob(dev_feats)
-    print(entropy(probabilities))
+    prob2 = []
+    for prob, leng in zip(probabilities, length):
+        prob2.append(prob[:leng])
+    scores = entropy(prob2)
 
 
-# take dev feats as column1 -> dev_feats
-# predictions as column 2 -> 
-# if entropy above threshold column 3
-
-# with open('ai_entropy.txt', 'w') as file:
+save = False
+if save == True:
+    with open("../ai_entropy_score4.txt",'w') as outfile:
+        threshold = 2.5
+        for i, j, k in zip(sentence, sen_labels, scores):
+            for word, label, score in zip(i,j,k):
+                if score < threshold:
+                    outfile.write(f"{word}\t{label}\t{score}\n")
+                else:
+                    outfile.write(f"{word}\t{label}\t{score}\t{'SNEHA'}\n")
+            outfile.write("\n")
