@@ -24,8 +24,8 @@ related	O
 to	O
 other	O
 fundamental	O
-classification	B-misc	SNEHA
-algorithms	I-misc
+classification	B-algorithm	SNEHA
+algorithms	I-algorithm
 such	O
 as	O
 regularized	B-algorithm
@@ -99,8 +99,8 @@ be	O
 useful	O
 in	O
 some	O
-natural	O
-processing	O	SNEHA
+natural	B-task
+processing	I-task	SNEHA
 tasks	O
 :	O
 it	O
@@ -294,7 +294,7 @@ being	O
 the	O
 creation	O
 of	O
-AlphaGo	B-product	SNEHA
+AlphaGo	B-algorithm	SNEHA
 ,	O
 a	O
 program	O
@@ -339,9 +339,9 @@ several	O
 NLP	B-field
 systems.	O
 an	O
-unsupervised	B-product
-disambiguation	I-product	SNEHA
-system	I-product
+unsupervised	B-algorithm
+disambiguation	I-algorithm	SNEHA
+system	I-algorithm
 uses	O
 the	O
 similarity	O
@@ -622,8 +622,8 @@ circuit	O
 ,	O
 systems	O
 and	O
-signal	O
-analysis	O	SNEHA
+signal	B-task
+analysis	I-task	SNEHA
 and	O
 design	O
 languages	O
@@ -631,17 +631,17 @@ and	O
 software	O
 ,	O
 from	O
-MATLAB	B-product	SNEHA
+MATLAB	B-programlang	SNEHA
 and	O
 Simulink	B-product	SNEHA
 to	O
 NumPy	B-product
 ,	O
-VHDL	B-product	SNEHA
+VHDL	B-programlang	SNEHA
 ,	O
 PSpice	B-product	SNEHA
 ,	O
-Verilog	B-product	SNEHA
+Verilog	B-programlang	SNEHA
 and	O
 even	O
 Assembly	B-programlang
@@ -795,13 +795,13 @@ a	O
 Fellow	O
 of	O
 the	O
-Association	B-conference
-for	I-conference
-the	I-conference
-Advancement	I-conference
-of	I-conference
-Artificial	I-conference	SNEHA
-Intelligence	I-conference	SNEHA
+Association	B-organisation
+for	I-organisation
+the	I-organisation
+Advancement	I-organisation
+of	I-organisation
+Artificial	I-organisation	SNEHA
+Intelligence	I-organisation	SNEHA
 in	O
 1991	O
 ,	O
@@ -950,7 +950,7 @@ never	O
 before	O
 seen	O
 in	O
-3D	O	SNEHA
+3D	B-field	SNEHA
 ,	O
 including	O
 The	B-misc
@@ -958,7 +958,7 @@ Diamond	I-misc
 Wizard	I-misc
 and	O
 the	O
-Universal	O	SNEHA
+Universal	B-organisation	SNEHA
 short	O
 ,	O
 Hawaiian	B-misc
@@ -1142,11 +1142,11 @@ of	O
 speech	B-task
 synthesis	I-task	SNEHA
 ,	O
-reading	B-task
-machines	I-task
-for	I-task
-the	I-task
-blind	I-task
+reading	B-product
+machines	I-product
+for	I-product
+the	I-product
+blind	I-product
 ,	O
 the	O
 study	O
@@ -1162,10 +1162,10 @@ the	O
 development	O
 of	O
 the	O
-motor	B-task
-theory	I-task
-of	I-task
-speech	I-task	SNEHA
+motor	O
+theory	O
+of	O
+speech	B-task	SNEHA
 perception	I-task	SNEHA
 .	O
 
@@ -1392,8 +1392,8 @@ long	O
 been	O
 used	O
 for	O
-pattern	B-field	SNEHA
-recognition	I-field
+pattern	B-task	SNEHA
+recognition	I-task
 ,	O
 object	B-task	SNEHA
 detection	I-task
@@ -1404,7 +1404,7 @@ imaging	I-field
 .	O
 
 General	O
-sampling	O	SNEHA
+sampling	B-task	SNEHA
 from	O
 the	O
 truncated	O
@@ -1521,14 +1521,14 @@ has	O
 a	O
 European	B-misc
 (	O
-European	B-conference
-Chapter	I-conference	SNEHA
-of	I-conference
-the	I-conference
-Association	I-conference
-for	I-conference
-Computational	I-conference
-Linguistics	I-conference
+European	B-organisation
+Chapter	I-organisation	SNEHA
+of	I-organisation
+the	I-organisation
+Association	I-organisation
+for	I-organisation
+Computational	I-organisation
+Linguistics	I-organisation
 )	O
 
 Two	O
@@ -1667,8 +1667,8 @@ e.g.	O
 ,	O
 use	O
 rapid	O
-protein	B-algorithm
-docking	I-algorithm	SNEHA
+protein	B-misc
+docking	I-misc	SNEHA
 methods	O
 instead	O
 of	O
@@ -1759,8 +1759,8 @@ ODBC	B-product	SNEHA
 and	O
 others	O
 ,	O
-literate	B-algorithm	SNEHA
-programming	I-algorithm
+literate	O	SNEHA
+programming	O
 ,	O
 a	O
 web	B-misc
@@ -1837,9 +1837,9 @@ that	O
 oversees	O
 the	O
 annual	O
-Conference	B-conference	SNEHA
-on	I-conference
-Neural	I-conference
+Conference	O	SNEHA
+on	O
+Neural	B-conference
 Information	I-conference
 Processing	I-conference	SNEHA
 Systems	I-conference	SNEHA
@@ -1913,7 +1913,7 @@ new	O
 Ph.D.	O
 Machine	B-field	SNEHA
 Learning	I-field	SNEHA
-Ph.D.	O	SNEHA
+Ph.D.	B-misc	SNEHA
 Program	O
 ;	O
 3	O
@@ -1922,14 +1922,14 @@ associate	O
 editor	O
 of	O
 the	O
-Journal	B-conference
-of	I-conference
-Machine	I-conference	SNEHA
-Learning	I-conference	SNEHA
-Research	I-conference
+Journal	B-misc
+of	I-misc
+Machine	I-misc	SNEHA
+Learning	I-misc	SNEHA
+Research	I-misc
 
-Convex	B-misc	SNEHA
-algorithms	I-misc
+Convex	B-algorithm	SNEHA
+algorithms	I-algorithm
 ,	O
 such	O
 as	O
@@ -2092,8 +2092,8 @@ a	O
 competition	O
 announced	O
 the	O
-Russian	B-misc
-Imperial	B-university
+Russian	B-university
+Imperial	I-university
 Academy	I-university
 of	I-university
 Sciences	I-university	SNEHA
@@ -2114,8 +2114,8 @@ produce	O
 the	O
 five	O
 long	O
-vowel	B-misc
-sounds	I-misc	SNEHA
+vowel	O
+sounds	O	SNEHA
 (	O
 in	O
 International	B-misc
@@ -2210,8 +2210,8 @@ these	O
 networks	O
 apply	O
 a	O
-sigmoid	B-algorithm	SNEHA
-function	I-algorithm
+sigmoid	B-misc	SNEHA
+function	I-misc
 as	O
 an	O
 activation	B-misc
@@ -2267,8 +2267,8 @@ non-binary	B-task
 classifications	I-task
 yields	O
 the	O
-confusion	B-metrics
-matrix	I-metrics	SNEHA
+confusion	B-misc
+matrix	I-misc	SNEHA
 .	O
 
 An	O
@@ -2376,7 +2376,7 @@ is	O
 also	O
 part	O
 of	O
-ELRA	B-conference	SNEHA
+ELRA	B-organisation	SNEHA
 's	O
 missions	O
 which	O
@@ -2392,22 +2392,22 @@ conference	O
 LREC	B-conference
 and	O
 the	O
-Language	B-conference
-Resources	I-conference
-and	I-conference
-Evaluation	I-conference	SNEHA
-Journal	I-conference
+Language	B-misc
+Resources	I-misc
+and	I-misc
+Evaluation	I-misc	SNEHA
+Journal	I-misc
 edited	O
 by	O
-Springer	B-conference	SNEHA
+Springer	B-organisation	SNEHA
 .	O
 
 In	O
 linear	B-field	SNEHA
 time-invariant	I-field
-(	I-field
+(	O
 LTI	I-field
-)	I-field
+)	O
 system	I-field
 theory	I-field
 ,	O

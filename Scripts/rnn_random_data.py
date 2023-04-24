@@ -119,7 +119,7 @@ for tokens, tags in train_data_random:
         if tag not in tag_to_id:
             tag_to_id[tag] = len(tag_to_id)
             id_to_tag.append(tag)
-
+print(tag_to_id)
 NWORDS = len(token_to_id)
 NTAGS = len(tag_to_id)
 
@@ -184,7 +184,7 @@ class TaggerModel(torch.nn.Module):
 model = TaggerModel(NWORDS, NTAGS)
 optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
 loss_function = torch.nn.CrossEntropyLoss(ignore_index = 0, reduction = 'sum')
-Run_model = True
+Run_model = False
 if Run_model==True:
     for epoch in range(EPOCHS):
         model.train() 
