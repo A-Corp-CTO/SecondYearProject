@@ -7559,7 +7559,7 @@ process.Hotho	O
 ,	O
 A.	O
 ,	O
-Nürnberger	O	SNEHA
+Nürnberger	B-researcher	SNEHA
 ,	O
 A.	O
 and	O
@@ -7795,7 +7795,7 @@ achieve	O
 locomotion	B-misc
 .	O
 
-LEPOR	B-metrics	SNEHA
+LEPOR	B-misc	SNEHA
 is	O
 designed	O
 with	O
@@ -7839,9 +7839,9 @@ an	O
 example	O
 implementation	O
 in	O
-MATLAB	B-product	SNEHA
+MATLAB	B-programlang	SNEHA
 /	O
-Octave	B-product	SNEHA
+Octave	B-programlang	SNEHA
 :	O
 
 It	O
@@ -7940,8 +7940,8 @@ Canada	I-organisation
 .	O
 
 A	O
-recommender	B-product
-system	I-product	SNEHA
+recommender	B-algorithm
+system	I-algorithm	SNEHA
 aims	O
 to	O
 predict	O
@@ -8189,7 +8189,7 @@ understudy	I-metrics
 rating	O
 of	O
 the	O
-translation	O	SNEHA
+translation	B-task	SNEHA
 but	O
 would	O
 change	O
@@ -8212,13 +8212,13 @@ parser	O
 for	O
 natural	B-misc
 language	I-misc	SNEHA
-Proceedings	B-conference	SNEHA
-of	I-conference
-the	I-conference
-1969	I-conference
-on	I-conference
-Computational	I-conference
-linguistics	I-conference
+Proceedings	I-misc	SNEHA
+of	I-misc
+the	I-misc
+1969	I-misc
+on	I-misc
+Computational	I-misc
+linguistics	I-misc
 ,	O
 Sång-Säby	B-location	SNEHA
 ,	O
@@ -8302,8 +8302,8 @@ the	O
 analysis	O	SNEHA
 of	O
 its	O
-confusion	B-metrics
-matrix	I-metrics	SNEHA
+confusion	B-misc
+matrix	I-misc	SNEHA
 (	O
 or	O
 table	B-metrics
@@ -8644,7 +8644,7 @@ University	B-university	SNEHA
 of	I-university	SNEHA
 Freiburg	I-university
 ,	O
-Bosch	B-university	SNEHA
+Bosch	B-organisation	SNEHA
 ,	O
 Georgia	B-university
 Tech	I-university
@@ -8695,8 +8695,8 @@ table	O
 known	O
 as	O
 the	O
-confusion	B-metrics
-matrix	I-metrics	SNEHA
+confusion	B-misc
+matrix	I-misc	SNEHA
 .	O
 
 As	O
@@ -8743,7 +8743,7 @@ checkers	B-task
 and	O
 Go	B-task
 (	O
-AlphaGo	B-product	SNEHA
+AlphaGo	B-algorithm	SNEHA
 )	O
 .	O
 
@@ -8781,7 +8781,7 @@ the	O
 Asia	B-location
 /	I-location
 Pacific	I-location
-Venue	O	SNEHA
+Venue	I-location	SNEHA
 was	O
 conducted	O
 at	O
@@ -8900,7 +8900,7 @@ Python	B-programlang
 .	O
 
 Bandwidth	B-misc	SNEHA
-in	O
+in	B-misc
 hertz	B-misc	SNEHA
 is	O
 a	O
@@ -9115,8 +9115,8 @@ Tiger	I-product
 In	O
 practice	O
 ,	O
-machine	O
-learning	O	SNEHA
+machine	B-field
+learning	I-field	SNEHA
 algorithms	O
 cope	O
 with	O
@@ -9196,7 +9196,7 @@ digital	B-field
 image	I-field	SNEHA
 processing	I-field
 to	O
-photography	O	SNEHA
+photography	B-field	SNEHA
 to	O
 simulate	O
 an	O
@@ -9243,8 +9243,8 @@ function	I-algorithm
 such	O
 as	O
 a	O
-sigmoid	B-algorithm	SNEHA
-function	I-algorithm
+sigmoid	B-misc	SNEHA
+function	I-misc
 or	O
 a	O
 rectified	B-algorithm
@@ -9535,8 +9535,8 @@ recognition	I-task	SNEHA
 .	O
 
 An	O
-empirical	O	SNEHA
-whitening	B-misc	SNEHA
+empirical	B-misc	SNEHA
+whitening	I-misc	SNEHA
 transform	I-misc	SNEHA
 is	O
 obtained	O
@@ -9547,8 +9547,8 @@ covariance	B-misc
 (	O
 e.g.	O	SNEHA
 by	O
-maximum	B-algorithm
-likelihood	I-algorithm	SNEHA
+maximum	B-metrics
+likelihood	I-metrics	SNEHA
 )	O
 and	O
 subsequently	O
@@ -9792,7 +9792,7 @@ made	O
 a	O
 far-reaching	O
 long-term	O
-impact	O
+impactx	O
 on	O
 the	O
 nascent	O
@@ -10064,9 +10064,9 @@ Fayyad	I-researcher	SNEHA
 in	O
 1994	O
 .	O
-Machinery	B-conference
-|	I-conference	SNEHA
-ACM	I-conference
+Machinery	B-organisation
+|	I-organisation	SNEHA
+ACM	I-organisation
 .	O
 
 He	O
@@ -10077,12 +10077,12 @@ a	O
 Fellow	O
 of	O
 the	O
-Association	B-conference
-for	I-conference
-Computing	I-conference
-Machinery	I-conference
+Association	B-organisation
+for	I-organisation
+Computing	I-organisation
+Machinery	I-organisation
 (	O
-ACM	B-conference	SNEHA
+ACM	B-organisation	SNEHA
 )	O
 ,	O
 the	O
@@ -10097,47 +10097,47 @@ IEEE	B-organisation
 )	O
 ,	O
 the	O
-International	B-conference
-Association	I-conference
-for	I-conference
-Pattern	I-conference
-Recognition	I-conference	SNEHA
+International	B-organisation
+Association	I-organisation
+for	I-organisation
+Pattern	I-organisation
+Recognition	I-organisation	SNEHA
 (	O
-IAPR	B-conference
+IAPR	B-organisation
 )	O
 ,	O
 the	O
-Association	B-conference
-for	I-conference
-the	I-conference
-Advancement	I-conference
-of	I-conference
-Artificial	I-conference	SNEHA
-Intelligence	I-conference	SNEHA
+Association	B-organisation
+for	I-organisation
+the	I-organisation
+Advancement	I-organisation
+of	I-organisation
+Artificial	I-organisation	SNEHA
+Intelligence	I-organisation	SNEHA
 (	O
-AAAI	B-conference	SNEHA
+AAAI	B-organisation	SNEHA
 )	O
 ,	O
-American	B-conference
-Association	I-conference
-for	I-conference
-Advancement	I-conference
-of	I-conference
-Science	I-conference
+American	B-organisation
+Association	I-organisation
+for	I-organisation
+Advancement	I-organisation
+of	I-organisation
+Science	I-organisation
 (	O
-AAAS	B-conference
+AAAS	B-organisation
 )	O
 ,	O
 and	O
 the	O
-Society	B-conference
-for	I-conference
-Optics	I-conference
-and	I-conference
-Photonics	I-conference	SNEHA
-Technology	I-conference	SNEHA
+Society	B-organisation
+for	I-organisation
+Optics	I-organisation
+and	I-organisation
+Photonics	I-organisation	SNEHA
+Technology	I-organisation	SNEHA
 (	O
-SPIE	B-conference
+SPIE	organisation
 )	O
 .	O
 
@@ -10311,7 +10311,7 @@ handwriting	B-task
 recognition	I-task	SNEHA
 .	O
 
-Robots	O	SNEHA
+Robots	B-field	SNEHA
 can	O
 be	O
 autonomous	O
@@ -10373,9 +10373,9 @@ UAV	B-product	SNEHA
 drones	I-product	SNEHA
 such	O
 as	O
-General	B-product
-Atomics	I-product	SNEHA
-MQ-1	I-product	SNEHA
+General	B-organisation
+Atomics	I-organisation	SNEHA
+MQ-1	B-product	SNEHA
 Predator	I-product
 ,	O
 and	O
@@ -10701,7 +10701,7 @@ math	O
 In	O
 particular	O
 ,	O
-RLS	B-misc	SNEHA
+RLS	B-algorithm	SNEHA
 is	O
 designed	O
 to	O
@@ -10728,9 +10728,9 @@ Essentially	O	SNEHA
 ,	O
 this	O
 combines	O
-maximum	B-algorithm
-likelihood	I-algorithm	SNEHA
-estimation	I-algorithm	SNEHA
+maximum	B-metrics
+likelihood	I-metrics	SNEHA
+estimation	I-metrics	SNEHA
 with	O
 a	O
 regularization	B-algorithm
@@ -10795,16 +10795,16 @@ an	O
 example	O
 of	O
 a	O
-semantic	O	SNEHA
-network	O
+semantic	B-algorithm	SNEHA
+network	I-algorithm
 .	O
 
 Prolonged	O	SNEHA
 use	O
 of	O
-speech	B-product
-recognition	I-product	SNEHA
-software	I-product
+speech	B-algorithm
+recognition	I-algorithm	SNEHA
+software	I-algorithm
 in	O
 conjunction	O
 with	O
@@ -10981,7 +10981,7 @@ Python	B-programlang
 ,	O
 Java	B-programlang	SNEHA
 and	O
-MATLAB	B-product	SNEHA
+MATLAB	B-programlang	SNEHA
 /	O
 OCTAVE	B-programlang	SNEHA
 .	O
@@ -10989,7 +10989,7 @@ OCTAVE	B-programlang	SNEHA
 An	O
 implementation	O
 in	O
-MATLAB	B-product	SNEHA
+MATLAB	B-programlang	SNEHA
 can	O
 be	O
 found	O
@@ -11049,7 +11049,7 @@ or	O
 end-effector	B-misc
 .	O
 
-GATE	B-product	SNEHA
+GATE	B-algorithm	SNEHA
 includes	O
 an	O
 information	B-task
@@ -11266,4 +11266,3 @@ and	O
 local	O
 levels	O
 .	O
-
