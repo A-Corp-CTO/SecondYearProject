@@ -1,10 +1,10 @@
-from rnn import read_data, data2feats, token_to_id, tag_to_id, max_len
+from rnn import read_data, data2feats, token_to_id, tag_to_id, max_len, id_to_tag
 import pickle
 import torch
 import sys
-import rnn
+#import rnn
 def load_model():
-    with open('../Models/baseline_model_ai.sav', 'rb') as f:
+    with open('../Models/model_most_similar.sav', 'rb') as f:
         pipeline = pickle.load(f)
         return pipeline
 
@@ -36,9 +36,9 @@ for devPath in sys.argv[1:]:
     dev_labels_batches = dev_labels[:BATCH_SIZE*num_batches2].view(num_batches2, BATCH_SIZE, max_len)
     pred_tags = run_eval(dev_feats_batches, dev_labels_batches)
 
-save = False
+save = True
 if save == True:
-    with open("../Predictions/ai_predictions.txt",'w') as outfile:
+    with open("../Predictions/most_similar_ai_predictions.txt",'w',encoding='utf-8') as outfile:
         for batchIdx in range(0, num_batches2):
             input = dev_feats_batches[batchIdx]
             output_scores = model.forward(input)

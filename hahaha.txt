@@ -25,3 +25,9 @@ RANDOM DATA PREDICTIONS SCORE WITH DIFF AMOUNT OF DIFFERENT DATA AND DIFF DATASE
 +20%, only conll dev and test datasets (no other classes created) - 0.14717112113849357
 +50%, all other datasets besides ai - 0.10270700636942674
 +33%, only conll - 0.10822998872604284
+
+\
+ADDING DATA BASED ON DISTANCE
+\
+most dissimilar - 0.12190914318573894
+most similar - 0.16781692698873957

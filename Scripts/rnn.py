@@ -46,7 +46,7 @@ def read_data(file_name):
         data.append((current_words, current_tags))
     return data
 
-train_data=read_data("../Data/conll2003/train.txt") + read_data("../Data/ai/train.txt")
+train_data=read_data("../Data/conll2003/train.txt") + read_data("../Data/ai/train.txt")+read_data('../Data/literature/train.txt')
 
 
 # Create vocabularies for both the tokens and the tags
@@ -174,9 +174,9 @@ for epoch in range(EPOCHS):
 
 
 def save_model(model):
-    filename = '../Models/baseline_model_ai.sav'
+    filename = '../Models/model_most_similar.sav'
     pickle.dump(model,open(filename, 'wb'))
 
-save = False
+save = True
 if save == True:
     save_model(model)
