@@ -2406,7 +2406,7 @@ In	O
 linear	B-field	SNEHA
 time-invariant	I-field
 (	O
-LTI	I-field
+LTI	B-field
 )	O
 system	I-field
 theory	I-field
@@ -2544,8 +2544,8 @@ see	O
 ,	O
 e.g.	O
 ,	O
-Vowpal	B-algorithm	SNEHA
-Wabbit	I-algorithm	SNEHA
+Vowpal	B-product	SNEHA
+Wabbit	I-product	SNEHA
 )	O
 and	O
 graphical	B-algorithm
@@ -2627,8 +2627,8 @@ operations	B-field
 research	I-field
 such	O
 as	O
-linear	B-algorithm	SNEHA
-programming	I-algorithm
+linear	B-field	SNEHA
+programming	I-field
 or	O
 dynamic	B-algorithm
 programming	I-algorithm
@@ -2667,10 +2667,10 @@ TRUE	B-metrics
 positives	I-metrics
 to	O
 combined	O
-TRUE	B-metrics	SNEHA
-and	I-metrics
-FALSE	I-metrics	SNEHA
-positives	I-metrics
+TRUE	O	SNEHA
+and	O
+FALSE	O	SNEHA
+positives	O
 )	O
 ,	O
 which	O
@@ -2922,7 +2922,7 @@ such	O
 as	O
 APL	B-programlang
 and	O
-MATLAB	B-product	SNEHA
+MATLAB	B-programlang	SNEHA
 ,	O
 R	B-programlang	SNEHA
 supports	O	SNEHA
@@ -2960,7 +2960,7 @@ the	O
 60th	B-misc
 anniversary	I-misc
 of	I-misc
-Turing	I-misc	SNEHA
+Turing	B-researcher	SNEHA
 's	I-misc
 death	I-misc
 ,	O
@@ -3061,8 +3061,8 @@ uses	O
 the	O
 method	O
 of	O
-maximum	B-algorithm
-likelihood	I-algorithm	SNEHA
+maximum	B-metrics
+likelihood	I-metrics	SNEHA
 ;	O
 other	O
 words	O
@@ -3432,10 +3432,10 @@ Chair	O
 as	O
 President	O
 of	O
-IEEE	B-conference
-Computational	I-conference
-Intelligence	I-conference
-Society	I-conference	SNEHA
+IEEE	B-organisation
+Computational	I-organisation
+Intelligence	I-organisation
+Society	I-organisation	SNEHA
 in	O
 2004-05	O	SNEHA
 and	O
@@ -4046,7 +4046,7 @@ through	O
 the	O
 establishment	O
 of	O
-ELRA	B-conference	SNEHA
+ELRA	B-organisation	SNEHA
 and	O
 the	O
 LREC	B-conference
@@ -4121,7 +4121,7 @@ the	O
 founding	O
 organizers	O
 of	O
-SENSEVAL	B-conference	SNEHA
+SENSEVAL	B-misc	SNEHA
 .	O
 
 As	O
@@ -4432,19 +4432,19 @@ and	O
 a	O
 Fellow	O
 of	O
-American	B-conference
-Association	I-conference
-for	I-conference
-Artificial	I-conference
-Intelligence	I-conference	SNEHA
+American	B-organisation
+Association	I-organisation
+for	I-organisation
+Artificial	I-organisation
+Intelligence	I-organisation	SNEHA
 (	O
-AAAI	B-conference	SNEHA
+AAAI	B-organisation	SNEHA
 )	O
 .	O
 
 The	O
 following	O
-MATLAB	B-product	SNEHA
+MATLAB	B-programlang	SNEHA
 code	O
 demonstrates	O	SNEHA
 a	O
@@ -4601,8 +4601,8 @@ Cybenko	I-researcher
 in	O
 1989	O
 for	O
-sigmoid	B-algorithm	SNEHA
-function	I-algorithm
+sigmoid	B-misc	SNEHA
+function	I-misc
 activation	O
 functions.	O
 Cybenko	B-researcher
