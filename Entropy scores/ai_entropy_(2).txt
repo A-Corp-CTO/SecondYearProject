@@ -4788,7 +4788,7 @@ This	O
 is	O
 done	O
 by	O
-modeling	O	SNEHA
+modeling	B-task	SNEHA
 the	O
 received	O
 signal	O
@@ -4800,8 +4800,8 @@ estimation	O
 method	O
 such	O
 as	O
-maximum	B-algorithm
-likelihood	I-algorithm	SNEHA
+maximum	B-metrics
+likelihood	I-metrics	SNEHA
 (	O
 ML	B-algorithm
 )	O
@@ -4812,11 +4812,11 @@ voting	I-algorithm
 MV	B-algorithm
 )	O
 or	O
-maximum	B-algorithm
-a	I-algorithm
-posteriori	I-algorithm
+maximum	B-metrics
+a	I-metrics
+posteriori	I-metrics
 (	O
-MAP	B-algorithm	SNEHA
+MAP	B-metrics	SNEHA
 )	O
 to	O
 make	O
@@ -4949,14 +4949,14 @@ purposes	O
 other	O
 means	O
 of	O
-analysis	O	SNEHA
+analysis	B-task	SNEHA
 (	O
 e.g.	O	SNEHA
-maximum	B-algorithm
-parsimony	I-algorithm
+maximum	B-metrics
+parsimony	I-metrics
 ,	O
-maximum	B-algorithm
-likelihood	I-algorithm	SNEHA
+maximum	B-metrics
+likelihood	I-metrics SNEHA
 )	O
 may	O
 be	O
@@ -5016,8 +5016,8 @@ the	O
 normalization	B-misc
 follows	O
 a	O
-sigmoid	B-algorithm	SNEHA
-function	I-algorithm
+sigmoid	B-misc	SNEHA
+function	I-misc
 ,	O
 in	O
 that	O
@@ -5428,8 +5428,8 @@ easily	O
 represented	O
 with	O
 a	O
-confusion	B-metrics
-matrix	I-metrics	SNEHA
+confusion	B-misc
+matrix	I-misc	SNEHA
 ,	O
 a	O
 table	O
@@ -5625,7 +5625,7 @@ uses	O
 VoiceOver	B-product
 speech	I-product
 synthesis	I-product	SNEHA
-accessibility	O	SNEHA
+accessibility	I-product	SNEHA
 .	O
 
 For	O
@@ -5657,10 +5657,10 @@ is	O
 done	O
 using	O
 standard	O
-neural	O	SNEHA
-net	O
-training	O
-algorithms	O
+neural	B-algorithm	SNEHA
+net	I-algorithm
+training	I-algorithm
+algorithms	I-algorithm
 such	O
 as	O
 stochastic	B-algorithm
@@ -5711,8 +5711,8 @@ time	O
 but	O
 describes	O
 an	O
-Sigmoid	B-algorithm
-function	I-algorithm	SNEHA
+Sigmoid	B-misc
+function	I-misc	SNEHA
 which	O
 has	O
 different	O
@@ -5967,8 +5967,8 @@ the	O
 knowledge	B-task
 model	I-task
 ,	O
-inference	B-task	SNEHA
-engine	I-task
+inference	B-product	SNEHA
+engine	I-product
 s	O
 and	O
 extraction	B-task
@@ -6116,9 +6116,9 @@ processing	I-field	SNEHA
 .	O
 
 In	O
-facial	B-product	SNEHA
-recognition	I-product	SNEHA
-system	I-product
+facial	B-algorithm	SNEHA
+recognition	I-algorithm	SNEHA
+system	I-algorithm
 ,	O
 for	O
 instance	O
@@ -6217,9 +6217,9 @@ been	O
 held	O
 at	O
 the	O
-Colegio	B-location
-Miguel	I-location
-Hernández	I-location	SNEHA
+Colegio	B-university
+Miguel	I-university
+Hernández	I-university	SNEHA
 ,	O
 Ceulaj	B-location	SNEHA
 ,	O
@@ -6239,16 +6239,16 @@ and	O
 at	O
 both	O
 the	O
-Valencia	B-location
-County	I-location
-Fair	I-location
+Valencia	B-conference
+County	I-conference
+Fair	I-conference
 and	O
 the	O
-City	B-location	SNEHA
-of	I-location
-Arts	I-location
-and	I-location
-Sciences	I-location
+City	B-conference	SNEHA
+of	I-conference
+Arts	I-conference
+and	I-conference
+Sciences	I-conference
 in	O
 Valencia	B-location
 over	O
@@ -6289,9 +6289,9 @@ via	O
 The	O
 field	O
 of	O
-spoken	B-product
-dialog	I-product	SNEHA
-systems	I-product	SNEHA
+spoken	B-field
+dialog	I-field	SNEHA
+systems	I-field	SNEHA
 is	O
 quite	O
 large	O
@@ -6462,12 +6462,12 @@ to	O
 be	O
 confused	O
 with	O
-computer-aided	B-product
-translation	I-product	SNEHA
+computer-aided	B-task
+translation	I-task	SNEHA
 ,	O
-machine-aided	B-product	SNEHA
-human	I-product
-translation	I-product
+machine-aided	B-task	SNEHA
+human	I-task
+translation	I-task
 (	O
 MAHT	B-product
 )	O
@@ -6697,20 +6697,20 @@ a	O
 Fellow	O
 of	O
 the	O
-Association	B-conference
-for	I-conference
-the	I-conference
-Advancement	I-conference
-of	I-conference
-Artificial	I-conference	SNEHA
-Intelligence	I-conference	SNEHA
+Association	B-organisation
+for	I-organisation
+the	I-organisation
+Advancement	I-organisation
+of	I-organisation
+Artificial	I-organisation	SNEHA
+Intelligence	I-organisation	SNEHA
 .	O
 
-Learning	B-misc	SNEHA
-classifier	I-misc	SNEHA
-systems	I-misc	SNEHA
+Learning	B-algorithm	SNEHA
+classifier	I-algorithm	SNEHA
+systems	I-algorithm	SNEHA
 (	O
-LCS	B-misc	SNEHA
+LCS	B-algorithm	SNEHA
 )	O
 are	O
 a	O
@@ -6763,11 +6763,11 @@ typically	O
 jointly	O
 estimated	O
 by	O
-maximum	B-algorithm
-a	I-algorithm
-posteriori	I-algorithm
+maximum	B-metrics
+a	I-metrics
+posteriori	I-metrics
 (	O
-MAP	B-algorithm	SNEHA
+MAP	B-metrics	SNEHA
 )	O
 estimation	O
 ,	O
@@ -6776,8 +6776,8 @@ is	O
 an	O
 extension	O
 of	O
-maximum	B-algorithm
-likelihood	I-algorithm	SNEHA
+maximum	B-metrics
+likelihood	I-metrics	SNEHA
 using	O
 regularization	B-misc
 of	O
@@ -6872,8 +6872,8 @@ classes	O
 .	O
 
 In	O
-science	B-misc
-fiction	I-misc	SNEHA
+science	B-field
+fiction	I-field	SNEHA
 ,	O
 female-appearing	O	SNEHA
 robots	O	SNEHA
@@ -7057,15 +7057,15 @@ Award	I-misc
 and	O
 is	O
 an	O
-Association	B-conference
-for	I-conference
-the	I-conference
-Advancement	I-conference
-of	I-conference
-Artificial	I-conference	SNEHA
-Intelligence	I-conference	SNEHA
+Association	B-organisation
+for	I-organisation
+the	I-organisation
+Advancement	I-organisation
+of	I-organisation
+Artificial	I-organisation	SNEHA
+Intelligence	I-organisation	SNEHA
 (	O
-AAAI	B-conference	SNEHA
+AAAI	B-organisation	SNEHA
 )	O
 Fellow	O
 .	O
@@ -7085,7 +7085,7 @@ Fellow	I-misc
 2011	O
 )	O
 br	O
-AAAI	B-misc	SNEHA
+AAAI	B-organisation	SNEHA
 Fellow	I-misc
 (	O
 1994	O
@@ -7127,7 +7127,7 @@ award	I-misc
 2009	O
 )	O
 br	O
-IEEE	B-misc	SNEHA
+IEEE	B-organisation	SNEHA
 James	I-misc
 L.	I-misc
 Flanagan	I-misc
@@ -7182,7 +7182,7 @@ evaluation	I-metrics
 understudy	I-metrics
 scores	O
 for	O
-translation	O	SNEHA
+translation	B-task	SNEHA
 will	O
 result	O
 from	O
@@ -7330,7 +7330,7 @@ a	O
 charter	O
 Fellow	O
 of	O
-AAAI	B-conference	SNEHA
+AAAI	B-organisation	SNEHA
 and	O
 of	O
 the	O
