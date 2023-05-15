@@ -31,3 +31,34 @@ ADDING DATA BASED ON DISTANCE
 \
 most dissimilar - 0.12190914318573894
 most similar - 0.16781692698873957
+most similar (lit & music) - 0.13253012048192772
+
+
+
+\\
+NO DOMAIN-SPECIFIC LABELS
+\\
+
+BASELINES
+\
+AI -   0.3469744665967121
+Music - 0.44006136313828625
+Politics - 0.5509101251422072
+Literature - 0.44394744199049485
+Science - 0.5765866368881445
+
+\
+ADDING DATA BASED ON DISTANCE
+\
+most dissimilar (politics) - 0.488980311489862
+most dissimilar (pol & sci) - 0.5386327503974564
+most similar (lit) - 0.4705882352941177
+most similar (lit & music) - 0.5159846547314578
+
+\
+RANDOM DATA PREDICTIONS SCORE WITH DIFF AMOUNT OF DIFFERENT DATA AND DIFF DATASETS
+\
++20%, all other datasets besides ai - 0.505324298160697
++20%, only conll dev and test datasets (no other classes created) - 0.4193420531113753
++50%, all other datasets besides ai - 0.5931174089068826
++33%, only conll - 0.4220314735336194

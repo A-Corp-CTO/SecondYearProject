@@ -47,7 +47,7 @@ def read_data(file_name):
         data.append((current_words, current_tags))
     return data
 
-train_data=read_data("../Data/conll2003/train.txt")+read_data("../Data/ai/train.txt")
+train_data=read_data("../Data/conll2003/train.txt")+read_data("../Data/ai/changed_train.txt")
 #print(train_data)
 print(len(train_data))
 files = [
@@ -61,49 +61,16 @@ files = [
 
 def new_random_data(training_data=list,percentage=float):
     num = round(len(training_data)*percentage)
-    to_be_added = read_data('../Data/conll2003/test.txt')+read_data('../Data/conll2003/dev.txt')
-    #+read_data('../Data/music/dev.txt')+read_data('../Data/music/test.txt')+read_data('../Data/music/train.txt')+    read_data('../Data/science/dev.txt')+read_data('../Data/science/test.txt')+read_data('../Data/science/train.txt')+read_data('../Data/politics/dev.txt')+read_data('../Data/politics/test.txt')+read_data('../Data/politics/train.txt')+read_data('../Data/literature/dev.txt')+read_data('../Data/literature/test.txt')+read_data('../Data/literature/train.txt')+read_data('../Data/music/dev.txt')+read_data('../Data/music/test.txt')+read_data('../Data/music/train.txt')
+    to_be_added = read_data('../Data/conll2003/test.txt')+read_data('../Data/conll2003/dev.txt')+read_data('../Data/music/changed_dev.txt')+read_data('../Data/music/changed_test.txt')+read_data('../Data/music/changed_train.txt')+    read_data('../Data/science/changed_dev.txt')+read_data('../Data/science/changed_test.txt')+read_data('../Data/science/changed_train.txt')+read_data('../Data/politics/changed_dev.txt')+read_data('../Data/politics/changed_test.txt')+read_data('../Data/politics/changed_train.txt')+read_data('../Data/literature/changed_dev.txt')+read_data('../Data/literature/changed_test.txt')+read_data('../Data/literature/changed_train.txt')
     random.shuffle(to_be_added,)
     for i in range(0,num):
         training_data.append(to_be_added[i])
     return training_data
 
-train_data_random = new_random_data(train_data,percentage=0.33)
+train_data_random = new_random_data(train_data,percentage=0.5)
 print(len(train_data_random))
 #print(train_data_random)
 
-
-
-def add_random_data(data):
-    data_1 = data
-    current_words = []
-    current_tags = []
-    count = 0
-    for file in files:
-        for line in codecs.open(file, encoding='utf-8'):
-            while count <= 101:
-                line = line.strip()
-                if line:
-                    tok = line.split('\t')
-                    word = tok[0]
-                    tag = tok[1]
-                    current_words.append(word)
-                    current_tags.append(tag)
-                    count += 1
-                else:
-                    if current_words:  # skip empty lines
-                        data_1.append((current_words, current_tags))
-                    current_words = []
-                    current_tags = []
-                    count += 1
-            # check for last one
-            if current_tags != []:
-                data_1.append((current_words, current_tags))
-    return data_1
-
-# train_data_random = add_random_data(train_data)
-# print(len(train_data_random	))
-# print(train_data_random)
 # Create vocabularies for both the tokens and the tags
 id_to_token = [PAD]
 token_to_id = {PAD: 0}
@@ -184,7 +151,7 @@ class TaggerModel(torch.nn.Module):
 model = TaggerModel(NWORDS, NTAGS)
 optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
 loss_function = torch.nn.CrossEntropyLoss(ignore_index = 0, reduction = 'sum')
-Run_model = False
+Run_model = True
 if Run_model==True:
     for epoch in range(EPOCHS):
         model.train() 
@@ -230,7 +197,7 @@ if Run_model==True:
 
 
     def save_model(model):
-        filename = '../Models/random_data_model_ai_33.sav'
+        filename = '../Models/random_ai_50.sav'
         pickle.dump(model,open(filename, 'wb'))
 
     save_model(model)
