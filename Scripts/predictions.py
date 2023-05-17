@@ -4,7 +4,7 @@ import torch
 import sys
 #import rnn_random_data
 def load_model():
-    with open('../Models/random_ai_50.sav', 'rb') as f:
+    with open('../Models/random_notnormed_ai_40.sav', 'rb') as f:
         pipeline = pickle.load(f)
         return pipeline
 
@@ -38,7 +38,7 @@ for devPath in sys.argv[1:]:
 
 save = True
 if save == True:
-    with open("../Predictions/random_ai_50_predictions.txt",'w',encoding='utf-8') as outfile:
+    with open("../Predictions/random_notnormed_ai_40_predictions.txt",'w',encoding='utf-8') as outfile:
         for batchIdx in range(0, num_batches2):
             input = dev_feats_batches[batchIdx]
             output_scores = model.forward(input)

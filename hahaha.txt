@@ -21,9 +21,13 @@ Science - 0.13245729303547965}0.2696011004126547
 \
 RANDOM DATA PREDICTIONS SCORE WITH DIFF AMOUNT OF DIFFERENT DATA AND DIFF DATASETS
 \
++10%, 
 +20%, all other datasets besides ai - 0.09034608378870675
 +20%, only conll dev and test datasets (no other classes created) - 0.14717112113849357
++30%, 
++40%, 
 +50%, all other datasets besides ai - 0.10270700636942674
++60%, 
 +33%, only conll - 0.10822998872604284
 
 \
@@ -58,7 +62,11 @@ most similar (lit & music) - 0.5159846547314578
 \
 RANDOM DATA PREDICTIONS SCORE WITH DIFF AMOUNT OF DIFFERENT DATA AND DIFF DATASETS
 \
++10%, 0.49336214881136153
 +20%, all other datasets besides ai - 0.505324298160697
 +20%, only conll dev and test datasets (no other classes created) - 0.4193420531113753
++30%, 0.5129019452163557
++40%, 0.5106232294617563
 +50%, all other datasets besides ai - 0.5931174089068826
 +33%, only conll - 0.4220314735336194
++60%, all other datasets besides ai - 0.5181786092481467
