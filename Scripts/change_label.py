@@ -27,7 +27,7 @@ change_labels = {'I-location': 'I-location', 'I-misc': 'I-misc', 'B-university':
                  'I-astronomicalobject': 'I-misc', 'B-album': 'B-misc', 'I-scientist': 'I-person', 'B-poem': 'B-misc', 'I-enzyme': 'I-misc', 'I-theory': 'I-misc',
                  'B-literarygenre': 'B-misc', 'B-scientist': 'B-person', 'I-magazine': 'I-misc', 'I-song': 'I-misc', 'I-award': 'I-misc', 'B-chemicalelement': 'B-misc',
                  'I-poem': 'I-misc', 'B-protein': 'B-misc', 'I-event': 'I-misc', 'I-protein': 'I-misc', 'B-song': 'B-misc', 'B-academicjournal': 'B-misc',
-                 'B-writer': 'B.person', 'B-award': 'B-misc', 'B-magazine': 'B-misc', 'I-chemicalcompound': 'I-misc', 'I-chemicalelement': 'I-misc','I-book': 'I-misc', 'B-enzyme': 'B-misc',
+                 'B-writer': 'B-person', 'B-award': 'B-misc', 'B-magazine': 'B-misc', 'I-chemicalcompound': 'I-misc', 'I-chemicalelement': 'I-misc','I-book': 'I-misc', 'B-enzyme': 'B-misc',
                  'I-band': 'I-organisation', 'B-discipline': 'B-misc', 'I-literarygenre': 'I-misc', 'B-book': 'B-misc', 'B-astronomicalobject': 'B-misc',
                  'I-academicjournal': 'I-misc', 'B-election': 'B-misc', 'B-musicalartist': 'B-person', 'I-politician': 'I-person', 'B-politicalparty': 'B-organisation',
                  'B-musicalinstrument': 'B-misc', 'I-musicalinstrument': 'I-misc'}
