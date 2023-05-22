@@ -17,7 +17,7 @@ From	O
 this	O
 perspective	O
 ,	O
-SVM	B-misc	SNEHA
+SVM	B-misc
 is	O
 closely	O
 related	O
@@ -29,8 +29,8 @@ algorithms	O
 such	O
 as	O
 regularized	O
-least-squares	O	SNEHA
-logistic	O	SNEHA
+least-squares	O
+logistic	O
 regression	I-misc
 .	O
 
@@ -44,7 +44,7 @@ a	O
 combat	O
 and	O
 laborer	B-misc
-replicant	I-person	SNEHA
+replicant	I-person
 ,	O
 and	O
 Joanna	B-misc
@@ -90,7 +90,7 @@ Segmenting	O
 the	O
 text	I-misc
 into	O
-topics	O	SNEHA
+topics	O
 or	O
 discourse	O
 turns	O
@@ -114,7 +114,7 @@ recognition	I-misc
 significantly	I-misc
 (	O
 by	O
-indexing	O	SNEHA
+indexing	O
 /	O
 recognizing	B-misc
 documents	I-location
@@ -184,7 +184,7 @@ Moravec	I-person
 Kevin	B-person
 Kelly	I-person
 ,	O
-Ralph	B-person	SNEHA
+Ralph	B-person
 Merkle	I-person
 ,	O
 Bill	B-person
@@ -406,7 +406,7 @@ the	O
 Log	B-misc
 loss	I-misc
 is	O
-differentiable	B-organisation	SNEHA
+differentiable	B-organisation
 ,	O
 a	O
 gradient-based	O
@@ -484,11 +484,11 @@ such	O
 as	O
 TER	O
 ,	O
-METEOR	B-misc	SNEHA
+METEOR	B-misc
 ,	O
-Banerjee	B-person	SNEHA
+Banerjee	B-person
 and	O
-Lavie	B-person	SNEHA
+Lavie	B-person
 ,	O
 (	O
 2005	O
@@ -521,7 +521,7 @@ Pease	I-person
 .	O
 
 In	O
-Cryo	B-misc	SNEHA
+Cryo	B-misc
 Electron	I-person
 Tomography	O
 ,	O
@@ -553,7 +553,7 @@ used	O
 along	O
 with	O
 compressive	O
-sensing	I-person	SNEHA
+sensing	I-person
 techniques	O
 or	O
 regularization	O
@@ -639,9 +639,9 @@ NumPy	B-misc
 ,	O
 VHDL	B-person
 ,	O
-PSpice	O	SNEHA
+PSpice	O
 ,	O
-Verilog	O	SNEHA
+Verilog	O
 and	O
 even	O
 Assembly	I-misc
@@ -654,7 +654,7 @@ was	O
 founded	O
 by	O
 Kiichiro	O
-Toyoda	I-person	SNEHA
+Toyoda	I-person
 in	O
 1937	O
 ,	O
@@ -680,7 +680,7 @@ the	O
 other	O
 hand	O
 ,	O
-assumes	B-misc	SNEHA
+assumes	B-misc
 training	O
 data	O
 that	O
@@ -780,7 +780,7 @@ as	O
 Sony	O
 '	O
 s	O
-QRIO	B-person	SNEHA
+QRIO	B-person
 and	O
 Wow	I-organisation
 Wee	I-organisation
@@ -855,7 +855,7 @@ as	O
 Project	O
 Nemmadi	I-organisation
 ,	O
-MCA21	B-person	SNEHA
+MCA21	B-person
 Mission	I-location
 Mode	I-organisation
 Project	I-organisation
@@ -870,11 +870,11 @@ India	B-location
 ;	O
 Electronic	O
 Government	O
-Directorate	O	SNEHA
+Directorate	O
 in	O
 Pakistan	B-location
 ;	O
-etc	O	SNEHA
+etc	O
 .	O
 
 He	O
@@ -961,14 +961,14 @@ the	O
 Universal	I-misc
 short	O
 ,	O
-Hawaiian	B-person	SNEHA
+Hawaiian	B-person
 Nights	I-person
 with	O
 Mamie	O
 Van	I-person
 Doren	I-person
 and	O
-Pinky	B-misc	SNEHA
+Pinky	B-misc
 Lee	I-person
 .	O
 
@@ -980,7 +980,7 @@ was	O
 proposed	O
 by	O
 Ulf	O
-Grenander	I-person	SNEHA
+Grenander	I-person
 in	O
 1977	O
 as	O
@@ -994,7 +994,7 @@ estimation	I-misc
 of	I-misc
 patterns	I-misc
 in	O
-digitized	B-location	SNEHA
+digitized	B-location
 images	I-organisation
 .	O
 
@@ -1002,22 +1002,22 @@ The	O
 iPhone	O
 4S	I-organisation
 ,	O
-iPad	O	SNEHA
+iPad	O
 3	O
 ,	O
-iPad	B-person	SNEHA
+iPad	B-person
 Mini	I-person
 1G	O
 ,	O
-iPad	B-person	SNEHA
+iPad	B-person
 Air	I-organisation
 ,	O
-iPad	B-person	SNEHA
+iPad	B-person
 Pro	O
 1G	O
 ,	O
-iPod	B-person	SNEHA
-Touch	I-organisation	SNEHA
+iPod	B-person
+Touch	I-organisation
 5G	I-misc
 and	O
 later	O
@@ -1185,7 +1185,7 @@ application	O
 for	O
 Windows	B-misc
 ,	O
-macOS	B-person	SNEHA
+macOS	B-person
 ,	O
 and	O
 Linux	B-misc
@@ -1243,7 +1243,7 @@ being	O
 Adept	O
 Technology	I-person
 ,	O
-Stäubli	B-organisation	SNEHA
+Stäubli	B-organisation
 ,	O
 the	O
 Sweden	B-location
@@ -1251,8 +1251,8 @@ Sweden	B-location
 Switzerland	B-location
 company	O
 ABB	O
-Asea	I-person	SNEHA
-Brown	I-person	SNEHA
+Asea	I-person
+Brown	I-person
 Boveri	I-organisation
 ,	O
 the	O
@@ -1313,7 +1313,7 @@ sometimes	O
 called	O
 classes	B-misc
 ,	O
-schema	B-person	SNEHA
+schema	B-person
 or	O
 categories	O
 .	O
@@ -1352,7 +1352,7 @@ Starring	O
 Harrison	B-person
 Ford	I-person
 ,	O
-Rutger	B-person	SNEHA
+Rutger	B-person
 Hauer	I-organisation
 and	O
 Sean	B-person
@@ -1364,7 +1364,7 @@ loosely	O
 based	O
 on	O
 Philip	B-organisation
-K.	I-organisation	SNEHA
+K.	I-organisation
 Dick	I-person
 '	O
 s	O
@@ -1404,7 +1404,7 @@ imaging	I-misc
 .	O
 
 General	O
-sampling	B-person	SNEHA
+sampling	B-person
 from	O
 the	O
 truncated	B-misc
@@ -1417,7 +1417,7 @@ approximations	O
 to	O
 the	O
 normal	O
-CDF	O	SNEHA
+CDF	O
 and	O
 the	O
 probit	B-misc
@@ -1435,7 +1435,7 @@ codertnorm	O
 code	O
 for	O
 generating	O
-truncated-normal	I-person	SNEHA
+truncated-normal	I-person
 samples	O
 .	O
 
@@ -1460,7 +1460,7 @@ University	I-location
 ,	O
 Simon	B-person
 Fraser	I-person
-University	I-location	SNEHA
+University	I-location
 and	O
 the	O
 University	B-organisation
@@ -1475,7 +1475,7 @@ using	O
 zero	O
 based	O
 array	O
-indexes	I-person	SNEHA
+indexes	I-person
 along	O
 with	O
 a	O
@@ -1555,7 +1555,7 @@ variously	O
 as	O
 Switzerland	B-location
 and	O
-Project	B-location	SNEHA
+Project	B-location
 MAC	I-organisation
 for	O
 the	O
@@ -1568,7 +1568,7 @@ Following	O
 his	O
 PhD	O
 ,	O
-Ghahramani	B-misc	SNEHA
+Ghahramani	B-misc
 moved	O
 to	O
 the	O
@@ -1616,11 +1616,11 @@ computer	I-misc
 and	O
 the	O
 popularisation	B-organisation
-of	I-misc	SNEHA
+of	I-misc
 Maximum	I-location
 Likelihood	I-misc
 (	O
-MLE	B-organisation	SNEHA
+MLE	B-organisation
 )	O
 parameterisation	O
 techniques	O
@@ -1749,9 +1749,9 @@ multithreading	B-person
 unit	O
 testing	O
 ,	O
-GUI	B-misc	SNEHA
+GUI	B-misc
 ,	O
-interfacing	B-misc	SNEHA
+interfacing	B-misc
 to	O
 Java	B-misc
 ,	O
@@ -1759,20 +1759,20 @@ ODBC	B-person
 and	O
 others	O
 ,	O
-literate	B-person	SNEHA
+literate	B-person
 programming	I-misc
 ,	O
 a	O
 web	O
 server	O
 ,	O
-SGML	B-misc	SNEHA
+SGML	B-misc
 ,	O
-RDF	B-misc	SNEHA
+RDF	B-misc
 ,	O
-RDFS	B-misc	SNEHA
+RDFS	B-misc
 ,	O
-developer	B-misc	SNEHA
+developer	B-misc
 tools	O
 (	O
 including	O
@@ -1784,7 +1784,7 @@ GUI	O
 debugger	O
 and	O
 GUI	B-misc
-profiler	I-person	SNEHA
+profiler	I-person
 )	O
 ,	O
 and	O
@@ -1806,8 +1806,8 @@ scale	O
 space	O
 representation	B-misc
 and	O
-Gaussian	B-misc	SNEHA
-derivative	I-person	SNEHA
+Gaussian	B-misc
+derivative	I-person
 operators	O
 is	O
 as	O
@@ -1837,7 +1837,7 @@ that	O
 oversees	O
 the	O
 annual	O
-Conference	B-organisation	SNEHA
+Conference	B-organisation
 on	I-organisation
 Neural	I-organisation
 Information	I-organisation
@@ -1935,7 +1935,7 @@ such	O
 as	O
 AdaBoost	O
 and	O
-LogitBoost	B-misc	SNEHA
+LogitBoost	B-misc
 ,	O
 can	O
 be	O
@@ -1951,7 +1951,7 @@ learn	O
 basic	O
 and	O
 learnable	B-misc
-combinations	I-person	SNEHA
+combinations	I-person
 of	O
 weak	O
 hypotheses	O
@@ -2021,7 +2021,7 @@ distributions	O
 and	O
 the	O
 curvature	B-organisation
-of	I-organisation	SNEHA
+of	I-organisation
 the	O
 relative	O
 entropy	B-misc
@@ -2038,7 +2038,7 @@ inspired	O
 the	O
 systems	B-misc
 '	O
-S	O	SNEHA
+S	O
 '	O
 -PLUS	I-misc
 and	I-organisation
@@ -2054,7 +2054,7 @@ Planner	B-misc
 was	O
 the	O
 subset	B-organisation
-of	O	SNEHA
+of	O
 Planner	I-organisation
 ,	O
 called	O
@@ -2074,7 +2074,7 @@ Winograd	I-person
 .	O
 
 In	O
-1779	B-misc	SNEHA
+1779	B-misc
 the	O
 Germany	B-location
 -	O
@@ -2082,7 +2082,7 @@ Denmark	B-location
 scientist	O
 Christian	B-person
 Gottlieb	I-person
-Kratzenstein	I-organisation	SNEHA
+Kratzenstein	I-organisation
 won	O
 the	O
 first	O
@@ -2098,7 +2098,7 @@ Academy	I-organisation
 of	I-misc
 Sciences	I-organisation
 and	O
-Arts	I-organisation	SNEHA
+Arts	I-organisation
 for	I-organisation
 models	O
 he	O
@@ -2114,7 +2114,7 @@ produce	O
 the	O
 five	O
 long	O
-vowel	I-misc	SNEHA
+vowel	I-misc
 sounds	I-misc
 (	O
 in	O
@@ -2181,14 +2181,14 @@ them	O
 new	O
 document	O
 collaboration	O
-capabilities	O	SNEHA
+capabilities	O
 ,	O
 support	O
 for	O
 MSN	O
-Groups	I-person	SNEHA
+Groups	I-person
 and	O
-SharePoint	O	SNEHA
+SharePoint	O
 ;	O
 and	O
 integrated	O
@@ -2221,7 +2221,7 @@ function	B-misc
 In	O
 2001	O
 ,	O
-Mehler	B-misc	SNEHA
+Mehler	B-misc
 was	O
 elected	O
 a	O
@@ -2392,7 +2392,7 @@ conference	O
 LREC	I-organisation
 and	I-organisation
 the	O
-Language	I-organisation	SNEHA
+Language	I-organisation
 Resources	I-organisation
 and	I-organisation
 Evaluation	I-misc
@@ -2406,7 +2406,7 @@ In	O
 linear	B-misc
 time-invariant	I-misc
 (	O
-LTI	O	SNEHA
+LTI	O
 )	O
 system	O
 theory	I-misc
@@ -2459,7 +2459,7 @@ an	O
 LTI	O
 system	I-misc
 is	O
-governed	O	SNEHA
+governed	O
 by	O
 a	O
 convolution	O
@@ -2494,13 +2494,13 @@ research	O
 information	B-misc
 theory	I-misc
 ,	O
-simulation-based	B-person	SNEHA
-optimization	I-organisation	SNEHA
+simulation-based	B-person
+optimization	I-organisation
 ,	O
-multi-agent	B-organisation	SNEHA
+multi-agent	B-organisation
 systems	O
 ,	O
-swarm	B-person	SNEHA
+swarm	B-person
 intelligence	I-misc
 ,	O
 statistics	O
@@ -2537,15 +2537,15 @@ vector	B-misc
 machine	I-misc
 s	O
 ,	O
-logistic	B-misc	SNEHA
+logistic	B-misc
 regression	I-misc
 (	O
 see	O
 ,	O
-e.g.	B-misc	SNEHA
+e.g.	B-misc
 ,	O
-Vowpal	O	SNEHA
-Wabbit	I-person	SNEHA
+Vowpal	O
+Wabbit	I-person
 )	O
 and	O
 graphical	B-misc
@@ -2593,7 +2593,7 @@ of	I-organisation
 North	I-location
 Sumatra	I-organisation
 in	O
-Medan	O	SNEHA
+Medan	O
 ,	O
 the	O
 Indonesian	B-misc
@@ -2607,16 +2607,16 @@ University	I-location
 in	O
 Bandung	O
 ,	O
-Jenderal	O	SNEHA
+Jenderal	O
 Soedirman	I-person
 University	I-location
 in	O
-Purwokerto	O	SNEHA
+Purwokerto	O
 and	O
-Muhammadiyah	I-organisation	SNEHA
+Muhammadiyah	I-organisation
 University	I-location
 in	O
-Malang	I-organisation	SNEHA
+Malang	I-organisation
 )	O
 .	O
 
@@ -2701,17 +2701,17 @@ test	O
 The	O
 screenplay	O
 by	O
-Hampton	B-organisation	SNEHA
-Fancher	I-organisation	SNEHA
+Hampton	B-organisation
+Fancher	I-organisation
 !	I-misc
 --	O
 Not	O
-titled	I-misc	SNEHA
+titled	I-misc
 Android	I-misc
 initially	O
 -	O
 See	O
-Sammon	I-person	SNEHA
+Sammon	I-person
 ,	O
 pp.	O
 32	O
@@ -2754,7 +2754,7 @@ involves	O
 information	B-misc
 retrieval	I-misc
 ,	O
-lexical	B-person	SNEHA
+lexical	B-person
 analysis	I-misc
 to	O
 study	O
@@ -2767,7 +2767,7 @@ recognition	I-misc
 ,	O
 tagging	I-misc
 /	O
-annotation	B-misc	SNEHA
+annotation	B-misc
 ,	O
 information	B-misc
 extraction	I-misc
@@ -2797,7 +2797,7 @@ a	O
 manually	O
 constructed	O
 lexical	O
-database	O	SNEHA
+database	O
 of	O
 English	B-misc
 words	O
@@ -2866,15 +2866,15 @@ as	O
 optical	O
 flow	O
 ,	O
-Kalman	B-misc	SNEHA
-filtering	I-person	SNEHA
+Kalman	B-misc
+filtering	I-person
 ,	O
-Hidden	B-misc	SNEHA
+Hidden	B-misc
 Markov	I-misc
 model	I-misc
 s	O
 ,	O
-etc	B-misc	SNEHA
+etc	B-misc
 .	O
 
 She	O
@@ -2890,7 +2890,7 @@ President	O
 ,	O
 and	O
 Secretary-Treasurer	B-misc
-of	O	SNEHA
+of	O
 the	O
 Association	B-organisation
 for	I-organisation
@@ -2964,7 +2964,7 @@ Turing	B-misc
 's	O
 death	O
 ,	O
-Goostman	B-misc	SNEHA
+Goostman	B-misc
 won	O
 after	O
 33	O
@@ -2982,7 +2982,7 @@ human	O
 .	O
 
 A	O
-collaborative	B-misc	SNEHA
+collaborative	B-misc
 robot	I-misc
 or	O
 cobot	O
@@ -3051,7 +3051,7 @@ many	O
 practical	O
 applications	O
 ,	O
-parameter	B-misc	SNEHA
+parameter	B-misc
 estimation	I-misc
 for	O
 naive	O
@@ -3086,7 +3086,7 @@ Bayesian	O
 methods	O
 .	O
 
-Brothers	B-organisation	SNEHA
+Brothers	B-organisation
 -	O
 Victor	B-person
 Gershevich	I-person
@@ -3104,19 +3104,19 @@ of	I-organisation
 Technology	I-location
 ;	O
 Mikhail	O
-Gershevich	I-person	SNEHA
+Gershevich	I-person
 Katz	I-person
 ,	O
 Israeli	B-misc
 mathematician	I-misc
 ,	O
-graduate	B-person	SNEHA
-of	O	SNEHA
+graduate	B-person
+of	O
 Harvard	I-misc
 and	I-organisation
 Columbia	I-location
 (	O
-Ph.D.	B-person	SNEHA
+Ph.D.	B-person
 ,	O
 1984	O
 )	O
@@ -3124,7 +3124,7 @@ universities	O
 ,	O
 professor	O
 at	O
-Bar-Ilan	O	SNEHA
+Bar-Ilan	O
 University	I-location
 ,	O
 author	O
@@ -3132,11 +3132,11 @@ of	O
 the	O
 monograph	B-organisation
 Systolic	I-organisation
-Geometry	I-organisation	SNEHA
+Geometry	I-organisation
 and	I-organisation
 Topology	I-organisation
 (	O
-Mathematical	O	SNEHA
+Mathematical	O
 Surveys	I-organisation
 and	I-organisation
 Monographs	I-organisation
@@ -3168,8 +3168,8 @@ Sciences	I-location
 in	O
 Valencia	B-location
 's	O
-City	B-location	SNEHA
-of	I-misc	SNEHA
+City	B-location
+of	I-misc
 arts	I-organisation
 and	I-organisation
 Sciences	I-organisation
@@ -3189,7 +3189,7 @@ it	O
 to	O
 the	O
 famous	O
-museum	B-misc	SNEHA
+museum	B-misc
 .	O
 
 Within	O
@@ -3207,7 +3207,7 @@ including	O
 family	O
 name	O
 ,	O
-ID	B-misc	SNEHA
+ID	B-misc
 number	O
 and	O
 address	O
@@ -3295,8 +3295,8 @@ with	O
 noisy	O
 datasets	O
 ,	O
-BrownBoost	B-misc	SNEHA
-outperformed	I-person	SNEHA
+BrownBoost	B-misc
+outperformed	I-person
 AdaBoost	O
 '	I-misc
 s	O
@@ -3305,7 +3305,7 @@ error	O
 ;	O
 however	O
 ,	O
-LogitBoost	B-misc	SNEHA
+LogitBoost	B-misc
 performed	O
 as	O
 well	O
@@ -3373,7 +3373,7 @@ between	O
 1000	B-misc
 and	O
 3000	O
-person-years	I-misc	SNEHA
+person-years	I-misc
 of	I-misc
 effort	O
 ,	O
@@ -3396,7 +3396,7 @@ Error	I-organisation
 criterion	I-organisation
 implemented	I-organisation
 in	O
-MSECriterion	O	SNEHA
+MSECriterion	O
 and	O
 the	O
 cross-entropy	B-organisation
@@ -3417,7 +3417,7 @@ a	O
 long-time	O
 volunteer	O
 of	O
-IEEE	B-organisation	SNEHA
+IEEE	B-organisation
 :	O
 as	O
 2014	O
@@ -3437,7 +3437,7 @@ Computational	I-organisation
 Intelligence	I-organisation
 Society	I-organisation
 in	O
-2004-05	O	SNEHA
+2004-05	O
 and	O
 the	O
 ADCOM	B-organisation
@@ -3445,7 +3445,7 @@ member	O
 in	O
 2009-14	O
 ,	O
-2016-18	B-misc	SNEHA
+2016-18	B-misc
 and	O
 earlier	O
 years	O
@@ -3471,23 +3471,23 @@ in	O
 artificial	B-misc
 intelligence	I-misc
 ,	O
-mathematicians	B-person	SNEHA
+mathematicians	B-person
 ,	O
-logicians	B-organisation	SNEHA
+logicians	B-organisation
 ,	O
-philosophers	B-organisation	SNEHA
+philosophers	B-organisation
 ,	O
-cognitive	B-organisation	SNEHA
+cognitive	B-organisation
 scientists	O
 ,	O
-cognitive	B-misc	SNEHA
-psychologists	I-person	SNEHA
+cognitive	B-misc
+psychologists	I-person
 ,	O
-psycholinguists	B-misc	SNEHA
+psycholinguists	B-misc
 ,	O
-anthropologists	B-misc	SNEHA
+anthropologists	B-misc
 and	O
-neuroscientists	O	SNEHA
+neuroscientists	O
 ,	O
 among	O
 others	O
@@ -3500,7 +3500,7 @@ dynamic	O
 Markov	I-misc
 Networks	B-organisation
 ,	O
-Convolutional	B-person	SNEHA
+Convolutional	B-person
 neural	I-misc
 network	I-misc
 and	O
@@ -3530,10 +3530,10 @@ with	O
 Geoffrey	B-person
 Hinton	I-person
 and	O
-Yann	B-misc	SNEHA
+Yann	B-misc
 LeCun	I-person
 ,	O
-Bengio	B-misc	SNEHA
+Bengio	B-misc
 won	O
 the	O
 2018	B-misc
@@ -3685,7 +3685,7 @@ Python	B-misc
 .	O
 
 In	O
-1857	B-misc	SNEHA
+1857	B-misc
 ,	O
 at	O
 the	O
@@ -3710,8 +3710,8 @@ Yotetsusho	I-misc
 a	O
 modern	O
 ,	O
-Western-style	B-misc	SNEHA
-foundry	I-person	SNEHA
+Western-style	B-misc
+foundry	I-person
 and	O
 shipyard	O
 near	O
@@ -3722,7 +3722,7 @@ of	O
 Dejima	B-misc
 ,	O
 at	O
-Nagasaki	B-location	SNEHA
+Nagasaki	B-location
 .	O
 
 We	O
@@ -3843,14 +3843,14 @@ translation	I-misc
 At	O
 the	O
 2018	B-misc
-Conference	I-organisation	SNEHA
+Conference	I-organisation
 on	I-organisation
 Neural	I-organisation
 Information	I-organisation
 Processing	I-organisation
 Systems	I-organisation
 (	O
-NeurIPS	B-organisation	SNEHA
+NeurIPS	B-organisation
 )	O
 researchers	O
 from	O
@@ -3903,7 +3903,7 @@ contained	O
 in	O
 OpenCyc	O
 ,	O
-ResearchCyc	B-misc	SNEHA
+ResearchCyc	B-misc
 includes	O
 significantly	O
 more	O
@@ -4217,7 +4217,7 @@ a	O
 semantic	B-misc
 network	I-misc
 is	O
-WordNet	O	SNEHA
+WordNet	O
 ,	O
 a	O
 lexical	O
@@ -4246,7 +4246,7 @@ technologies	O
 that	O
 enable	O
 the	O
-recognition	B-misc	SNEHA
+recognition	B-misc
 and	O
 translation	B-misc
 of	I-misc
@@ -4372,7 +4372,7 @@ in	O
 Where	O
 BLEU	B-misc
 simply	I-misc
-calculates	I-misc	SNEHA
+calculates	I-misc
 n-gram	I-misc
 precision	I-misc
 adding	O
@@ -4384,7 +4384,7 @@ one	O
 ,	O
 NIST	B-organisation
 also	O
-calculates	B-organisation	SNEHA
+calculates	B-organisation
 how	O
 informative	O
 a	O
@@ -4446,7 +4446,7 @@ The	O
 following	O
 MATLAB	B-misc
 code	I-misc
-demonstrates	I-misc	SNEHA
+demonstrates	I-misc
 a	O
 concrete	O
 solution	O
@@ -4558,7 +4558,7 @@ In	O
 such	O
 cases	O
 ,	O
-cloud	B-misc	SNEHA
+cloud	B-misc
 computing	O
 and	O
 open	O
@@ -4616,7 +4616,7 @@ G.	B-person
 4	O
 )	O
 ,	O
-303-314	B-misc	SNEHA
+303-314	B-misc
 .	O
 
 In	O
@@ -4652,7 +4652,7 @@ distinguished	O
 from	O
 optical	O
 character	O
-recognition	O	SNEHA
+recognition	O
 (	O
 OCR	B-person
 )	O
@@ -4671,7 +4671,7 @@ required	O
 .	O
 
 In	O
-2018	B-misc	SNEHA
+2018	B-misc
 and	O
 2019	B-misc
 ,	O
@@ -4695,7 +4695,7 @@ Ford	B-misc
 Field	I-misc
 .	O
 
-Classification	B-misc	SNEHA
+Classification	B-misc
 can	O
 be	O
 thought	O
@@ -4708,7 +4708,7 @@ problems	O
 binary	O
 classification	B-misc
 and	O
-multiclass	B-person	SNEHA
+multiclass	B-person
 classification	I-misc
 .	O
 
@@ -4747,7 +4747,7 @@ become	O
 quite	O
 popular	O
 ,	O
-e.g.	B-misc	SNEHA
+e.g.	B-misc
 in	O
 AlexNet	O
 )	O
@@ -4851,7 +4851,7 @@ Institute	I-location
 of	I-organisation
 Technology	I-location
 in	O
-1962	O	SNEHA
+1962	O
 ,	O
 an	O
 MA	O
@@ -4883,12 +4883,12 @@ titled	O
 Knowledge	B-misc
 Representation	I-misc
 :	I-misc
-Logical	B-organisation	SNEHA
+Logical	B-organisation
 ,	O
-Philosophical	B-person	SNEHA
+Philosophical	B-person
 ,	O
 and	O
-Computational	B-organisation	SNEHA
+Computational	B-organisation
 Foundations	I-organisation
 .	O
 
@@ -4911,7 +4911,7 @@ such	O
 as	O
 accuracy	O
 ,	O
-f1	B-misc	SNEHA
+f1	B-misc
 score	O
 ,	O
 or	O
@@ -4951,7 +4951,7 @@ means	O
 of	O
 analysis	I-misc
 (	O
-e.g.	B-misc	SNEHA
+e.g.	B-misc
 maximum	I-misc
 parsimony	I-misc
 ,	O
@@ -5042,7 +5042,7 @@ that	O
 precision	B-misc
 is	O
 usually	O
-twinned	O	SNEHA
+twinned	O
 with	O
 recall	B-misc
 to	O
@@ -5104,7 +5104,7 @@ between	O
 healthy	O
 and	O
 cancerous	B-misc
-tissues	I-person	SNEHA
+tissues	I-person
 in	O
 head	O
 and	O
@@ -5139,7 +5139,7 @@ Psychological	I-organisation
 Science	I-organisation
 ,	O
 the	O
-Society	B-misc	SNEHA
+Society	B-misc
 of	I-misc
 Experimental	I-organisation
 Psychologists	I-organisation
@@ -5170,8 +5170,8 @@ Sciences	I-organisation
 .	O
 
 These	O
-Intelligent	B-misc	SNEHA
-Chatbots	I-person	SNEHA
+Intelligent	B-misc
+Chatbots	I-person
 make	O
 use	O
 of	O
@@ -5188,14 +5188,14 @@ natural	B-misc
 language	I-misc
 understanding	O
 (	O
-NLU	O	SNEHA
+NLU	O
 )	O
 ,	O
 natural	B-misc
 language	I-misc
 generation	I-misc
 (	O
-NLG	B-person	SNEHA
+NLG	B-person
 )	O
 ,	O
 machine	B-misc
@@ -5210,13 +5210,13 @@ row	O
 ratios	O
 are	O
 Positive	O
-Predictive	O	SNEHA
+Predictive	O
 Value	O
 (	O
-PPV	O	SNEHA
+PPV	O
 ,	O
-aka	B-misc	SNEHA
-precision	B-misc	SNEHA
+aka	B-misc
+precision	B-misc
 )	O
 (	O
 TP	O
@@ -5249,7 +5249,7 @@ FP	O
 ;	O
 and	O
 Negative	B-misc
-Predictive	I-person	SNEHA
+Predictive	I-person
 Value	O
 (	O
 NPV	O
@@ -5292,7 +5292,7 @@ blend	O
 of	O
 sitemaps	B-misc
 and	O
-RSS	I-organisation	SNEHA
+RSS	I-organisation
 and	O
 is	O
 created	O
@@ -5305,10 +5305,10 @@ IM	I-organisation
 )	O
 and	O
 Biomedical	B-misc
-Resource	I-person	SNEHA
+Resource	I-person
 Ontology	I-organisation
 (	O
-BRO	I-organisation	SNEHA
+BRO	I-organisation
 )	O
 .	O
 
@@ -5337,7 +5337,7 @@ model	I-misc
 
 Popular	B-organisation
 loss	O
-functions	O	SNEHA
+functions	O
 include	O
 the	O
 hinge	B-misc
@@ -5353,8 +5353,8 @@ log	B-organisation
 loss	I-misc
 (	O
 for	O
-logistic	O	SNEHA
-regression	I-person	SNEHA
+logistic	O
+regression	I-person
 )	O
 .	O
 
@@ -5446,14 +5446,14 @@ model	I-misc
 At	O
 the	O
 2018	B-misc
-Conference	I-organisation	SNEHA
+Conference	I-organisation
 on	I-organisation
 Neural	I-organisation
 Information	I-organisation
 Processing	I-organisation
 Systems	I-organisation
 (	O
-NeurIPS	B-organisation	SNEHA
+NeurIPS	B-organisation
 )	O
 researchers	O
 from	O
@@ -5466,7 +5466,7 @@ During	O
 his	O
 time	O
 at	O
-Duke	O	SNEHA
+Duke	O
 ,	O
 he	O
 worked	O
@@ -5475,7 +5475,7 @@ an	O
 automated	O
 crossword	O
 solver	O
-PROVERB	O	SNEHA
+PROVERB	O
 ,	O
 which	O
 won	O
@@ -5556,7 +5556,7 @@ colleague	O
 at	O
 NIST	B-misc
 ,	O
-Judah	I-organisation	SNEHA
+Judah	I-organisation
 Levine	I-organisation
 who	O
 is	O
@@ -5566,7 +5566,7 @@ recent	O
 recipient	O
 of	O
 the	O
-I.	B-person	SNEHA
+I.	B-person
 I.	I-person
 Rabi	I-person
 Award	I-misc
@@ -5588,7 +5588,7 @@ confusion	O
 matrix	O
 )	O
 ,	O
-conventionally	B-misc	SNEHA
+conventionally	B-misc
 with	O
 the	O
 test	O
@@ -5617,7 +5617,7 @@ on	O
 the	O
 iPhone	B-misc
 ,	O
-iPad	B-person	SNEHA
+iPad	B-person
 and	O
 iPod	I-organisation
 Touch	I-organisation
@@ -5648,7 +5648,7 @@ scored	O
 97.6	O
 %	O
 and	O
-96.95	B-misc	SNEHA
+96.95	B-misc
 %	O
 .	O
 
@@ -5788,7 +5788,7 @@ co-recipient	O
 of	O
 the	O
 1992	B-misc
-Association	B-organisation	SNEHA
+Association	B-organisation
 for	I-organisation
 Computing	I-organisation
 Machinery	I-organisation
@@ -5820,14 +5820,14 @@ with	O
 Geoffrey	B-person
 Hinton	I-person
 and	O
-Yann	B-misc	SNEHA
+Yann	B-misc
 LeCun	I-person
 ,	O
-Bengio	B-misc	SNEHA
+Bengio	B-misc
 is	O
 considered	O
 by	O
-Cade	O	SNEHA
+Cade	O
 Metz	B-organisation
 as	O
 one	O
@@ -5840,7 +5840,7 @@ responsible	O
 for	O
 the	O
 advancement	B-organisation
-of	O	SNEHA
+of	O
 deep	I-misc
 learning	I-misc
 during	O
@@ -5876,7 +5876,7 @@ alphabet	O
 ,	O
 by	O
 encoded	O
-strings	I-person	SNEHA
+strings	I-person
 ,	O
 which	O
 may	O
@@ -5929,7 +5929,7 @@ born	O
 in	O
 Hronov	O
 ,	O
-Bohemia	B-misc	SNEHA
+Bohemia	B-misc
 (	O
 Austria-Hungary	B-misc
 ,	O
@@ -5959,7 +5959,7 @@ ontology	B-misc
 editors	I-misc
 include	O
 :	O
-visual	O	SNEHA
+visual	O
 navigation	B-misc
 possibilities	I-misc
 within	O
@@ -6002,7 +6002,7 @@ OWL-S	O
 Dublin	B-organisation
 Core	O
 ,	O
-etc	B-misc	SNEHA
+etc	B-misc
 .	O
 
 The	O
@@ -6013,7 +6013,7 @@ instituted	O
 its	O
 Next	O
 Generation	O
-Identification	I-person	SNEHA
+Identification	I-person
 program	O
 to	O
 include	O
@@ -6048,8 +6048,8 @@ the	O
 2016	O
 season	O
 ,	O
-Samantha	B-misc	SNEHA
-Ponder	I-person	SNEHA
+Samantha	B-misc
+Ponder	I-person
 was	O
 added	O
 as	O
@@ -6075,13 +6075,13 @@ of	O
 two-player	B-misc
 games	O
 (	O
-Tic-tac-toe	B-person	SNEHA
+Tic-tac-toe	B-person
 ,	O
-Chess	B-organisation	SNEHA
+Chess	B-organisation
 ,	O
-Go	B-organisation	SNEHA
+Go	B-organisation
 ,	O
-etc	B-organisation	SNEHA
+etc	B-organisation
 .	O
 
 It	O
@@ -6150,8 +6150,8 @@ name	O
 Apple	B-misc
 Inc	I-organisation
 introduced	O
-Face	B-organisation	SNEHA
-ID	I-organisation	SNEHA
+Face	B-organisation
+ID	I-organisation
 on	O
 the	O
 flagship	B-organisation
@@ -6218,10 +6218,10 @@ held	O
 at	O
 the	O
 Colegio	B-misc
-Miguel	I-organisation	SNEHA
+Miguel	I-organisation
 Hernández	I-person
 ,	O
-Ceulaj	B-person	SNEHA
+Ceulaj	B-person
 ,	O
 and	O
 the	O
@@ -6276,7 +6276,7 @@ Perl	B-misc
 via	O
 PDL	O
 and	O
-CPAN	I-organisation	SNEHA
+CPAN	I-organisation
 packages	O
 )	O
 ,	O
@@ -6307,7 +6307,7 @@ such	O
 as	O
 SIGdial	O
 and	O
-Interspeech	B-misc	SNEHA
+Interspeech	B-misc
 )	O
 and	O
 a	O
@@ -6323,7 +6323,7 @@ such	O
 as	O
 SpeechTek	O
 and	O
-AVIOS	B-misc	SNEHA
+AVIOS	B-misc
 )	O
 .	O
 
@@ -6469,7 +6469,7 @@ machine-aided	B-person
 human	O
 translation	I-misc
 (	O
-MAHT	B-person	SNEHA
+MAHT	B-person
 )	O
 or	O
 interactive	O
@@ -6516,8 +6516,8 @@ by	O
 Roger	B-person
 Schank	I-person
 and	O
-Yorick	B-misc	SNEHA
-Wilks	I-person	SNEHA
+Yorick	B-misc
+Wilks	I-person
 ;	O
 the	O
 former	O
@@ -6561,7 +6561,7 @@ served	O
 as	O
 the	O
 program	O
-chair	O	SNEHA
+chair	O
 of	I-misc
 the	O
 Second	O
@@ -6570,7 +6570,7 @@ Semantic	I-organisation
 Web	O
 Conference	I-organisation
 (	O
-ISWC	I-organisation	SNEHA
+ISWC	I-organisation
 2003	I-misc
 )	O
 ;	O
@@ -6600,7 +6600,7 @@ the	O
 Agents	O
 Conference	I-organisation
 (	O
-1999-2001	B-person	SNEHA
+1999-2001	B-person
 )	O
 ;	O
 scholarship	O
@@ -6608,7 +6608,7 @@ chair	O
 of	O
 AAAI	B-organisation
 (	O
-1993-1999	B-organisation	SNEHA
+1993-1999	B-organisation
 )	O
 ;	O
 
@@ -6656,7 +6656,7 @@ a	O
 markup	O
 language	I-misc
 called	O
-AIML	I-organisation	SNEHA
+AIML	I-organisation
 ,	O
 which	O
 is	O
@@ -6682,7 +6682,7 @@ of	O
 ,	O
 so-called	O
 ,	O
-Alicebot	O	SNEHA
+Alicebot	O
 s	O
 .	O
 
@@ -6706,11 +6706,11 @@ Artificial	I-organisation
 Intelligence	I-organisation
 .	O
 
-Learning	I-organisation	SNEHA
+Learning	I-organisation
 classifier	I-misc
 systems	I-misc
 (	O
-LCS	I-organisation	SNEHA
+LCS	I-organisation
 )	O
 are	O
 a	O
@@ -6831,7 +6831,7 @@ George	B-person
 Miller	I-person
 '	O
 s	O
-Wordnet	B-misc	SNEHA
+Wordnet	B-misc
 .	O
 
 An	O
@@ -6875,7 +6875,7 @@ In	O
 science	B-misc
 fiction	I-misc
 ,	O
-female-appearing	B-person	SNEHA
+female-appearing	B-person
 robots	I-misc
 are	O
 often	O
@@ -6901,7 +6901,7 @@ J.	I-person
 McAuley	O
 '	O
 s	O
-novel	B-organisation	SNEHA
+novel	B-organisation
 Fairyland	I-organisation
 (	O
 1995	O
@@ -6950,7 +6950,7 @@ seminal	O
 paper	O
 ,	O
 Harry	O
-Blum	I-person	SNEHA
+Blum	I-person
 of	O
 the	O
 Air	B-organisation
@@ -6959,7 +6959,7 @@ Cambridge	B-organisation
 Research	I-organisation
 Laboratories	I-organisation
 at	O
-Hanscom	I-organisation	SNEHA
+Hanscom	I-organisation
 Air	I-organisation
 Force	I-organisation
 Base	I-organisation
@@ -7023,11 +7023,11 @@ function	B-misc
 e.g.	B-misc
 AdaBoost	I-misc
 and	O
-LogitBoost	B-misc	SNEHA
+LogitBoost	B-misc
 )	O
 ,	O
-BrownBoost	B-misc	SNEHA
-solves	I-person	SNEHA
+BrownBoost	B-misc
+solves	I-person
 a	O
 system	O
 of	O
@@ -7091,7 +7091,7 @@ Fellow	O
 1994	O
 )	O
 br	O
-International	B-organisation	SNEHA
+International	B-organisation
 Speech	I-misc
 Communication	I-misc
 Association	I-organisation
@@ -7111,10 +7111,10 @@ Institute	I-organisation
 of	I-organisation
 Technology	I-location
 (	O
-2007	B-person	SNEHA
+2007	B-person
 )	O
 br	O
-Columbia	I-location	SNEHA
+Columbia	I-location
 Engineering	I-organisation
 School	O
 Alumni	I-organisation
@@ -7127,10 +7127,10 @@ award	I-misc
 2009	O
 )	O
 br	O
-IEEE	B-organisation	SNEHA
-James	I-organisation	SNEHA
+IEEE	B-organisation
+James	I-organisation
 L.	I-person
-Flanagan	I-organisation	SNEHA
+Flanagan	I-organisation
 Speech	B-misc
 and	O
 Audio	B-organisation
@@ -7179,7 +7179,7 @@ in	O
 the	O
 Bilingual	B-misc
 evaluation	O
-understudy	O	SNEHA
+understudy	O
 scores	O
 for	O
 translation	B-misc
@@ -7192,7 +7192,7 @@ of	O
 methods	I-misc
 for	O
 named	O
-entity	O	SNEHA
+entity	O
 translation	I-misc
 .	O
 
@@ -7249,7 +7249,7 @@ Paramount	B-organisation
 first	O
 feature	B-misc
 ,	O
-Sangaree	B-misc	SNEHA
+Sangaree	B-misc
 with	O
 Fernando	B-person
 Lamas	I-person
@@ -7275,8 +7275,8 @@ Terry	B-person
 Winograd	I-person
 while	O
 at	O
-Xerox	O	SNEHA
-PARC	O	SNEHA
+Xerox	O
+PARC	O
 and	O
 Stanford	B-organisation
 University	I-location
@@ -7300,15 +7300,15 @@ in	O
 Qiang	B-person
 Zhu	I-person
 ,	O
-Shai	B-misc	SNEHA
-Avidan	I-person	SNEHA
+Shai	B-misc
+Avidan	I-person
 ,	O
-Mei-Chen	B-person	SNEHA
-Yeh	I-person	SNEHA
+Mei-Chen	B-person
+Yeh	I-person
 ,	O
 and	O
 Kwang-Ting	B-misc
-Cheng	I-person	SNEHA
+Cheng	I-person
 presented	O
 an	O
 algorithm	O
@@ -7320,7 +7320,7 @@ human	O
 detection	I-misc
 using	O
 HOG	O
-descriptor	I-organisation	SNEHA
+descriptor	I-organisation
 methods	I-misc
 .	O
 
@@ -7351,7 +7351,7 @@ processing	I-misc
 pattern	B-misc
 recognition	I-misc
 ,	O
-econometrics	B-person	SNEHA
+econometrics	B-person
 ,	O
 mathematical	O
 finance	O
@@ -7444,7 +7444,7 @@ in	O
 .	O
 
 In	O
-2007	B-misc	SNEHA
+2007	B-misc
 ,	O
 at	O
 the	O
@@ -7454,12 +7454,12 @@ on	I-organisation
 Computer	I-organisation
 Vision	I-organisation
 ,	O
-Terzopoulos	B-organisation	SNEHA
+Terzopoulos	B-organisation
 was	O
 awarded	O
 the	O
 inaugural	O
-IEEE	B-misc	SNEHA
+IEEE	B-misc
 PAMI	I-misc
 Computer	I-organisation
 Vision	I-organisation
@@ -7467,9 +7467,9 @@ Distinguished	I-organisation
 Researcher	I-organisation
 Award	I-misc
 for	I-misc
-pioneering	I-organisation	SNEHA
+pioneering	I-organisation
 and	O
-sustained	O	SNEHA
+sustained	O
 research	O
 on	O
 deformable	O
@@ -7485,7 +7485,7 @@ or	O
 cluster	B-misc
 analysis	I-misc
 involves	I-misc
-assigning	I-misc	SNEHA
+assigning	I-misc
 data	I-misc
 points	O
 to	O
@@ -7548,7 +7548,7 @@ text	B-misc
 mining	I-misc
 as	O
 Data	O
-mining	I-organisation	SNEHA
+mining	I-organisation
 (	O
 Knowledge	B-misc
 Discovery	I-misc
@@ -7559,7 +7559,7 @@ process.Hotho	O
 ,	O
 A.	B-person
 ,	O
-Nürnberger	O	SNEHA
+Nürnberger	O
 ,	O
 A.	B-person
 and	O
@@ -7587,13 +7587,13 @@ patients	O
 at	O
 the	O
 Rancho	B-misc
-Los	I-location	SNEHA
+Los	I-location
 Amigos	I-organisation
-National	I-organisation	SNEHA
+National	I-organisation
 Rehabilitation	I-organisation
 Center	I-organisation
 in	O
-Downey	O	SNEHA
+Downey	O
 ,	O
 California	B-location
 ;	O
@@ -7610,7 +7610,7 @@ in	O
 .	O
 
 At	O
-UCSD	O	SNEHA
+UCSD	O
 ,	O
 Norman	B-person
 was	O
@@ -7669,7 +7669,7 @@ are	O
 articulated	O
 robots	I-misc
 ,	O
-SCARA	B-person	SNEHA
+SCARA	B-person
 robots	I-misc
 ,	O
 delta	O
@@ -7704,7 +7704,7 @@ TM	I-misc
 which	O
 also	O
 supports	O
-LTM	O	SNEHA
+LTM	O
 )	O
 .	O
 
@@ -7761,7 +7761,7 @@ June	O
 For	O
 instance	O
 ,	O
-WordNet	B-misc	SNEHA
+WordNet	B-misc
 is	O
 a	O
 resource	O
@@ -7786,7 +7786,7 @@ such	O
 as	O
 ASIMO	O
 and	O
-QRIO	B-misc	SNEHA
+QRIO	B-misc
 use	O
 many	O
 motors	O
@@ -7877,7 +7877,7 @@ AISB	B-misc
 chairman	O
 and	O
 trustee	B-misc
-of	O	SNEHA
+of	O
 IJCAI	I-misc
 ,	O
 associate	O
@@ -7936,11 +7936,11 @@ National	B-organisation
 Film	I-misc
 Board	I-misc
 of	I-misc
-Canada	I-organisation	SNEHA
+Canada	I-organisation
 .	O
 
 A	O
-recommender	B-organisation	SNEHA
+recommender	B-organisation
 system	I-misc
 aims	O
 to	O
@@ -8017,9 +8017,9 @@ digital	O
 synthesizer	I-misc
 s	O
 ,	O
-radar	B-misc	SNEHA
+radar	B-misc
 ,	O
-sonar	B-organisation	SNEHA
+sonar	B-organisation
 ,	O
 financial	O
 signal	O
@@ -8027,7 +8027,7 @@ processing	I-misc
 ,	O
 seismology	B-person
 and	O
-biomedicine	O	SNEHA
+biomedicine	O
 .	O
 
 (	O
@@ -8092,7 +8092,7 @@ networks	I-misc
 The	O
 dramatic	O
 image-recognition	O
-milestone	O	SNEHA
+milestone	O
 of	O
 the	O
 AlexNet	B-organisation
@@ -8185,7 +8185,7 @@ affect	O
 the	O
 Bilingual	B-misc
 evaluation	O
-understudy	O	SNEHA
+understudy	O
 rating	O
 of	O
 the	O
@@ -8217,10 +8217,10 @@ of	I-misc
 the	O
 1969	O
 on	O
-Computational	B-organisation	SNEHA
+Computational	B-organisation
 linguistics	I-misc
 ,	O
-Sång-Säby	B-person	SNEHA
+Sång-Säby	B-person
 ,	O
 Sweden	B-location
 ,	O
@@ -8254,8 +8254,8 @@ as	O
 Robert	B-person
 Wilensky	I-person
 ,	O
-Wendy	B-person	SNEHA
-Lehnert	I-organisation	SNEHA
+Wendy	B-person
+Lehnert	I-organisation
 ,	O
 and	O
 Janet	B-person
@@ -8320,8 +8320,8 @@ by	O
 Herbert	B-person
 Bay	I-person
 ,	O
-Tinne	B-person	SNEHA
-Tuytelaars	I-organisation	SNEHA
+Tinne	B-person
+Tuytelaars	I-organisation
 ,	O
 and	O
 Luc	B-person
@@ -8353,7 +8353,7 @@ recognition	I-misc
 artificial	B-misc
 intelligence	I-misc
 and	O
-computer	B-misc	SNEHA
+computer	B-misc
 vision	I-misc
 .	O
 
@@ -8371,7 +8371,7 @@ probability	O
 density	I-organisation
 function	I-misc
 (	O
-pdf	O	SNEHA
+pdf	O
 )	O
 of	O
 the	O
@@ -8391,7 +8391,7 @@ computer	I-misc
 vision	I-misc
 include	O
 scene	O
-reconstruction	O	SNEHA
+reconstruction	O
 ,	O
 event	O
 detection	I-misc
@@ -8413,7 +8413,7 @@ indexing	B-person
 motion	B-misc
 estimation	I-misc
 ,	O
-visual	B-person	SNEHA
+visual	B-person
 servoing	I-organisation
 ,	O
 3D	B-misc
@@ -8436,7 +8436,7 @@ on	I-organisation
 Computer	I-organisation
 Vision	I-organisation
 ,	O
-Terzopoulos	B-organisation	SNEHA
+Terzopoulos	B-organisation
 was	O
 awarded	O
 a	O
@@ -8450,10 +8450,10 @@ paper	O
 with	O
 Kass	O
 and	O
-Witkin	B-misc	SNEHA
+Witkin	B-misc
 on	O
 active	O
-contour	B-organisation	SNEHA
+contour	B-organisation
 model	I-misc
 s	O
 .	O
@@ -8476,14 +8476,14 @@ for	O
 linear	B-misc
 classification	I-misc
 include	O
-Stochastic	B-organisation	SNEHA
+Stochastic	B-organisation
 gradient	I-misc
 descent	I-misc
 )	O
 gradient	B-misc
 descent	I-misc
 ,	O
-L-BFGS	B-person	SNEHA
+L-BFGS	B-person
 ,	O
 coordinate	O
 descent	O
@@ -8547,7 +8547,7 @@ coronary	B-misc
 artery	I-misc
 disease	O
 ,	O
-identifying	B-misc	SNEHA
+identifying	B-misc
 patients	O
 with	O
 sleep	O
@@ -8572,7 +8572,7 @@ in	O
 1961	O
 to	O
 General	O
-Motors	I-organisation	SNEHA
+Motors	I-organisation
 .	O
 
 The	O
@@ -8616,8 +8616,8 @@ collaboration	O
 between	O
 DeepMind	B-organisation
 and	O
-Moorfields	B-misc	SNEHA
-Eye	I-person	SNEHA
+Moorfields	B-misc
+Eye	I-person
 Hospital	I-location
 was	O
 announced	O
@@ -8644,30 +8644,30 @@ University	B-organisation
 of	I-location
 Freiburg	B-organisation
 ,	O
-Bosch	B-organisation	SNEHA
+Bosch	B-organisation
 ,	O
 Georgia	B-location
 Tech	I-organisation
 ,	O
-KU	B-person	SNEHA
+KU	B-person
 Leuven	I-person
 ,	O
 MIT	B-organisation
 ,	O
 Stanford	B-organisation
 ,	O
-Technical	B-person	SNEHA
+Technical	B-person
 University	I-organisation
 of	I-organisation
 Munich	I-organisation
 ,	O
-UC	B-person	SNEHA
+UC	B-person
 Berkeley	I-person
 ,	O
 U	B-person
 Penn	I-organisation
 ,	O
-USC	B-person	SNEHA
+USC	B-person
 ,	O
 and	O
 University	B-organisation
@@ -8678,11 +8678,11 @@ Tokyo	I-location
 The	O
 counts	O
 of	O
-TP	O	SNEHA
+TP	O
 ,	O
 TN	B-person
 ,	O
-FP	B-misc	SNEHA
+FP	B-misc
 ,	O
 and	O
 FN	B-misc
@@ -8733,7 +8733,7 @@ including	O
 robot	B-misc
 control	I-misc
 ,	O
-elevator	B-person	SNEHA
+elevator	B-person
 scheduling	I-organisation
 ,	O
 telecommunications	O
@@ -8741,14 +8741,14 @@ telecommunications	O
 ,	O
 checkers	B-misc
 and	O
-Go	B-person	SNEHA
+Go	B-person
 (	O
 AlphaGo	O
 )	O
 .	O
 
 In	O
-2018	B-misc	SNEHA
+2018	B-misc
 ,	O
 the	O
 inaugural	O
@@ -8785,7 +8785,7 @@ Venue	I-location
 was	O
 conducted	O
 at	O
-Beihang	O	SNEHA
+Beihang	O
 University	I-location
 Gymnasium	I-organisation
 in	O
@@ -8802,7 +8802,7 @@ to	O
 pattern	B-misc
 recognition	I-misc
 and	O
-originates	B-person	SNEHA
+originates	B-person
 from	O
 artificial	B-misc
 intelligence	I-misc
@@ -8830,7 +8830,7 @@ screen	O
 .	O
 
 A	O
-commercially	B-misc	SNEHA
+commercially	B-misc
 successful	O
 but	O
 specialized	O
@@ -8935,7 +8935,7 @@ one	O
 of	O
 the	O
 determinants	B-misc
-of	I-misc	SNEHA
+of	I-misc
 the	O
 capacity	O
 of	O
@@ -8956,7 +8956,7 @@ as	O
 in	O
 AdaBoost	O
 ,	O
-LogitBoost	B-misc	SNEHA
+LogitBoost	B-misc
 ,	O
 and	O
 all	O
@@ -8995,7 +8995,7 @@ Hochreiter	I-person
 '	O
 s	O
 diploma	O
-thesis	I-person	SNEHA
+thesis	I-person
 of	O
 1991	O
 Sepp	B-person
@@ -9090,7 +9090,7 @@ fitness	O
 functions	O
 for	O
 logistic	O
-regression	B-misc	SNEHA
+regression	B-misc
 .	O
 
 VoiceOver	O
@@ -9108,7 +9108,7 @@ OS	O
 X	O
 Tiger	B-organisation
 (	O
-10.4	B-organisation	SNEHA
+10.4	B-organisation
 )	O
 .	O
 
@@ -9151,7 +9151,7 @@ optimize	O
 or	O
 by	O
 imposing	O
-assumptions	I-person	SNEHA
+assumptions	I-person
 on	O
 the	O
 distribution	O
@@ -9220,7 +9220,7 @@ recognition	I-misc
 speech	B-misc
 synthesis	I-misc
 ,	O
-diarization	B-person	SNEHA
+diarization	B-person
 ,	O
 Xavier	B-person
 Anguera	I-person
@@ -9274,9 +9274,9 @@ for	O
 the	O
 pronunciation	B-misc
 ,	O
-acoustic	B-person	SNEHA
+acoustic	B-person
 and	O
-language	I-misc	SNEHA
+language	I-misc
 model	I-misc
 .	O
 
@@ -9352,7 +9352,7 @@ in	O
 .	O
 
 The	O
-Document	B-organisation	SNEHA
+Document	B-organisation
 Understanding	I-organisation
 Conferences	I-organisation
 ,	O
@@ -9432,7 +9432,7 @@ such	O
 as	O
 SCARA	O
 and	O
-cartesian	B-misc	SNEHA
+cartesian	B-misc
 coordinate	O
 robot	I-misc
 ,	O
@@ -9509,7 +9509,7 @@ support	O
 vector	B-misc
 machine	I-misc
 (	O
-SVM	B-person	SNEHA
+SVM	B-person
 )	O
 in	O
 the	O
@@ -9541,11 +9541,11 @@ transform	I-organisation
 is	O
 obtained	O
 by	O
-estimating	O	SNEHA
+estimating	O
 the	O
-covariance	B-organisation	SNEHA
+covariance	B-organisation
 (	O
-e.g.	I-organisation	SNEHA
+e.g.	I-organisation
 by	O
 maximum	B-misc
 likelihood	I-misc
@@ -9559,9 +9559,9 @@ estimated	O
 whitening	O
 matrix	I-misc
 (	O
-e.g.	I-organisation	SNEHA
+e.g.	I-organisation
 by	O
-Cholesky	B-organisation	SNEHA
+Cholesky	B-organisation
 decomposition	I-organisation
 )	O
 .	O
@@ -9621,9 +9621,9 @@ web	I-misc
 software	O
 development	O
 ,	O
-chemistry	B-misc	SNEHA
+chemistry	B-misc
 and	O
-biology	O	SNEHA
+biology	O
 .	O
 
 In	O
@@ -9688,9 +9688,9 @@ still	O
 yield	O
 positive	O
 test	O
-outcomes	I-organisation	SNEHA
+outcomes	I-organisation
 ,	O
-i.e.	B-person	SNEHA
+i.e.	B-person
 ,	O
 the	O
 conditional	O
@@ -9710,11 +9710,11 @@ present	O
 .	O
 
 In	O
-VLDB	B-misc	SNEHA
+VLDB	B-misc
 '	O
 8	O
 :	O
-Proceedings	B-misc	SNEHA
+Proceedings	B-misc
 of	I-misc
 the	O
 34th	O
@@ -9778,7 +9778,7 @@ Straczynski	I-person
 .	O
 
 While	O
-Eurotra	B-misc	SNEHA
+Eurotra	B-misc
 never	O
 delivered	O
 a	O
@@ -9842,7 +9842,7 @@ neural	B-misc
 machine	I-misc
 translation	I-misc
 (	O
-NMT	B-person	SNEHA
+NMT	B-person
 )	O
 .	O
 
@@ -9865,7 +9865,7 @@ loss	I-misc
 .	O
 
 Data	O
-mining	I-organisation	SNEHA
+mining	I-organisation
 is	O
 a	O
 related	O
@@ -9885,7 +9885,7 @@ learning	I-misc
 
 Collaborative	O
 filtering	I-organisation
-encompasses	O	SNEHA
+encompasses	O
 techniques	O
 for	O
 matching	B-misc
@@ -9959,7 +9959,7 @@ modern	O
 clustering	O
 algorithms	O
 ,	O
-aside	B-misc	SNEHA
+aside	B-misc
 from	O
 Jaccard	O
 index	O
@@ -10006,7 +10006,7 @@ Rate	O
 SWER	O
 )	O
 and	O
-Command	B-person	SNEHA
+Command	B-person
 Success	I-person
 Rate	O
 (	O
@@ -10060,12 +10060,12 @@ and	O
 ,	O
 and	O
 Usama	B-misc
-Fayyad	I-person	SNEHA
+Fayyad	I-person
 in	O
 1994	O
 .	O
 Machinery	O
-|	I-person	SNEHA
+|	I-person
 ACM	I-misc
 .	O
 
@@ -10125,7 +10125,7 @@ Advancement	I-organisation
 of	I-organisation
 Science	I-organisation
 (	O
-AAAS	I-organisation	SNEHA
+AAAS	I-organisation
 )	O
 ,	O
 and	O
@@ -10137,7 +10137,7 @@ and	I-organisation
 Photonics	I-organisation
 Technology	I-organisation
 (	O
-SPIE	B-organisation	SNEHA
+SPIE	B-organisation
 )	O
 .	O
 
@@ -10153,7 +10153,7 @@ same	O
 methods	O
 and	O
 overlap	B-misc
-significantly	O	SNEHA
+significantly	O
 ,	O
 but	O
 while	O
@@ -10208,7 +10208,7 @@ written	O
 in	O
 Java	B-misc
 and	O
-therefore	B-person	SNEHA
+therefore	B-person
 runs	O
 on	O
 most	O
@@ -10227,7 +10227,7 @@ nonnegative	B-misc
 quadratic	I-location
 programming	I-misc
 (	O
-NQP	B-misc	SNEHA
+NQP	B-misc
 )	O
 ,	O
 just	O
@@ -10237,7 +10237,7 @@ support	O
 vector	B-misc
 machine	I-misc
 (	O
-SVM	B-person	SNEHA
+SVM	B-person
 )	O
 .	O
 
@@ -10269,7 +10269,7 @@ estimation	I-misc
 include	O
 autocorrelation	O
 ,	O
-multi-D	B-person	SNEHA
+multi-D	B-person
 Fourier	I-person
 transform	O
 ,	O
@@ -10291,18 +10291,18 @@ and	O
 include	O
 geostatistics	B-misc
 ,	O
-kriging	B-misc	SNEHA
+kriging	B-misc
 ,	O
-inverse	B-misc	SNEHA
+inverse	B-misc
 distance	O
 weighting	O
 ,	O
 3D	B-misc
 reconstruction	I-misc
 ,	O
-bioinformatics	B-person	SNEHA
+bioinformatics	B-person
 ,	O
-chemoinformatics	B-organisation	SNEHA
+chemoinformatics	B-organisation
 ,	O
 information	B-misc
 extraction	I-misc
@@ -10335,10 +10335,10 @@ Mobility	I-organisation
 ASIMO	O
 )	O
 and	O
-TOSY	B-misc	SNEHA
+TOSY	B-misc
 '	O
 s	O
-TOSY	B-person	SNEHA
+TOSY	B-person
 Ping	I-organisation
 Pong	I-misc
 Playing	O
@@ -10357,7 +10357,7 @@ robot	B-misc
 s	O
 ,	O
 patient	O
-assist	O	SNEHA
+assist	O
 robots	I-misc
 ,	O
 dog	O
@@ -10374,7 +10374,7 @@ drones	I-person
 such	O
 as	O
 General	O
-Atomics	O	SNEHA
+Atomics	O
 MQ-1	I-organisation
 Predator	I-misc
 ,	O
@@ -10466,7 +10466,7 @@ in	O
 the	O
 School	O
 of	O
-Computer	I-organisation	SNEHA
+Computer	I-organisation
 Science	I-organisation
 at	O
 Carnegie	B-organisation
@@ -10482,7 +10482,7 @@ Human-Computer	B-organisation
 Interaction	I-organisation
 Institute	I-organisation
 with	O
-courtesy	B-organisation	SNEHA
+courtesy	B-organisation
 faculty	I-organisation
 appointments	I-organisation
 in	O
@@ -10499,7 +10499,7 @@ Center	I-organisation
 
 In	O
 1969	O
-Victor	I-person	SNEHA
+Victor	I-person
 Scheinman	I-person
 at	O
 Stanford	B-location
@@ -10512,8 +10512,8 @@ arm	O
 an	O
 all-electric	O
 ,	O
-6-axis	B-misc	SNEHA
-articulated	I-person	SNEHA
+6-axis	B-misc
+articulated	I-person
 robot	I-misc
 designed	I-misc
 to	O
@@ -10619,7 +10619,7 @@ Cup	I-misc
 Soccer	I-misc
 Tournament	I-organisation
 (	O
-MIROSOT	O	SNEHA
+MIROSOT	O
 )	O
 held	O
 by	O
@@ -10663,7 +10663,7 @@ math	O
 (	O
 -1	O
 |	O
-f	O	SNEHA
+f	O
 (	O
 x	O
 )	O
@@ -10701,7 +10701,7 @@ math	O
 In	O
 particular	O
 ,	O
-RLS	B-misc	SNEHA
+RLS	B-misc
 is	O
 designed	O
 to	O
@@ -10717,7 +10717,7 @@ values	O
 and	O
 the	O
 TRUE	O
-labels	O	SNEHA
+labels	O
 ,	O
 subject	O
 to	O
@@ -10763,7 +10763,7 @@ math	O
 to	O
 the	O
 discrimination	O
-threshold	B-misc	SNEHA
+threshold	B-misc
 )	O
 of	O
 the	O
@@ -10836,12 +10836,12 @@ were	O
 Ron	B-person
 Sun	I-organisation
 ,	O
-Vasant	B-person	SNEHA
-Honavar	I-organisation	SNEHA
+Vasant	B-person
+Honavar	I-organisation
 ,	O
 and	O
 Gregg	B-misc
-Oden	I-person	SNEHA
+Oden	I-person
 (	O
 from	O
 1999	O
@@ -11059,7 +11059,7 @@ called	O
 ANNIE	B-misc
 (	O
 A	O
-Nearly-New	I-misc	SNEHA
+Nearly-New	I-misc
 Information	I-organisation
 Extraction	I-organisation
 System	I-location
@@ -11126,7 +11126,7 @@ Kennedy	I-person
 ..	O
 
 In	O
-2017	B-misc	SNEHA
+2017	B-misc
 ,	O
 the	O
 DeepMind	B-organisation
@@ -11135,7 +11135,7 @@ team	O
 received	O
 the	O
 inaugural	O
-IJCAI	I-organisation	SNEHA
+IJCAI	I-organisation
 Marvin	B-person
 Minsky	I-person
 medal	O
@@ -11149,12 +11149,12 @@ AI	B-misc
 Other	O
 ways	O
 anomalous	O
-propagation	I-person	SNEHA
+propagation	I-person
 is	O
 recorded	O
 is	O
 by	O
-troposcatter	O	SNEHA
+troposcatter	O
 s	O
 causing	O
 irregularities	O
@@ -11168,7 +11168,7 @@ to	O
 meteor	O
 s	O
 ,	O
-refraction	B-misc	SNEHA
+refraction	B-misc
 in	O
 the	O
 ionized	B-misc
@@ -11187,10 +11187,10 @@ ionosphere	B-organisation
 .	O
 
 Natural	B-organisation
-language	I-organisation	SNEHA
+language	I-organisation
 processing	I-misc
 (	O
-NLP	B-organisation	SNEHA
+NLP	B-organisation
 )	O
 is	O
 a	O
@@ -11245,13 +11245,13 @@ climate	O
 groups	O
 include	O
 Extinction	O
-Rebellion	I-organisation	SNEHA
+Rebellion	I-organisation
 ,	O
 the	O
 Sunrise	B-organisation
 Movement	I-organisation
 ,	O
-SustainUS	B-organisation	SNEHA
+SustainUS	B-organisation
 ,	O
 the	O
 ,	O
@@ -11286,7 +11286,7 @@ From	O
 this	O
 perspective	O
 ,	O
-SVM	B-misc	SNEHA
+SVM	B-misc
 is	O
 closely	O
 related	O
@@ -11298,8 +11298,8 @@ algorithms	O
 such	O
 as	O
 regularized	O
-least-squares	O	SNEHA
-logistic	O	SNEHA
+least-squares	O
+logistic	O
 regression	I-misc
 .	O
 
@@ -11313,7 +11313,7 @@ a	O
 combat	O
 and	O
 laborer	B-misc
-replicant	I-person	SNEHA
+replicant	I-person
 ,	O
 and	O
 Joanna	B-misc
@@ -11359,7 +11359,7 @@ Segmenting	O
 the	O
 text	I-misc
 into	O
-topics	O	SNEHA
+topics	O
 or	O
 discourse	O
 turns	O
@@ -11383,7 +11383,7 @@ recognition	I-misc
 significantly	I-misc
 (	O
 by	O
-indexing	O	SNEHA
+indexing	O
 /	O
 recognizing	B-misc
 documents	I-location
@@ -11453,7 +11453,7 @@ Moravec	I-person
 Kevin	B-person
 Kelly	I-person
 ,	O
-Ralph	B-person	SNEHA
+Ralph	B-person
 Merkle	I-person
 ,	O
 Bill	B-person
@@ -11675,7 +11675,7 @@ the	O
 Log	B-misc
 loss	I-misc
 is	O
-differentiable	B-organisation	SNEHA
+differentiable	B-organisation
 ,	O
 a	O
 gradient-based	O
@@ -11753,11 +11753,11 @@ such	O
 as	O
 TER	O
 ,	O
-METEOR	B-misc	SNEHA
+METEOR	B-misc
 ,	O
-Banerjee	B-person	SNEHA
+Banerjee	B-person
 and	O
-Lavie	B-person	SNEHA
+Lavie	B-person
 ,	O
 (	O
 2005	O
@@ -11790,7 +11790,7 @@ Pease	I-person
 .	O
 
 In	O
-Cryo	B-misc	SNEHA
+Cryo	B-misc
 Electron	I-person
 Tomography	O
 ,	O
@@ -11822,7 +11822,7 @@ used	O
 along	O
 with	O
 compressive	O
-sensing	I-person	SNEHA
+sensing	I-person
 techniques	O
 or	O
 regularization	O
@@ -11908,9 +11908,9 @@ NumPy	B-misc
 ,	O
 VHDL	B-person
 ,	O
-PSpice	O	SNEHA
+PSpice	O
 ,	O
-Verilog	O	SNEHA
+Verilog	O
 and	O
 even	O
 Assembly	I-misc
@@ -11923,7 +11923,7 @@ was	O
 founded	O
 by	O
 Kiichiro	O
-Toyoda	I-person	SNEHA
+Toyoda	I-person
 in	O
 1937	O
 ,	O
@@ -11949,7 +11949,7 @@ the	O
 other	O
 hand	O
 ,	O
-assumes	B-misc	SNEHA
+assumes	B-misc
 training	O
 data	O
 that	O
@@ -12049,7 +12049,7 @@ as	O
 Sony	O
 '	O
 s	O
-QRIO	B-person	SNEHA
+QRIO	B-person
 and	O
 Wow	I-organisation
 Wee	I-organisation
@@ -12124,7 +12124,7 @@ as	O
 Project	O
 Nemmadi	I-organisation
 ,	O
-MCA21	B-person	SNEHA
+MCA21	B-person
 Mission	I-location
 Mode	I-organisation
 Project	I-organisation
@@ -12139,11 +12139,11 @@ India	B-location
 ;	O
 Electronic	O
 Government	O
-Directorate	O	SNEHA
+Directorate	O
 in	O
 Pakistan	B-location
 ;	O
-etc	O	SNEHA
+etc	O
 .	O
 
 He	O
@@ -12230,14 +12230,14 @@ the	O
 Universal	I-misc
 short	O
 ,	O
-Hawaiian	B-person	SNEHA
+Hawaiian	B-person
 Nights	I-person
 with	O
 Mamie	O
 Van	I-person
 Doren	I-person
 and	O
-Pinky	B-misc	SNEHA
+Pinky	B-misc
 Lee	I-person
 .	O
 
@@ -12249,7 +12249,7 @@ was	O
 proposed	O
 by	O
 Ulf	O
-Grenander	I-person	SNEHA
+Grenander	I-person
 in	O
 1977	O
 as	O
@@ -12263,7 +12263,7 @@ estimation	I-misc
 of	I-misc
 patterns	I-misc
 in	O
-digitized	B-location	SNEHA
+digitized	B-location
 images	I-organisation
 .	O
 
@@ -12271,22 +12271,22 @@ The	O
 iPhone	O
 4S	I-organisation
 ,	O
-iPad	O	SNEHA
+iPad	O
 3	O
 ,	O
-iPad	B-person	SNEHA
+iPad	B-person
 Mini	I-person
 1G	O
 ,	O
-iPad	B-person	SNEHA
+iPad	B-person
 Air	I-organisation
 ,	O
-iPad	B-person	SNEHA
+iPad	B-person
 Pro	O
 1G	O
 ,	O
-iPod	B-person	SNEHA
-Touch	I-organisation	SNEHA
+iPod	B-person
+Touch	I-organisation
 5G	I-misc
 and	O
 later	O
@@ -12454,7 +12454,7 @@ application	O
 for	O
 Windows	B-misc
 ,	O
-macOS	B-person	SNEHA
+macOS	B-person
 ,	O
 and	O
 Linux	B-misc
@@ -12512,7 +12512,7 @@ being	O
 Adept	O
 Technology	I-person
 ,	O
-Stäubli	B-organisation	SNEHA
+Stäubli	B-organisation
 ,	O
 the	O
 Sweden	B-location
@@ -12520,8 +12520,8 @@ Sweden	B-location
 Switzerland	B-location
 company	O
 ABB	O
-Asea	I-person	SNEHA
-Brown	I-person	SNEHA
+Asea	I-person
+Brown	I-person
 Boveri	I-organisation
 ,	O
 the	O
@@ -12582,7 +12582,7 @@ sometimes	O
 called	O
 classes	B-misc
 ,	O
-schema	B-person	SNEHA
+schema	B-person
 or	O
 categories	O
 .	O
@@ -12621,7 +12621,7 @@ Starring	O
 Harrison	B-person
 Ford	I-person
 ,	O
-Rutger	B-person	SNEHA
+Rutger	B-person
 Hauer	I-organisation
 and	O
 Sean	B-person
@@ -12633,7 +12633,7 @@ loosely	O
 based	O
 on	O
 Philip	B-organisation
-K.	I-organisation	SNEHA
+K.	I-organisation
 Dick	I-person
 '	O
 s	O
@@ -12673,7 +12673,7 @@ imaging	I-misc
 .	O
 
 General	O
-sampling	B-person	SNEHA
+sampling	B-person
 from	O
 the	O
 truncated	B-misc
@@ -12686,7 +12686,7 @@ approximations	O
 to	O
 the	O
 normal	O
-CDF	O	SNEHA
+CDF	O
 and	O
 the	O
 probit	B-misc
@@ -12704,7 +12704,7 @@ codertnorm	O
 code	O
 for	O
 generating	O
-truncated-normal	I-person	SNEHA
+truncated-normal	I-person
 samples	O
 .	O
 
@@ -12729,7 +12729,7 @@ University	I-location
 ,	O
 Simon	B-person
 Fraser	I-person
-University	I-location	SNEHA
+University	I-location
 and	O
 the	O
 University	B-organisation
@@ -12744,7 +12744,7 @@ using	O
 zero	O
 based	O
 array	O
-indexes	I-person	SNEHA
+indexes	I-person
 along	O
 with	O
 a	O
@@ -12824,7 +12824,7 @@ variously	O
 as	O
 Switzerland	B-location
 and	O
-Project	B-location	SNEHA
+Project	B-location
 MAC	I-organisation
 for	O
 the	O
@@ -12837,7 +12837,7 @@ Following	O
 his	O
 PhD	O
 ,	O
-Ghahramani	B-misc	SNEHA
+Ghahramani	B-misc
 moved	O
 to	O
 the	O
@@ -12885,11 +12885,11 @@ computer	I-misc
 and	O
 the	O
 popularisation	B-organisation
-of	I-misc	SNEHA
+of	I-misc
 Maximum	I-location
 Likelihood	I-misc
 (	O
-MLE	B-organisation	SNEHA
+MLE	B-organisation
 )	O
 parameterisation	O
 techniques	O
@@ -13018,9 +13018,9 @@ multithreading	B-person
 unit	O
 testing	O
 ,	O
-GUI	B-misc	SNEHA
+GUI	B-misc
 ,	O
-interfacing	B-misc	SNEHA
+interfacing	B-misc
 to	O
 Java	B-misc
 ,	O
@@ -13028,20 +13028,20 @@ ODBC	B-person
 and	O
 others	O
 ,	O
-literate	B-person	SNEHA
+literate	B-person
 programming	I-misc
 ,	O
 a	O
 web	O
 server	O
 ,	O
-SGML	B-misc	SNEHA
+SGML	B-misc
 ,	O
-RDF	B-misc	SNEHA
+RDF	B-misc
 ,	O
-RDFS	B-misc	SNEHA
+RDFS	B-misc
 ,	O
-developer	B-misc	SNEHA
+developer	B-misc
 tools	O
 (	O
 including	O
@@ -13053,7 +13053,7 @@ GUI	O
 debugger	O
 and	O
 GUI	B-misc
-profiler	I-person	SNEHA
+profiler	I-person
 )	O
 ,	O
 and	O
@@ -13075,8 +13075,8 @@ scale	O
 space	O
 representation	B-misc
 and	O
-Gaussian	B-misc	SNEHA
-derivative	I-person	SNEHA
+Gaussian	B-misc
+derivative	I-person
 operators	O
 is	O
 as	O
@@ -13106,7 +13106,7 @@ that	O
 oversees	O
 the	O
 annual	O
-Conference	B-organisation	SNEHA
+Conference	B-organisation
 on	I-organisation
 Neural	I-organisation
 Information	I-organisation
@@ -13204,7 +13204,7 @@ such	O
 as	O
 AdaBoost	O
 and	O
-LogitBoost	B-misc	SNEHA
+LogitBoost	B-misc
 ,	O
 can	O
 be	O
@@ -13220,7 +13220,7 @@ learn	O
 basic	O
 and	O
 learnable	B-misc
-combinations	I-person	SNEHA
+combinations	I-person
 of	O
 weak	O
 hypotheses	O
@@ -13290,7 +13290,7 @@ distributions	O
 and	O
 the	O
 curvature	B-organisation
-of	I-organisation	SNEHA
+of	I-organisation
 the	O
 relative	O
 entropy	B-misc
@@ -13307,7 +13307,7 @@ inspired	O
 the	O
 systems	B-misc
 '	O
-S	O	SNEHA
+S	O
 '	O
 -PLUS	I-misc
 and	I-organisation
@@ -13323,7 +13323,7 @@ Planner	B-misc
 was	O
 the	O
 subset	B-organisation
-of	O	SNEHA
+of	O
 Planner	I-organisation
 ,	O
 called	O
@@ -13343,7 +13343,7 @@ Winograd	I-person
 .	O
 
 In	O
-1779	B-misc	SNEHA
+1779	B-misc
 the	O
 Germany	B-location
 -	O
@@ -13351,7 +13351,7 @@ Denmark	B-location
 scientist	O
 Christian	B-person
 Gottlieb	I-person
-Kratzenstein	I-organisation	SNEHA
+Kratzenstein	I-organisation
 won	O
 the	O
 first	O
@@ -13367,7 +13367,7 @@ Academy	I-organisation
 of	I-misc
 Sciences	I-organisation
 and	O
-Arts	I-organisation	SNEHA
+Arts	I-organisation
 for	I-organisation
 models	O
 he	O
@@ -13383,7 +13383,7 @@ produce	O
 the	O
 five	O
 long	O
-vowel	I-misc	SNEHA
+vowel	I-misc
 sounds	I-misc
 (	O
 in	O
@@ -13450,14 +13450,14 @@ them	O
 new	O
 document	O
 collaboration	O
-capabilities	O	SNEHA
+capabilities	O
 ,	O
 support	O
 for	O
 MSN	O
-Groups	I-person	SNEHA
+Groups	I-person
 and	O
-SharePoint	O	SNEHA
+SharePoint	O
 ;	O
 and	O
 integrated	O
@@ -13490,7 +13490,7 @@ function	B-misc
 In	O
 2001	O
 ,	O
-Mehler	B-misc	SNEHA
+Mehler	B-misc
 was	O
 elected	O
 a	O
@@ -13661,7 +13661,7 @@ conference	O
 LREC	I-organisation
 and	I-organisation
 the	O
-Language	I-organisation	SNEHA
+Language	I-organisation
 Resources	I-organisation
 and	I-organisation
 Evaluation	I-misc
@@ -13675,7 +13675,7 @@ In	O
 linear	B-misc
 time-invariant	I-misc
 (	O
-LTI	O	SNEHA
+LTI	O
 )	O
 system	O
 theory	I-misc
@@ -13728,7 +13728,7 @@ an	O
 LTI	O
 system	I-misc
 is	O
-governed	O	SNEHA
+governed	O
 by	O
 a	O
 convolution	O
@@ -13763,13 +13763,13 @@ research	O
 information	B-misc
 theory	I-misc
 ,	O
-simulation-based	B-person	SNEHA
-optimization	I-organisation	SNEHA
+simulation-based	B-person
+optimization	I-organisation
 ,	O
-multi-agent	B-organisation	SNEHA
+multi-agent	B-organisation
 systems	O
 ,	O
-swarm	B-person	SNEHA
+swarm	B-person
 intelligence	I-misc
 ,	O
 statistics	O
@@ -13806,15 +13806,15 @@ vector	B-misc
 machine	I-misc
 s	O
 ,	O
-logistic	B-misc	SNEHA
+logistic	B-misc
 regression	I-misc
 (	O
 see	O
 ,	O
-e.g.	B-misc	SNEHA
+e.g.	B-misc
 ,	O
-Vowpal	O	SNEHA
-Wabbit	I-person	SNEHA
+Vowpal	O
+Wabbit	I-person
 )	O
 and	O
 graphical	B-misc
@@ -13862,7 +13862,7 @@ of	I-organisation
 North	I-location
 Sumatra	I-organisation
 in	O
-Medan	O	SNEHA
+Medan	O
 ,	O
 the	O
 Indonesian	B-misc
@@ -13876,16 +13876,16 @@ University	I-location
 in	O
 Bandung	O
 ,	O
-Jenderal	O	SNEHA
+Jenderal	O
 Soedirman	I-person
 University	I-location
 in	O
-Purwokerto	O	SNEHA
+Purwokerto	O
 and	O
-Muhammadiyah	I-organisation	SNEHA
+Muhammadiyah	I-organisation
 University	I-location
 in	O
-Malang	I-organisation	SNEHA
+Malang	I-organisation
 )	O
 .	O
 
@@ -13970,17 +13970,17 @@ test	O
 The	O
 screenplay	O
 by	O
-Hampton	B-organisation	SNEHA
-Fancher	I-organisation	SNEHA
+Hampton	B-organisation
+Fancher	I-organisation
 !	I-misc
 --	O
 Not	O
-titled	I-misc	SNEHA
+titled	I-misc
 Android	I-misc
 initially	O
 -	O
 See	O
-Sammon	I-person	SNEHA
+Sammon	I-person
 ,	O
 pp.	O
 32	O
@@ -14023,7 +14023,7 @@ involves	O
 information	B-misc
 retrieval	I-misc
 ,	O
-lexical	B-person	SNEHA
+lexical	B-person
 analysis	I-misc
 to	O
 study	O
@@ -14036,7 +14036,7 @@ recognition	I-misc
 ,	O
 tagging	I-misc
 /	O
-annotation	B-misc	SNEHA
+annotation	B-misc
 ,	O
 information	B-misc
 extraction	I-misc
@@ -14066,7 +14066,7 @@ a	O
 manually	O
 constructed	O
 lexical	O
-database	O	SNEHA
+database	O
 of	O
 English	B-misc
 words	O
@@ -14135,15 +14135,15 @@ as	O
 optical	O
 flow	O
 ,	O
-Kalman	B-misc	SNEHA
-filtering	I-person	SNEHA
+Kalman	B-misc
+filtering	I-person
 ,	O
-Hidden	B-misc	SNEHA
+Hidden	B-misc
 Markov	I-misc
 model	I-misc
 s	O
 ,	O
-etc	B-misc	SNEHA
+etc	B-misc
 .	O
 
 She	O
@@ -14159,7 +14159,7 @@ President	O
 ,	O
 and	O
 Secretary-Treasurer	B-misc
-of	O	SNEHA
+of	O
 the	O
 Association	B-organisation
 for	I-organisation
@@ -14233,7 +14233,7 @@ Turing	B-misc
 's	O
 death	O
 ,	O
-Goostman	B-misc	SNEHA
+Goostman	B-misc
 won	O
 after	O
 33	O
@@ -14251,7 +14251,7 @@ human	O
 .	O
 
 A	O
-collaborative	B-misc	SNEHA
+collaborative	B-misc
 robot	I-misc
 or	O
 cobot	O
@@ -14320,7 +14320,7 @@ many	O
 practical	O
 applications	O
 ,	O
-parameter	B-misc	SNEHA
+parameter	B-misc
 estimation	I-misc
 for	O
 naive	O
@@ -14355,7 +14355,7 @@ Bayesian	O
 methods	O
 .	O
 
-Brothers	B-organisation	SNEHA
+Brothers	B-organisation
 -	O
 Victor	B-person
 Gershevich	I-person
@@ -14373,19 +14373,19 @@ of	I-organisation
 Technology	I-location
 ;	O
 Mikhail	O
-Gershevich	I-person	SNEHA
+Gershevich	I-person
 Katz	I-person
 ,	O
 Israeli	B-misc
 mathematician	I-misc
 ,	O
-graduate	B-person	SNEHA
-of	O	SNEHA
+graduate	B-person
+of	O
 Harvard	I-misc
 and	I-organisation
 Columbia	I-location
 (	O
-Ph.D.	B-person	SNEHA
+Ph.D.	B-person
 ,	O
 1984	O
 )	O
@@ -14393,7 +14393,7 @@ universities	O
 ,	O
 professor	O
 at	O
-Bar-Ilan	O	SNEHA
+Bar-Ilan	O
 University	I-location
 ,	O
 author	O
@@ -14401,11 +14401,11 @@ of	O
 the	O
 monograph	B-organisation
 Systolic	I-organisation
-Geometry	I-organisation	SNEHA
+Geometry	I-organisation
 and	I-organisation
 Topology	I-organisation
 (	O
-Mathematical	O	SNEHA
+Mathematical	O
 Surveys	I-organisation
 and	I-organisation
 Monographs	I-organisation
@@ -14437,8 +14437,8 @@ Sciences	I-location
 in	O
 Valencia	B-location
 's	O
-City	B-location	SNEHA
-of	I-misc	SNEHA
+City	B-location
+of	I-misc
 arts	I-organisation
 and	I-organisation
 Sciences	I-organisation
@@ -14458,7 +14458,7 @@ it	O
 to	O
 the	O
 famous	O
-museum	B-misc	SNEHA
+museum	B-misc
 .	O
 
 Within	O
@@ -14476,7 +14476,7 @@ including	O
 family	O
 name	O
 ,	O
-ID	B-misc	SNEHA
+ID	B-misc
 number	O
 and	O
 address	O
@@ -14564,8 +14564,8 @@ with	O
 noisy	O
 datasets	O
 ,	O
-BrownBoost	B-misc	SNEHA
-outperformed	I-person	SNEHA
+BrownBoost	B-misc
+outperformed	I-person
 AdaBoost	O
 '	I-misc
 s	O
@@ -14574,7 +14574,7 @@ error	O
 ;	O
 however	O
 ,	O
-LogitBoost	B-misc	SNEHA
+LogitBoost	B-misc
 performed	O
 as	O
 well	O
@@ -14642,7 +14642,7 @@ between	O
 1000	B-misc
 and	O
 3000	O
-person-years	I-misc	SNEHA
+person-years	I-misc
 of	I-misc
 effort	O
 ,	O
@@ -14665,7 +14665,7 @@ Error	I-organisation
 criterion	I-organisation
 implemented	I-organisation
 in	O
-MSECriterion	O	SNEHA
+MSECriterion	O
 and	O
 the	O
 cross-entropy	B-organisation
@@ -14686,7 +14686,7 @@ a	O
 long-time	O
 volunteer	O
 of	O
-IEEE	B-organisation	SNEHA
+IEEE	B-organisation
 :	O
 as	O
 2014	O
@@ -14706,7 +14706,7 @@ Computational	I-organisation
 Intelligence	I-organisation
 Society	I-organisation
 in	O
-2004-05	O	SNEHA
+2004-05	O
 and	O
 the	O
 ADCOM	B-organisation
@@ -14714,7 +14714,7 @@ member	O
 in	O
 2009-14	O
 ,	O
-2016-18	B-misc	SNEHA
+2016-18	B-misc
 and	O
 earlier	O
 years	O
@@ -14740,23 +14740,23 @@ in	O
 artificial	B-misc
 intelligence	I-misc
 ,	O
-mathematicians	B-person	SNEHA
+mathematicians	B-person
 ,	O
-logicians	B-organisation	SNEHA
+logicians	B-organisation
 ,	O
-philosophers	B-organisation	SNEHA
+philosophers	B-organisation
 ,	O
-cognitive	B-organisation	SNEHA
+cognitive	B-organisation
 scientists	O
 ,	O
-cognitive	B-misc	SNEHA
-psychologists	I-person	SNEHA
+cognitive	B-misc
+psychologists	I-person
 ,	O
-psycholinguists	B-misc	SNEHA
+psycholinguists	B-misc
 ,	O
-anthropologists	B-misc	SNEHA
+anthropologists	B-misc
 and	O
-neuroscientists	O	SNEHA
+neuroscientists	O
 ,	O
 among	O
 others	O
@@ -14769,7 +14769,7 @@ dynamic	O
 Markov	I-misc
 Networks	B-organisation
 ,	O
-Convolutional	B-person	SNEHA
+Convolutional	B-person
 neural	I-misc
 network	I-misc
 and	O
@@ -14799,10 +14799,10 @@ with	O
 Geoffrey	B-person
 Hinton	I-person
 and	O
-Yann	B-misc	SNEHA
+Yann	B-misc
 LeCun	I-person
 ,	O
-Bengio	B-misc	SNEHA
+Bengio	B-misc
 won	O
 the	O
 2018	B-misc
@@ -14954,7 +14954,7 @@ Python	B-misc
 .	O
 
 In	O
-1857	B-misc	SNEHA
+1857	B-misc
 ,	O
 at	O
 the	O
@@ -14979,8 +14979,8 @@ Yotetsusho	I-misc
 a	O
 modern	O
 ,	O
-Western-style	B-misc	SNEHA
-foundry	I-person	SNEHA
+Western-style	B-misc
+foundry	I-person
 and	O
 shipyard	O
 near	O
@@ -14991,7 +14991,7 @@ of	O
 Dejima	B-misc
 ,	O
 at	O
-Nagasaki	B-location	SNEHA
+Nagasaki	B-location
 .	O
 
 We	O
@@ -15112,14 +15112,14 @@ translation	I-misc
 At	O
 the	O
 2018	B-misc
-Conference	I-organisation	SNEHA
+Conference	I-organisation
 on	I-organisation
 Neural	I-organisation
 Information	I-organisation
 Processing	I-organisation
 Systems	I-organisation
 (	O
-NeurIPS	B-organisation	SNEHA
+NeurIPS	B-organisation
 )	O
 researchers	O
 from	O
@@ -15172,7 +15172,7 @@ contained	O
 in	O
 OpenCyc	O
 ,	O
-ResearchCyc	B-misc	SNEHA
+ResearchCyc	B-misc
 includes	O
 significantly	O
 more	O
@@ -15486,7 +15486,7 @@ a	O
 semantic	B-misc
 network	I-misc
 is	O
-WordNet	O	SNEHA
+WordNet	O
 ,	O
 a	O
 lexical	O
@@ -15515,7 +15515,7 @@ technologies	O
 that	O
 enable	O
 the	O
-recognition	B-misc	SNEHA
+recognition	B-misc
 and	O
 translation	B-misc
 of	I-misc
@@ -15641,7 +15641,7 @@ in	O
 Where	O
 BLEU	B-misc
 simply	I-misc
-calculates	I-misc	SNEHA
+calculates	I-misc
 n-gram	I-misc
 precision	I-misc
 adding	O
@@ -15653,7 +15653,7 @@ one	O
 ,	O
 NIST	B-organisation
 also	O
-calculates	B-organisation	SNEHA
+calculates	B-organisation
 how	O
 informative	O
 a	O
@@ -15715,7 +15715,7 @@ The	O
 following	O
 MATLAB	B-misc
 code	I-misc
-demonstrates	I-misc	SNEHA
+demonstrates	I-misc
 a	O
 concrete	O
 solution	O
@@ -15827,7 +15827,7 @@ In	O
 such	O
 cases	O
 ,	O
-cloud	B-misc	SNEHA
+cloud	B-misc
 computing	O
 and	O
 open	O
@@ -15885,7 +15885,7 @@ G.	B-person
 4	O
 )	O
 ,	O
-303-314	B-misc	SNEHA
+303-314	B-misc
 .	O
 
 In	O
@@ -15921,7 +15921,7 @@ distinguished	O
 from	O
 optical	O
 character	O
-recognition	O	SNEHA
+recognition	O
 (	O
 OCR	B-person
 )	O
@@ -15940,7 +15940,7 @@ required	O
 .	O
 
 In	O
-2018	B-misc	SNEHA
+2018	B-misc
 and	O
 2019	B-misc
 ,	O
@@ -15964,7 +15964,7 @@ Ford	B-misc
 Field	I-misc
 .	O
 
-Classification	B-misc	SNEHA
+Classification	B-misc
 can	O
 be	O
 thought	O
@@ -15977,7 +15977,7 @@ problems	O
 binary	O
 classification	B-misc
 and	O
-multiclass	B-person	SNEHA
+multiclass	B-person
 classification	I-misc
 .	O
 
@@ -16016,7 +16016,7 @@ become	O
 quite	O
 popular	O
 ,	O
-e.g.	B-misc	SNEHA
+e.g.	B-misc
 in	O
 AlexNet	O
 )	O
@@ -16120,7 +16120,7 @@ Institute	I-location
 of	I-organisation
 Technology	I-location
 in	O
-1962	O	SNEHA
+1962	O
 ,	O
 an	O
 MA	O
@@ -16152,12 +16152,12 @@ titled	O
 Knowledge	B-misc
 Representation	I-misc
 :	I-misc
-Logical	B-organisation	SNEHA
+Logical	B-organisation
 ,	O
-Philosophical	B-person	SNEHA
+Philosophical	B-person
 ,	O
 and	O
-Computational	B-organisation	SNEHA
+Computational	B-organisation
 Foundations	I-organisation
 .	O
 
@@ -16180,7 +16180,7 @@ such	O
 as	O
 accuracy	O
 ,	O
-f1	B-misc	SNEHA
+f1	B-misc
 score	O
 ,	O
 or	O
@@ -16220,7 +16220,7 @@ means	O
 of	O
 analysis	I-misc
 (	O
-e.g.	B-misc	SNEHA
+e.g.	B-misc
 maximum	I-misc
 parsimony	I-misc
 ,	O
@@ -16311,7 +16311,7 @@ that	O
 precision	B-misc
 is	O
 usually	O
-twinned	O	SNEHA
+twinned	O
 with	O
 recall	B-misc
 to	O
@@ -16373,7 +16373,7 @@ between	O
 healthy	O
 and	O
 cancerous	B-misc
-tissues	I-person	SNEHA
+tissues	I-person
 in	O
 head	O
 and	O
@@ -16408,7 +16408,7 @@ Psychological	I-organisation
 Science	I-organisation
 ,	O
 the	O
-Society	B-misc	SNEHA
+Society	B-misc
 of	I-misc
 Experimental	I-organisation
 Psychologists	I-organisation
@@ -16439,8 +16439,8 @@ Sciences	I-organisation
 .	O
 
 These	O
-Intelligent	B-misc	SNEHA
-Chatbots	I-person	SNEHA
+Intelligent	B-misc
+Chatbots	I-person
 make	O
 use	O
 of	O
@@ -16457,14 +16457,14 @@ natural	B-misc
 language	I-misc
 understanding	O
 (	O
-NLU	O	SNEHA
+NLU	O
 )	O
 ,	O
 natural	B-misc
 language	I-misc
 generation	I-misc
 (	O
-NLG	B-person	SNEHA
+NLG	B-person
 )	O
 ,	O
 machine	B-misc
@@ -16479,13 +16479,13 @@ row	O
 ratios	O
 are	O
 Positive	O
-Predictive	O	SNEHA
+Predictive	O
 Value	O
 (	O
-PPV	O	SNEHA
+PPV	O
 ,	O
-aka	B-misc	SNEHA
-precision	B-misc	SNEHA
+aka	B-misc
+precision	B-misc
 )	O
 (	O
 TP	O
@@ -16518,7 +16518,7 @@ FP	O
 ;	O
 and	O
 Negative	B-misc
-Predictive	I-person	SNEHA
+Predictive	I-person
 Value	O
 (	O
 NPV	O
@@ -16561,7 +16561,7 @@ blend	O
 of	O
 sitemaps	B-misc
 and	O
-RSS	I-organisation	SNEHA
+RSS	I-organisation
 and	O
 is	O
 created	O
@@ -16574,10 +16574,10 @@ IM	I-organisation
 )	O
 and	O
 Biomedical	B-misc
-Resource	I-person	SNEHA
+Resource	I-person
 Ontology	I-organisation
 (	O
-BRO	I-organisation	SNEHA
+BRO	I-organisation
 )	O
 .	O
 
@@ -16606,7 +16606,7 @@ model	I-misc
 
 Popular	B-organisation
 loss	O
-functions	O	SNEHA
+functions	O
 include	O
 the	O
 hinge	B-misc
@@ -16622,8 +16622,8 @@ log	B-organisation
 loss	I-misc
 (	O
 for	O
-logistic	O	SNEHA
-regression	I-person	SNEHA
+logistic	O
+regression	I-person
 )	O
 .	O
 
@@ -16715,14 +16715,14 @@ model	I-misc
 At	O
 the	O
 2018	B-misc
-Conference	I-organisation	SNEHA
+Conference	I-organisation
 on	I-organisation
 Neural	I-organisation
 Information	I-organisation
 Processing	I-organisation
 Systems	I-organisation
 (	O
-NeurIPS	B-organisation	SNEHA
+NeurIPS	B-organisation
 )	O
 researchers	O
 from	O
@@ -16735,7 +16735,7 @@ During	O
 his	O
 time	O
 at	O
-Duke	O	SNEHA
+Duke	O
 ,	O
 he	O
 worked	O
@@ -16744,7 +16744,7 @@ an	O
 automated	O
 crossword	O
 solver	O
-PROVERB	O	SNEHA
+PROVERB	O
 ,	O
 which	O
 won	O
@@ -16825,7 +16825,7 @@ colleague	O
 at	O
 NIST	B-misc
 ,	O
-Judah	I-organisation	SNEHA
+Judah	I-organisation
 Levine	I-organisation
 who	O
 is	O
@@ -16835,7 +16835,7 @@ recent	O
 recipient	O
 of	O
 the	O
-I.	B-person	SNEHA
+I.	B-person
 I.	I-person
 Rabi	I-person
 Award	I-misc
@@ -16857,7 +16857,7 @@ confusion	O
 matrix	O
 )	O
 ,	O
-conventionally	B-misc	SNEHA
+conventionally	B-misc
 with	O
 the	O
 test	O
@@ -16886,7 +16886,7 @@ on	O
 the	O
 iPhone	B-misc
 ,	O
-iPad	B-person	SNEHA
+iPad	B-person
 and	O
 iPod	I-organisation
 Touch	I-organisation
@@ -16917,7 +16917,7 @@ scored	O
 97.6	O
 %	O
 and	O
-96.95	B-misc	SNEHA
+96.95	B-misc
 %	O
 .	O
 
@@ -17057,7 +17057,7 @@ co-recipient	O
 of	O
 the	O
 1992	B-misc
-Association	B-organisation	SNEHA
+Association	B-organisation
 for	I-organisation
 Computing	I-organisation
 Machinery	I-organisation
@@ -17089,14 +17089,14 @@ with	O
 Geoffrey	B-person
 Hinton	I-person
 and	O
-Yann	B-misc	SNEHA
+Yann	B-misc
 LeCun	I-person
 ,	O
-Bengio	B-misc	SNEHA
+Bengio	B-misc
 is	O
 considered	O
 by	O
-Cade	O	SNEHA
+Cade	O
 Metz	B-organisation
 as	O
 one	O
@@ -17109,7 +17109,7 @@ responsible	O
 for	O
 the	O
 advancement	B-organisation
-of	O	SNEHA
+of	O
 deep	I-misc
 learning	I-misc
 during	O
@@ -17145,7 +17145,7 @@ alphabet	O
 ,	O
 by	O
 encoded	O
-strings	I-person	SNEHA
+strings	I-person
 ,	O
 which	O
 may	O
@@ -17198,7 +17198,7 @@ born	O
 in	O
 Hronov	O
 ,	O
-Bohemia	B-misc	SNEHA
+Bohemia	B-misc
 (	O
 Austria-Hungary	B-misc
 ,	O
@@ -17228,7 +17228,7 @@ ontology	B-misc
 editors	I-misc
 include	O
 :	O
-visual	O	SNEHA
+visual	O
 navigation	B-misc
 possibilities	I-misc
 within	O
@@ -17271,7 +17271,7 @@ OWL-S	O
 Dublin	B-organisation
 Core	O
 ,	O
-etc	B-misc	SNEHA
+etc	B-misc
 .	O
 
 The	O
@@ -17282,7 +17282,7 @@ instituted	O
 its	O
 Next	O
 Generation	O
-Identification	I-person	SNEHA
+Identification	I-person
 program	O
 to	O
 include	O
@@ -17317,8 +17317,8 @@ the	O
 2016	O
 season	O
 ,	O
-Samantha	B-misc	SNEHA
-Ponder	I-person	SNEHA
+Samantha	B-misc
+Ponder	I-person
 was	O
 added	O
 as	O
@@ -17344,13 +17344,13 @@ of	O
 two-player	B-misc
 games	O
 (	O
-Tic-tac-toe	B-person	SNEHA
+Tic-tac-toe	B-person
 ,	O
-Chess	B-organisation	SNEHA
+Chess	B-organisation
 ,	O
-Go	B-organisation	SNEHA
+Go	B-organisation
 ,	O
-etc	B-organisation	SNEHA
+etc	B-organisation
 .	O
 
 It	O
@@ -17419,8 +17419,8 @@ name	O
 Apple	B-misc
 Inc	I-organisation
 introduced	O
-Face	B-organisation	SNEHA
-ID	I-organisation	SNEHA
+Face	B-organisation
+ID	I-organisation
 on	O
 the	O
 flagship	B-organisation
@@ -17487,10 +17487,10 @@ held	O
 at	O
 the	O
 Colegio	B-misc
-Miguel	I-organisation	SNEHA
+Miguel	I-organisation
 Hernández	I-person
 ,	O
-Ceulaj	B-person	SNEHA
+Ceulaj	B-person
 ,	O
 and	O
 the	O
@@ -17545,7 +17545,7 @@ Perl	B-misc
 via	O
 PDL	O
 and	O
-CPAN	I-organisation	SNEHA
+CPAN	I-organisation
 packages	O
 )	O
 ,	O
@@ -17576,7 +17576,7 @@ such	O
 as	O
 SIGdial	O
 and	O
-Interspeech	B-misc	SNEHA
+Interspeech	B-misc
 )	O
 and	O
 a	O
@@ -17592,7 +17592,7 @@ such	O
 as	O
 SpeechTek	O
 and	O
-AVIOS	B-misc	SNEHA
+AVIOS	B-misc
 )	O
 .	O
 
@@ -17738,7 +17738,7 @@ machine-aided	B-person
 human	O
 translation	I-misc
 (	O
-MAHT	B-person	SNEHA
+MAHT	B-person
 )	O
 or	O
 interactive	O
@@ -17785,8 +17785,8 @@ by	O
 Roger	B-person
 Schank	I-person
 and	O
-Yorick	B-misc	SNEHA
-Wilks	I-person	SNEHA
+Yorick	B-misc
+Wilks	I-person
 ;	O
 the	O
 former	O
@@ -17830,7 +17830,7 @@ served	O
 as	O
 the	O
 program	O
-chair	O	SNEHA
+chair	O
 of	I-misc
 the	O
 Second	O
@@ -17839,7 +17839,7 @@ Semantic	I-organisation
 Web	O
 Conference	I-organisation
 (	O
-ISWC	I-organisation	SNEHA
+ISWC	I-organisation
 2003	I-misc
 )	O
 ;	O
@@ -17869,7 +17869,7 @@ the	O
 Agents	O
 Conference	I-organisation
 (	O
-1999-2001	B-person	SNEHA
+1999-2001	B-person
 )	O
 ;	O
 scholarship	O
@@ -17877,7 +17877,7 @@ chair	O
 of	O
 AAAI	B-organisation
 (	O
-1993-1999	B-organisation	SNEHA
+1993-1999	B-organisation
 )	O
 ;	O
 
@@ -17925,7 +17925,7 @@ a	O
 markup	O
 language	I-misc
 called	O
-AIML	I-organisation	SNEHA
+AIML	I-organisation
 ,	O
 which	O
 is	O
@@ -17951,7 +17951,7 @@ of	O
 ,	O
 so-called	O
 ,	O
-Alicebot	O	SNEHA
+Alicebot	O
 s	O
 .	O
 
@@ -17975,11 +17975,11 @@ Artificial	I-organisation
 Intelligence	I-organisation
 .	O
 
-Learning	I-organisation	SNEHA
+Learning	I-organisation
 classifier	I-misc
 systems	I-misc
 (	O
-LCS	I-organisation	SNEHA
+LCS	I-organisation
 )	O
 are	O
 a	O
@@ -18100,7 +18100,7 @@ George	B-person
 Miller	I-person
 '	O
 s	O
-Wordnet	B-misc	SNEHA
+Wordnet	B-misc
 .	O
 
 An	O
@@ -18144,7 +18144,7 @@ In	O
 science	B-misc
 fiction	I-misc
 ,	O
-female-appearing	B-person	SNEHA
+female-appearing	B-person
 robots	I-misc
 are	O
 often	O
@@ -18170,7 +18170,7 @@ J.	I-person
 McAuley	O
 '	O
 s	O
-novel	B-organisation	SNEHA
+novel	B-organisation
 Fairyland	I-organisation
 (	O
 1995	O
@@ -18219,7 +18219,7 @@ seminal	O
 paper	O
 ,	O
 Harry	O
-Blum	I-person	SNEHA
+Blum	I-person
 of	O
 the	O
 Air	B-organisation
@@ -18228,7 +18228,7 @@ Cambridge	B-organisation
 Research	I-organisation
 Laboratories	I-organisation
 at	O
-Hanscom	I-organisation	SNEHA
+Hanscom	I-organisation
 Air	I-organisation
 Force	I-organisation
 Base	I-organisation
@@ -18292,11 +18292,11 @@ function	B-misc
 e.g.	B-misc
 AdaBoost	I-misc
 and	O
-LogitBoost	B-misc	SNEHA
+LogitBoost	B-misc
 )	O
 ,	O
-BrownBoost	B-misc	SNEHA
-solves	I-person	SNEHA
+BrownBoost	B-misc
+solves	I-person
 a	O
 system	O
 of	O
@@ -18360,7 +18360,7 @@ Fellow	O
 1994	O
 )	O
 br	O
-International	B-organisation	SNEHA
+International	B-organisation
 Speech	I-misc
 Communication	I-misc
 Association	I-organisation
@@ -18380,10 +18380,10 @@ Institute	I-organisation
 of	I-organisation
 Technology	I-location
 (	O
-2007	B-person	SNEHA
+2007	B-person
 )	O
 br	O
-Columbia	I-location	SNEHA
+Columbia	I-location
 Engineering	I-organisation
 School	O
 Alumni	I-organisation
@@ -18396,10 +18396,10 @@ award	I-misc
 2009	O
 )	O
 br	O
-IEEE	B-organisation	SNEHA
-James	I-organisation	SNEHA
+IEEE	B-organisation
+James	I-organisation
 L.	I-person
-Flanagan	I-organisation	SNEHA
+Flanagan	I-organisation
 Speech	B-misc
 and	O
 Audio	B-organisation
@@ -18448,7 +18448,7 @@ in	O
 the	O
 Bilingual	B-misc
 evaluation	O
-understudy	O	SNEHA
+understudy	O
 scores	O
 for	O
 translation	B-misc
@@ -18461,7 +18461,7 @@ of	O
 methods	I-misc
 for	O
 named	O
-entity	O	SNEHA
+entity	O
 translation	I-misc
 .	O
 
@@ -18518,7 +18518,7 @@ Paramount	B-organisation
 first	O
 feature	B-misc
 ,	O
-Sangaree	B-misc	SNEHA
+Sangaree	B-misc
 with	O
 Fernando	B-person
 Lamas	I-person
@@ -18544,8 +18544,8 @@ Terry	B-person
 Winograd	I-person
 while	O
 at	O
-Xerox	O	SNEHA
-PARC	O	SNEHA
+Xerox	O
+PARC	O
 and	O
 Stanford	B-organisation
 University	I-location
@@ -18569,15 +18569,15 @@ in	O
 Qiang	B-person
 Zhu	I-person
 ,	O
-Shai	B-misc	SNEHA
-Avidan	I-person	SNEHA
+Shai	B-misc
+Avidan	I-person
 ,	O
-Mei-Chen	B-person	SNEHA
-Yeh	I-person	SNEHA
+Mei-Chen	B-person
+Yeh	I-person
 ,	O
 and	O
 Kwang-Ting	B-misc
-Cheng	I-person	SNEHA
+Cheng	I-person
 presented	O
 an	O
 algorithm	O
@@ -18589,7 +18589,7 @@ human	O
 detection	I-misc
 using	O
 HOG	O
-descriptor	I-organisation	SNEHA
+descriptor	I-organisation
 methods	I-misc
 .	O
 
@@ -18620,7 +18620,7 @@ processing	I-misc
 pattern	B-misc
 recognition	I-misc
 ,	O
-econometrics	B-person	SNEHA
+econometrics	B-person
 ,	O
 mathematical	O
 finance	O
@@ -18713,7 +18713,7 @@ in	O
 .	O
 
 In	O
-2007	B-misc	SNEHA
+2007	B-misc
 ,	O
 at	O
 the	O
@@ -18723,12 +18723,12 @@ on	I-organisation
 Computer	I-organisation
 Vision	I-organisation
 ,	O
-Terzopoulos	B-organisation	SNEHA
+Terzopoulos	B-organisation
 was	O
 awarded	O
 the	O
 inaugural	O
-IEEE	B-misc	SNEHA
+IEEE	B-misc
 PAMI	I-misc
 Computer	I-organisation
 Vision	I-organisation
@@ -18736,9 +18736,9 @@ Distinguished	I-organisation
 Researcher	I-organisation
 Award	I-misc
 for	I-misc
-pioneering	I-organisation	SNEHA
+pioneering	I-organisation
 and	O
-sustained	O	SNEHA
+sustained	O
 research	O
 on	O
 deformable	O
@@ -18754,7 +18754,7 @@ or	O
 cluster	B-misc
 analysis	I-misc
 involves	I-misc
-assigning	I-misc	SNEHA
+assigning	I-misc
 data	I-misc
 points	O
 to	O
@@ -18817,7 +18817,7 @@ text	B-misc
 mining	I-misc
 as	O
 Data	O
-mining	I-organisation	SNEHA
+mining	I-organisation
 (	O
 Knowledge	B-misc
 Discovery	I-misc
@@ -18828,7 +18828,7 @@ process.Hotho	O
 ,	O
 A.	B-person
 ,	O
-Nürnberger	O	SNEHA
+Nürnberger	O
 ,	O
 A.	B-person
 and	O
@@ -18856,13 +18856,13 @@ patients	O
 at	O
 the	O
 Rancho	B-misc
-Los	I-location	SNEHA
+Los	I-location
 Amigos	I-organisation
-National	I-organisation	SNEHA
+National	I-organisation
 Rehabilitation	I-organisation
 Center	I-organisation
 in	O
-Downey	O	SNEHA
+Downey	O
 ,	O
 California	B-location
 ;	O
@@ -18879,7 +18879,7 @@ in	O
 .	O
 
 At	O
-UCSD	O	SNEHA
+UCSD	O
 ,	O
 Norman	B-person
 was	O
@@ -18938,7 +18938,7 @@ are	O
 articulated	O
 robots	I-misc
 ,	O
-SCARA	B-person	SNEHA
+SCARA	B-person
 robots	I-misc
 ,	O
 delta	O
@@ -18973,7 +18973,7 @@ TM	I-misc
 which	O
 also	O
 supports	O
-LTM	O	SNEHA
+LTM	O
 )	O
 .	O
 
@@ -19030,7 +19030,7 @@ June	O
 For	O
 instance	O
 ,	O
-WordNet	B-misc	SNEHA
+WordNet	B-misc
 is	O
 a	O
 resource	O
@@ -19055,7 +19055,7 @@ such	O
 as	O
 ASIMO	O
 and	O
-QRIO	B-misc	SNEHA
+QRIO	B-misc
 use	O
 many	O
 motors	O
@@ -19146,7 +19146,7 @@ AISB	B-misc
 chairman	O
 and	O
 trustee	B-misc
-of	O	SNEHA
+of	O
 IJCAI	I-misc
 ,	O
 associate	O
@@ -19205,11 +19205,11 @@ National	B-organisation
 Film	I-misc
 Board	I-misc
 of	I-misc
-Canada	I-organisation	SNEHA
+Canada	I-organisation
 .	O
 
 A	O
-recommender	B-organisation	SNEHA
+recommender	B-organisation
 system	I-misc
 aims	O
 to	O
@@ -19286,9 +19286,9 @@ digital	O
 synthesizer	I-misc
 s	O
 ,	O
-radar	B-misc	SNEHA
+radar	B-misc
 ,	O
-sonar	B-organisation	SNEHA
+sonar	B-organisation
 ,	O
 financial	O
 signal	O
@@ -19296,7 +19296,7 @@ processing	I-misc
 ,	O
 seismology	B-person
 and	O
-biomedicine	O	SNEHA
+biomedicine	O
 .	O
 
 (	O
@@ -19361,7 +19361,7 @@ networks	I-misc
 The	O
 dramatic	O
 image-recognition	O
-milestone	O	SNEHA
+milestone	O
 of	O
 the	O
 AlexNet	B-organisation
@@ -19454,7 +19454,7 @@ affect	O
 the	O
 Bilingual	B-misc
 evaluation	O
-understudy	O	SNEHA
+understudy	O
 rating	O
 of	O
 the	O
@@ -19486,10 +19486,10 @@ of	I-misc
 the	O
 1969	O
 on	O
-Computational	B-organisation	SNEHA
+Computational	B-organisation
 linguistics	I-misc
 ,	O
-Sång-Säby	B-person	SNEHA
+Sång-Säby	B-person
 ,	O
 Sweden	B-location
 ,	O
@@ -19523,8 +19523,8 @@ as	O
 Robert	B-person
 Wilensky	I-person
 ,	O
-Wendy	B-person	SNEHA
-Lehnert	I-organisation	SNEHA
+Wendy	B-person
+Lehnert	I-organisation
 ,	O
 and	O
 Janet	B-person
@@ -19589,8 +19589,8 @@ by	O
 Herbert	B-person
 Bay	I-person
 ,	O
-Tinne	B-person	SNEHA
-Tuytelaars	I-organisation	SNEHA
+Tinne	B-person
+Tuytelaars	I-organisation
 ,	O
 and	O
 Luc	B-person
@@ -19622,7 +19622,7 @@ recognition	I-misc
 artificial	B-misc
 intelligence	I-misc
 and	O
-computer	B-misc	SNEHA
+computer	B-misc
 vision	I-misc
 .	O
 
@@ -19640,7 +19640,7 @@ probability	O
 density	I-organisation
 function	I-misc
 (	O
-pdf	O	SNEHA
+pdf	O
 )	O
 of	O
 the	O
@@ -19660,7 +19660,7 @@ computer	I-misc
 vision	I-misc
 include	O
 scene	O
-reconstruction	O	SNEHA
+reconstruction	O
 ,	O
 event	O
 detection	I-misc
@@ -19682,7 +19682,7 @@ indexing	B-person
 motion	B-misc
 estimation	I-misc
 ,	O
-visual	B-person	SNEHA
+visual	B-person
 servoing	I-organisation
 ,	O
 3D	B-misc
@@ -19705,7 +19705,7 @@ on	I-organisation
 Computer	I-organisation
 Vision	I-organisation
 ,	O
-Terzopoulos	B-organisation	SNEHA
+Terzopoulos	B-organisation
 was	O
 awarded	O
 a	O
@@ -19719,10 +19719,10 @@ paper	O
 with	O
 Kass	O
 and	O
-Witkin	B-misc	SNEHA
+Witkin	B-misc
 on	O
 active	O
-contour	B-organisation	SNEHA
+contour	B-organisation
 model	I-misc
 s	O
 .	O
@@ -19745,14 +19745,14 @@ for	O
 linear	B-misc
 classification	I-misc
 include	O
-Stochastic	B-organisation	SNEHA
+Stochastic	B-organisation
 gradient	I-misc
 descent	I-misc
 )	O
 gradient	B-misc
 descent	I-misc
 ,	O
-L-BFGS	B-person	SNEHA
+L-BFGS	B-person
 ,	O
 coordinate	O
 descent	O
@@ -19816,7 +19816,7 @@ coronary	B-misc
 artery	I-misc
 disease	O
 ,	O
-identifying	B-misc	SNEHA
+identifying	B-misc
 patients	O
 with	O
 sleep	O
@@ -19841,7 +19841,7 @@ in	O
 1961	O
 to	O
 General	O
-Motors	I-organisation	SNEHA
+Motors	I-organisation
 .	O
 
 The	O
@@ -19885,8 +19885,8 @@ collaboration	O
 between	O
 DeepMind	B-organisation
 and	O
-Moorfields	B-misc	SNEHA
-Eye	I-person	SNEHA
+Moorfields	B-misc
+Eye	I-person
 Hospital	I-location
 was	O
 announced	O
@@ -19913,30 +19913,30 @@ University	B-organisation
 of	I-location
 Freiburg	B-organisation
 ,	O
-Bosch	B-organisation	SNEHA
+Bosch	B-organisation
 ,	O
 Georgia	B-location
 Tech	I-organisation
 ,	O
-KU	B-person	SNEHA
+KU	B-person
 Leuven	I-person
 ,	O
 MIT	B-organisation
 ,	O
 Stanford	B-organisation
 ,	O
-Technical	B-person	SNEHA
+Technical	B-person
 University	I-organisation
 of	I-organisation
 Munich	I-organisation
 ,	O
-UC	B-person	SNEHA
+UC	B-person
 Berkeley	I-person
 ,	O
 U	B-person
 Penn	I-organisation
 ,	O
-USC	B-person	SNEHA
+USC	B-person
 ,	O
 and	O
 University	B-organisation
@@ -19947,11 +19947,11 @@ Tokyo	I-location
 The	O
 counts	O
 of	O
-TP	O	SNEHA
+TP	O
 ,	O
 TN	B-person
 ,	O
-FP	B-misc	SNEHA
+FP	B-misc
 ,	O
 and	O
 FN	B-misc
@@ -20002,7 +20002,7 @@ including	O
 robot	B-misc
 control	I-misc
 ,	O
-elevator	B-person	SNEHA
+elevator	B-person
 scheduling	I-organisation
 ,	O
 telecommunications	O
@@ -20010,14 +20010,14 @@ telecommunications	O
 ,	O
 checkers	B-misc
 and	O
-Go	B-person	SNEHA
+Go	B-person
 (	O
 AlphaGo	O
 )	O
 .	O
 
 In	O
-2018	B-misc	SNEHA
+2018	B-misc
 ,	O
 the	O
 inaugural	O
@@ -20054,7 +20054,7 @@ Venue	I-location
 was	O
 conducted	O
 at	O
-Beihang	O	SNEHA
+Beihang	O
 University	I-location
 Gymnasium	I-organisation
 in	O
@@ -20071,7 +20071,7 @@ to	O
 pattern	B-misc
 recognition	I-misc
 and	O
-originates	B-person	SNEHA
+originates	B-person
 from	O
 artificial	B-misc
 intelligence	I-misc
@@ -20099,7 +20099,7 @@ screen	O
 .	O
 
 A	O
-commercially	B-misc	SNEHA
+commercially	B-misc
 successful	O
 but	O
 specialized	O
@@ -20204,7 +20204,7 @@ one	O
 of	O
 the	O
 determinants	B-misc
-of	I-misc	SNEHA
+of	I-misc
 the	O
 capacity	O
 of	O
@@ -20225,7 +20225,7 @@ as	O
 in	O
 AdaBoost	O
 ,	O
-LogitBoost	B-misc	SNEHA
+LogitBoost	B-misc
 ,	O
 and	O
 all	O
@@ -20264,7 +20264,7 @@ Hochreiter	I-person
 '	O
 s	O
 diploma	O
-thesis	I-person	SNEHA
+thesis	I-person
 of	O
 1991	O
 Sepp	B-person
@@ -20359,7 +20359,7 @@ fitness	O
 functions	O
 for	O
 logistic	O
-regression	B-misc	SNEHA
+regression	B-misc
 .	O
 
 VoiceOver	O
@@ -20377,7 +20377,7 @@ OS	O
 X	O
 Tiger	B-organisation
 (	O
-10.4	B-organisation	SNEHA
+10.4	B-organisation
 )	O
 .	O
 
@@ -20420,7 +20420,7 @@ optimize	O
 or	O
 by	O
 imposing	O
-assumptions	I-person	SNEHA
+assumptions	I-person
 on	O
 the	O
 distribution	O
@@ -20489,7 +20489,7 @@ recognition	I-misc
 speech	B-misc
 synthesis	I-misc
 ,	O
-diarization	B-person	SNEHA
+diarization	B-person
 ,	O
 Xavier	B-person
 Anguera	I-person
@@ -20543,9 +20543,9 @@ for	O
 the	O
 pronunciation	B-misc
 ,	O
-acoustic	B-person	SNEHA
+acoustic	B-person
 and	O
-language	I-misc	SNEHA
+language	I-misc
 model	I-misc
 .	O
 
@@ -20621,7 +20621,7 @@ in	O
 .	O
 
 The	O
-Document	B-organisation	SNEHA
+Document	B-organisation
 Understanding	I-organisation
 Conferences	I-organisation
 ,	O
@@ -20701,7 +20701,7 @@ such	O
 as	O
 SCARA	O
 and	O
-cartesian	B-misc	SNEHA
+cartesian	B-misc
 coordinate	O
 robot	I-misc
 ,	O
@@ -20778,7 +20778,7 @@ support	O
 vector	B-misc
 machine	I-misc
 (	O
-SVM	B-person	SNEHA
+SVM	B-person
 )	O
 in	O
 the	O
@@ -20810,11 +20810,11 @@ transform	I-organisation
 is	O
 obtained	O
 by	O
-estimating	O	SNEHA
+estimating	O
 the	O
-covariance	B-organisation	SNEHA
+covariance	B-organisation
 (	O
-e.g.	I-organisation	SNEHA
+e.g.	I-organisation
 by	O
 maximum	B-misc
 likelihood	I-misc
@@ -20828,9 +20828,9 @@ estimated	O
 whitening	O
 matrix	I-misc
 (	O
-e.g.	I-organisation	SNEHA
+e.g.	I-organisation
 by	O
-Cholesky	B-organisation	SNEHA
+Cholesky	B-organisation
 decomposition	I-organisation
 )	O
 .	O
@@ -20890,9 +20890,9 @@ web	I-misc
 software	O
 development	O
 ,	O
-chemistry	B-misc	SNEHA
+chemistry	B-misc
 and	O
-biology	O	SNEHA
+biology	O
 .	O
 
 In	O
@@ -20957,9 +20957,9 @@ still	O
 yield	O
 positive	O
 test	O
-outcomes	I-organisation	SNEHA
+outcomes	I-organisation
 ,	O
-i.e.	B-person	SNEHA
+i.e.	B-person
 ,	O
 the	O
 conditional	O
@@ -20979,11 +20979,11 @@ present	O
 .	O
 
 In	O
-VLDB	B-misc	SNEHA
+VLDB	B-misc
 '	O
 8	O
 :	O
-Proceedings	B-misc	SNEHA
+Proceedings	B-misc
 of	I-misc
 the	O
 34th	O
@@ -21047,7 +21047,7 @@ Straczynski	I-person
 .	O
 
 While	O
-Eurotra	B-misc	SNEHA
+Eurotra	B-misc
 never	O
 delivered	O
 a	O
@@ -21111,7 +21111,7 @@ neural	B-misc
 machine	I-misc
 translation	I-misc
 (	O
-NMT	B-person	SNEHA
+NMT	B-person
 )	O
 .	O
 
@@ -21134,7 +21134,7 @@ loss	I-misc
 .	O
 
 Data	O
-mining	I-organisation	SNEHA
+mining	I-organisation
 is	O
 a	O
 related	O
@@ -21154,7 +21154,7 @@ learning	I-misc
 
 Collaborative	O
 filtering	I-organisation
-encompasses	O	SNEHA
+encompasses	O
 techniques	O
 for	O
 matching	B-misc
@@ -21228,7 +21228,7 @@ modern	O
 clustering	O
 algorithms	O
 ,	O
-aside	B-misc	SNEHA
+aside	B-misc
 from	O
 Jaccard	O
 index	O
@@ -21275,7 +21275,7 @@ Rate	O
 SWER	O
 )	O
 and	O
-Command	B-person	SNEHA
+Command	B-person
 Success	I-person
 Rate	O
 (	O
@@ -21329,12 +21329,12 @@ and	O
 ,	O
 and	O
 Usama	B-misc
-Fayyad	I-person	SNEHA
+Fayyad	I-person
 in	O
 1994	O
 .	O
 Machinery	O
-|	I-person	SNEHA
+|	I-person
 ACM	I-misc
 .	O
 
@@ -21394,7 +21394,7 @@ Advancement	I-organisation
 of	I-organisation
 Science	I-organisation
 (	O
-AAAS	I-organisation	SNEHA
+AAAS	I-organisation
 )	O
 ,	O
 and	O
@@ -21406,7 +21406,7 @@ and	I-organisation
 Photonics	I-organisation
 Technology	I-organisation
 (	O
-SPIE	B-organisation	SNEHA
+SPIE	B-organisation
 )	O
 .	O
 
@@ -21422,7 +21422,7 @@ same	O
 methods	O
 and	O
 overlap	B-misc
-significantly	O	SNEHA
+significantly	O
 ,	O
 but	O
 while	O
@@ -21477,7 +21477,7 @@ written	O
 in	O
 Java	B-misc
 and	O
-therefore	B-person	SNEHA
+therefore	B-person
 runs	O
 on	O
 most	O
@@ -21496,7 +21496,7 @@ nonnegative	B-misc
 quadratic	I-location
 programming	I-misc
 (	O
-NQP	B-misc	SNEHA
+NQP	B-misc
 )	O
 ,	O
 just	O
@@ -21506,7 +21506,7 @@ support	O
 vector	B-misc
 machine	I-misc
 (	O
-SVM	B-person	SNEHA
+SVM	B-person
 )	O
 .	O
 
@@ -21538,7 +21538,7 @@ estimation	I-misc
 include	O
 autocorrelation	O
 ,	O
-multi-D	B-person	SNEHA
+multi-D	B-person
 Fourier	I-person
 transform	O
 ,	O
@@ -21560,18 +21560,18 @@ and	O
 include	O
 geostatistics	B-misc
 ,	O
-kriging	B-misc	SNEHA
+kriging	B-misc
 ,	O
-inverse	B-misc	SNEHA
+inverse	B-misc
 distance	O
 weighting	O
 ,	O
 3D	B-misc
 reconstruction	I-misc
 ,	O
-bioinformatics	B-person	SNEHA
+bioinformatics	B-person
 ,	O
-chemoinformatics	B-organisation	SNEHA
+chemoinformatics	B-organisation
 ,	O
 information	B-misc
 extraction	I-misc
@@ -21604,10 +21604,10 @@ Mobility	I-organisation
 ASIMO	O
 )	O
 and	O
-TOSY	B-misc	SNEHA
+TOSY	B-misc
 '	O
 s	O
-TOSY	B-person	SNEHA
+TOSY	B-person
 Ping	I-organisation
 Pong	I-misc
 Playing	O
@@ -21626,7 +21626,7 @@ robot	B-misc
 s	O
 ,	O
 patient	O
-assist	O	SNEHA
+assist	O
 robots	I-misc
 ,	O
 dog	O
@@ -21643,7 +21643,7 @@ drones	I-person
 such	O
 as	O
 General	O
-Atomics	O	SNEHA
+Atomics	O
 MQ-1	I-organisation
 Predator	I-misc
 ,	O
@@ -21735,7 +21735,7 @@ in	O
 the	O
 School	O
 of	O
-Computer	I-organisation	SNEHA
+Computer	I-organisation
 Science	I-organisation
 at	O
 Carnegie	B-organisation
@@ -21751,7 +21751,7 @@ Human-Computer	B-organisation
 Interaction	I-organisation
 Institute	I-organisation
 with	O
-courtesy	B-organisation	SNEHA
+courtesy	B-organisation
 faculty	I-organisation
 appointments	I-organisation
 in	O
@@ -21768,7 +21768,7 @@ Center	I-organisation
 
 In	O
 1969	O
-Victor	I-person	SNEHA
+Victor	I-person
 Scheinman	I-person
 at	O
 Stanford	B-location
@@ -21781,8 +21781,8 @@ arm	O
 an	O
 all-electric	O
 ,	O
-6-axis	B-misc	SNEHA
-articulated	I-person	SNEHA
+6-axis	B-misc
+articulated	I-person
 robot	I-misc
 designed	I-misc
 to	O
@@ -21888,7 +21888,7 @@ Cup	I-misc
 Soccer	I-misc
 Tournament	I-organisation
 (	O
-MIROSOT	O	SNEHA
+MIROSOT	O
 )	O
 held	O
 by	O
@@ -21932,7 +21932,7 @@ math	O
 (	O
 -1	O
 |	O
-f	O	SNEHA
+f	O
 (	O
 x	O
 )	O
@@ -21970,7 +21970,7 @@ math	O
 In	O
 particular	O
 ,	O
-RLS	B-misc	SNEHA
+RLS	B-misc
 is	O
 designed	O
 to	O
@@ -21986,7 +21986,7 @@ values	O
 and	O
 the	O
 TRUE	O
-labels	O	SNEHA
+labels	O
 ,	O
 subject	O
 to	O
@@ -22032,7 +22032,7 @@ math	O
 to	O
 the	O
 discrimination	O
-threshold	B-misc	SNEHA
+threshold	B-misc
 )	O
 of	O
 the	O
@@ -22105,12 +22105,12 @@ were	O
 Ron	B-person
 Sun	I-organisation
 ,	O
-Vasant	B-person	SNEHA
-Honavar	I-organisation	SNEHA
+Vasant	B-person
+Honavar	I-organisation
 ,	O
 and	O
 Gregg	B-misc
-Oden	I-person	SNEHA
+Oden	I-person
 (	O
 from	O
 1999	O
@@ -22328,7 +22328,7 @@ called	O
 ANNIE	B-misc
 (	O
 A	O
-Nearly-New	I-misc	SNEHA
+Nearly-New	I-misc
 Information	I-organisation
 Extraction	I-organisation
 System	I-location
@@ -22395,7 +22395,7 @@ Kennedy	I-person
 ..	O
 
 In	O
-2017	B-misc	SNEHA
+2017	B-misc
 ,	O
 the	O
 DeepMind	B-organisation
@@ -22404,7 +22404,7 @@ team	O
 received	O
 the	O
 inaugural	O
-IJCAI	I-organisation	SNEHA
+IJCAI	I-organisation
 Marvin	B-person
 Minsky	I-person
 medal	O
@@ -22418,12 +22418,12 @@ AI	B-misc
 Other	O
 ways	O
 anomalous	O
-propagation	I-person	SNEHA
+propagation	I-person
 is	O
 recorded	O
 is	O
 by	O
-troposcatter	O	SNEHA
+troposcatter	O
 s	O
 causing	O
 irregularities	O
@@ -22437,7 +22437,7 @@ to	O
 meteor	O
 s	O
 ,	O
-refraction	B-misc	SNEHA
+refraction	B-misc
 in	O
 the	O
 ionized	B-misc
@@ -22456,10 +22456,10 @@ ionosphere	B-organisation
 .	O
 
 Natural	B-organisation
-language	I-organisation	SNEHA
+language	I-organisation
 processing	I-misc
 (	O
-NLP	B-organisation	SNEHA
+NLP	B-organisation
 )	O
 is	O
 a	O
@@ -22514,13 +22514,13 @@ climate	O
 groups	O
 include	O
 Extinction	O
-Rebellion	I-organisation	SNEHA
+Rebellion	I-organisation
 ,	O
 the	O
 Sunrise	B-organisation
 Movement	I-organisation
 ,	O
-SustainUS	B-organisation	SNEHA
+SustainUS	B-organisation
 ,	O
 the	O
 ,	O

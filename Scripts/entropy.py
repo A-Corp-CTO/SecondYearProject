@@ -54,12 +54,27 @@ for devPath in sys.argv[1:]:
         prob2.append(prob[:leng])
     scores = entropy(prob2)
 
-
+"""
 save = True
 if save == True:
     with open("../ai_norm_entropy_score.txt",'w') as outfile:
         threshold = 1.75
         for i, j, k in zip(sentence, sen_labels, scores):
+            for word, label, score in zip(i,j,k):
+                if score < threshold:
+                    outfile.write(f"{word}\t{label}\n")
+                else:
+                    outfile.write(f"{word}\t{label}\t{'SNEHA'}\n")
+            outfile.write("\n")
+"""
+
+save_pred = True
+if save_pred ==True:
+    data = read_data("../Predictions/ai_norm_dev_pred.txt")
+    sen, sen_label = [i[0] for i in data], [i[1] for i in data]
+    with open("../ai_norm_entropy_score.txt",'w') as outfile:
+        threshold = 1.75
+        for i,j,k in zip(sen, sen_label, scores):
             for word, label, score in zip(i,j,k):
                 if score < threshold:
                     outfile.write(f"{word}\t{label}\n")
