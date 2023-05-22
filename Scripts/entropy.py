@@ -5,7 +5,7 @@ import sys
 import numpy as np
 
 def load_model():
-    with open('../Models/baseline_model_ai.sav', 'rb') as f:
+    with open('../Models/normlabels_baseline_ai.sav', 'rb') as f:
         pipeline = pickle.load(f)
         return pipeline
 
@@ -55,14 +55,14 @@ for devPath in sys.argv[1:]:
     scores = entropy(prob2)
 
 
-save = False
+save = True
 if save == True:
-    with open("../ai_entropy_score4.txt",'w') as outfile:
-        threshold = 2.5
+    with open("../ai_norm_entropy_score.txt",'w') as outfile:
+        threshold = 1.75
         for i, j, k in zip(sentence, sen_labels, scores):
             for word, label, score in zip(i,j,k):
                 if score < threshold:
-                    outfile.write(f"{word}\t{label}\t{score}\n")
+                    outfile.write(f"{word}\t{label}\n")
                 else:
-                    outfile.write(f"{word}\t{label}\t{score}\t{'SNEHA'}\n")
+                    outfile.write(f"{word}\t{label}\t{'SNEHA'}\n")
             outfile.write("\n")
