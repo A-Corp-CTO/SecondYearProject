@@ -54,3 +54,6 @@ if __name__ == '__main__':
         score = getInstanceScores(sys.argv[1], sys.argv[2])
         print(score)
         print('y')
+
+
+        

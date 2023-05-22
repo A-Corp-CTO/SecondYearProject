@@ -11,7 +11,7 @@ def learning_curve(golds, preds):
 	return scores
 
 
-size = [20, 50, 60]
+size = [10, 20, 30, 40, 50, 60]
 golds = ['Data/ai/changed_test.txt', 'Data/ai/changed_test.txt', 'Data/ai/changed_test.txt']
 preds = ['Predictions/random_ai_20_predictions.txt', 'Predictions/random_ai_50_predictions.txt', 'Predictions/random_ai_60_predictions.txt']
 

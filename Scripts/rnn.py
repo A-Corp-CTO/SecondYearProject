@@ -46,7 +46,7 @@ def read_data(file_name):
         data.append((current_words, current_tags))
     return data
 
-train_data=read_data("../Data/conll2003/train.txt")+read_data('../Data/ai/changed_train.txt')+read_data('../Data/politics/changed_train.txt')+read_data('../Data/science/changed_train.txt')
+train_data=read_data("../Data/conll2003/train.txt")+read_data('../Data/ai/changed_train.txt')
 
 
 # Create vocabularies for both the tokens and the tags
@@ -174,7 +174,7 @@ for epoch in range(EPOCHS):
 
 
 def save_model(model):
-    filename = '../Models/normlabels_ai_polsci.sav'
+    filename = '../Models/normlabels_baseline_ai.sav'
     pickle.dump(model,open(filename, 'wb'))
 
 save = True
