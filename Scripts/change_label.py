@@ -37,7 +37,7 @@ change_labels = {'I-location': 'I-location', 'I-misc': 'I-misc', 'B-university':
 
 def change_label(file_name):
    
-    with open('../Data/literature/changed_test.txt', 'a') as outfile:
+    with open('../Data/ai/changed_test.txt', 'a') as outfile:
         for line in codecs.open(file_name, encoding='utf-8'):
             line = line.strip()
 
@@ -51,4 +51,4 @@ def change_label(file_name):
                 outfile.write(word+"\t"+changed_tag+"\n")
             else:
                 outfile.write("\n")
-change_label('../Data/literature/test.txt')
+change_label('../Data/ai/test.txt')
