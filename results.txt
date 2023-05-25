@@ -70,3 +70,9 @@ RANDOM DATA PREDICTIONS SCORE WITH DIFF AMOUNT OF DIFFERENT DATA AND DIFF DATASE
 +50%, all other datasets besides ai - 0.5931174089068826
 +33%, only conll - 0.4220314735336194
 +60%, all other datasets besides ai - 0.5181786092481467
+\
+ENTROPY SCORES
+\
+AI baseline - test predictions - 0.5146094215861657
+AI baseline dev - test predictions - 0.5523512600675501
+AI baseline dev re-annotated - test predictions - 0.5726337991036119
