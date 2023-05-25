@@ -13,6 +13,8 @@ LSTM_HIDDEN = 50
 BATCH_SIZE = 32
 LEARNING_RATE = 0.01
 EPOCHS = 10
+random.seed(42)
+
 
 def read_data(file_name):
     """
@@ -48,16 +50,6 @@ def read_data(file_name):
     return data
 
 train_data=read_data("../Data/conll2003/train.txt")+read_data("../Data/ai/train.txt")
-#print(train_data)
-print(len(train_data))
-files = [
-    '../Data/conll2003/test.txt','../Data/conll2003/dev.txt',
-    '../Data/music/train.txt','../Data/music/test.txt','../Data/music/dev.txt',
-    '../Data/literature/test.txt','../Data/literature/train.txt','../Data/literature/dev.txt',
-    '../Data/politics/train.txt','../Data/politics/test.txt','../Data/politics/dev.txt',
-    '../Data/science/train.txt','../Data/science/test.txt','../Data/science/dev.txt',
-    '../Data/music/train.txt','../Data/music/test.txt','../Data/music/dev.txt'
-]
 
 def new_random_data(training_data=list,percentage=float):
     num = round(len(training_data)*percentage)
@@ -69,8 +61,6 @@ def new_random_data(training_data=list,percentage=float):
     return training_data
 
 train_data_random = new_random_data(train_data,percentage=0.4)
-print(len(train_data_random))
-#print(train_data_random)
 
 # Create vocabularies for both the tokens and the tags
 id_to_token = [PAD]
@@ -87,7 +77,7 @@ for tokens, tags in train_data_random:
         if tag not in tag_to_id:
             tag_to_id[tag] = len(tag_to_id)
             id_to_tag.append(tag)
-print(tag_to_id)
+
 NWORDS = len(token_to_id)
 NTAGS = len(tag_to_id)
 
