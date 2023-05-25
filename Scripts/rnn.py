@@ -174,7 +174,7 @@ for epoch in range(EPOCHS):
 
 
 def save_model(model):
-    filename = '../Models/normlabels_baseline_ai.sav'
+    filename = '../Models/normlabels_baseline_ai_1.sav'
     pickle.dump(model,open(filename, 'wb'))
 
 save = True
