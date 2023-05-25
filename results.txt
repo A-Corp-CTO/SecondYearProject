@@ -54,19 +54,19 @@ Science - 0.5765866368881445
 \
 ADDING DATA BASED ON DISTANCE
 \
-most dissimilar (politics) - 0.488980311489862
-most dissimilar (pol & sci) - 0.5386327503974564
-most similar (lit) - 0.4705882352941177
-most similar (lit & music) - 0.5159846547314578
+most dissimilar (politics) - 0.49469964664310956
+most dissimilar (pol & sci) - 0.5633626097867002
+most similar (lit) - 0.48227936066712995
+most similar (lit & music) - 0.5008923259964309
 
 \
 RANDOM DATA PREDICTIONS SCORE WITH DIFF AMOUNT OF DIFFERENT DATA AND DIFF DATASETS
 \
-+10%, 0.49336214881136153
-+20%, all other datasets besides ai - 0.505324298160697
-+20%, only conll dev and test datasets (no other classes created) - 0.4193420531113753
-+30%, 0.5129019452163557
-+40%, 0.5106232294617563
++5%,0.5673991472613973
++10%, 0.5562130177514794
++20%, all other datasets besides ai - 0.5409356725146198
++30%, 0.4992012779552716
++40%, 0.49248389405869725
 +50%, all other datasets besides ai - 0.5931174089068826
 +33%, only conll - 0.4220314735336194
 +60%, all other datasets besides ai - 0.5181786092481467

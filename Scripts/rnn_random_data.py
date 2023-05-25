@@ -49,18 +49,18 @@ def read_data(file_name):
         data.append((current_words, current_tags))
     return data
 
-train_data=read_data("../Data/conll2003/train.txt")+read_data("../Data/ai/train.txt")
+train_data=read_data("../Data/conll2003/train.txt")+read_data("../Data/ai/changed_train.txt")
 
 def new_random_data(training_data=list,percentage=float):
     num = round(len(training_data)*percentage)
     to_be_added = read_data('../Data/conll2003/test.txt')+read_data('../Data/conll2003/dev.txt')+read_data('../Data/music/changed_dev.txt')+read_data('../Data/music/changed_test.txt')+read_data('../Data/music/changed_train.txt')+    read_data('../Data/science/changed_dev.txt')+read_data('../Data/science/changed_test.txt')+read_data('../Data/science/changed_train.txt')+read_data('../Data/politics/changed_dev.txt')+read_data('../Data/politics/changed_test.txt')+read_data('../Data/politics/changed_train.txt')+read_data('../Data/literature/changed_dev.txt')+read_data('../Data/literature/changed_test.txt')+read_data('../Data/literature/changed_train.txt')
     to_be_added_notnormed = read_data('../Data/conll2003/test.txt')+read_data('../Data/conll2003/dev.txt')+read_data('../Data/music/dev.txt')+read_data('../Data/music/test.txt')+read_data('../Data/music/train.txt')+    read_data('../Data/science/dev.txt')+read_data('../Data/science/test.txt')+read_data('../Data/science/train.txt')+read_data('../Data/politics/dev.txt')+read_data('../Data/politics/test.txt')+read_data('../Data/politics/train.txt')+read_data('../Data/literature/dev.txt')+read_data('../Data/literature/test.txt')+read_data('../Data/literature/train.txt')
-    random.shuffle(to_be_added_notnormed,)
+    random.shuffle(to_be_added,)
     for i in range(0,num):
-        training_data.append(to_be_added_notnormed[i])
+        training_data.append(to_be_added[i])
     return training_data
 
-train_data_random = new_random_data(train_data,percentage=0.4)
+train_data_random = new_random_data(train_data,percentage=0.1)
 
 # Create vocabularies for both the tokens and the tags
 id_to_token = [PAD]
@@ -81,7 +81,7 @@ for tokens, tags in train_data_random:
 NWORDS = len(token_to_id)
 NTAGS = len(tag_to_id)
 
-max_len=max([len(x[0]) for x in train_data])
+max_len=max([len(x[0]) for x in train_data_random])
 
 # convert text data with labels to indices
 def data2feats(inputData, word2idx, label2idx):
@@ -99,7 +99,7 @@ def data2feats(inputData, word2idx, label2idx):
 
     return feats, labels
 
-train_feats, train_labels = data2feats(train_data, token_to_id, tag_to_id)
+train_feats, train_labels = data2feats(train_data_random, token_to_id, tag_to_id)
 
 
 # convert to batches
@@ -188,7 +188,7 @@ if Run_model==True:
 
 
     def save_model(model):
-        filename = '../Models/random_notnormed_ai_40.sav'
+        filename = '../Models/random_10.sav'
         pickle.dump(model,open(filename, 'wb'))
 
     save_model(model)

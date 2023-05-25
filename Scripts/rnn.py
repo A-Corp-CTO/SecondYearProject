@@ -46,7 +46,7 @@ def read_data(file_name):
         data.append((current_words, current_tags))
     return data
 
-train_data=read_data("../Data/conll2003/train.txt")+read_data('../Data/ai/changed_train.txt')
+train_data=read_data("../Data/conll2003/train.txt")+read_data('../Data/ai/changed_train.txt')+read_data('../Data/literature/changed_train.txt')+read_data('../Data/music/changed_train.txt')
 
 
 # Create vocabularies for both the tokens and the tags
@@ -129,54 +129,55 @@ class TaggerModel(torch.nn.Module):
 model = TaggerModel(NWORDS, NTAGS)
 optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE)
 loss_function = torch.nn.CrossEntropyLoss(ignore_index = 0, reduction = 'sum')
+SAVEMODEL = True
+if  SAVEMODEL:
+	for epoch in range(EPOCHS):
+	    model.train() 
+	    model.zero_grad()
 
-for epoch in range(EPOCHS):
-    model.train() 
-    model.zero_grad()
+	    # Loop over batches
+	    loss = 0
+	    match = 0
+	    total = 0
+	    for batchIdx in range(0, num_batches):
+	        output_scores = model.forward(train_feats_batches[batchIdx])
+	        output_scores = output_scores.view(BATCH_SIZE * max_len, -1)
+	        flat_labels = train_labels_batches[batchIdx].view(BATCH_SIZE * max_len)
+	        batch_loss = loss_function(output_scores, flat_labels)
 
-    # Loop over batches
-    loss = 0
-    match = 0
-    total = 0
-    for batchIdx in range(0, num_batches):
-        output_scores = model.forward(train_feats_batches[batchIdx])
-        output_scores = output_scores.view(BATCH_SIZE * max_len, -1)
-        flat_labels = train_labels_batches[batchIdx].view(BATCH_SIZE * max_len)
-        batch_loss = loss_function(output_scores, flat_labels)
+	        predicted_tags  = torch.argmax(output_scores, 1)
+	        predicted_tags = predicted_tags.view(BATCH_SIZE, max_len)
 
-        predicted_tags  = torch.argmax(output_scores, 1)
-        predicted_tags = predicted_tags.view(BATCH_SIZE, max_len)
+	        # Prepare inputs
+	        input_array = train_feats_batches[batchIdx]
+	        output_array = train_labels_batches[batchIdx]
 
-        # Prepare inputs
-        input_array = train_feats_batches[batchIdx]
-        output_array = train_labels_batches[batchIdx]
+	        # Construct computation
+	        output_scores = model(input_array)
+	        # Calculate loss
+	        output_scores = output_scores.view(BATCH_SIZE * max_len, -1)
+	        flat_labels = output_array.view(BATCH_SIZE * max_len)
+	        batch_loss = loss_function(output_scores, flat_labels)
 
-        # Construct computation
-        output_scores = model(input_array)
-        # Calculate loss
-        output_scores = output_scores.view(BATCH_SIZE * max_len, -1)
-        flat_labels = output_array.view(BATCH_SIZE * max_len)
-        batch_loss = loss_function(output_scores, flat_labels)
-
-        # Run computations
-        batch_loss.backward()
-        optimizer.step()
-        model.zero_grad()
-        loss += batch_loss.item()
-        # Update the number of correct tags and total tags
-        for goldSent, predSent in zip(train_labels_batches[batchIdx], predicted_tags):
-            for goldLabel, predLabel in zip(goldSent, predSent):
-                if goldLabel != 0:
-                    total += 1
-                    if goldLabel == predLabel:
-                        match+= 1
-    #print(epoch, loss, match / total)
+	        # Run computations
+	        batch_loss.backward()
+	        optimizer.step()
+	        model.zero_grad()
+	        loss += batch_loss.item()
+	        # Update the number of correct tags and total tags
+	        for goldSent, predSent in zip(train_labels_batches[batchIdx], predicted_tags):
+	            for goldLabel, predLabel in zip(goldSent, predSent):
+	                if goldLabel != 0:
+	                    total += 1
+	                    if goldLabel == predLabel:
+	                        match+= 1
+	    #print(epoch, loss, match / total)
 
 
-def save_model(model):
-    filename = '../Models/normlabels_baseline_ai_1.sav'
-    pickle.dump(model,open(filename, 'wb'))
+	def save_model(model):
+	    filename = '../Models/ai_litmusic.sav'
+	    pickle.dump(model,open(filename, 'wb'))
 
-save = True
-if save == True:
-    save_model(model)
+	save = True
+	if save == True:
+	    save_model(model)
