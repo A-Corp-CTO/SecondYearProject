@@ -60,7 +60,7 @@ def new_random_data(training_data=list,percentage=float):
         training_data.append(to_be_added[i])
     return training_data
 
-train_data_random = new_random_data(train_data,percentage=0.1)
+train_data_random = new_random_data(train_data,percentage=0.5)
 
 # Create vocabularies for both the tokens and the tags
 id_to_token = [PAD]
@@ -188,7 +188,7 @@ if Run_model==True:
 
 
     def save_model(model):
-        filename = '../Models/random_10.sav'
+        filename = '../Models/random_50.sav'
         pickle.dump(model,open(filename, 'wb'))
 
     save_model(model)

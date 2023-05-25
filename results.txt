@@ -73,6 +73,6 @@ RANDOM DATA PREDICTIONS SCORE WITH DIFF AMOUNT OF DIFFERENT DATA AND DIFF DATASE
 \
 ENTROPY SCORES
 \
-AI baseline - test predictions - 0.5146094215861657
-AI baseline dev - test predictions - 0.5523512600675501
-AI baseline dev re-annotated - test predictions - 0.5726337991036119
+AI baseline - test predictions - 0.39107611548556437
+AI baseline dev - test predictions - 0.4680256911477241
+AI baseline dev re-annotated - test predictions - 0.5404053039779835
