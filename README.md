@@ -38,9 +38,7 @@ zipp                      3.11.0           py39haa95532_0
 
 
 ## Preproducing the results
-To run an experiment there are 3 files needed. Firstly we need to modify the rnn.py or rnn_random_data.py (only use rnn_random_data for experiments with adding random data). In the rnn.py file we need to specify the files used in the training and a name given to to model that will be saved. Once that is done we need to modify the predictions.py
-
-For that file we need to specify a model that is used to make the predictions and a name given to the file created with the predictions. To run that file we need to use the command line and input this : python predictions.py "Path to file with golden labels".
+To run an experiment there are 3 files needed. Firstly we need to modify the rnn.py or rnn_random_data.py (only use rnn_random_data for experiments with adding random data). In the rnn.py file we need to specify the files used in the training and a name given to to model that will be saved. Once that is done we need to modify the predictions.py . For that file we need to specify a model that is used to make the predictions and a name given to the file created with the predictions. To run that file we need to use the command line and input this : python predictions.py "Path to file with golden labels".
 
 Lastly when we want to test the results we need to run the span_f1.py file. There is nothing to modify before running it. Simply input into the command line :
 python span_f1.py "Path to golden labels" "Path to predictions"
